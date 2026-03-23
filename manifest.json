@@ -308,6 +308,15 @@
       "title": "Hobbies Art"
     },
     {
+      "id": "jigsaw_3dd13255",
+      "type": "jigsaw",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/household/household_cozy_kitchen.png",
+      "fileName": "household/household_cozy_kitchen.png",
+      "theme": "Household",
+      "difficulty": "Moderate",
+      "title": "Household Cozy Kitchen"
+    },
+    {
       "id": "jigsaw_ec1c0b9f",
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/household/household_fireplace.png",
@@ -317,6 +326,15 @@
       "title": "Household Fireplace"
     },
     {
+      "id": "jigsaw_842f31f7",
+      "type": "jigsaw",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/household/household_reading_nook.png",
+      "fileName": "household/household_reading_nook.png",
+      "theme": "Household",
+      "difficulty": "Moderate",
+      "title": "Household Reading Nook"
+    },
+    {
       "id": "jigsaw_6f8b218f",
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/instruments/hobbies_music.png",
@@ -324,6 +342,24 @@
       "theme": "Instruments",
       "difficulty": "Moderate",
       "title": "Hobbies Music"
+    },
+    {
+      "id": "jigsaw_9ed8538f",
+      "type": "jigsaw",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/instruments/instruments_acoustic_guitar.png",
+      "fileName": "instruments/instruments_acoustic_guitar.png",
+      "theme": "Instruments",
+      "difficulty": "Moderate",
+      "title": "Instruments Acoustic Guitar"
+    },
+    {
+      "id": "jigsaw_f0941a1a",
+      "type": "jigsaw",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/instruments/instruments_cello.png",
+      "fileName": "instruments/instruments_cello.png",
+      "theme": "Instruments",
+      "difficulty": "Moderate",
+      "title": "Instruments Cello"
     },
     {
       "id": "jigsaw_aa7dd59a",
