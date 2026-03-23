@@ -1,0 +1,10 @@
+[
+  {
+    "id": "shapes-procedural",
+    "name": "Magic Mandala",
+    "theme": "Shapes",
+    "difficulty": "Detailed",
+    "isProcedural": true,
+    "paths": []
+  }
+]
