@@ -146,6 +146,33 @@
       "title": "Playful"
     },
     {
+      "id": "jigsaw_birds_hummingbird",
+      "type": "jigsaw",
+      "remoteUrl": "https://raw.githubusercontent.com/USER/ZenoVibes-Assets/main/jigsaw/birds_hummingbird.png",
+      "fileName": "birds_hummingbird.png",
+      "theme": "birds",
+      "difficulty": "Easy",
+      "title": "Hummingbird"
+    },
+    {
+      "id": "jigsaw_birds_kingfisher",
+      "type": "jigsaw",
+      "remoteUrl": "https://raw.githubusercontent.com/USER/ZenoVibes-Assets/main/jigsaw/birds_kingfisher.png",
+      "fileName": "birds_kingfisher.png",
+      "theme": "birds",
+      "difficulty": "Easy",
+      "title": "Kingfisher"
+    },
+    {
+      "id": "jigsaw_birds_robin",
+      "type": "jigsaw",
+      "remoteUrl": "https://raw.githubusercontent.com/USER/ZenoVibes-Assets/main/jigsaw/birds_robin.png",
+      "fileName": "birds_robin.png",
+      "theme": "birds",
+      "difficulty": "Easy",
+      "title": "Robin"
+    },
+    {
       "id": "jigsaw_boating_rowboat",
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/USER/ZenoVibes-Assets/main/jigsaw/boating_rowboat.png",
@@ -189,6 +216,24 @@
       "theme": "cats",
       "difficulty": "Easy",
       "title": "Siamese"
+    },
+    {
+      "id": "jigsaw_family_grandparents",
+      "type": "jigsaw",
+      "remoteUrl": "https://raw.githubusercontent.com/USER/ZenoVibes-Assets/main/jigsaw/family_grandparents.png",
+      "fileName": "family_grandparents.png",
+      "theme": "family",
+      "difficulty": "Easy",
+      "title": "Grandparents"
+    },
+    {
+      "id": "jigsaw_family_tree",
+      "type": "jigsaw",
+      "remoteUrl": "https://raw.githubusercontent.com/USER/ZenoVibes-Assets/main/jigsaw/family_tree.png",
+      "fileName": "family_tree.png",
+      "theme": "family",
+      "difficulty": "Easy",
+      "title": "Tree"
     },
     {
       "id": "jigsaw_flowers_rose",
@@ -405,6 +450,33 @@
       "theme": "seasons",
       "difficulty": "Easy",
       "title": "Winter"
+    },
+    {
+      "id": "jigsaw_shapes_mandala",
+      "type": "jigsaw",
+      "remoteUrl": "https://raw.githubusercontent.com/USER/ZenoVibes-Assets/main/jigsaw/shapes_mandala.png",
+      "fileName": "shapes_mandala.png",
+      "theme": "shapes",
+      "difficulty": "Easy",
+      "title": "Mandala"
+    },
+    {
+      "id": "jigsaw_shapes_mosaic",
+      "type": "jigsaw",
+      "remoteUrl": "https://raw.githubusercontent.com/USER/ZenoVibes-Assets/main/jigsaw/shapes_mosaic.png",
+      "fileName": "shapes_mosaic.png",
+      "theme": "shapes",
+      "difficulty": "Easy",
+      "title": "Mosaic"
+    },
+    {
+      "id": "jigsaw_shapes_spiral",
+      "type": "jigsaw",
+      "remoteUrl": "https://raw.githubusercontent.com/USER/ZenoVibes-Assets/main/jigsaw/shapes_spiral.png",
+      "fileName": "shapes_spiral.png",
+      "theme": "shapes",
+      "difficulty": "Easy",
+      "title": "Spiral"
     },
     {
       "id": "jigsaw_transport_hot_air_balloon",
