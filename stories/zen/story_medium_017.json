@@ -1,0 +1,85 @@
+{
+    "id": "zen_medium_017",
+    "title": "The Balanced Stone",
+    "difficulty": "medium",
+    "template": "The sun dipped low behind the [adjective_1] mountains, casting long shadows over the rock garden. An old master sat silently, watching a single pebble rest upon a [noun_1]. To the untrained eye, it was merely a stone, but to the master, it held the weight of the world.\n\n\"Pick it up,\" the master whispered to the [adjective_2] student standing nearby. The student reached down, expecting a light burden, but their hand [verb_past_1] in surprise. The pebble felt as heavy as a mountain peak, grounding their spirit to the earth.\n\nSuddenly, the pebble began to glow with a [color_1] light that filled the entire courtyard. As the student breathed out, the weight vanished, replaced by a feeling of [emotion_1]. The lesson was clear: weight is only a matter of perspective and breath.\n\nThe pebble was returned to its original spot among the [plural_noun_1]. Peace returned to the garden as the stars began to twinkle overhead. The student walked away, feeling lighter than a falling leaf in autumn.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "describing a landscape feature",
+            "suggestions": [
+                "misty",
+                "emerald",
+                "jagged",
+                "ancient",
+                "shimmering"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "a flat surface or object",
+            "suggestions": [
+                "lotus leaf",
+                "silk pillow",
+                "wooden bench",
+                "mossy altar",
+                "silver plate"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "a personality trait or state of being",
+            "suggestions": [
+                "curious",
+                "impatient",
+                "serene",
+                "clumsy",
+                "thoughtful"
+            ]
+        },
+        {
+            "key": "verb_past_1",
+            "hint": "an action word ending in -ed",
+            "suggestions": [
+                "trembled",
+                "faltered",
+                "tightened",
+                "danced",
+                "recoiled"
+            ]
+        },
+        {
+            "key": "color_1",
+            "hint": "a vibrant or soft color",
+            "suggestions": [
+                "indigo",
+                "golden",
+                "lavender",
+                "crimson",
+                "pearly"
+            ]
+        },
+        {
+            "key": "emotion_1",
+            "hint": "a feeling or inner state",
+            "suggestions": [
+                "liberation",
+                "tranquility",
+                "wonder",
+                "gratitude",
+                "clarity"
+            ]
+        },
+        {
+            "key": "plural_noun_1",
+            "hint": "multiple objects found in nature",
+            "suggestions": [
+                "cherry blossoms",
+                "river reeds",
+                "bamboo shoots",
+                "pine needles",
+                "polished crystals"
+            ]
+        }
+    ]
+}

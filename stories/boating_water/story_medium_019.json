@@ -1,0 +1,85 @@
+{
+    "id": "boating_water_medium_019",
+    "title": "The Misty Harbor Passage",
+    "difficulty": "medium",
+    "template": "The harbor was usually busy, but today a [texture_adjective] fog covered everything. Boats sat quietly at their docks, waiting for the mist to clear. A lone bell rang out, its [sound_noun] echoing across the water.\n\nCaptain Barnaby stepped onto his boat and began to [gentle_action] through the gray haze. He couldn't see the lighthouse, but he could feel the gentle sway of the waves. The air smelled like salt and [natural_scent], a scent that always made him smile.\n\nSuddenly, a [vibrant_color] glow appeared just ahead of the bow. It wasn't a buoy or a signal light, but something much more mysterious. A group of [water_creatures] was dancing on the surface of the water. They seemed to be guiding the boat toward a hidden cove.\n\nAs the fog began to lift, the boat glided into a [magical_adjective] sanctuary. The water here was as smooth as glass and perfectly clear. It was the most peaceful spot in the entire harbor.",
+    "blanks": [
+        {
+            "key": "texture_adjective",
+            "hint": "adjective describing texture",
+            "suggestions": [
+                "velvety",
+                "milky",
+                "gossamer",
+                "dense",
+                "shimmering"
+            ]
+        },
+        {
+            "key": "sound_noun",
+            "hint": "a type of sound",
+            "suggestions": [
+                "resonance",
+                "echo",
+                "hum",
+                "tolling",
+                "reverberation"
+            ]
+        },
+        {
+            "key": "gentle_action",
+            "hint": "verb (base form)",
+            "suggestions": [
+                "drift",
+                "coast",
+                "cruise",
+                "wander",
+                "inch"
+            ]
+        },
+        {
+            "key": "natural_scent",
+            "hint": "a scent from nature",
+            "suggestions": [
+                "cedarwood",
+                "ocean spray",
+                "wild jasmine",
+                "damp earth",
+                "rosemary"
+            ]
+        },
+        {
+            "key": "vibrant_color",
+            "hint": "a bright or unusual color",
+            "suggestions": [
+                "iridescent teal",
+                "fiery amber",
+                "soft violet",
+                "electric blue",
+                "sun-kissed orange"
+            ]
+        },
+        {
+            "key": "water_creatures",
+            "hint": "plural water animals",
+            "suggestions": [
+                "seahorses",
+                "glowing squid",
+                "playful seals",
+                "mystic swans",
+                "silver minnows"
+            ]
+        },
+        {
+            "key": "magical_adjective",
+            "hint": "adjective for a place",
+            "suggestions": [
+                "hidden",
+                "tranquil",
+                "breathtaking",
+                "ancient",
+                "sunlit"
+            ]
+        }
+    ]
+}

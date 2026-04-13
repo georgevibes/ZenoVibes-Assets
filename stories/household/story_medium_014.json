@@ -1,0 +1,85 @@
+{
+    "id": "household_medium_014",
+    "title": "The Rhythmic Corner",
+    "difficulty": "medium",
+    "template": "In the quietest corner of the [material] parlor, an old chair waits for a visitor. It has sat there since the house was built, watching the sunlight dance across the floor. The wood glows with a history of countless afternoon naps.\n\nWhen the wind blows through the open window, the chair begins to move [adverb]. Its runners create a rhythmic [sound] against the polished floorboards. It is a steady heartbeat for a house that never sleeps.\n\nA [personality_adjective] cat often jumps onto the cushion to enjoy the motion. It spends hours [action_verb_ing] as the world outside continues its frantic pace. Here, time seems to slow down to match the swing of the timber.\n\nThe rocking brings a sense of [abstract_noun] to everyone who enters the room. It is a [comfort_adjective] reminder that peace can be found in the simplest movements. The chair remains a silent guardian of the home's tranquil spirit.",
+    "blanks": [
+        {
+            "key": "material",
+            "hint": "a type of material or wood",
+            "suggestions": [
+                "velvet",
+                "driftwood",
+                "mahogany",
+                "obsidian",
+                "wicker"
+            ]
+        },
+        {
+            "key": "adverb",
+            "hint": "an adverb ending in -ly",
+            "suggestions": [
+                "hypnotically",
+                "melodically",
+                "gracefully",
+                "unexpectedly",
+                "patiently"
+            ]
+        },
+        {
+            "key": "sound",
+            "hint": "a soft sound or noun",
+            "suggestions": [
+                "hum",
+                "whisper",
+                "thrum",
+                "clatter",
+                "symphony"
+            ]
+        },
+        {
+            "key": "personality_adjective",
+            "hint": "an adjective describing personality",
+            "suggestions": [
+                "shimmering",
+                "ethereal",
+                "grumpy",
+                "majestic",
+                "mischievous"
+            ]
+        },
+        {
+            "key": "action_verb_ing",
+            "hint": "a verb ending in -ing",
+            "suggestions": [
+                "daydreaming",
+                "levitating",
+                "snoring",
+                "sparkling",
+                "meditating"
+            ]
+        },
+        {
+            "key": "abstract_noun",
+            "hint": "a noun representing a feeling",
+            "suggestions": [
+                "nostalgia",
+                "serenity",
+                "magic",
+                "comfort",
+                "radiance"
+            ]
+        },
+        {
+            "key": "comfort_adjective",
+            "hint": "a positive adjective",
+            "suggestions": [
+                "starlit",
+                "timeless",
+                "enchanted",
+                "cozy",
+                "golden"
+            ]
+        }
+    ]
+}

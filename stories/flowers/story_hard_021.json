@@ -1,0 +1,118 @@
+{
+    "id": "flowers_hard_021",
+    "title": "The Grand Floral Procession",
+    "difficulty": "hard",
+    "template": "The sun rose over the valley, casting a [adjective_luminous] glow upon the petals. Every resident of the meadow was busy preparing for the grand floral procession. A gentle breeze carried the scent of [rare_flower_type] through the air, signaling the start of the festivities.\n\nThe center float was a masterpiece, constructed entirely from [plural_botanical_component] and shimmering dew drops. Artisans worked with [adverb_meticulous] precision to weave the vines together. They hoped to impress the Grand Florist, who was known for her discerning eye.\n\nSuddenly, a chorus of [melodious_creatures] began to sing from the treetops. The parade moved forward, the wheels of the floats rolling [adverb_rhythmic] over the mossy path. Spectators cheered as showers of pollen sparkled like gold dust in the light.\n\nAs the parade reached the stone bridge, a [mythical_botanical_occurrence] transformed the surroundings. Every bud along the riverbank began to [verb_whimsical_action] in perfect unison. It was a sight that captured the very essence of nature’s hidden magic.\n\nBy sunset, the meadow was filled with a sense of [abstract_emotion_peaceful]. The floral floats settled into their resting places, becoming part of the landscape once more. Everyone drifted into a [adjective_dreamy] sleep, dreaming of next year’s vibrant display.",
+    "blanks": [
+        {
+            "key": "adjective_luminous",
+            "hint": "a word describing light or glow",
+            "suggestions": [
+                "Opalescent",
+                "Iridescent",
+                "Phosphorescent",
+                "Ethereal",
+                "Radiating"
+            ]
+        },
+        {
+            "key": "rare_flower_type",
+            "hint": "a rare or exotic flower",
+            "suggestions": [
+                "Moon-orchids",
+                "Star-lilies",
+                "Velvet-tulips",
+                "Crystal-roses",
+                "Ghost-ferns"
+            ]
+        },
+        {
+            "key": "plural_botanical_component",
+            "hint": "parts of a plant",
+            "suggestions": [
+                "Silver-thorns",
+                "Willow-whisps",
+                "Fern-fronds",
+                "Petal-shards",
+                "Seed-husks"
+            ]
+        },
+        {
+            "key": "adverb_meticulous",
+            "hint": "adverb for being very careful",
+            "suggestions": [
+                "Scrupulously",
+                "Fastidiously",
+                "Unwaveringly",
+                "Painstakingly",
+                "Diligently"
+            ]
+        },
+        {
+            "key": "melodious_creatures",
+            "hint": "plural animals that make sound",
+            "suggestions": [
+                "Humming-cicadas",
+                "Azure-warblers",
+                "Crystal-crickets",
+                "Emerald-toads",
+                "Gossamer-moths"
+            ]
+        },
+        {
+            "key": "adverb_rhythmic",
+            "hint": "adverb describing a steady beat",
+            "suggestions": [
+                "Synchronously",
+                "Harmoniously",
+                "Cadencedly",
+                "Methodically",
+                "Pulsatingly"
+            ]
+        },
+        {
+            "key": "mythical_botanical_occurrence",
+            "hint": "a magical nature event",
+            "suggestions": [
+                "Petal-storm",
+                "Pollen-eclipse",
+                "Bloom-evanescence",
+                "Nectar-tide",
+                "Spore-aurora"
+            ]
+        },
+        {
+            "key": "verb_whimsical_action",
+            "hint": "verb describing a graceful or odd movement",
+            "suggestions": [
+                "Pirouette",
+                "Oscillate",
+                "Resonate",
+                "Effervesce",
+                "Fluoresce"
+            ]
+        },
+        {
+            "key": "abstract_emotion_peaceful",
+            "hint": "a noun representing a calm feeling",
+            "suggestions": [
+                "Tranquility",
+                "Serenity",
+                "Equilibrium",
+                "Quiescence",
+                "Stillness"
+            ]
+        },
+        {
+            "key": "adjective_dreamy",
+            "hint": "adjective related to sleep or dreams",
+            "suggestions": [
+                "Somnambulant",
+                "Halcyon",
+                "Reverie-filled",
+                "Hypnagogic",
+                "Lullaby-esque"
+            ]
+        }
+    ]
+}

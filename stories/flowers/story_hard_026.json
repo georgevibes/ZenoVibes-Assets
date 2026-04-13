@@ -1,0 +1,118 @@
+{
+    "id": "flowers_hard_026",
+    "title": "The Sanctuary of Stones",
+    "difficulty": "hard",
+    "template": "Beneath the silver moon, the [atmospheric_adjective] garden waits in silence. A single [vibrant_flower] blooms amidst the gravel, casting a soft glow. This sanctuary offers a brief escape from the chaotic world outside.\n\nPrecise hands [meditative_verb] the obsidian stones into swirling patterns. Every pebble is placed [methodical_adverb] to guide the flow of unseen energy. The sand ripples like frozen waves under the ancient willow tree.\n\nSuddenly, a [mystical_artifact] begins to hum with a low, resonating frequency. The petals of the surrounding lilies turn a [radiant_color] hue as if responding to the sound. Time seems to slow down, holding its breath for a miracle.\n\nYou find yourself [rhythmic_action] along the mossy path, feeling the earth's pulse. Tiny [ethereal_beings] flit between the cherry blossoms, leaving trails of stardust. The air is thick with a [sensory_adjective] aroma that clears the mind.\n\nPeace finally settles over the landscape like a warm, velvet blanket. The garden remains a [sacred_symbol] of inner harmony and balance. You leave with a heart as light as a floating petal.",
+    "blanks": [
+        {
+            "key": "atmospheric_adjective",
+            "hint": "an adjective describing a mood",
+            "suggestions": [
+                "ethereal",
+                "whispered",
+                "transcendent",
+                "crystalline",
+                "timeless"
+            ]
+        },
+        {
+            "key": "vibrant_flower",
+            "hint": "a type of exotic flower",
+            "suggestions": [
+                "chrysanthemum",
+                "lotus",
+                "peony",
+                "camellia",
+                "wisteria"
+            ]
+        },
+        {
+            "key": "meditative_verb",
+            "hint": "a verb meaning to organize or create",
+            "suggestions": [
+                "arrange",
+                "sculpt",
+                "harmonize",
+                "balance",
+                "compose"
+            ]
+        },
+        {
+            "key": "methodical_adverb",
+            "hint": "an adverb describing a careful action",
+            "suggestions": [
+                "deliberately",
+                "rhythmically",
+                "intuitively",
+                "geometrically",
+                "gracefully"
+            ]
+        },
+        {
+            "key": "mystical_artifact",
+            "hint": "a spiritual or magical object",
+            "suggestions": [
+                "quartz crystal",
+                "brass bell",
+                "bamboo flute",
+                "singing bowl",
+                "jade amulet"
+            ]
+        },
+        {
+            "key": "radiant_color",
+            "hint": "a specific, glowing color",
+            "suggestions": [
+                "luminescent violet",
+                "iridescent gold",
+                "shimmering teal",
+                "pearlescent white",
+                "neon indigo"
+            ]
+        },
+        {
+            "key": "rhythmic_action",
+            "hint": "a verb ending in -ing (movement)",
+            "suggestions": [
+                "gliding",
+                "drifting",
+                "floating",
+                "wandering",
+                "swaying"
+            ]
+        },
+        {
+            "key": "ethereal_beings",
+            "hint": "a plural noun for tiny creatures",
+            "suggestions": [
+                "dragonflies",
+                "forest sprites",
+                "fireflies",
+                "shadow-cats",
+                "spirit-butterflies"
+            ]
+        },
+        {
+            "key": "sensory_adjective",
+            "hint": "an adjective describing a smell",
+            "suggestions": [
+                "incense-laden",
+                "honeyed",
+                "hypnotic",
+                "refreshing",
+                "ethereal"
+            ]
+        },
+        {
+            "key": "sacred_symbol",
+            "hint": "a noun representing a concept",
+            "suggestions": [
+                "monument",
+                "testament",
+                "blueprint",
+                "lighthouse",
+                "anchor"
+            ]
+        }
+    ]
+}

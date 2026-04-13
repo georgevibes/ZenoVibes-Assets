@@ -1,0 +1,63 @@
+{
+    "id": "household_easy_007",
+    "title": "The Magic Steps",
+    "difficulty": "easy",
+    "template": "The winding staircase in the hallway always felt special and full of history. Every time I stepped on the third step, it made a [sound] noise that echoed through the house. I wondered if there was a tiny, secret world hidden right beneath the creaky wood.\n\nOne sunny afternoon, I noticed a [color] button tucked away behind the mahogany railing. When I gave it a gentle press, the bottom step slid open like a secret drawer. Inside, a very busy [creature] was carefully organizing a collection of lost buttons and copper coins. It looked up and gave me a friendly wink before continuing its important work.\n\nFrom that day on, I decided to leave a small [object] on the step every night as a gift. In return, the staircase would always [action] whenever I walked up to bed in the dark. Our quiet household felt much more magical with a tiny friend living under the stairs.",
+    "blanks": [
+        {
+            "key": "sound",
+            "hint": "a silly noise",
+            "suggestions": [
+                "kazoo",
+                "musical",
+                "giggly",
+                "whistling",
+                "popping"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "emerald",
+                "sparkly gold",
+                "neon pink",
+                "deep violet",
+                "shimmering blue"
+            ]
+        },
+        {
+            "key": "creature",
+            "hint": "a small creature",
+            "suggestions": [
+                "mouse in a tuxedo",
+                "glowing sprite",
+                "dust bunny",
+                "tiny dragon",
+                "robotic hamster"
+            ]
+        },
+        {
+            "key": "object",
+            "hint": "a tiny item",
+            "suggestions": [
+                "blueberry",
+                "shiny marble",
+                "thimble",
+                "maple leaf",
+                "sugar cube"
+            ]
+        },
+        {
+            "key": "action",
+            "hint": "a magical action",
+            "suggestions": [
+                "glow softly",
+                "play a lullaby",
+                "smell like cookies",
+                "sparkle with dust",
+                "feel extra bouncy"
+            ]
+        }
+    ]
+}

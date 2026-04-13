@@ -1,0 +1,118 @@
+{
+    "id": "instruments_hard_025",
+    "title": "The Resonance of Ages",
+    "difficulty": "hard",
+    "template": "Deep within the [atmospheric_adjective] corridors of the forgotten citadel, a faint vibration hummed through the air. The stone walls seemed to [rhythmic_verb] in time with a melody that had no obvious source. It was here that the legendary instrument lay undisturbed for centuries.\n\nCarved from a single piece of [exotic_material], the lute featured intricate engravings of celestial patterns. Its strings, though aged, held a [shimmering_adjective] sheen that defied the passage of time. It rested upon a pedestal of heavy marble, awaiting a master's touch.\n\nAs the traveler reached out, their fingers brushed against the ancient wood. With a single [evocative_adjective] pluck, a note resonated that shook the very foundations of the chamber. The sound was not just heard, but felt as a warm wave of [pure_emotion].\n\nSuddenly, the air began to [energetic_verb] with golden particles of light. Ancient spirits of song emerged from the shadows, dancing to the music. Every corner of the room transformed into a [complex_adjective] garden of melodies.\n\nThe music eventually faded, leaving a fine dusting of [mystical_residue] upon the floor. A lingering sense of profound [final_noun] settled over the weary traveler. Quietly, they stepped away, leaving the instrument to its peaceful slumber.",
+    "blanks": [
+        {
+            "key": "atmospheric_adjective",
+            "hint": "describing a space (e.g. sepulchral)",
+            "suggestions": [
+                "labyrinthine",
+                "sepulchral",
+                "incandescent",
+                "arcane",
+                "ossified"
+            ]
+        },
+        {
+            "key": "rhythmic_verb",
+            "hint": "movement in time (e.g. oscillate)",
+            "suggestions": [
+                "reverberate",
+                "oscillate",
+                "undulate",
+                "thrum",
+                "pulsate"
+            ]
+        },
+        {
+            "key": "exotic_material",
+            "hint": "a rare substance (e.g. obsidian)",
+            "suggestions": [
+                "petrified cedar",
+                "moon-touched obsidian",
+                "starlight-infused maple",
+                "ancient mahogany",
+                "dragon-bone composite"
+            ]
+        },
+        {
+            "key": "shimmering_adjective",
+            "hint": "describing light quality (e.g. opalescent)",
+            "suggestions": [
+                "opalescent",
+                "phosphorescent",
+                "mercurial",
+                "iridescent",
+                "scintillating"
+            ]
+        },
+        {
+            "key": "evocative_adjective",
+            "hint": "describing a sound (e.g. sonorous)",
+            "suggestions": [
+                "mellifluous",
+                "atavistic",
+                "sonorous",
+                "transcendental",
+                "reverent"
+            ]
+        },
+        {
+            "key": "pure_emotion",
+            "hint": "a deep feeling (e.g. catharsis)",
+            "suggestions": [
+                "catharsis",
+                "euphoria",
+                "exaltation",
+                "tranquility",
+                "reverence"
+            ]
+        },
+        {
+            "key": "energetic_verb",
+            "hint": "active movement (e.g. effervesce)",
+            "suggestions": [
+                "effervesce",
+                "scintillate",
+                "fluctuate",
+                "radiate",
+                "manifest"
+            ]
+        },
+        {
+            "key": "complex_adjective",
+            "hint": "intricate quality (e.g. polyphonic)",
+            "suggestions": [
+                "polyphonic",
+                "kaleidoscopic",
+                "hypnotic",
+                "multidimensional",
+                "ethereal"
+            ]
+        },
+        {
+            "key": "mystical_residue",
+            "hint": "substance left behind (e.g. astral dust)",
+            "suggestions": [
+                "astral dust",
+                "silver pollen",
+                "glittering frost",
+                "ethereal ash",
+                "crystalline salt"
+            ]
+        },
+        {
+            "key": "final_noun",
+            "hint": "a state of being (e.g. serenity)",
+            "suggestions": [
+                "equilibrium",
+                "transcendence",
+                "serenity",
+                "solitude",
+                "enchantment"
+            ]
+        }
+    ]
+}

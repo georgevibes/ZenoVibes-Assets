@@ -1,0 +1,118 @@
+{
+    "id": "flowers_hard_023",
+    "title": "The Awakening Pond",
+    "difficulty": "hard",
+    "template": "As the first light of dawn [verb_past_tense_1] across the obsidian surface of the pond, the mist began to swirl in [adjective_1] patterns. A single lotus bud, cradled by its emerald leaf, waited for the world to change. It felt a deep connection to the silent depths below.\n\nThe morning [noun_1] was subtle at first, just a shift in the temperature of the air. Then, the outermost petal uncurled with [adjective_2] grace, revealing the secrets it had guarded all night. The pond watched in reverent silence.\n\nBelow the surface, the water [verb_past_tense_2] softly as the roots anchored the bloom in the silt. A choir of [plural_noun_1] began to sing from the edge of the reeds. Nature’s orchestra was tuning up for the main event.\n\nThe lotus stretched its stem [adverb_1] toward the warm rays that filtered through the canopy. With a final, silent push, it [verb_past_tense_3] its vibrant center to the gaze of the sun. The transition from bud to blossom was finally absolute.\n\nA sweet aroma of [noun_2] filled the humid air, drifting over the lily pads. The flower sat perfectly still on the [adjective_4] surface of the water. It was a masterpiece of the morning, renewed once again.",
+    "blanks": [
+        {
+            "key": "verb_past_tense_1",
+            "hint": "verb ending in -ed",
+            "suggestions": [
+                "glided",
+                "exploded",
+                "trickled",
+                "illuminated",
+                "streaked"
+            ]
+        },
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "enigmatic",
+                "spiraling",
+                "fluorescent",
+                "transient",
+                "ornate"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "a sensory noun",
+            "suggestions": [
+                "pulsation",
+                "invitation",
+                "radiance",
+                "warmth",
+                "clarion"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "elegant adjective",
+            "suggestions": [
+                "sculptural",
+                "fragile",
+                "majestic",
+                "languid",
+                "imperial"
+            ]
+        },
+        {
+            "key": "verb_past_tense_2",
+            "hint": "sound or movement verb",
+            "suggestions": [
+                "churned",
+                "echoed",
+                "shivered",
+                "convolved",
+                "whispered"
+            ]
+        },
+        {
+            "key": "plural_noun_1",
+            "hint": "small pond creatures",
+            "suggestions": [
+                "dragonflies",
+                "nymphs",
+                "minnows",
+                "fireflies",
+                "salamanders"
+            ]
+        },
+        {
+            "key": "adverb_1",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "elegantly",
+                "stubbornly",
+                "transcendently",
+                "patiently",
+                "divinely"
+            ]
+        },
+        {
+            "key": "verb_past_tense_3",
+            "hint": "revealing verb",
+            "suggestions": [
+                "exposed",
+                "flourished",
+                "ignited",
+                "unlocked",
+                "presented"
+            ]
+        },
+        {
+            "key": "noun_2",
+            "hint": "a pleasant scent or essence",
+            "suggestions": [
+                "nectar",
+                "jasmine",
+                "tranquility",
+                "honey",
+                "frankincense"
+            ]
+        },
+        {
+            "key": "adjective_4",
+            "hint": "texture or quality of water",
+            "suggestions": [
+                "mirror-like",
+                "glassy",
+                "immaculate",
+                "velvet",
+                "starlit"
+            ]
+        }
+    ]
+}

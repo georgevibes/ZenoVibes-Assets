@@ -1,0 +1,63 @@
+{
+    "id": "hobbies_easy_003",
+    "title": "The Dancing Clay",
+    "difficulty": "easy",
+    "template": "The wheel spins slowly in the sunlit studio. A lump of [texture_adjective] clay sits in the center, waiting for a gentle touch. The artist kicks the pedal, creating a soft hum that fills the room. It feels like a moment of pure peace.\n\nAs the clay rotates, wet hands reach out to [action_verb] the walls. A sudden [visual_noun] appears as the form begins to rise toward the ceiling. The air smells of damp earth and quiet focus.\n\nWith a steady hand, a [style_adjective] pattern is etched into the spinning rim. The wheel slows down to a stop, revealing a beautiful, handcrafted [final_object]. It is finally time to let the new creation rest in the afternoon light.",
+    "blanks": [
+        {
+            "key": "texture_adjective",
+            "hint": "an adjective describing a texture",
+            "suggestions": [
+                "sparkly",
+                "squishy",
+                "glowing",
+                "velvety",
+                "neon"
+            ]
+        },
+        {
+            "key": "action_verb",
+            "hint": "a gentle action verb",
+            "suggestions": [
+                "tickle",
+                "hug",
+                "stretch",
+                "sculpt",
+                "caress"
+            ]
+        },
+        {
+            "key": "visual_noun",
+            "hint": "something you can see forming",
+            "suggestions": [
+                "spiral",
+                "rainbow",
+                "glimmer",
+                "ripple",
+                "crown"
+            ]
+        },
+        {
+            "key": "style_adjective",
+            "hint": "an adjective describing a design style",
+            "suggestions": [
+                "swirly",
+                "ancient",
+                "geometric",
+                "starry",
+                "dainty"
+            ]
+        },
+        {
+            "key": "final_object",
+            "hint": "a type of pottery item",
+            "suggestions": [
+                "teacup",
+                "goblet",
+                "cauldron",
+                "planter",
+                "statue"
+            ]
+        }
+    ]
+}

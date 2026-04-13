@@ -1,0 +1,118 @@
+{
+    "id": "zen_hard_029",
+    "title": "The Illumination of Stillness",
+    "difficulty": "hard",
+    "template": "Deep within the [scenery_adj] gardens, a single paper lantern hangs from a branch of the ancient willow. Its paper skin is thin and [texture_adj], fluttering softly in the mountain breeze. A monk sits beneath it, watching the shadows dance across the mossy floor.\n\nInside the frame, a flicker of [energy_noun] begins to pulse with a rhythm like a heartbeat. This light does not burn; instead, it [action_verb] the surroundings with a sense of eternal calm. The glow seems to whisper secrets of the universe to those who stop to listen.\n\nAs the sun dips below the horizon, the lantern’s glow expands until it touches the [landscape_noun]. Every leaf and stone becomes a reflection of this [glow_adj] luminescence. The path forward is no longer a trail, but a sequence of glowing moments.\n\nSuddenly, a [weather_noun] gusts through the courtyard, threatening to extinguish the flame within. However, the light remains [steady_adj], anchored by an invisible force of stillness. The monk smiles, realizing that external forces cannot touch the core of the lantern.\n\nTo carry this light, one must first [spiritual_verb] the need to control the flame. When the mind is as clear as the paper walls, the lantern and the seeker become one. The garden fades, leaving only the [ending_adj] warmth of the inner spark.",
+    "blanks": [
+        {
+            "key": "scenery_adj",
+            "hint": "descriptive adjective for a place",
+            "suggestions": [
+                "emerald",
+                "mysterious",
+                "forgotten",
+                "ethereal",
+                "hidden"
+            ]
+        },
+        {
+            "key": "texture_adj",
+            "hint": "adjective describing physical touch or appearance",
+            "suggestions": [
+                "gossamer",
+                "fragile",
+                "translucent",
+                "parchment-thin",
+                "velvety"
+            ]
+        },
+        {
+            "key": "energy_noun",
+            "hint": "a noun representing a type of light or power",
+            "suggestions": [
+                "stardust",
+                "aurora",
+                "vitality",
+                "pure consciousness",
+                "phosphorescence"
+            ]
+        },
+        {
+            "key": "action_verb",
+            "hint": "verb ending in -s (present tense)",
+            "suggestions": [
+                "washes",
+                "cradles",
+                "permeates",
+                "sanctifies",
+                "drenches"
+            ]
+        },
+        {
+            "key": "landscape_noun",
+            "hint": "a feature of a garden or outdoor space",
+            "suggestions": [
+                "koi pond",
+                "stone bridge",
+                "bamboo grove",
+                "meditation mat",
+                "shrine entrance"
+            ]
+        },
+        {
+            "key": "glow_adj",
+            "hint": "adjective for light or brightness",
+            "suggestions": [
+                "iridescent",
+                "amber",
+                "transcendent",
+                "otherworldly",
+                "liquid"
+            ]
+        },
+        {
+            "key": "weather_noun",
+            "hint": "a noun for a movement of air",
+            "suggestions": [
+                "zephyr",
+                "tempest",
+                "gust",
+                "whirlwind",
+                "sigh"
+            ]
+        },
+        {
+            "key": "steady_adj",
+            "hint": "adjective for something that doesn't move",
+            "suggestions": [
+                "unshakeable",
+                "luminous",
+                "defiant",
+                "unfazed",
+                "immovable"
+            ]
+        },
+        {
+            "key": "spiritual_verb",
+            "hint": "a verb for an internal action",
+            "suggestions": [
+                "release",
+                "surrender",
+                "unlearn",
+                "relinquish",
+                "transcend"
+            ]
+        },
+        {
+            "key": "ending_adj",
+            "hint": "a profound or conclusive adjective",
+            "suggestions": [
+                "infinite",
+                "harmonious",
+                "golden",
+                "primordial",
+                "serene"
+            ]
+        }
+    ]
+}

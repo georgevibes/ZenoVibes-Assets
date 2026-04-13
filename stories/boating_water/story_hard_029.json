@@ -1,0 +1,118 @@
+{
+    "id": "boating_water_hard_029",
+    "title": "The Floating Sanctuary",
+    "difficulty": "hard",
+    "template": "The [adjective_deck] deck of the vessel shimmered under the midday sun, reflecting golden rays across the teak planks. We reclined on the benches, feeling the warmth seep into our very bones. The air smelled of salt and [noun_scent], an aroma that only the open sea can provide. The horizon stretched infinitely, meeting the sky at a razor-thin line.\n\nAs the hull sliced through the [adjective_waves] waves, a spray of cool mist kissed our faces. Far off in the distance, a group of [plural_creatures] leaped from the depths, their forms glinting like silver. The captain steered the wheel with a steady hand, guiding us toward the horizon.\n\nSuddenly, the water turned a deep shade of [color_water], indicating a hidden reef below the surface. We peered over the railing and saw bioluminescent flora dancing among the swaying kelp forests. It felt as though we had stumbled into a [noun_magical_realm] hidden from the rest of the world.\n\nSomeone brought out a tray of [adjective_refreshments] refreshments, the ice clinking musically against the glass. We shared stories of [plural_memories], laughing until our sides ached under the vast blue sky. Time seemed to suspend itself in the salt-crusted air. Every moment on this floating sanctuary felt perfectly earned and deeply cherished.\n\nAs the sun began its slow descent, the sky [adverb_sunset] transformed into a canvas of pink and orange. The anchor dropped with a heavy splash, securing our place in this liquid paradise. We watched the first stars emerge, grateful for the [adjective_tranquility] peace that only the ocean offers.",
+    "blanks": [
+        {
+            "key": "adjective_deck",
+            "hint": "an adjective describing a surface",
+            "suggestions": [
+                "luminous",
+                "weathered",
+                "pristine",
+                "obsidian",
+                "radiant"
+            ]
+        },
+        {
+            "key": "noun_scent",
+            "hint": "a distinct smell or essence",
+            "suggestions": [
+                "jasmine",
+                "cedarwood",
+                "toasted coconut",
+                "ozone",
+                "wild hibiscus"
+            ]
+        },
+        {
+            "key": "adjective_waves",
+            "hint": "an adjective describing movement or water",
+            "suggestions": [
+                "cerulean",
+                "undulating",
+                "crystalline",
+                "boisterous",
+                "glass-like"
+            ]
+        },
+        {
+            "key": "plural_creatures",
+            "hint": "plural sea animals or beings",
+            "suggestions": [
+                "flying fish",
+                "iridescent dolphins",
+                "giant sea turtles",
+                "mythical krakens",
+                "shimmering rays"
+            ]
+        },
+        {
+            "key": "color_water",
+            "hint": "a rich or unusual color",
+            "suggestions": [
+                "emerald",
+                "sapphire",
+                "turquoise",
+                "indigo",
+                "amethyst"
+            ]
+        },
+        {
+            "key": "noun_magical_realm",
+            "hint": "a mystical place or setting",
+            "suggestions": [
+                "sunken kingdom",
+                "liquid cathedral",
+                "forgotten utopia",
+                "mermaid grotto",
+                "starlight portal"
+            ]
+        },
+        {
+            "key": "adjective_refreshments",
+            "hint": "an adjective describing drinks or snacks",
+            "suggestions": [
+                "frost-bitten",
+                "effervescent",
+                "exotic",
+                "zesty",
+                "ambrosial"
+            ]
+        },
+        {
+            "key": "plural_memories",
+            "hint": "plural noun representing experiences",
+            "suggestions": [
+                "legendary voyages",
+                "childhood summers",
+                "ancient shipwrecks",
+                "distant islands",
+                "celestial dreams"
+            ]
+        },
+        {
+            "key": "adverb_sunset",
+            "hint": "an adverb describing a gradual change",
+            "suggestions": [
+                "gracefully",
+                "dramatically",
+                "silently",
+                "majestically",
+                "ethereally"
+            ]
+        },
+        {
+            "key": "adjective_tranquility",
+            "hint": "an adjective for peacefulness",
+            "suggestions": [
+                "profound",
+                "otherworldly",
+                "everlasting",
+                "sublime",
+                "hypnotic"
+            ]
+        }
+    ]
+}

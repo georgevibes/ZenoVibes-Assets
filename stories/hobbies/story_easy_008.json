@@ -1,0 +1,63 @@
+{
+    "id": "hobbies_easy_008",
+    "title": "The Iron Miniature",
+    "difficulty": "easy",
+    "template": "The tiny engine hissed as it began its journey across the [adjective_1] landscape. It chugged past a miniature forest made of soft sponges. The little conductor waved a plastic flag at the onlookers.\n\nSoon, the train approached a [noun_1] that spanned the blue paper river. The sound of the wheels on the tracks echoed through the quiet room. Suddenly, a [adjective_2] cat peeked over the mountain range. The passengers, carved from wood, didn't seem to mind the giant feline.\n\nThe train finally arrived at the station near the [noun_2] garden. It came to a slow, [adverb_1] stop right at the edge of the table. The hobbyist smiled, ready to reset the track for another trip.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive word",
+            "suggestions": [
+                "mossy",
+                "sparkling",
+                "velvet",
+                "miniature",
+                "painted"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "a structure",
+            "suggestions": [
+                "bridge",
+                "tunnel",
+                "trestle",
+                "canyon",
+                "archway"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "personality trait",
+            "suggestions": [
+                "curious",
+                "sleepy",
+                "fluffy",
+                "gigantic",
+                "mischievous"
+            ]
+        },
+        {
+            "key": "noun_2",
+            "hint": "a small object",
+            "suggestions": [
+                "button",
+                "thimble",
+                "daisy",
+                "candy",
+                "pebble"
+            ]
+        },
+        {
+            "key": "adverb_1",
+            "hint": "manner of movement",
+            "suggestions": [
+                "smoothly",
+                "gently",
+                "gracefully",
+                "perfectly",
+                "carefully"
+            ]
+        }
+    ]
+}

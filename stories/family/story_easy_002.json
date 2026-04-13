@@ -1,0 +1,63 @@
+{
+    "id": "family_easy_002",
+    "title": "The Golden Memory Book",
+    "difficulty": "easy",
+    "template": "We gathered around the living room to open the ancient family album. The cover felt as [adjective_texture] as a smooth stone from the river. As we turned the first page, the smell of old paper and memories filled the air.\n\nThere was a photo of Grandpa wearing a very [adjective_funny] hat while gardening. Next to him, our pet [animal] was trying to help pull up a giant carrot. We all laughed together, feeling the warmth of the past.\n\nMom pointed to a picture of our house during a rare [weather_event]. Even though it was a wild day, everyone in the photo looked [emotion]. We closed the book and shared a happy moment together.",
+    "blanks": [
+        {
+            "key": "adjective_texture",
+            "hint": "a texture description",
+            "suggestions": [
+                "velvety",
+                "fuzzy",
+                "bumpy",
+                "silky",
+                "crinkly"
+            ]
+        },
+        {
+            "key": "adjective_funny",
+            "hint": "a silly adjective",
+            "suggestions": [
+                "oversized",
+                "sparkly",
+                "polka-dotted",
+                "floppy",
+                "neon"
+            ]
+        },
+        {
+            "key": "animal",
+            "hint": "a type of creature",
+            "suggestions": [
+                "llama",
+                "penguin",
+                "hamster",
+                "raccoon",
+                "dragon"
+            ]
+        },
+        {
+            "key": "weather_event",
+            "hint": "a type of weather",
+            "suggestions": [
+                "snowstorm",
+                "rainbow",
+                "thunderstorm",
+                "heatwave",
+                "meteor shower"
+            ]
+        },
+        {
+            "key": "emotion",
+            "hint": "a feeling",
+            "suggestions": [
+                "joyful",
+                "peaceful",
+                "ecstatic",
+                "cozy",
+                "inspired"
+            ]
+        }
+    ]
+}

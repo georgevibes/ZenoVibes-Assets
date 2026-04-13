@@ -1,0 +1,118 @@
+{
+    "id": "hobbies_hard_030",
+    "title": "The Sculptor's Vision",
+    "difficulty": "hard",
+    "template": "Deep within a sun-drenched studio, the sculptor gripped a [tool_noun] with trembling hands. Every strike against the slab of [mystical_material] echoed like a heartbeat through the quiet room. Outside, the willows swayed, whispering secrets to the flowing river.\n\nHours passed as the artist worked [adverb_of_focus], carving intricate patterns into the surface. Slowly, the rough edges began to resemble a [celestial_object] frozen in time. The surrounding air seemed to thicken with creative energy and the scent of cedar.\n\nA soft, [color_adjective] light began to shimmer around the statue. The sculptor stepped back to [action_verb] the progress while wiping dust from their weary brow. It was more than just art; it was a bridge between the physical and the spiritual.\n\nSuddenly, a [small_animal] scampered across the workbench, adding a touch of chaos to the perfection. The artist chuckled and paused to embrace the [abstract_emotion] of the moment. This unexpected visit reminded them that nature is the ultimate collaborator.\n\nFinally, the last stroke was finished with a flourish of the wrist. The studio filled with an [adjective_of_wonder] aura that transcended ordinary reality. Tomorrow, the world would experience a profound sense of [peaceful_noun] through this creation.",
+    "blanks": [
+        {
+            "key": "tool_noun",
+            "hint": "a specialized sculpting tool",
+            "suggestions": [
+                "chisel",
+                "mallet",
+                "stylus",
+                "rasp",
+                "burin"
+            ]
+        },
+        {
+            "key": "mystical_material",
+            "hint": "a rare or magical substance",
+            "suggestions": [
+                "moonstone",
+                "obsidian",
+                "iridescent quartz",
+                "stardust clay",
+                "amber glass"
+            ]
+        },
+        {
+            "key": "adverb_of_focus",
+            "hint": "adverb describing careful work",
+            "suggestions": [
+                "meticulously",
+                "reverently",
+                "rhythmically",
+                "intuitively",
+                "unwaveringly"
+            ]
+        },
+        {
+            "key": "celestial_object",
+            "hint": "something found in the night sky",
+            "suggestions": [
+                "supernova",
+                "crescent moon",
+                "nebula",
+                "shooting star",
+                "constellation"
+            ]
+        },
+        {
+            "key": "color_adjective",
+            "hint": "a vibrant or sophisticated color",
+            "suggestions": [
+                "cerulean",
+                "amaranthine",
+                "chartreuse",
+                "goldenrod",
+                "viridian"
+            ]
+        },
+        {
+            "key": "action_verb",
+            "hint": "verb for looking closely",
+            "suggestions": [
+                "scrutinize",
+                "contemplate",
+                "appraise",
+                "behold",
+                "inspect"
+            ]
+        },
+        {
+            "key": "small_animal",
+            "hint": "a tiny woodland creature",
+            "suggestions": [
+                "chipmunk",
+                "dragonfly",
+                "salamander",
+                "hummingbird",
+                "dormouse"
+            ]
+        },
+        {
+            "key": "abstract_emotion",
+            "hint": "a deep feeling or state of being",
+            "suggestions": [
+                "joy",
+                "exhilaration",
+                "nostalgia",
+                "euphoria",
+                "solitude"
+            ]
+        },
+        {
+            "key": "adjective_of_wonder",
+            "hint": "adjective starting with a vowel (a, e, i, o, u)",
+            "suggestions": [
+                "ethereal",
+                "iridescent",
+                "otherworldly",
+                "atmospheric",
+                "uncanny"
+            ]
+        },
+        {
+            "key": "peaceful_noun",
+            "hint": "a noun representing calm",
+            "suggestions": [
+                "tranquility",
+                "stillness",
+                "quiescence",
+                "equilibrium",
+                "harmony"
+            ]
+        }
+    ]
+}

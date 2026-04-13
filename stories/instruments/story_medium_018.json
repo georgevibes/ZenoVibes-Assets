@@ -1,0 +1,85 @@
+{
+    "id": "instruments_medium_018",
+    "title": "The Island Melody",
+    "difficulty": "medium",
+    "template": "The sun dipped low over the horizon, painting the waves in shades of gold. A small, wooden ukulele rested against a [adjective_1] palm tree. The salty breeze gently tugged at its nylon strings, creating a faint hum.\n\nA traveler picked up the instrument and began to [verb_1] a cheerful melody. Nearby, a [animal_1] paused its scuttling to listen to the bright chords. Each note seemed to sparkle like the foam on the incoming tide.\n\nAs the rhythm picked up, the surrounding shells began to [verb_2] in time with the beat. The air felt [adjective_2], carrying the scent of tropical flowers and sea salt. It was as if the island itself was exhaling a long, musical breath.\n\nThe final strum echoed across the [noun_1], lingering in the twilight air. Everyone present felt a sense of [emotion_1] wash over them like a warm wave. The ukulele had turned a simple sunset into a magical memory. It remained a tiny instrument with a very big heart.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "leaning",
+                "crooked",
+                "majestic",
+                "shimmering",
+                "weathered"
+            ]
+        },
+        {
+            "key": "verb_1",
+            "hint": "action verb (present tense)",
+            "suggestions": [
+                "pluck",
+                "strum",
+                "tickle",
+                "weave",
+                "dance"
+            ]
+        },
+        {
+            "key": "animal_1",
+            "hint": "a beach creature",
+            "suggestions": [
+                "crab",
+                "seagull",
+                "turtle",
+                "dolphin",
+                "lizard"
+            ]
+        },
+        {
+            "key": "verb_2",
+            "hint": "action verb (present tense)",
+            "suggestions": [
+                "glow",
+                "vibrate",
+                "wiggle",
+                "hum",
+                "shimmer"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "atmospheric adjective",
+            "suggestions": [
+                "electric",
+                "velvety",
+                "misty",
+                "crystalline",
+                "honeyed"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "a landscape feature",
+            "suggestions": [
+                "shoreline",
+                "cove",
+                "lagoon",
+                "expanse",
+                "horizon"
+            ]
+        },
+        {
+            "key": "emotion_1",
+            "hint": "a feeling",
+            "suggestions": [
+                "tranquility",
+                "euphoria",
+                "wonder",
+                "serenity",
+                "bliss"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "household_hard_026",
+    "title": "The Culinary Alchemist's Kitchen",
+    "difficulty": "hard",
+    "template": "The air inside the sun-drenched kitchen carried a [celestial_adjective] warmth that tickled the nose. On the aged mahogany counter, a cast-iron pot was [culinary_verb_ing] with a rhythmic intensity. Soft ribbons of steam curled toward the rafters like phantom dancers. In the center of the chaos sat a pile of [exotic_spice], ground into a fine, shimmering dust. Beside it, a hand-painted [ornate_container] held secrets known only to the most seasoned of chefs. The aroma shifted from earthy to sharp as the heat increased. Suddenly, the liquid within the pot began to glow with a [luminescent_color] hue that lit up the backsplash. This was not merely cooking; it was a pure exercise in [abstract_noun]. The heavy air hummed with a quiet energy that felt almost alive. Every bubble that rose to the surface seemed to [magical_sound_verb] like a tiny chime. I reached for my trusted [eccentric_utensil] to stir the bubbling concoction one last time. I watched [ethereal_adverb] as the textures merged into a perfect, velvety silk. To taste this creation was to experience a [sensory_metaphor] of pure joy and memory. The kitchen fell silent, save for the crackle of the stove's dying embers. Peace settled over the household as the masterpiece was finally complete.",
+    "blanks": [
+        {
+            "key": "celestial_adjective",
+            "hint": "an adjective describing the heavens or spirit",
+            "suggestions": [
+                "etheric",
+                "astral",
+                "supernal",
+                "halcyon",
+                "pellucid"
+            ]
+        },
+        {
+            "key": "culinary_verb_ing",
+            "hint": "a complex cooking action ending in -ing",
+            "suggestions": [
+                "macerating",
+                "fricasseeing",
+                "infusing",
+                "reduction-simmering",
+                "caramelizing"
+            ]
+        },
+        {
+            "key": "exotic_spice",
+            "hint": "a rare or specific seasoning",
+            "suggestions": [
+                "star anise",
+                "saffron threads",
+                "galangal",
+                "sumac",
+                "grains of paradise"
+            ]
+        },
+        {
+            "key": "ornate_container",
+            "hint": "a fancy vessel or dish",
+            "suggestions": [
+                "canopic jar",
+                "cloisonné urn",
+                "tessellated tureen",
+                "filigreed vessel",
+                "alabaster cruet"
+            ]
+        },
+        {
+            "key": "luminescent_color",
+            "hint": "a glowing or vivid color",
+            "suggestions": [
+                "iridescent violet",
+                "phosphorescent teal",
+                "opalescent amber",
+                "vermilion",
+                "chartreuse"
+            ]
+        },
+        {
+            "key": "abstract_noun",
+            "hint": "a concept or state of being",
+            "suggestions": [
+                "transcendence",
+                "serendipity",
+                "metamorphosis",
+                "alchemical fusion",
+                "gastronomic bliss"
+            ]
+        },
+        {
+            "key": "magical_sound_verb",
+            "hint": "a verb describing a pleasant sound",
+            "suggestions": [
+                "tinkle",
+                "reverberate",
+                "strum",
+                "oscillate",
+                "chime"
+            ]
+        },
+        {
+            "key": "eccentric_utensil",
+            "hint": "a specific or unusual kitchen tool",
+            "suggestions": [
+                "obsidian ladle",
+                "silver-tongued whisk",
+                "engraved mandoline",
+                "damascus spatula",
+                "porcelain pestle"
+            ]
+        },
+        {
+            "key": "ethereal_adverb",
+            "hint": "an adverb describing a delicate or ghostly manner",
+            "suggestions": [
+                "transcendently",
+                "ghostly",
+                "suspendedly",
+                "harmoniously",
+                "languidly"
+            ]
+        },
+        {
+            "key": "sensory_metaphor",
+            "hint": "a poetic phrase describing a feeling",
+            "suggestions": [
+                "symphony of flavors",
+                "kaleidoscope of warmth",
+                "tapestry of heat",
+                "cascade of sunlight",
+                "nebula of sweetness"
+            ]
+        }
+    ]
+}

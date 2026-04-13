@@ -1,0 +1,85 @@
+{
+    "id": "places_medium_013",
+    "title": "The Crystal Conservatory",
+    "difficulty": "medium",
+    "template": "Hidden behind the hills lies a conservatory made of crystal. Every leaf and petal is crafted from [material]. The sunlight hits the glass, creating a spectrum of colors. Visitors must walk softly to avoid breaking the delicate atmosphere.\n\nIn the center stands a towering [plant_type] that glows at dusk. Its branches are adorned with [color] glass bells. When the wind blows, they make a sound like a quiet chime.\n\nTo nurture these fragile creations, the gardeners use [liquid]. This substance keeps the glass clear and shimmering. A small [animal] made of sapphire flits between the frozen blossoms.\n\nThe air inside smells faintly like [scent]. It is a place where time seems to stand perfectly still. Leaving the garden feels like waking from a [type_of_dream]. One always carries a piece of that light home in their heart.",
+    "blanks": [
+        {
+            "key": "material",
+            "hint": "a rare or beautiful substance",
+            "suggestions": [
+                "obsidian",
+                "shimmering frost",
+                "spun sugar",
+                "recycled starlight",
+                "polished emerald"
+            ]
+        },
+        {
+            "key": "plant_type",
+            "hint": "a type of plant or tree",
+            "suggestions": [
+                "willow tree",
+                "sunflower",
+                "cactus",
+                "fern",
+                "bonsai"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "periwinkle",
+                "crimson",
+                "iridescent",
+                "golden",
+                "lavender"
+            ]
+        },
+        {
+            "key": "liquid",
+            "hint": "a magical or pure liquid",
+            "suggestions": [
+                "moonlight nectar",
+                "melted glaciers",
+                "liquid silk",
+                "morning dew",
+                "pearlescent ink"
+            ]
+        },
+        {
+            "key": "animal",
+            "hint": "a small creature",
+            "suggestions": [
+                "dragonfly",
+                "hummingbird",
+                "fox",
+                "chameleon",
+                "snail"
+            ]
+        },
+        {
+            "key": "scent",
+            "hint": "a comforting smell",
+            "suggestions": [
+                "fresh rain",
+                "baked cookies",
+                "old books",
+                "pine needles",
+                "jasmine tea"
+            ]
+        },
+        {
+            "key": "type_of_dream",
+            "hint": "adjective describing a dream",
+            "suggestions": [
+                "lucid",
+                "velvet",
+                "whimsical",
+                "forgotten",
+                "golden"
+            ]
+        }
+    ]
+}

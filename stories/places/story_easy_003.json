@@ -1,0 +1,63 @@
+{
+    "id": "places_easy_003",
+    "title": "The Grand Plaza",
+    "difficulty": "easy",
+    "template": "The sun rises over the [vibrant_adjective] city square, casting long shadows across the cobblestones. Street performers begin to tune their instruments as the smell of fresh bread wafts through the air. People from all over the world gather here to enjoy the morning energy. It is truly the heart of the community.\n\nIn the center of the plaza, a massive fountain sprays [magical_color] water into the air. Children run around the edge, trying to catch the cool mist on their faces. A local artist sits on a wooden bench, sketching a detailed portrait of a [friendly_animal].\n\nAs midday approaches, the square becomes even more [lively_adjective]. A group of excited tourists stops to take a photo in front of the ancient [city_landmark]. Despite the crowd, there is a sense of peace found in the rhythmic movement of the city.",
+    "blanks": [
+        {
+            "key": "vibrant_adjective",
+            "hint": "an adjective describing a place",
+            "suggestions": [
+                "shimmering",
+                "bustling",
+                "golden",
+                "enchanted",
+                "electric"
+            ]
+        },
+        {
+            "key": "magical_color",
+            "hint": "a bright or unusual color",
+            "suggestions": [
+                "turquoise",
+                "neon-pink",
+                "sparkling-silver",
+                "emerald",
+                "sunset-orange"
+            ]
+        },
+        {
+            "key": "friendly_animal",
+            "hint": "a type of animal",
+            "suggestions": [
+                "capybara",
+                "golden retriever",
+                "pigeon",
+                "squirrel",
+                "calico cat"
+            ]
+        },
+        {
+            "key": "lively_adjective",
+            "hint": "an adjective describing energy",
+            "suggestions": [
+                "harmonious",
+                "energetic",
+                "dazzling",
+                "joyful",
+                "whimsical"
+            ]
+        },
+        {
+            "key": "city_landmark",
+            "hint": "a large structure or object",
+            "suggestions": [
+                "clock tower",
+                "bronze statue",
+                "flower market",
+                "neon sign",
+                "marble arch"
+            ]
+        }
+    ]
+}

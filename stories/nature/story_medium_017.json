@@ -1,0 +1,85 @@
+{
+    "id": "nature_medium_017",
+    "title": "The Whispering Sky",
+    "difficulty": "medium",
+    "template": "High above the rolling hills of ZenoVibes, the sky acted as a giant canvas for the wind. Every afternoon, the local travelers would gather on the [adjective_1] grass to watch the horizon. They knew that the clouds here didn't just float; they whispered ancient legends.\n\nSuddenly, a massive puff of vapor began to shift into the shape of a [noun_animal]. The crowd gasped as the creature seemed to [verb_action] across the blue expanse. It was a sight so majestic that even the birds stopped chirping to admire the aerial theater.\n\nOne young explorer pointed toward a smaller cloud that looked like a [noun_object]. \"Look how it glows with a [color] light!\" they shouted with excitement. Everyone felt a sense of calm washing over them as the story in the sky continued to evolve.\n\nAs the sun began to set, the clouds transformed into [plural_noun] that danced in the twilight. The air felt [adjective_feeling], carrying the scent of wild jasmine and damp earth. With a final wink from the stars, the sky closed its book of tales until the following day.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive word",
+            "suggestions": [
+                "Emerald",
+                "Velvety",
+                "Sun-drenched",
+                "Lush",
+                "Fragrant"
+            ]
+        },
+        {
+            "key": "noun_animal",
+            "hint": "a creature",
+            "suggestions": [
+                "Phoenix",
+                "Giant Squid",
+                "Galloping Stallion",
+                "Sleepy Dragon",
+                "Whale"
+            ]
+        },
+        {
+            "key": "verb_action",
+            "hint": "verb ending in -e or -sh",
+            "suggestions": [
+                "Prance",
+                "Shimmer",
+                "Somersault",
+                "Glide",
+                "Leap"
+            ]
+        },
+        {
+            "key": "noun_object",
+            "hint": "an item",
+            "suggestions": [
+                "Crystal Key",
+                "Floating Castle",
+                "Sailing Ship",
+                "Wizard's Hat",
+                "Luminous Harp"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a color",
+            "suggestions": [
+                "Iridescent",
+                "Golden",
+                "Lavender",
+                "Amber",
+                "Electric Blue"
+            ]
+        },
+        {
+            "key": "plural_noun",
+            "hint": "more than one thing",
+            "suggestions": [
+                "Fireflies",
+                "Swirling Galaxies",
+                "Silk Ribbons",
+                "Falling Petals",
+                "Floating Mountains"
+            ]
+        },
+        {
+            "key": "adjective_feeling",
+            "hint": "an atmospheric mood",
+            "suggestions": [
+                "Enchanted",
+                "Serene",
+                "Breezy",
+                "Mystical",
+                "Rejuvenating"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "zen_easy_008",
+    "title": "The Still Reflection",
+    "difficulty": "easy",
+    "template": "The sun shone gently over the [place]. A monk sat perfectly still, watching the ripples on the surface. To find true peace, one must let their thoughts settle like [substance] in a jar.\n\nSuddenly, the water became as clear as a [object]. Every reflection of the sky looked vibrant and [adjective]. The mind was no longer a storm, but a quiet sanctuary.\n\nTaking a deep breath, the monk started to [action] with joy. The world felt lighter, as if gravity had forgotten its job. Peace is not found by searching, but by simply being. It is a gift that waits for those who stop to listen.",
+    "blanks": [
+        {
+            "key": "place",
+            "hint": "a serene location",
+            "suggestions": [
+                "Mountain Garden",
+                "Crystal Grotto",
+                "Floating Temple",
+                "Bamboo Grove",
+                "Misty Valley"
+            ]
+        },
+        {
+            "key": "substance",
+            "hint": "a fine material",
+            "suggestions": [
+                "Star Dust",
+                "Golden Sand",
+                "Sparkling Tea",
+                "Silver Mist",
+                "Magic Pollen"
+            ]
+        },
+        {
+            "key": "object",
+            "hint": "something clear or shiny",
+            "suggestions": [
+                "Diamond Mirror",
+                "Polished Marble",
+                "Glass Bead",
+                "Frozen Lake",
+                "Silver Shield"
+            ]
+        },
+        {
+            "key": "adjective",
+            "hint": "a descriptive word",
+            "suggestions": [
+                "Electric",
+                "Whimsical",
+                "Luminous",
+                "Shimmering",
+                "Velvety"
+            ]
+        },
+        {
+            "key": "action",
+            "hint": "a verb showing emotion",
+            "suggestions": [
+                "Glow",
+                "Float",
+                "Hum",
+                "Chuckle",
+                "Radiate"
+            ]
+        }
+    ]
+}

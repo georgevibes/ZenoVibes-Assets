@@ -1,0 +1,129 @@
+{
+    "id": "instruments_hard_024",
+    "title": "The Ancient Song of the Glade",
+    "difficulty": "hard",
+    "template": "The morning mist [verb_ending_in_ed] over the garden, clinging to the low-hanging branches of the willow. A young traveler sat upon a mossy stone, clutching a [adjective_1] recorder carved from pearwood. They took a deep breath, preparing to play a melody that had been passed down for generations.\n\nAs the first note pierced the silence, it sounded [adverb] clear, like a drop of water hitting a silver bowl. The rhythm was [adjective_speed], echoing softly against the distant hills. Even the wind seemed to hold its breath to listen to the hollow, woody timbre.\n\nSuddenly, a group of [plural_noun] emerged from the tall grass, dancing in circles to the simple tune. Their movements were [adjective_movement], matching the trills and leaps of the music perfectly. The air felt charged with a strange, [adjective_energy] energy that made the flowers bloom instantly.\n\nThe melody shifted into a minor key, casting a [color] glow across the dew-covered petals. The traveler closed their eyes, feeling the [noun_resonance] of the song vibrate through their very fingertips. It was as if the recorder wasn't just an instrument, but a key to a hidden world.\n\nWhen the final note finally [verb_past_tense], the silence that followed was even more profound than before. A sense of [emotion] settled over the garden, lingering long after the traveler had packed their bags. The simple recorder had turned an ordinary morning into a legendary memory.",
+    "blanks": [
+        {
+            "key": "verb_ending_in_ed",
+            "hint": "verb ending in -ed",
+            "suggestions": [
+                "pirouetted",
+                "shimmered",
+                "cascaded",
+                "lingered",
+                "drifted"
+            ]
+        },
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "weathered",
+                "iridescent",
+                "translucent",
+                "ornate",
+                "humble"
+            ]
+        },
+        {
+            "key": "adverb",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "ethereally",
+                "hauntingly",
+                "precariously",
+                "vibrantly",
+                "rhythmically"
+            ]
+        },
+        {
+            "key": "adjective_speed",
+            "hint": "adjective describing speed or pace",
+            "suggestions": [
+                "syncopated",
+                "languid",
+                "frantic",
+                "melodic",
+                "torrential"
+            ]
+        },
+        {
+            "key": "plural_noun",
+            "hint": "plural noun",
+            "suggestions": [
+                "salamanders",
+                "sprites",
+                "foxgloves",
+                "pebbles",
+                "constellations"
+            ]
+        },
+        {
+            "key": "adjective_movement",
+            "hint": "adjective describing motion",
+            "suggestions": [
+                "acrobatic",
+                "lethargic",
+                "whimsical",
+                "geometric",
+                "fluid"
+            ]
+        },
+        {
+            "key": "adjective_energy",
+            "hint": "mystical adjective",
+            "suggestions": [
+                "celestial",
+                "primordial",
+                "pulsating",
+                "magnetic",
+                "kaleidoscopic"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "vivid color",
+            "suggestions": [
+                "vermillion",
+                "chartreuse",
+                "obsidian",
+                "sapphire",
+                "amber"
+            ]
+        },
+        {
+            "key": "noun_resonance",
+            "hint": "abstract noun",
+            "suggestions": [
+                "resonance",
+                "heartbeat",
+                "architecture",
+                "fragrance",
+                "whisper"
+            ]
+        },
+        {
+            "key": "verb_past_tense",
+            "hint": "verb ending in -ed",
+            "suggestions": [
+                "evaporated",
+                "dissolved",
+                "ascended",
+                "shattered",
+                "bloomed"
+            ]
+        },
+        {
+            "key": "emotion",
+            "hint": "complex emotion",
+            "suggestions": [
+                "serenity",
+                "melancholy",
+                "euphoria",
+                "reverence",
+                "nostalgia"
+            ]
+        }
+    ]
+}

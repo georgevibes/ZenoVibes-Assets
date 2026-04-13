@@ -1,0 +1,118 @@
+{
+    "id": "zen_hard_028",
+    "title": "The Raked Path",
+    "difficulty": "hard",
+    "template": "The courtyard reveals a landscape of [ethereal_adjective] silence where time seems to fold onto itself. Every grain of white sand is positioned to mimic the flow of a frozen [fluid_noun]. You step carefully, mindful not to disturb the cosmic geometry laid out before you.\n\nBeneath the shade of a twisted pine, a figure is [tranquil_action] with slow, deliberate grace. In their weathered hands, they balance a [mystical_object] that glows with a soft, inner light. The rake leaves trails that look like ripples on a pond of stardust.\n\nWithout warning, a tiny [arcane_creature] emerges from behind a jagged mossy stone. It proceeds to [rhythmic_verb] across the raked lines, leaving no footprints behind. This small visitor seems to understand the rhythm of the garden better than any human could.\n\nThe surrounding atmosphere begins to carry the heavy scent of [evocative_aroma], grounding your wandering thoughts. Sunlight catches on a cluster of [vibrant_hue] pebbles, creating a kaleidoscope of fractured patterns on the temple walls. Each reflection tells a story of a thousand forgotten autumns.\n\nA profound wave of [enlightened_state] settles deep within your chest as the world falls away. You realize that the sand is not just sand, but a mirror for the mind's own shifting tides. Ultimately, the garden whispers that existence is purely [philosophical_descriptor].",
+    "blanks": [
+        {
+            "key": "ethereal_adjective",
+            "hint": "a word describing something heavenly or light",
+            "suggestions": [
+                "Luminous",
+                "Vibrating",
+                "Incandescent",
+                "Sublime",
+                "Nebulous"
+            ]
+        },
+        {
+            "key": "fluid_noun",
+            "hint": "something that flows or moves like water",
+            "suggestions": [
+                "Galaxy",
+                "Waterfall",
+                "Nebula",
+                "Avalanche",
+                "Current"
+            ]
+        },
+        {
+            "key": "tranquil_action",
+            "hint": "verb ending in -ing describing a peaceful movement",
+            "suggestions": [
+                "Levitating",
+                "Oscillating",
+                "Communing",
+                "Breathing",
+                "Chanting"
+            ]
+        },
+        {
+            "key": "mystical_object",
+            "hint": "a rare or magical item",
+            "suggestions": [
+                "Crystal Scepter",
+                "Jade Flute",
+                "Iron Bell",
+                "Silk Fan",
+                "Lotus Pod"
+            ]
+        },
+        {
+            "key": "arcane_creature",
+            "hint": "a legendary or strange animal",
+            "suggestions": [
+                "Phoenix Chick",
+                "Silver Fox",
+                "Cloud Dragon",
+                "Spirit Frog",
+                "Shadow Cat"
+            ]
+        },
+        {
+            "key": "rhythmic_verb",
+            "hint": "a verb describing graceful movement",
+            "suggestions": [
+                "Prance",
+                "Glide",
+                "Spiral",
+                "Teleport",
+                "Drift"
+            ]
+        },
+        {
+            "key": "evocative_aroma",
+            "hint": "a distinct and powerful smell",
+            "suggestions": [
+                "Sandalwood",
+                "Rain-soaked Earth",
+                "Midnight Jasmine",
+                "Old Parchment",
+                "Burning Cedar"
+            ]
+        },
+        {
+            "key": "vibrant_hue",
+            "hint": "a specific, rich color name",
+            "suggestions": [
+                "Electric Indigo",
+                "Cinnabar",
+                "Celadon",
+                "Amethyst",
+                "Burnt Umber"
+            ]
+        },
+        {
+            "key": "enlightened_state",
+            "hint": "a high-level abstract emotion or mental state",
+            "suggestions": [
+                "Equanimity",
+                "Nirvana",
+                "Lucidity",
+                "Stillness",
+                "Radiance"
+            ]
+        },
+        {
+            "key": "philosophical_descriptor",
+            "hint": "an adjective describing the nature of reality",
+            "suggestions": [
+                "Ephemeral",
+                "Infinite",
+                "Paradoxical",
+                "Harmonious",
+                "Illusionary"
+            ]
+        }
+    ]
+}

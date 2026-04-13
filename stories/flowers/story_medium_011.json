@@ -1,0 +1,85 @@
+{
+    "id": "flowers_medium_011",
+    "title": "The Whispering Petal Valley",
+    "difficulty": "medium",
+    "template": "Deep within the hidden mountains lies a sanctuary where the [botanical_adjective] winds carry secrets. Every morning, the sunlight kisses the dew, making the meadows sparkle like fallen stars. Travelers often lose track of time while wandering through the emerald fields.\n\nThe air is thick with the scent of [exotic_flower], a fragrance that calms even the most restless heart. Hummingbirds with [vibrant_color] wings zip between the tall stalks, performing a silent dance. Visitors are encouraged to sit quietly and listen to the rustle of the leaves.\n\nIn the center of the valley stands a [sculptural_object] made entirely of interwoven vines and blossoms. Legend says that if you place a [natural_offering] at its base, the spirits of the woods will grant you a dream. Many have reported seeing soft, glowing lights during the twilight hours.\n\nAs the sun begins to [motion_verb], the petals fold inward to protect their delicate cores. The valley transforms into a sea of [mood_color] shadows under the rising moon. It is a place where nature's harmony is felt in every breath.",
+    "blanks": [
+        {
+            "key": "botanical_adjective",
+            "hint": "adjective describing plants or nature",
+            "suggestions": [
+                "fragrant",
+                "verdant",
+                "blossoming",
+                "ethereal",
+                "mossy"
+            ]
+        },
+        {
+            "key": "exotic_flower",
+            "hint": "plural name of a rare flower",
+            "suggestions": [
+                "star-lilies",
+                "midnight jasmine",
+                "crystal orchids",
+                "azure lotuses",
+                "velvet peonies"
+            ]
+        },
+        {
+            "key": "vibrant_color",
+            "hint": "a bright or magical color",
+            "suggestions": [
+                "iridescent",
+                "shimmering gold",
+                "electric violet",
+                "neon crimson",
+                "gossamer silver"
+            ]
+        },
+        {
+            "key": "sculptural_object",
+            "hint": "a structure or monument",
+            "suggestions": [
+                "monolith",
+                "archway",
+                "fountain",
+                "shrine",
+                "observatory"
+            ]
+        },
+        {
+            "key": "natural_offering",
+            "hint": "something small found in nature",
+            "suggestions": [
+                "smooth river stone",
+                "hand-woven wreath",
+                "handful of seeds",
+                "fallen feather",
+                "drop of honey"
+            ]
+        },
+        {
+            "key": "motion_verb",
+            "hint": "a verb describing slow movement",
+            "suggestions": [
+                "descend",
+                "submerge",
+                "retreat",
+                "dissolve",
+                "slumber"
+            ]
+        },
+        {
+            "key": "mood_color",
+            "hint": "a color suggesting mood or twilight",
+            "suggestions": [
+                "indigo",
+                "lavender",
+                "periwinkle",
+                "silvered",
+                "twilit"
+            ]
+        }
+    ]
+}

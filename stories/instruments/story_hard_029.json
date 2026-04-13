@@ -1,0 +1,118 @@
+{
+    "id": "instruments_hard_029",
+    "title": "The Universal Resonance",
+    "difficulty": "hard",
+    "template": "Deep within the [ethereal_setting], the echoes of time began to vibrate with purpose. Every spirit carried a hidden [ancient_instrument], waiting for the universal conductor to raise their baton. The air smelled of ozone and forgotten melodies.\n\nYou stepped onto the [celestial_adjective] stage, feeling the floorboards thrum beneath your feet. Your heart started [orchestral_verb] in time with the cosmic pulse of the universe. It was a moment of absolute clarity.\n\nWith a sudden [mystical_sound], the first chord struck, shattering the silence into a thousand pieces of light. The strings were crafted from [unexpected_material], producing a tone that defied the laws of physics. Each note carried the weight of a thousand dreams.\n\nA wave of [abstract_emotion] washed over the audience as the melody climbed toward the stars. The lead soloist performed a complex [musical_technique] that seemed to bend the very fabric of reality. Nobody breathed, fearing they might break the spell.\n\nAs the [cosmic_phenomenon] faded into a gentle whisper, the silence that followed was louder than the music itself. You realized that your spirit was finally [soulful_descriptor] and at peace with the world. The symphony of the soul had only just begun.",
+    "blanks": [
+        {
+            "key": "ethereal_setting",
+            "hint": "a mystical or vast location",
+            "suggestions": [
+                "shimmering nebula",
+                "crystal cavern",
+                "echoing void",
+                "forgotten grove",
+                "astral cathedral"
+            ]
+        },
+        {
+            "key": "ancient_instrument",
+            "hint": "a specific musical instrument",
+            "suggestions": [
+                "silver-stringed harp",
+                "glass flute",
+                "celestial gong",
+                "obsidian cello",
+                "starlight pipe organ"
+            ]
+        },
+        {
+            "key": "celestial_adjective",
+            "hint": "an adjective describing light or space",
+            "suggestions": [
+                "luminescent",
+                "translucent",
+                "iridescent",
+                "geometric",
+                "infinite"
+            ]
+        },
+        {
+            "key": "orchestral_verb",
+            "hint": "verb ending in -ing describing sound/movement",
+            "suggestions": [
+                "reverberating",
+                "syncopating",
+                "modulating",
+                "glissandoing",
+                "pulsating"
+            ]
+        },
+        {
+            "key": "mystical_sound",
+            "hint": "a noun describing a sound type",
+            "suggestions": [
+                "resonant boom",
+                "crystalline trill",
+                "harmonic sigh",
+                "thundering chord",
+                "ethereal hum"
+            ]
+        },
+        {
+            "key": "unexpected_material",
+            "hint": "a substance or element",
+            "suggestions": [
+                "frozen moonlight",
+                "woven gravity",
+                "liquid mercury",
+                "spun silk clouds",
+                "petrified thunder"
+            ]
+        },
+        {
+            "key": "abstract_emotion",
+            "hint": "a complex feeling",
+            "suggestions": [
+                "serenity",
+                "exhilaration",
+                "melancholy",
+                "nostalgia",
+                "revelation"
+            ]
+        },
+        {
+            "key": "musical_technique",
+            "hint": "a musical term or phrase",
+            "suggestions": [
+                "diminuendo",
+                "staccato sequence",
+                "phrygian scale",
+                "dissonant resolution",
+                "polyphonic layer"
+            ]
+        },
+        {
+            "key": "cosmic_phenomenon",
+            "hint": "a space event",
+            "suggestions": [
+                "solar flare",
+                "galactic swirl",
+                "comet tail",
+                "binary star alignment",
+                "void ripples"
+            ]
+        },
+        {
+            "key": "soulful_descriptor",
+            "hint": "adjective describing a state of being",
+            "suggestions": [
+                "unburdened",
+                "synchronized",
+                "attuned",
+                "radiant",
+                "reborn"
+            ]
+        }
+    ]
+}

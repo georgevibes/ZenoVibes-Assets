@@ -1,0 +1,63 @@
+{
+    "id": "nature_easy_006",
+    "title": "The Glistening Gorge",
+    "difficulty": "easy",
+    "template": "The group trekked through the narrow entrance of the Crystal Canyon. Above them, the walls shimmered with a [adjective_glow] glow that lit the path. Every step echoed softly against the [material_floor] floor.\n\nA gentle stream trickled through the center of the ravine. Tiny [animal_creature] sat by the water, watching the visitors with curiosity. The air felt cool and smelled like fresh rain on stone. It was the most peaceful place they had ever found.\n\nAt the heart of the canyon, they discovered a giant [noun_object] pulsing with light. They sat down to [verb_action] for a moment in the silence. As the sun began to set, the crystals turned a deep shade of purple. They left feeling completely recharged by the earth's magic.",
+    "blanks": [
+        {
+            "key": "adjective_glow",
+            "hint": "describing a light",
+            "suggestions": [
+                "radiant",
+                "holographic",
+                "neon",
+                "soft",
+                "mystical"
+            ]
+        },
+        {
+            "key": "material_floor",
+            "hint": "a type of material",
+            "suggestions": [
+                "velvet",
+                "quartz",
+                "glass",
+                "emerald",
+                "marble"
+            ]
+        },
+        {
+            "key": "animal_creature",
+            "hint": "plural animals",
+            "suggestions": [
+                "hummingbirds",
+                "lizards",
+                "frogs",
+                "foxes",
+                "bunnies"
+            ]
+        },
+        {
+            "key": "noun_object",
+            "hint": "a physical object",
+            "suggestions": [
+                "geode",
+                "flower",
+                "waterfall",
+                "monolith",
+                "orb"
+            ]
+        },
+        {
+            "key": "verb_action",
+            "hint": "a relaxing action",
+            "suggestions": [
+                "meditate",
+                "daydream",
+                "whisper",
+                "hum",
+                "snack"
+            ]
+        }
+    ]
+}

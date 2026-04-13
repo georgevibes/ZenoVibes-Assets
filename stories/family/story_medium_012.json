@@ -1,0 +1,85 @@
+{
+    "id": "family_medium_012",
+    "title": "The Unplanned Celebration",
+    "difficulty": "medium",
+    "template": "The family gathered in the living room, whispering in [hushed_adjective] excitement. Grandma was busy hiding behind the large velvet curtains with a mischievous grin. Everyone held their breath as they heard the [unexpected_sound] of the front door finally opening.\n\nSuddenly, the lights flickered and everyone jumped out from their clever hiding spots. 'Surprise!' they shouted, throwing handfuls of [colorful_items] into the air like magic dust. The guest of honor stood there, looking completely [feeling] by the sight. It was the most magical moment of the entire year.\n\nUncle Leo started playing a [whimsical_instrument] to get the rhythmic party started. The smell of freshly baked [celebration_snack] filled every corner of the house. Relatives were dancing around the table, laughing at stories that grew better with every telling.\n\nAs the golden sun began to set, the family gathered for a huge group photo. They all promised to keep this [vivid_adjective] memory forever in their hearts. It was a celebration of togetherness that no one would ever forget. The night ended with a soft chorus of happy, soulful cheers.",
+    "blanks": [
+        {
+            "key": "hushed_adjective",
+            "hint": "an adjective describing a quiet feeling",
+            "suggestions": [
+                "electric",
+                "mysterious",
+                "giddy",
+                "trembling",
+                "sparkling"
+            ]
+        },
+        {
+            "key": "unexpected_sound",
+            "hint": "a specific noise",
+            "suggestions": [
+                "creak",
+                "thud",
+                "whistle",
+                "clatter",
+                "jingle"
+            ]
+        },
+        {
+            "key": "colorful_items",
+            "hint": "plural noun (things you can throw)",
+            "suggestions": [
+                "glitter",
+                "rose petals",
+                "paper stars",
+                "feathers",
+                "glow sticks"
+            ]
+        },
+        {
+            "key": "feeling",
+            "hint": "an emotion or state of mind",
+            "suggestions": [
+                "flabbergasted",
+                "radiant",
+                "bewildered",
+                "overjoyed",
+                "speechless"
+            ]
+        },
+        {
+            "key": "whimsical_instrument",
+            "hint": "a musical instrument",
+            "suggestions": [
+                "ukulele",
+                "harmonica",
+                "kazoo",
+                "accordion",
+                "tambourine"
+            ]
+        },
+        {
+            "key": "celebration_snack",
+            "hint": "a type of baked food",
+            "suggestions": [
+                "cinnamon rolls",
+                "lemon tarts",
+                "blueberry scones",
+                "chocolate brownies",
+                "honey biscuits"
+            ]
+        },
+        {
+            "key": "vivid_adjective",
+            "hint": "a descriptive adjective",
+            "suggestions": [
+                "shimmering",
+                "heartwarming",
+                "kaleidoscopic",
+                "unforgettable",
+                "luminous"
+            ]
+        }
+    ]
+}

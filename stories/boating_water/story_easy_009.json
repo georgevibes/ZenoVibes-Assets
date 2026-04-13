@@ -1,0 +1,63 @@
+{
+    "id": "boating_water_easy_009",
+    "title": "The Secret Lagoon Map",
+    "difficulty": "easy",
+    "template": "Captain Barnaby found a weathered map tucked inside a glass bottle. The parchment felt very [texture_adjective] against his hands as the boat rocked gently. It pointed toward a secret lagoon where the water sparkled like liquid silver.\n\nHe steered the vessel through the [wave_color] waves, following the golden ink trail. Soon, a massive rock shaped like a [animal_shape] appeared on the horizon. The crew cheered softly, feeling the warm tropical breeze against their skin.\n\nUnderneath a palm tree, they began to [fun_action] in the glowing moonlight. Instead of gold, they discovered a chest filled with [magical_items]. It was the most magical treasure the pirates had ever seen.",
+    "blanks": [
+        {
+            "key": "texture_adjective",
+            "hint": "a texture",
+            "suggestions": [
+                "silky",
+                "bubbly",
+                "velvety",
+                "crinkly",
+                "smooth"
+            ]
+        },
+        {
+            "key": "wave_color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "neon purple",
+                "emerald green",
+                "sunset orange",
+                "sapphire blue",
+                "glittery silver"
+            ]
+        },
+        {
+            "key": "animal_shape",
+            "hint": "a sea creature",
+            "suggestions": [
+                "giant turtle",
+                "dancing dolphin",
+                "sleepy whale",
+                "flying seahorse",
+                "happy crab"
+            ]
+        },
+        {
+            "key": "fun_action",
+            "hint": "a happy action",
+            "suggestions": [
+                "dance",
+                "giggle",
+                "twirl",
+                "whistle",
+                "hum"
+            ]
+        },
+        {
+            "key": "magical_items",
+            "hint": "plural magical things",
+            "suggestions": [
+                "glowing pearls",
+                "starlit seashells",
+                "musical bubbles",
+                "rainbow feathers",
+                "floating crystals"
+            ]
+        }
+    ]
+}

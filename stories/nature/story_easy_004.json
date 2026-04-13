@@ -1,0 +1,63 @@
+{
+    "id": "nature_easy_004",
+    "title": "The Gravity-Defying Stream",
+    "difficulty": "easy",
+    "template": "Deep in the valley, a hidden stream flowed with a strange [magical_adjective] light. Birds chirped upside down as the water began to drift toward the sky. It was a sight that made my [body_part] tingle with pure excitement.\n\nInstead of crashing down, the droplets danced [movement_adverb] toward the fluffy clouds. Tiny fish seemed to enjoy the ride, spinning in circles as they rose higher. I reached out to touch the liquid, which felt exactly like [weird_substance] against my skin. Nature had clearly decided to break its own rules today.\n\nAs the sun began to set, the entire forest turned a vibrant shade of [bright_color]. I sat on a mossy rock and watched the beautiful gravity-defying show. This magical moment would stay in my memory forever.",
+    "blanks": [
+        {
+            "key": "magical_adjective",
+            "hint": "an adjective describing a magical quality",
+            "suggestions": [
+                "shimmering",
+                "neon",
+                "ghostly",
+                "sparkling",
+                "ancient"
+            ]
+        },
+        {
+            "key": "body_part",
+            "hint": "a part of the body",
+            "suggestions": [
+                "nose",
+                "toes",
+                "elbows",
+                "ears",
+                "heart"
+            ]
+        },
+        {
+            "key": "movement_adverb",
+            "hint": "an adverb describing how something moves",
+            "suggestions": [
+                "gracefully",
+                "clumsily",
+                "musically",
+                "silently",
+                "wildly"
+            ]
+        },
+        {
+            "key": "weird_substance",
+            "hint": "a strange material or substance",
+            "suggestions": [
+                "velvet",
+                "jello",
+                "silk",
+                "bubbles",
+                "stardust"
+            ]
+        },
+        {
+            "key": "bright_color",
+            "hint": "a bright color",
+            "suggestions": [
+                "violet",
+                "turquoise",
+                "golden",
+                "magenta",
+                "emerald"
+            ]
+        }
+    ]
+}

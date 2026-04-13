@@ -1,0 +1,118 @@
+{
+    "id": "places_hard_022",
+    "title": "The Harbor of Light",
+    "difficulty": "hard",
+    "template": "High above the [adjective_ethereal] horizon, the celestial docks hummed with a low, vibrant melody. The tides here were not made of water, but of [noun_shimmering_substance] that flowed against the piers. Every traveler felt a sense of peace as they stepped onto the glowing planks.\n\nThe silver ships arrived in silence, their hulls crafted from [unique_material]. They did not use sails; instead, they were propelled by [plural_energy_source] that spun in perfect synchronicity. Watching them dock was like observing a ballet of light and metal.\n\nBeyond the main harbor, the [landscape_feature] stretched toward the violet sky. Rare birds with feathers of [precious_resource] nested in the crystalline trees that lined the walkways. It was a place where time seemed to slow down into a gentle rhythm.\n\nThe harbor master, a being composed of [elemental_composition], greeted every new arrival with a warm smile. They handed out small, [adjective_sensory] charms to ensure everyone could navigate the shifting paths. No one ever felt like a stranger in this sanctuary.\n\nAs the sun set, the port transformed into a [noun_visionary_event] of colors. The silver ships began their journey toward the [mystical_destination], leaving trails of stardust in their wake. It was a departure that felt more like a promise of return.",
+    "blanks": [
+        {
+            "key": "adjective_ethereal",
+            "hint": "transcendent or airy adjective",
+            "suggestions": [
+                "iridescent",
+                "gossamer",
+                "transcendent",
+                "nebulous",
+                "starlit"
+            ]
+        },
+        {
+            "key": "noun_shimmering_substance",
+            "hint": "something that glows or flows",
+            "suggestions": [
+                "liquid mercury",
+                "crushed velvet",
+                "moonbeams",
+                "molten opal",
+                "stardust"
+            ]
+        },
+        {
+            "key": "unique_material",
+            "hint": "a strange or magical substance",
+            "suggestions": [
+                "solidified echoes",
+                "dragon glass",
+                "woven gravity",
+                "frozen lightning",
+                "polished meteorites"
+            ]
+        },
+        {
+            "key": "plural_energy_source",
+            "hint": "plural scientific or magical forces",
+            "suggestions": [
+                "humming vortexes",
+                "captured suns",
+                "thermal currents",
+                "magnetic pulses",
+                "luminous gears"
+            ]
+        },
+        {
+            "key": "landscape_feature",
+            "hint": "geographical or terrain feature",
+            "suggestions": [
+                "obsidian cliffs",
+                "floating islands",
+                "coral labyrinth",
+                "velvet dunes",
+                "crystalline valleys"
+            ]
+        },
+        {
+            "key": "precious_resource",
+            "hint": "valuable or rare material",
+            "suggestions": [
+                "sapphire dust",
+                "liquid gold",
+                "spun silk",
+                "emerald mist",
+                "crushed pearls"
+            ]
+        },
+        {
+            "key": "elemental_composition",
+            "hint": "what something is made of",
+            "suggestions": [
+                "swirling mist",
+                "glowing embers",
+                "liquid shadow",
+                "compressed starlight",
+                "living clay"
+            ]
+        },
+        {
+            "key": "adjective_sensory",
+            "hint": "describing a smell, touch, or sound",
+            "suggestions": [
+                "jasmine-scented",
+                "hum-inducing",
+                "velvet-soft",
+                "tingle-worthy",
+                "citrus-bright"
+            ]
+        },
+        {
+            "key": "noun_visionary_event",
+            "hint": "a grand visual occurrence",
+            "suggestions": [
+                "kaleidoscope",
+                "luminous gala",
+                "spectral display",
+                "shimmering aurora",
+                "harmonic convergence"
+            ]
+        },
+        {
+            "key": "mystical_destination",
+            "hint": "a place beyond imagination",
+            "suggestions": [
+                "the Great Void",
+                "the Infinite Sea",
+                "the Core of Dreams",
+                "the Edge of Twilight",
+                "the Weaver's Loom"
+            ]
+        }
+    ]
+}

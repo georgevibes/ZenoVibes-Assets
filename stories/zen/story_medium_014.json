@@ -1,0 +1,85 @@
+{
+    "id": "zen_medium_014",
+    "title": "The Arch of Awareness",
+    "difficulty": "medium",
+    "template": "In the quiet expanse of the mind, a shimmering bridge spans the gap between two distant ideas. This structure is crafted entirely from [material_01], glowing with a soft, inner light. To cross it, one must walk with [emotion_01] and leave all heavy worries behind.\n\nBeneath the arch, a river of liquid [liquid_01] flows toward the horizon of consciousness. Tiny sparks of intuition leap from the current, landing softly on the traveler's shoulders. As the traveler reaches the center, they pause to [action_01] at the swirling clouds above.\n\nA guardian manifest as a [creature_01] appears, offering a silent greeting of peace. It presents a gift: a single, perfectly balanced [object_01] that hums a low, resonant frequency. The traveler accepts it, feeling the connection between their beginning and their destination grow stronger. The air smells like fresh rain and ancient memories.\n\nStepping off the final plank, the traveler enters the realm of a brand new insight. The landscape here is [adjective_01], vibrating with the potential of a thousand dreams. Looking back, the bridge vanishes into a mist of pure serenity. One thought has ended, and a new journey has just begun.",
+    "blanks": [
+        {
+            "key": "material_01",
+            "hint": "a magical material",
+            "suggestions": [
+                "spun starlight",
+                "recycled whispers",
+                "woven moonlight",
+                "hardened tea leaves",
+                "shimmering silk"
+            ]
+        },
+        {
+            "key": "emotion_01",
+            "hint": "a positive feeling",
+            "suggestions": [
+                "limitless patience",
+                "playful curiosity",
+                "quiet confidence",
+                "radiant calmness",
+                "gentle awareness"
+            ]
+        },
+        {
+            "key": "liquid_01",
+            "hint": "type of liquid",
+            "suggestions": [
+                "molten silver",
+                "jasmine tea",
+                "starlit honey",
+                "purple ink",
+                "dissolved dreams"
+            ]
+        },
+        {
+            "key": "action_01",
+            "hint": "a verb (base form)",
+            "suggestions": [
+                "marvel",
+                "bow",
+                "hum",
+                "smile",
+                "ponder"
+            ]
+        },
+        {
+            "key": "creature_01",
+            "hint": "a mystical creature",
+            "suggestions": [
+                "translucent crane",
+                "golden turtle",
+                "floating red panda",
+                "misty fox",
+                "emerald butterfly"
+            ]
+        },
+        {
+            "key": "object_01",
+            "hint": "a small object",
+            "suggestions": [
+                "lotus flower",
+                "crystal bead",
+                "zen pebble",
+                "feather",
+                "glowing lantern"
+            ]
+        },
+        {
+            "key": "adjective_01",
+            "hint": "a descriptive word",
+            "suggestions": [
+                "boundless",
+                "ethereal",
+                "radiant",
+                "tranquil",
+                "kaleidoscopic"
+            ]
+        }
+    ]
+}

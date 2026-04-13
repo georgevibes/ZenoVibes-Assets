@@ -1,0 +1,85 @@
+{
+    "id": "flowers_medium_013",
+    "title": "The Shifting Bloom",
+    "difficulty": "medium",
+    "template": "In the heart of the Whispering Meadow, a tiny sprout began to [action_verb]. Unlike its siblings, its petals were initially a shade of [color_adjective]. Every morning, it soaked up the dew and waited for a sign.\n\nOne afternoon, a [mystical_creature] landed softly on its stem. Suddenly, a pulse of light traveled through the leaves, causing a [sensory_noun] to fill the air. The flower began to shimmer with an unusual energy.\n\nAs the sun set, the petals shifted into a brilliant [vibrant_color]. The nearby trees seemed to bow in response to the spectacular sight. The garden was no longer just a collection of ordinary plants.\n\nNow, travelers come from afar just to witness the [adjective] transformation. They leave behind a small [item_of_gratitude] as a token of their wonder. The legend of the shifting bloom continues to grow every spring.",
+    "blanks": [
+        {
+            "key": "action_verb",
+            "hint": "an action verb",
+            "suggestions": [
+                "sparkle",
+                "unfurl",
+                "hum",
+                "vibrate",
+                "glow"
+            ]
+        },
+        {
+            "key": "color_adjective",
+            "hint": "a soft or unusual color",
+            "suggestions": [
+                "translucent",
+                "pale indigo",
+                "dusty silver",
+                "misty teal",
+                "milky white"
+            ]
+        },
+        {
+            "key": "mystical_creature",
+            "hint": "a small magical creature",
+            "suggestions": [
+                "emerald dragonfly",
+                "stardust beetle",
+                "gossamer fairy",
+                "moonlight moth",
+                "golden phoenix"
+            ]
+        },
+        {
+            "key": "sensory_noun",
+            "hint": "a sound or smell",
+            "suggestions": [
+                "sweet chime",
+                "warm fragrance",
+                "gentle breeze",
+                "soft melody",
+                "golden sparkle"
+            ]
+        },
+        {
+            "key": "vibrant_color",
+            "hint": "a bright, intense color",
+            "suggestions": [
+                "iridescent violet",
+                "neon coral",
+                "liquid gold",
+                "electric sapphire",
+                "velvet crimson"
+            ]
+        },
+        {
+            "key": "adjective",
+            "hint": "a descriptive word",
+            "suggestions": [
+                "magical",
+                "kaleidoscopic",
+                "unearthly",
+                "radiant",
+                "mesmerizing"
+            ]
+        },
+        {
+            "key": "item_of_gratitude",
+            "hint": "a small physical gift",
+            "suggestions": [
+                "crystal pebble",
+                "silver ribbon",
+                "woven wreath",
+                "painted stone",
+                "carved acorn"
+            ]
+        }
+    ]
+}

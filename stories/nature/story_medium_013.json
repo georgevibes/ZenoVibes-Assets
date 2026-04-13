@@ -1,0 +1,85 @@
+{
+    "id": "nature_medium_013",
+    "title": "The Winter Resonance",
+    "difficulty": "medium",
+    "template": "The vast expanse of the frozen lake shimmered under the pale winter sun. A layer of [adjective_1] frost covered the ice like a delicate blanket. The air was [adjective_2], waiting for the first note of the season to resonate.\n\nAs the temperature shifted, the ice began to [verb_present_3] with a deep, echoing thrum. This sound, known as the lake's song, traveled across the [noun_4] like a ripple. It was a melody that only the bravest hikers ever got to hear.\n\nNearby, a [animal_5] paused its journey to listen to the crystalline vibrations. The trees around the shore seemed to [verb_6] in time with the rhythmic booming. It felt as though the earth itself was breathing through the frozen water.\n\nNight fell, and the stars mirrored their glow on the surface of the ice. The song slowly faded into a whisper, leaving a sense of [emotion_7] behind. Nature had shared its secret, and the world felt a little more magical.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "adjective",
+            "suggestions": [
+                "crystalline",
+                "velvet",
+                "powdery",
+                "jagged",
+                "shimmering"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "adjective",
+            "suggestions": [
+                "motionless",
+                "electric",
+                "expectant",
+                "brittle",
+                "hushed"
+            ]
+        },
+        {
+            "key": "verb_present_3",
+            "hint": "verb (present tense)",
+            "suggestions": [
+                "groan",
+                "hum",
+                "vibrate",
+                "pulse",
+                "resonate"
+            ]
+        },
+        {
+            "key": "noun_4",
+            "hint": "noun (a place or area)",
+            "suggestions": [
+                "landscape",
+                "shoreline",
+                "tundra",
+                "canyon",
+                "clearing"
+            ]
+        },
+        {
+            "key": "animal_5",
+            "hint": "an animal",
+            "suggestions": [
+                "snow leopard",
+                "curious fox",
+                "wandering moose",
+                "snowy owl",
+                "timber wolf"
+            ]
+        },
+        {
+            "key": "verb_6",
+            "hint": "verb",
+            "suggestions": [
+                "sway",
+                "shiver",
+                "dance",
+                "lean",
+                "whisper"
+            ]
+        },
+        {
+            "key": "emotion_7",
+            "hint": "an emotion",
+            "suggestions": [
+                "serenity",
+                "wonder",
+                "tranquility",
+                "awe",
+                "enchantment"
+            ]
+        }
+    ]
+}

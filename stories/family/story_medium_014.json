@@ -1,0 +1,85 @@
+{
+    "id": "family_medium_014",
+    "title": "The Long-Distance Reunion",
+    "difficulty": "medium",
+    "template": "Last week, our house buzzed with excitement because a mysterious relative was traveling from the distant [mythical_location]. We prepared the guest room with extra blankets and a basket of glowing fruit. Everyone kept checking the clock, waiting for the arrival.\n\nWhen they finally arrived, they were carrying a [unusual_object] that smelled like starlight. We immediately sat down to a traditional family meal of [exotic_dish]. The table was filled with laughter and stories of old times.\n\nAfter dinner, we all gathered in the garden to watch the [natural_phenomenon] dance across the sky. Our visitor shared a secret [family_tradition] that had been passed down for generations. It felt like the whole world had slowed down just for us.\n\nAs the visit came to an end, we exchanged [sentimental_item] to remember the special occasion. We promised to meet again before the next [celestial_event] occurred. The house felt a little quieter, but our hearts were full of magic.",
+    "blanks": [
+        {
+            "key": "mythical_location",
+            "hint": "a magical place",
+            "suggestions": [
+                "Crystal Tundra",
+                "Floating Isles",
+                "Emerald Valley",
+                "Whispering Woods",
+                "Nebula Coast"
+            ]
+        },
+        {
+            "key": "unusual_object",
+            "hint": "an interesting item",
+            "suggestions": [
+                "clockwork compass",
+                "velvet satchel",
+                "glowing map",
+                "silver telescope",
+                "antique music box"
+            ]
+        },
+        {
+            "key": "exotic_dish",
+            "hint": "a fancy food",
+            "suggestions": [
+                "honey-glazed mooncakes",
+                "spiced cloud-bread",
+                "shimmering berry tart",
+                "stardust soup",
+                "golden nectar tea"
+            ]
+        },
+        {
+            "key": "natural_phenomenon",
+            "hint": "something seen in nature",
+            "suggestions": [
+                "shooting stars",
+                "firefly parade",
+                "aurora borealis",
+                "purple lightning",
+                "glittering mist"
+            ]
+        },
+        {
+            "key": "family_tradition",
+            "hint": "an activity or custom",
+            "suggestions": [
+                "riddle-telling contest",
+                "starlit lullaby",
+                "shadow-puppet show",
+                "weaving dreamcatchers",
+                "planting spirit seeds"
+            ]
+        },
+        {
+            "key": "sentimental_item",
+            "hint": "a small gift or keepsake",
+            "suggestions": [
+                "hand-carved charms",
+                "pressed sunflowers",
+                "braided bracelets",
+                "painted river stones",
+                "glass vials of rain"
+            ]
+        },
+        {
+            "key": "celestial_event",
+            "hint": "an event in the sky",
+            "suggestions": [
+                "blue moon",
+                "solar eclipse",
+                "comet sighting",
+                "planetary alignment",
+                "meteor shower"
+            ]
+        }
+    ]
+}

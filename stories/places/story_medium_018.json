@@ -1,0 +1,85 @@
+{
+    "id": "places_medium_018",
+    "title": "The Starlit Observatory",
+    "difficulty": "medium",
+    "template": "Perched atop the [scenic_adjective] peak, the great observatory awaited the night. Its dome was painted with swirling patterns of gold and silver. Inside, the air smelled of old parchment and [soothing_scent]. It was the quietest place in the entire world.\n\nThe astronomer adjusted the giant lens, which shimmered like a [precious_object]. Looking through the glass, a galaxy of colors suddenly appeared. Each star seemed to [whimsical_action] in the velvet darkness.\n\nSuddenly, a [vibrant_adjective] comet streaked across the lens. It left a trail of stardust that illuminated the circular room. Everyone gathered around to witness this rare [cosmic_event]. The silence was replaced by soft whispers of awe.\n\nAs the sun began to peek over the horizon, the dome slowly closed. The magic of the heavens lingered in the [atmospheric_adjective] air. Every visitor left feeling as light as a feather.",
+    "blanks": [
+        {
+            "key": "scenic_adjective",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "frost-covered",
+                "ethereal",
+                "hidden",
+                "majestic",
+                "cloud-wrapped"
+            ]
+        },
+        {
+            "key": "soothing_scent",
+            "hint": "a smell",
+            "suggestions": [
+                "wild lavender",
+                "warm vanilla",
+                "fresh pine",
+                "salty mist",
+                "ancient tea"
+            ]
+        },
+        {
+            "key": "precious_object",
+            "hint": "noun",
+            "suggestions": [
+                "glowing emerald",
+                "polished mirror",
+                "silk ribbon",
+                "diamond sun",
+                "glass marble"
+            ]
+        },
+        {
+            "key": "whimsical_action",
+            "hint": "verb",
+            "suggestions": [
+                "whisper",
+                "pulse",
+                "spin",
+                "wink",
+                "float"
+            ]
+        },
+        {
+            "key": "vibrant_adjective",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "luminous",
+                "spectral",
+                "fiery",
+                "opal-colored",
+                "gossamer"
+            ]
+        },
+        {
+            "key": "cosmic_event",
+            "hint": "noun (a spectacle)",
+            "suggestions": [
+                "celestial dance",
+                "stellar bloom",
+                "galactic secret",
+                "nebula parade",
+                "star-fall"
+            ]
+        },
+        {
+            "key": "atmospheric_adjective",
+            "hint": "adjective for air/feeling",
+            "suggestions": [
+                "hushed",
+                "dreamy",
+                "crisp",
+                "golden",
+                "magical"
+            ]
+        }
+    ]
+}

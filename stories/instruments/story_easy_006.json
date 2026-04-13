@@ -1,0 +1,63 @@
+{
+    "id": "instruments_easy_006",
+    "title": "The Echoing Grove",
+    "difficulty": "easy",
+    "template": "Deep within the mossy grove, a silver flute began to [action_word]. The melody drifted through the ancient branches like a soft mist. Every [descriptive_adjective] leaf seemed to shimmer in time with the rhythm.\n\nA curious [forest_creature] stopped its foraging to listen to the song. It tilted its head as the high notes danced over the bubbling creek. The music felt like magic woven into the very air of the forest.\n\nAs the final note faded, a shower of [vibrant_color] petals fell from the trees. The woods became quiet and [feeling_word], as if dreaming of the sound. The flute player smiled, knowing the spirits of the woods were pleased.",
+    "blanks": [
+        {
+            "key": "action_word",
+            "hint": "verb (action)",
+            "suggestions": [
+                "hum",
+                "glow",
+                "ring",
+                "sigh",
+                "float"
+            ]
+        },
+        {
+            "key": "descriptive_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "emerald",
+                "shimmering",
+                "tiny",
+                "ancient",
+                "hidden"
+            ]
+        },
+        {
+            "key": "forest_creature",
+            "hint": "an animal",
+            "suggestions": [
+                "fox",
+                "fawn",
+                "badger",
+                "chipmunk",
+                "bluejay"
+            ]
+        },
+        {
+            "key": "vibrant_color",
+            "hint": "a color",
+            "suggestions": [
+                "indigo",
+                "scarlet",
+                "amber",
+                "lavender",
+                "silver"
+            ]
+        },
+        {
+            "key": "feeling_word",
+            "hint": "emotion or state",
+            "suggestions": [
+                "serene",
+                "sleepy",
+                "happy",
+                "still",
+                "bright"
+            ]
+        }
+    ]
+}

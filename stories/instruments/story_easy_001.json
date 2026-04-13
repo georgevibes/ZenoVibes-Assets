@@ -1,0 +1,63 @@
+{
+    "id": "instruments_easy_001",
+    "title": "The Midnight Serenade",
+    "difficulty": "easy",
+    "template": "High up in the [location_name], a wooden violin rested against a velvet cushion. It hadn't been played in years, yet its strings still hummed with a soft energy. The moonlight filtered through the window, making the instrument glow like a [magical_object].\n\nSuddenly, a gentle breeze swept through the room and brushed against the strings. A [adjective_sound] note floated into the air, dancing between the shadows. The melody was sweet, echoing through the empty halls. It seemed to be searching for a partner to join its song.\n\nFrom the corner of the room, a small [animal_friend] began to tap its feet to the rhythm. Soon, the whole house felt alive with the violin's magical tune. The lonely instrument wasn't so [emotion] anymore. Music had turned the quiet night into a beautiful celebration.",
+    "blanks": [
+        {
+            "key": "location_name",
+            "hint": "a place",
+            "suggestions": [
+                "forgotten attic",
+                "dusty lighthouse",
+                "moonlit balcony",
+                "secret garden",
+                "ancient library"
+            ]
+        },
+        {
+            "key": "magical_object",
+            "hint": "something that glows",
+            "suggestions": [
+                "spinning galaxy",
+                "glowing ember",
+                "shimmering pearl",
+                "bottled lightning",
+                "fallen star"
+            ]
+        },
+        {
+            "key": "adjective_sound",
+            "hint": "describes a sound",
+            "suggestions": [
+                "crystalline",
+                "honey-thick",
+                "velvety",
+                "starlit",
+                "whispering"
+            ]
+        },
+        {
+            "key": "animal_friend",
+            "hint": "a small creature",
+            "suggestions": [
+                "singing cricket",
+                "curious mouse",
+                "dancing firefly",
+                "fuzzy moth",
+                "silver spider"
+            ]
+        },
+        {
+            "key": "emotion",
+            "hint": "a feeling",
+            "suggestions": [
+                "unnoticed",
+                "melancholy",
+                "restless",
+                "out of tune",
+                "neglected"
+            ]
+        }
+    ]
+}

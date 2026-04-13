@@ -1,0 +1,118 @@
+{
+    "id": "instruments_hard_030",
+    "title": "The Resonance of Origin",
+    "difficulty": "hard",
+    "template": "Deep within the [ancient_place], a nervous prodigy clutched a [rare_material] instrument. The air was thick with expectation, smelling of dust and anticipation. Every spectator held their breath as the musician prepared to play.\n\nA faint hint of [atmospheric_scent] wafted through the hall, calming the performer's nerves. Their mind was a whirlpool of [abstract_emotion] and focus. They closed their eyes, visualizing the path of the sound.\n\nThey recalled the [teaching_adjective] lessons taught by the reclusive masters of the valley. With a sudden burst of energy, they [action_verb] the silence with a single, deliberate movement. The world seemed to stop spinning for a heartbeat.\n\nA [sound_adjective] tone erupted, vibrating through the very foundation of the building. It wasn't just a sound; it was a [metaphorical_object] slicing through the layers of time. The melody shimmered with an ethereal light.\n\nThe air hung heavy with an unexpected [abstract_quality] as the note finally began to wane. The listeners remained captivated by the fading [acoustic_term] that lingered in the corners of the room. A newfound sense of peace settled over the weary artist.",
+    "blanks": [
+        {
+            "key": "ancient_place",
+            "hint": "a mythical or historical location",
+            "suggestions": [
+                "Crystalline Grotto",
+                "Obsidian Cathedral",
+                "Whispering Grove",
+                "Celestial Conservatory",
+                "Sunken Amphitheater"
+            ]
+        },
+        {
+            "key": "rare_material",
+            "hint": "an exotic or magical substance",
+            "suggestions": [
+                "iridescent moonstone",
+                "petrified willow",
+                "forged starlight",
+                "polished dragonbone",
+                "woven gossamer"
+            ]
+        },
+        {
+            "key": "atmospheric_scent",
+            "hint": "a complex smell or aroma",
+            "suggestions": [
+                "ozone and lavender",
+                "ancient parchment",
+                "petrichor and cedar",
+                "burnt caramel",
+                "morning frost"
+            ]
+        },
+        {
+            "key": "abstract_emotion",
+            "hint": "a complex feeling (noun)",
+            "suggestions": [
+                "melancholic euphoria",
+                "electric trepidation",
+                "serene chaos",
+                "infinite longing",
+                "radiant stillness"
+            ]
+        },
+        {
+            "key": "teaching_adjective",
+            "hint": "describing a method of learning",
+            "suggestions": [
+                "labyrinthine",
+                "transcendental",
+                "discordant",
+                "venerable",
+                "enigmatic"
+            ]
+        },
+        {
+            "key": "action_verb",
+            "hint": "a powerful verb (past tense)",
+            "suggestions": [
+                "shattered",
+                "pierced",
+                "ignited",
+                "unraveled",
+                "awakened"
+            ]
+        },
+        {
+            "key": "sound_adjective",
+            "hint": "a word describing a sensory quality",
+            "suggestions": [
+                "luminescent",
+                "resonant",
+                "kaleidoscopic",
+                "thundering",
+                "silken"
+            ]
+        },
+        {
+            "key": "metaphorical_object",
+            "hint": "an object used as a metaphor",
+            "suggestions": [
+                "golden thread",
+                "shimmering blade",
+                "blooming lotus",
+                "guiding star",
+                "tidal wave"
+            ]
+        },
+        {
+            "key": "abstract_quality",
+            "hint": "an intangible characteristic (noun)",
+            "suggestions": [
+                "gravity",
+                "luminescence",
+                "nostalgia",
+                "fragility",
+                "grandeur"
+            ]
+        },
+        {
+            "key": "acoustic_term",
+            "hint": "a word related to sound physics",
+            "suggestions": [
+                "reverberation",
+                "harmonic",
+                "cadence",
+                "echo",
+                "resonance"
+            ]
+        }
+    ]
+}

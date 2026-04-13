@@ -1,0 +1,118 @@
+{
+    "id": "places_hard_026",
+    "title": "The Luminescent Metropolis",
+    "difficulty": "hard",
+    "template": "High above the [adjective_1] horizon, a million lights shimmered like fallen stars. This urban [noun_landscape] felt alive, breathing with a rhythm that defied the silence of the night. Visitors often stopped at the edge of the plateau just to witness the sprawling glow.\n\nThe streets were paved with [material_type], reflecting the neon signs in a kaleidoscope of colors. Every corner revealed a [adjective_architectural] tower reaching toward the indigo sky. Steam rose from the vents, smelling faintly of jasmine and citrus.\n\nPeople moved through the plazas with [adverb_movement], their silhouettes casting long shadows against the glass. A gentle [natural_phenomenon] drifted through the alleys, carrying the sound of distant bells. It was a place where time seemed to slow down amidst the mechanical hum.\n\nAt the heart of the city lay the [adjective_sensory] garden, a sanctuary of bioluminescent flora. Here, the [plural_creature] gathered to rest among the glowing vines. It provided a stark but beautiful contrast to the surrounding chrome and steel.\n\nTo leave this place is to carry a piece of its [noun_abstract] forever in one's heart. No matter how far one travels, the memory of the [color_shade] lanterns remains vivid. It is truly the pinnacle of light and wonder.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "iridescent",
+                "obsidian",
+                "shimmering",
+                "ethereal",
+                "crystalline"
+            ]
+        },
+        {
+            "key": "noun_landscape",
+            "hint": "a landscape feature or structure",
+            "suggestions": [
+                "tapestry",
+                "archipelago",
+                "labyrinth",
+                "expanse",
+                "megastructure"
+            ]
+        },
+        {
+            "key": "material_type",
+            "hint": "an exotic material",
+            "suggestions": [
+                "mother-of-pearl",
+                "liquid-chrome",
+                "vitrified-sand",
+                "opalescent-tiles",
+                "recycled-starlight"
+            ]
+        },
+        {
+            "key": "adjective_architectural",
+            "hint": "architectural style adjective",
+            "suggestions": [
+                "filigreed",
+                "monolithic",
+                "vertiginous",
+                "biomorphic",
+                "subterranean"
+            ]
+        },
+        {
+            "key": "adverb_movement",
+            "hint": "descriptive adverbial phrase",
+            "suggestions": [
+                "rhythmic-precision",
+                "effortless-fluidity",
+                "serene-velocity",
+                "graceful-ease",
+                "deliberate-softness"
+            ]
+        },
+        {
+            "key": "natural_phenomenon",
+            "hint": "an atmospheric occurrence",
+            "suggestions": [
+                "aurora-mist",
+                "zephyr",
+                "stardust-gale",
+                "thermal-drift",
+                "lunar-breeze"
+            ]
+        },
+        {
+            "key": "adjective_sensory",
+            "hint": "a sensory adjective",
+            "suggestions": [
+                "halcyon",
+                "effervescent",
+                "prismatic",
+                "mellifluous",
+                "velveteen"
+            ]
+        },
+        {
+            "key": "plural_creature",
+            "hint": "plural fantasy creatures",
+            "suggestions": [
+                "mechanical-butterflies",
+                "hover-doves",
+                "glass-beetles",
+                "neon-foxes",
+                "spectral-koi"
+            ]
+        },
+        {
+            "key": "noun_abstract",
+            "hint": "an abstract noun",
+            "suggestions": [
+                "effulgence",
+                "tranquility",
+                "resonance",
+                "magnanimity",
+                "vibrancy"
+            ]
+        },
+        {
+            "key": "color_shade",
+            "hint": "a specific, rare color",
+            "suggestions": [
+                "periwinkle",
+                "vermilion",
+                "chartreuse",
+                "ultramarine",
+                "amethyst"
+            ]
+        }
+    ]
+}

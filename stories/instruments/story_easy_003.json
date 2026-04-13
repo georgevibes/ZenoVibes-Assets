@@ -1,0 +1,63 @@
+{
+    "id": "instruments_easy_003",
+    "title": "The Melody of Light",
+    "difficulty": "easy",
+    "template": "Deep within the ancient hall sat a harp made of pure light. Its strings were crafted from [material] and sparkled under the moon. Everyone who saw it felt a sense of [emotion] washing over them.\n\nA brave musician reached out to play a single, soft note. As their fingers touched the strings, the harp began to [vibration_verb] softly. The sound resonated through the hollow pillars of the temple.\n\nSuddenly, the room filled with a [glow_color] light that danced on the walls. The melody made the nearby flowers [flower_action] in perfect rhythm. It was the most beautiful music the world had ever heard.",
+    "blanks": [
+        {
+            "key": "material",
+            "hint": "a type of magical material",
+            "suggestions": [
+                "starlight",
+                "spun sugar",
+                "rainbow silk",
+                "golden thread",
+                "liquid silver"
+            ]
+        },
+        {
+            "key": "emotion",
+            "hint": "a positive feeling",
+            "suggestions": [
+                "wonder",
+                "calm",
+                "joy",
+                "serenity",
+                "excitement"
+            ]
+        },
+        {
+            "key": "vibration_verb",
+            "hint": "a verb describing a sound or movement",
+            "suggestions": [
+                "hum",
+                "shimmer",
+                "vibrate",
+                "whisper",
+                "sing"
+            ]
+        },
+        {
+            "key": "glow_color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "azure",
+                "emerald",
+                "golden",
+                "violet",
+                "crimson"
+            ]
+        },
+        {
+            "key": "flower_action",
+            "hint": "an action verb",
+            "suggestions": [
+                "bloom",
+                "sway",
+                "spin",
+                "twirl",
+                "nod"
+            ]
+        }
+    ]
+}

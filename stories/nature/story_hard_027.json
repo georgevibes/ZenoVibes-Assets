@@ -1,0 +1,118 @@
+{
+    "id": "nature_hard_027",
+    "title": "The Receding Horizon",
+    "difficulty": "hard",
+    "template": "The moon cast a [adjective_ethereal] glow over the churning coastline. Every wave seemed to whisper a secret [noun_abstract] to the jagged cliffs. The world felt quiet, suspended in a moment of transition.\n\nAs the tide began its retreat, the sand felt [adjective_texture] underfoot. Tiny creatures [verb_past_tense] out from their salty hiding places among the tidal pools. They danced in the wake of the departing foam.\n\nSeaweed clung to the rocks like [noun_plural_fabric] discarded by a forgotten sea god. The air smelled of salt and [noun_scent], a refreshing mix for any weary traveler. It was a scent that carried memories of distant lands.\n\nFar out, a lone lighthouse [adverb_manner] signaled to the passing ships in the dark. The water moved with a [adjective_rhythmic] pulse that synchronized with the very heart of the planet. Each cycle brought a sense of profound peace.\n\nSoon, the shore would be [verb_past_participle] once again by the inevitable rising swells. Nature’s quiet [noun_concept] reminds us that every ending is just a new beginning. We are all just visitors in this liquid domain.",
+    "blanks": [
+        {
+            "key": "adjective_ethereal",
+            "hint": "ethereal adjective",
+            "suggestions": [
+                "iridescent",
+                "phosphorescent",
+                "opalescent",
+                "mercurial",
+                "ghostly"
+            ]
+        },
+        {
+            "key": "noun_abstract",
+            "hint": "abstract noun",
+            "suggestions": [
+                "prophecy",
+                "lullaby",
+                "benediction",
+                "riddle",
+                "symphony"
+            ]
+        },
+        {
+            "key": "adjective_texture",
+            "hint": "texture adjective",
+            "suggestions": [
+                "gelatinous",
+                "crystalline",
+                "velvety",
+                "spongy",
+                "gritty"
+            ]
+        },
+        {
+            "key": "verb_past_tense",
+            "hint": "past tense verb",
+            "suggestions": [
+                "sashayed",
+                "scurried",
+                "emerged",
+                "pirouetted",
+                "tumbled"
+            ]
+        },
+        {
+            "key": "noun_plural_fabric",
+            "hint": "plural fabrics or textiles",
+            "suggestions": [
+                "tapestries",
+                "banners",
+                "shrouds",
+                "ribbons",
+                "velvets"
+            ]
+        },
+        {
+            "key": "noun_scent",
+            "hint": "a scent or aroma",
+            "suggestions": [
+                "petrichor",
+                "ambergris",
+                "jasmine",
+                "ozone",
+                "sandalwood"
+            ]
+        },
+        {
+            "key": "adverb_manner",
+            "hint": "adverb describing behavior",
+            "suggestions": [
+                "stoically",
+                "erratically",
+                "rhythmically",
+                "solemnly",
+                "patiently"
+            ]
+        },
+        {
+            "key": "adjective_rhythmic",
+            "hint": "rhythmic adjective",
+            "suggestions": [
+                "tectonic",
+                "hypnotic",
+                "celestial",
+                "thrumming",
+                "ancient"
+            ]
+        },
+        {
+            "key": "verb_past_participle",
+            "hint": "past participle verb",
+            "suggestions": [
+                "reclaimed",
+                "baptized",
+                "swallowed",
+                "enveloped",
+                "erased"
+            ]
+        },
+        {
+            "key": "noun_concept",
+            "hint": "abstract concept",
+            "suggestions": [
+                "equilibrium",
+                "persistence",
+                "grace",
+                "duality",
+                "eternity"
+            ]
+        }
+    ]
+}

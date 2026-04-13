@@ -1,0 +1,63 @@
+{
+    "id": "flowers_easy_008",
+    "title": "The Gentle Garden Bloom",
+    "difficulty": "easy",
+    "template": "In the heart of a hidden garden, there bloomed a most unusual rose. Unlike its sisters, this flower had stems that were completely [texture]. Every morning, a small [creature] would visit to sing a song of morning dew.\n\nOne day, a curious traveler stopped to wonder at the velvet petals. \"How do you stay so safe without any prickles?\" the traveler asked [adverb]. The rose simply swayed in the breeze, glowing with a soft, [color] light. It seemed to understand that kindness was its strongest armor.\n\nThe traveler decided to leave a gift behind to honor the gentle bloom. They placed a tiny, [object] at the base of the flower. From that day on, the garden felt even more magical for everyone who visited.",
+    "blanks": [
+        {
+            "key": "texture",
+            "hint": "how something feels",
+            "suggestions": [
+                "smooth",
+                "silky",
+                "fuzzy",
+                "glittery",
+                "squishy"
+            ]
+        },
+        {
+            "key": "creature",
+            "hint": "a small animal or insect",
+            "suggestions": [
+                "bumblebee",
+                "butterfly",
+                "fairy",
+                "ladybug",
+                "hummingbird"
+            ]
+        },
+        {
+            "key": "adverb",
+            "hint": "a word ending in -ly",
+            "suggestions": [
+                "softly",
+                "excitedly",
+                "curiously",
+                "quietly",
+                "dreamily"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "golden",
+                "turquoise",
+                "lavender",
+                "neon-pink",
+                "silver"
+            ]
+        },
+        {
+            "key": "object",
+            "hint": "a small item",
+            "suggestions": [
+                "crystal",
+                "ribbon",
+                "pebble",
+                "bell",
+                "seashell"
+            ]
+        }
+    ]
+}

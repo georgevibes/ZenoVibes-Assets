@@ -1,0 +1,63 @@
+{
+    "id": "places_easy_004",
+    "title": "The Celestial Crossing",
+    "difficulty": "easy",
+    "template": "High above the mist, there stands a shimmering [structure_type]. It stretches across the sky, connecting two distant mountain peaks together. The air smells like sweet [scent] as travelers step onto the path.\n\nEvery step makes a soft [sound_effect] that echoes through the floating clouds. Small creatures with [texture] fur peek out from behind the colorful railings. They guide visitors toward the middle of the glowing arch.\n\nAt the very top, you can see a hidden [secret_location] tucked away in the golden horizon. This magical crossing brings joy to everyone who wanders across it. It remains the most peaceful sight in the entire world.",
+    "blanks": [
+        {
+            "key": "structure_type",
+            "hint": "a type of walkway",
+            "suggestions": [
+                "archway",
+                "walkway",
+                "viaduct",
+                "causeway",
+                "promenade"
+            ]
+        },
+        {
+            "key": "scent",
+            "hint": "something that smells good",
+            "suggestions": [
+                "blueberries",
+                "honeysuckle",
+                "fresh rain",
+                "cotton candy",
+                "jasmine"
+            ]
+        },
+        {
+            "key": "sound_effect",
+            "hint": "a gentle noise",
+            "suggestions": [
+                "tinkle",
+                "hum",
+                "chime",
+                "patter",
+                "thrum"
+            ]
+        },
+        {
+            "key": "texture",
+            "hint": "a descriptive feeling",
+            "suggestions": [
+                "velvet",
+                "glittery",
+                "fuzzy",
+                "silky",
+                "bubbly"
+            ]
+        },
+        {
+            "key": "secret_location",
+            "hint": "a place to live or visit",
+            "suggestions": [
+                "kingdom",
+                "garden",
+                "observatory",
+                "treehouse",
+                "village"
+            ]
+        }
+    ]
+}

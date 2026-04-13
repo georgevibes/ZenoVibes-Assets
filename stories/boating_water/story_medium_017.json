@@ -1,0 +1,85 @@
+{
+    "id": "boating_water_medium_017",
+    "title": "The Gentle Current",
+    "difficulty": "medium",
+    "template": "The sun shimmered over the [adjective_river] river as our handmade raft drifted slowly downstream. We had tied the logs together using only [sturdy_material] and a bit of hope. The water was so clear we could see the fish darting between the smooth rocks below.\n\nSuddenly, a [peaceful_animal] appeared on the muddy bank, watching us with curious eyes. It seemed to be [rhythmic_action] in time with the gentle movement of the current. We waved a wooden paddle in greeting, feeling perfectly at peace with the world.\n\nAs we floated under a canopy of weeping willows, the air began to smell like [sweet_scent]. A soft breeze carried the sound of a distant [soothing_instrument] across the valley. Everything felt like a vivid dream where time had simply stopped moving.\n\nBy the time we reached the final bend, we felt completely [positive_emotion]. The journey wasn't about the destination, but the quiet moments shared on the water. We promised to return to this secret waterway whenever we needed a soul-soothing escape.",
+    "blanks": [
+        {
+            "key": "adjective_river",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "sparkling",
+                "emerald",
+                "mystical",
+                "serene",
+                "ancient"
+            ]
+        },
+        {
+            "key": "sturdy_material",
+            "hint": "a noun (material)",
+            "suggestions": [
+                "vines",
+                "shoelaces",
+                "silk ribbons",
+                "sturdy twine",
+                "braided grass"
+            ]
+        },
+        {
+            "key": "peaceful_animal",
+            "hint": "type of animal",
+            "suggestions": [
+                "golden otter",
+                "majestic heron",
+                "friendly capybara",
+                "silver fox",
+                "glimmering turtle"
+            ]
+        },
+        {
+            "key": "rhythmic_action",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "swaying",
+                "meditating",
+                "dancing",
+                "humming",
+                "gazing"
+            ]
+        },
+        {
+            "key": "sweet_scent",
+            "hint": "a pleasant smell",
+            "suggestions": [
+                "fresh lavender",
+                "warm vanilla",
+                "jasmine",
+                "pine needles",
+                "wild honey"
+            ]
+        },
+        {
+            "key": "soothing_instrument",
+            "hint": "musical instrument",
+            "suggestions": [
+                "bamboo flute",
+                "crystal harp",
+                "kalimba",
+                "soft cello",
+                "silver bell"
+            ]
+        },
+        {
+            "key": "positive_emotion",
+            "hint": "a feeling",
+            "suggestions": [
+                "rejuvenated",
+                "weightless",
+                "enchanted",
+                "tranquil",
+                "inspired"
+            ]
+        }
+    ]
+}

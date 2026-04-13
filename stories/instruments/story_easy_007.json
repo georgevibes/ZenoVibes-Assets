@@ -1,0 +1,63 @@
+{
+    "id": "instruments_easy_007",
+    "title": "The Resonant Room",
+    "difficulty": "easy",
+    "template": "The old wooden cello sat quietly in the corner of the sunlit room. When the musician pulled the bow across the strings, a [rich_adjective] sound filled the air. The floor began to vibrate with every deep, low note.\n\nA small [woodland_creature] nearby stopped to listen to the beautiful melody. Dust motes danced in the light, swirling like [tiny_objects]. The music felt as warm as a cozy fire on a cold night. It seemed to tell a story of ancient mountains and deep, blue oceans.\n\nAs the final note faded away, the entire room felt [calm_feeling]. The musician gently placed the instrument back into its velvet-lined [storage_object]. A sense of peace remained long after the strings stopped moving.",
+    "blanks": [
+        {
+            "key": "rich_adjective",
+            "hint": "descriptive word for sound",
+            "suggestions": [
+                "velvety",
+                "golden",
+                "thundering",
+                "honey-like",
+                "mystical"
+            ]
+        },
+        {
+            "key": "woodland_creature",
+            "hint": "a small animal",
+            "suggestions": [
+                "squirrel",
+                "chipmunk",
+                "field mouse",
+                "fawn",
+                "bunny"
+            ]
+        },
+        {
+            "key": "tiny_objects",
+            "hint": "plural noun",
+            "suggestions": [
+                "fireflies",
+                "glitter",
+                "snowflakes",
+                "stardust",
+                "bubbles"
+            ]
+        },
+        {
+            "key": "calm_feeling",
+            "hint": "an emotion or state",
+            "suggestions": [
+                "enchanted",
+                "tranquil",
+                "serene",
+                "dreamy",
+                "peaceful"
+            ]
+        },
+        {
+            "key": "storage_object",
+            "hint": "a container",
+            "suggestions": [
+                "case",
+                "cradle",
+                "trunk",
+                "box",
+                "stand"
+            ]
+        }
+    ]
+}

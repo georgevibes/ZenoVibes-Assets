@@ -1,0 +1,63 @@
+{
+    "id": "nature_easy_005",
+    "title": "The Silver Willow's Song",
+    "difficulty": "easy",
+    "template": "Deep in the heart of the ancient grove, a massive willow tree stood by the river. Its long, silvery branches swayed [graceful_action] in the cool morning breeze. Local birds gathered in its leaves to share the secrets of the forest.\n\nIf you leaned in close, you could hear the [quiet_sound] of the wind through the leaves. The tree seemed to hum a song that made the nearby flowers [flower_action]. Every ripple in the water reflected the emerald magic of the canopy.\n\nSuddenly, a small [forest_creature] scurried from the roots to greet the midday sun. The air felt [magical_feeling] as the sunlight filtered through the weeping branches. Nature always knew how to tell a story without saying a single word.",
+    "blanks": [
+        {
+            "key": "graceful_action",
+            "hint": "an adverb ending in -ly",
+            "suggestions": [
+                "gently",
+                "wildly",
+                "rhythmically",
+                "softly",
+                "lazily"
+            ]
+        },
+        {
+            "key": "quiet_sound",
+            "hint": "a soft noise",
+            "suggestions": [
+                "whisper",
+                "giggle",
+                "sigh",
+                "melody",
+                "chatter"
+            ]
+        },
+        {
+            "key": "flower_action",
+            "hint": "a verb",
+            "suggestions": [
+                "bloom",
+                "glow",
+                "sparkle",
+                "twirl",
+                "shiver"
+            ]
+        },
+        {
+            "key": "forest_creature",
+            "hint": "a small animal",
+            "suggestions": [
+                "chipmunk",
+                "hedgehog",
+                "rabbit",
+                "fox",
+                "toad"
+            ]
+        },
+        {
+            "key": "magical_feeling",
+            "hint": "an adjective",
+            "suggestions": [
+                "electric",
+                "cozy",
+                "shimmering",
+                "ethereal",
+                "velvety"
+            ]
+        }
+    ]
+}

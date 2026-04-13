@@ -1,0 +1,85 @@
+{
+    "id": "family_medium_018",
+    "title": "The Lakeside Retreat",
+    "difficulty": "medium",
+    "template": "The old wooden cabin smelled like [scent] and old memories as the family unpacked their bags. Everyone rushed to the shoreline, eager to feel the cool breeze against their faces. Aunt Martha immediately claimed the [furniture] on the porch to watch the dragonflies dance.\n\nBy noon, the siblings were [verb_ing] across the crystal-clear water in a rickety rowboat. They searched for the legendary giant fish that locals called the \"Golden [animal]\". The sun glittered on the ripples, making the whole lake look like a field of diamonds.\n\nAs twilight fell, the family gathered around a crackling fire to roast [food] under the stars. Laughter echoed through the trees while Grandpa told stories about his own childhood summers. The [color] glow of the embers cast long, flickering shadows against the cabin walls.\n\nBefore bed, they all stood on the dock to witness the [natural_phenomenon] reflecting off the still surface. It was a moment of pure peace that seemed to make time stand still for a while. They knew this weekend would be a treasure they would cherish forever.",
+    "blanks": [
+        {
+            "key": "scent",
+            "hint": "a pleasant smell",
+            "suggestions": [
+                "pine needles",
+                "wild lavender",
+                "fresh rain",
+                "cinnamon rolls",
+                "salty air"
+            ]
+        },
+        {
+            "key": "furniture",
+            "hint": "something you sit on",
+            "suggestions": [
+                "rocking chair",
+                "wicker hammock",
+                "velvet sofa",
+                "swinging bench",
+                "antique stool"
+            ]
+        },
+        {
+            "key": "verb_ing",
+            "hint": "an action ending in -ing",
+            "suggestions": [
+                "gliding",
+                "paddling",
+                "splashing",
+                "racing",
+                "drifting"
+            ]
+        },
+        {
+            "key": "animal",
+            "hint": "a type of creature",
+            "suggestions": [
+                "Sturgeon",
+                "Turtle",
+                "Swan",
+                "Otter",
+                "Dragonfly"
+            ]
+        },
+        {
+            "key": "food",
+            "hint": "a snack or treat",
+            "suggestions": [
+                "marshmallows",
+                "corn on the cob",
+                "giant pretzels",
+                "apple slices",
+                "doughnut holes"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a shade or hue",
+            "suggestions": [
+                "amber",
+                "violet",
+                "crimson",
+                "golden",
+                "indigo"
+            ]
+        },
+        {
+            "key": "natural_phenomenon",
+            "hint": "an event in the sky",
+            "suggestions": [
+                "meteor shower",
+                "lunar eclipse",
+                "Milky Way",
+                "northern lights",
+                "rising moon"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "hobbies_medium_013",
+    "title": "The Lens of Moments",
+    "difficulty": "medium",
+    "template": "Deep in the corner of a dusty hobby shop sat a [mysterious_adjective] camera. Its brass gears hummed with a faint, rhythmic pulse that seemed to call out to any passerby. Picking it up felt like holding a secret waiting to be told.\n\nI pointed the lens at a vintage [hobby_object] resting on the workbench. As I pressed the shutter, a flash of golden light filled the room, and the object began to [magical_action] within the frame. The resulting photograph wasn't a still image, but a living loop of a single, perfect second.\n\nI carried the device [action_adverb] through the park to test its unique capabilities. I aimed it at a falling leaf, capturing not just the descent but the pure [abstract_feeling] of the autumn breeze. Each click of the shutter felt like I was weaving a tapestry made of light and history.\n\nI eventually created a secret gallery inside my [hidden_location] to store these magical snapshots. Walking through the room felt like stepping into a [dreamy_adjective] world where time had no authority. My new hobby had turned from simple photography into a way of preserving the soul of the universe.",
+    "blanks": [
+        {
+            "key": "mysterious_adjective",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "shimmering",
+                "clockwork",
+                "iridescent",
+                "antique",
+                "starlit"
+            ]
+        },
+        {
+            "key": "hobby_object",
+            "hint": "a physical item",
+            "suggestions": [
+                "model airplane",
+                "ceramic vase",
+                "wooden marionette",
+                "woven basket",
+                "painted miniature"
+            ]
+        },
+        {
+            "key": "magical_action",
+            "hint": "verb",
+            "suggestions": [
+                "glow",
+                "whisper",
+                "levitate",
+                "sparkle",
+                "dance"
+            ]
+        },
+        {
+            "key": "action_adverb",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "gracefully",
+                "stealthily",
+                "joyfully",
+                "clumsily",
+                "thoughtfully"
+            ]
+        },
+        {
+            "key": "abstract_feeling",
+            "hint": "an emotion or concept",
+            "suggestions": [
+                "nostalgia",
+                "serenity",
+                "wonder",
+                "excitement",
+                "harmony"
+            ]
+        },
+        {
+            "key": "hidden_location",
+            "hint": "a place in a house",
+            "suggestions": [
+                "treehouse",
+                "basement",
+                "greenhouse",
+                "attic",
+                "bookshelf"
+            ]
+        },
+        {
+            "key": "dreamy_adjective",
+            "hint": "vibe adjective",
+            "suggestions": [
+                "ethereal",
+                "vibrant",
+                "timeless",
+                "enchanted",
+                "celestial"
+            ]
+        }
+    ]
+}

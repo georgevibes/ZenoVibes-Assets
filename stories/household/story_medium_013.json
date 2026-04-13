@@ -1,0 +1,85 @@
+{
+    "id": "household_medium_013",
+    "title": "The Deep Pantry Secret",
+    "difficulty": "medium",
+    "template": "Tucked behind the cereal boxes lies a hidden world of spices and grains. The air smells faintly of [aromatic_noun] and old cedar wood. Dust motes dance in the sliver of light that peeks through the heavy door.\n\nVenturing further back, one might discover a jar of [texture_adjective] honey that hasn't been touched in years. It sits beside a stack of [mystical_items] that seem to hum with a quiet energy. The shelves stretch back much further than the outer walls would suggest.\n\nLegend has it that at the very back, a [pantry_guardian] guards the forgotten tea leaves. This guardian [serene_action] whenever a new bag of flour is added to the collection. It is a peaceful place where time feels like it has slowed to a crawl.\n\nOrganized rows of cans stand like [sturdy_objects] protecting the inner sanctum. To enter the pantry is to [gentle_verb] away from the chaos of the modern kitchen. Every shelf holds a small secret waiting for a curious soul to find it.",
+    "blanks": [
+        {
+            "key": "aromatic_noun",
+            "hint": "a specific scent or herb",
+            "suggestions": [
+                "Lavender",
+                "Star Anise",
+                "Sandalwood",
+                "Peppermint",
+                "Toasted Coconut"
+            ]
+        },
+        {
+            "key": "texture_adjective",
+            "hint": "a word describing a surface or look",
+            "suggestions": [
+                "Glistening",
+                "Velvety",
+                "Crystalline",
+                "Amber-hued",
+                "Silky"
+            ]
+        },
+        {
+            "key": "mystical_items",
+            "hint": "plural decorative objects",
+            "suggestions": [
+                "Crystal Jars",
+                "Silk Ribbons",
+                "Hand-painted Tiles",
+                "Glowing Stones",
+                "Silver Bells"
+            ]
+        },
+        {
+            "key": "pantry_guardian",
+            "hint": "a small creature",
+            "suggestions": [
+                "Dust Bunny King",
+                "Clockwork Cricket",
+                "Lace-winged Sprite",
+                "Sugar Mouse",
+                "Wispy Ghost"
+            ]
+        },
+        {
+            "key": "serene_action",
+            "hint": "verb ending in -s",
+            "suggestions": [
+                "Sways",
+                "Glimmers",
+                "Hums",
+                "Meditates",
+                "Twirls"
+            ]
+        },
+        {
+            "key": "sturdy_objects",
+            "hint": "plural strong items",
+            "suggestions": [
+                "Iron Statues",
+                "Stone Monoliths",
+                "Pillar Candles",
+                "Ancient Sentinels",
+                "Library Books"
+            ]
+        },
+        {
+            "key": "gentle_verb",
+            "hint": "an action verb",
+            "suggestions": [
+                "Drift",
+                "Wander",
+                "Exhale",
+                "Melt",
+                "Glide"
+            ]
+        }
+    ]
+}

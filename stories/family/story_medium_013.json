@@ -1,0 +1,85 @@
+{
+    "id": "family_medium_013",
+    "title": "The Stitched Heritage",
+    "difficulty": "medium",
+    "template": "Deep in the cedar chest lay the [texture_adjective] heirloom that connected generations. It was first started by Great-Aunt [relative_title] during a snowy winter long ago. Every square tells a secret story of the family's journey.\n\nEach patch was [manner_adverb] stitched by hand using threads of many colors. In the corner, there is even a piece of an old [nostalgic_item] tucked away. It smells faintly of lavender and old memories.\n\nNow, the whole family is [activity_verb] under its heavy warmth in the living room. The fireplace casts a [glow_adjective] light across the intricate patterns. It feels as if the quilt is hugging everyone at once.\n\nWe promise to keep this treasure safe for the little ones yet to come. It isn't just fabric; it is a symbol of [core_value] that binds us together. Our history is woven into every single stitch.",
+    "blanks": [
+        {
+            "key": "texture_adjective",
+            "hint": "an adjective describing texture",
+            "suggestions": [
+                "velvety",
+                "crinkled",
+                "luminous",
+                "cloud-like",
+                "kaleidoscopic"
+            ]
+        },
+        {
+            "key": "relative_title",
+            "hint": "a title for a family member or role",
+            "suggestions": [
+                "Matriarch",
+                "Navigator",
+                "Storyteller",
+                "Guardian",
+                "Trailblazer"
+            ]
+        },
+        {
+            "key": "manner_adverb",
+            "hint": "an adverb ending in -ly",
+            "suggestions": [
+                "meticulously",
+                "whimsically",
+                "rhythmically",
+                "tenderly",
+                "vibrantly"
+            ]
+        },
+        {
+            "key": "nostalgic_item",
+            "hint": "a noun (an object from the past)",
+            "suggestions": [
+                "silk ribbon",
+                "velvet waistcoat",
+                "wedding veil",
+                "travel map",
+                "baby blanket"
+            ]
+        },
+        {
+            "key": "activity_verb",
+            "hint": "a verb ending in -ing",
+            "suggestions": [
+                "whispering",
+                "daydreaming",
+                "snuggling",
+                "feasting",
+                "harmonizing"
+            ]
+        },
+        {
+            "key": "glow_adjective",
+            "hint": "an adjective describing light",
+            "suggestions": [
+                "honey-colored",
+                "ethereal",
+                "shimmering",
+                "amber",
+                "celestial"
+            ]
+        },
+        {
+            "key": "core_value",
+            "hint": "a noun representing an abstract concept",
+            "suggestions": [
+                "resilience",
+                "harmony",
+                "adventure",
+                "laughter",
+                "devotion"
+            ]
+        }
+    ]
+}

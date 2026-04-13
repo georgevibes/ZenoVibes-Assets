@@ -1,0 +1,118 @@
+{
+    "id": "zen_hard_022",
+    "title": "The Midnight Silhouette",
+    "difficulty": "hard",
+    "template": "The paper lantern flickers with a [luminous_quality] glow, casting long silhouettes against the shoji screen. A single stick of incense releases a [fragrant_shape] of sandalwood that curls through the still air. Outside, the bamboo garden remains perfectly silent under the watchful moon.\n\nSuddenly, a patch of darkness begins to [graceful_motion] with unexpected elegance across the cedar wall. It does not mirror the swaying branches outside but moves with its own [mystical_descriptor] rhythm. The flickering wick creates a stage for this silent, midnight performance.\n\nThe shape stretches into a [transcendental_form] that seems to breathe in sync with the room's heartbeat. It spins with a [spiritual_adverb] lightness, defying the gravity of the physical world. Every shift in the flame reveals a new, intricate pattern etched in charcoal tones.\n\nWatching the display, your mind becomes as [meditative_state] as a mountain lake at dawn. You realize that the shadow is not an absence of light, but a [metaphorical_noun] of cosmic play. The boundary between the wall and the spirit world feels momentarily thin.\n\nAs the candle finally gutters and dies, the dancer melts into a [textural_darkness] embrace of twilight. Only the soft hum of the night remains to [sacred_action] the space where the figure once stood. Peace settles over the room like a warm, invisible blanket.",
+    "blanks": [
+        {
+            "key": "luminous_quality",
+            "hint": "adjective describing light",
+            "suggestions": [
+                "ethereal",
+                "luminescent",
+                "amber",
+                "hypnotic",
+                "spectral"
+            ]
+        },
+        {
+            "key": "fragrant_shape",
+            "hint": "noun for a wisp or flow",
+            "suggestions": [
+                "spiral",
+                "ribbon",
+                "wisp",
+                "cascade",
+                "veil"
+            ]
+        },
+        {
+            "key": "graceful_motion",
+            "hint": "verb ending in -e or -r (present tense)",
+            "suggestions": [
+                "pirouette",
+                "undulate",
+                "shimmer",
+                "glide",
+                "oscillate"
+            ]
+        },
+        {
+            "key": "mystical_descriptor",
+            "hint": "adjective for a vibe",
+            "suggestions": [
+                "celestial",
+                "enigmatic",
+                "rhythmic",
+                "fluid",
+                "prehistoric"
+            ]
+        },
+        {
+            "key": "transcendental_form",
+            "hint": "a symbolic noun",
+            "suggestions": [
+                "lotus",
+                "crane",
+                "galaxy",
+                "mandala",
+                "monolith"
+            ]
+        },
+        {
+            "key": "spiritual_adverb",
+            "hint": "adverb describing ease",
+            "suggestions": [
+                "ghostlily",
+                "effortlessly",
+                "serenely",
+                "paradoxically",
+                "transcendently"
+            ]
+        },
+        {
+            "key": "meditative_state",
+            "hint": "adjective for clarity",
+            "suggestions": [
+                "pellucid",
+                "tranquil",
+                "immobile",
+                "crystalline",
+                "expansive"
+            ]
+        },
+        {
+            "key": "metaphorical_noun",
+            "hint": "noun (a representation)",
+            "suggestions": [
+                "manifestation",
+                "celebration",
+                "tapestry",
+                "whisper",
+                "echo"
+            ]
+        },
+        {
+            "key": "textural_darkness",
+            "hint": "adjective for the night",
+            "suggestions": [
+                "velvety",
+                "profound",
+                "timeless",
+                "obsidian",
+                "cavernous"
+            ]
+        },
+        {
+            "key": "sacred_action",
+            "hint": "verb (infinitival sense)",
+            "suggestions": [
+                "inhabit",
+                "consecrate",
+                "anchor",
+                "cradle",
+                "bless"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "hobbies_medium_020",
+    "title": "The Infinite Puzzle",
+    "difficulty": "medium",
+    "template": "On a rainy afternoon exactly twelve months ago, a mysterious box arrived on my doorstep. Inside, thousands of [shimmering_adjective] pieces awaited my undivided attention. I cleared the dining table and began the long journey of sorting the edges.\n\nAs the autumn leaves fell and winter frost crept in, the image slowly began to [transform_verb]. I spent many [moody_adjective] nights searching for that one elusive corner piece. My cat often tried to help by batting at the colorful fragments with curiosity.\n\nFriends would visit and stare in [feeling_noun] at the sprawling, intricate landscape. Only a few pieces remained as the anniversary of the box's arrival approached. Each snap of a piece felt like a loud [sound_noun] of triumph. The final gap was shaped exactly like a tiny, missing star.\n\nFinally, I pressed the last [final_adjective] bit into its rightful home. The completed picture glowed with a soft, [magical_noun] that filled the entire room. It wasn't just a simple hobby; it was a year of patience captured forever in cardboard.",
+    "blanks": [
+        {
+            "key": "shimmering_adjective",
+            "hint": "adjective for light or texture",
+            "suggestions": [
+                "iridescent",
+                "crystalline",
+                "phosphorescent",
+                "velveteen",
+                "obsidian"
+            ]
+        },
+        {
+            "key": "transform_verb",
+            "hint": "verb (present tense)",
+            "suggestions": [
+                "manifest",
+                "blossom",
+                "crystallize",
+                "emerge",
+                "ignite"
+            ]
+        },
+        {
+            "key": "moody_adjective",
+            "hint": "adjective for atmosphere",
+            "suggestions": [
+                "serene",
+                "melancholy",
+                "starlit",
+                "hushed",
+                "enchanted"
+            ]
+        },
+        {
+            "key": "feeling_noun",
+            "hint": "noun for an emotion",
+            "suggestions": [
+                "reverence",
+                "disbelief",
+                "wonderment",
+                "astonishment",
+                "ecstasy"
+            ]
+        },
+        {
+            "key": "sound_noun",
+            "hint": "noun for a sound or music",
+            "suggestions": [
+                "resonance",
+                "crescendo",
+                "thrum",
+                "pulsation",
+                "harmony"
+            ]
+        },
+        {
+            "key": "final_adjective",
+            "hint": "adjective describing an object",
+            "suggestions": [
+                "weather-worn",
+                "glistening",
+                "geometric",
+                "imperceptible",
+                "radiant"
+            ]
+        },
+        {
+            "key": "magical_noun",
+            "hint": "noun for a magical glow or essence",
+            "suggestions": [
+                "luminescence",
+                "vibration",
+                "incandescence",
+                "effervescence",
+                "nebula"
+            ]
+        }
+    ]
+}

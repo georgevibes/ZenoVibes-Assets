@@ -1,0 +1,63 @@
+{
+    "id": "family_easy_008",
+    "title": "The First Little Journey",
+    "difficulty": "easy",
+    "template": "The afternoon sun glowed softly across the living room floor. Everyone held their breath as little [baby_nickname] gripped the edge of the velvet sofa. Mom and Dad sat on the rug, cheering with quiet excitement.\n\nWith a [funny_sound], the tiny explorer finally let go of the furniture. One foot moved forward, followed by a shaky second step. The whole room felt filled with [emotion_word] as the distance closed. It was a moment the family would treasure forever.\n\nSuddenly, the baby lunged forward into a pair of [adjective] arms. A chorus of happy laughter echoed through the house. To celebrate this big milestone, the family decided to go get some [favorite_food].",
+    "blanks": [
+        {
+            "key": "baby_nickname",
+            "hint": "a cute nickname",
+            "suggestions": [
+                "Sprout",
+                "Button",
+                "Little Goose",
+                "Peanut",
+                "Tiny Dancer"
+            ]
+        },
+        {
+            "key": "funny_sound",
+            "hint": "a silly noise",
+            "suggestions": [
+                "boing",
+                "plop",
+                "squeak",
+                "wobble",
+                "ta-da"
+            ]
+        },
+        {
+            "key": "emotion_word",
+            "hint": "a feeling or abstract concept",
+            "suggestions": [
+                "pure magic",
+                "golden stardust",
+                "warm sunshine",
+                "shimmering hope",
+                "cozy vibes"
+            ]
+        },
+        {
+            "key": "adjective",
+            "hint": "a descriptive word",
+            "suggestions": [
+                "outstretched",
+                "waiting",
+                "loving",
+                "strong",
+                "eager"
+            ]
+        },
+        {
+            "key": "favorite_food",
+            "hint": "something delicious",
+            "suggestions": [
+                "rainbow sprinkles",
+                "fuzzy peaches",
+                "blueberry pancakes",
+                "giant marshmallows",
+                "creamy cocoa"
+            ]
+        }
+    ]
+}

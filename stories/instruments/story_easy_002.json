@@ -1,0 +1,63 @@
+{
+    "id": "instruments_easy_002",
+    "title": "The Echoing Rhythm",
+    "difficulty": "easy",
+    "template": "The sun dipped below the horizon, painting the sky in shades of violet. From across the rolling hills, a faint [sound_type] echoed through the air. It was rhythmic and steady, like the heartbeat of the earth itself.\n\nCurious, I began to walk toward the [adjective] noise. I reached a clearing where a group of forest creatures had gathered. They were all standing around a large [object] that pulsed with light. Each strike against it sent a wave of peace through my soul.\n\nA small rabbit handed me a pair of [plural_item] to play along. Together, we created a melody that made the trees [verb] with joy. The music lasted until the stars filled the sky.",
+    "blanks": [
+        {
+            "key": "sound_type",
+            "hint": "type of sound",
+            "suggestions": [
+                "thumping",
+                "humming",
+                "ringing",
+                "tapping",
+                "pulsing"
+            ]
+        },
+        {
+            "key": "adjective",
+            "hint": "descriptive word",
+            "suggestions": [
+                "mysterious",
+                "soothing",
+                "energetic",
+                "golden",
+                "vibrant"
+            ]
+        },
+        {
+            "key": "object",
+            "hint": "a physical item",
+            "suggestions": [
+                "hollow log",
+                "crystal bowl",
+                "giant leaf",
+                "silver gong",
+                "wooden stump"
+            ]
+        },
+        {
+            "key": "plural_item",
+            "hint": "more than one object",
+            "suggestions": [
+                "glowing sticks",
+                "magic mallets",
+                "polished stones",
+                "bamboo rods",
+                "soft feathers"
+            ]
+        },
+        {
+            "key": "verb",
+            "hint": "action word",
+            "suggestions": [
+                "dance",
+                "shimmer",
+                "whisper",
+                "glow",
+                "sway"
+            ]
+        }
+    ]
+}

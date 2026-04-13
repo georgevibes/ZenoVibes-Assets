@@ -1,0 +1,118 @@
+{
+    "id": "boating_water_hard_024",
+    "title": "The Silent Horizon",
+    "difficulty": "hard",
+    "template": "The [adjective_ethereal] vapor clings to the surface of the lake like a silken shroud. I push my [noun_watercraft] into the glassy water, hearing only the soft lap of ripples against the hull. The world feels suspended in a state of quiet anticipation.\n\nAs I row further, the fog begins to [verb_movement] around me in rhythmic swirls. Suddenly, a [adjective_radiant] light pulses from beneath the depths, illuminating the submerged reeds. I pause, letting the oars drip with cold, crystal droplets.\n\nOut of the grey void, a [noun_ancient_object] appears, floating effortlessly amidst the reeds. I reach out a hand, feeling the [adjective_sensory] texture of the air as the temperature drops. Time seems to stretch until it is as thin as a gossamer thread.\n\nThe sun finally [verb_action_celestial] through the haze, turning the mist into a sea of liquid gold. My heart beats with a [noun_feeling_abstract], realizing that this moment is a fleeting gift from the spirits of the water. I inhale the scent of damp moss and ancient currents.\n\nSlowly, the [noun_natural_feature] reveals itself again as the fog retreats to the distant shoreline. I navigate my way back, feeling more [adjective_emotional_state] than when I first set out. The morning’s secret remains tucked safely within the [noun_enclosed_space] of my memory.",
+    "blanks": [
+        {
+            "key": "adjective_ethereal",
+            "hint": "adjective (magical/otherworldly)",
+            "suggestions": [
+                "luminescent",
+                "opalescent",
+                "ghostly",
+                "shimmering",
+                "nebulous"
+            ]
+        },
+        {
+            "key": "noun_watercraft",
+            "hint": "type of boat",
+            "suggestions": [
+                "coracle",
+                "skiff",
+                "catamaran",
+                "kayak",
+                "gondola"
+            ]
+        },
+        {
+            "key": "verb_movement",
+            "hint": "verb (motion)",
+            "suggestions": [
+                "undulate",
+                "pirouette",
+                "serpentine",
+                "congeal",
+                "oscillate"
+            ]
+        },
+        {
+            "key": "adjective_radiant",
+            "hint": "adjective (glowing)",
+            "suggestions": [
+                "phosphorescent",
+                "incandescent",
+                "iridescent",
+                "subterranean",
+                "spectral"
+            ]
+        },
+        {
+            "key": "noun_ancient_object",
+            "hint": "noun (old item)",
+            "suggestions": [
+                "monolith",
+                "relic",
+                "sundial",
+                "figurehead",
+                "astrolabe"
+            ]
+        },
+        {
+            "key": "adjective_sensory",
+            "hint": "adjective (feeling/texture)",
+            "suggestions": [
+                "velvety",
+                "viscous",
+                "bracing",
+                "electric",
+                "gelid"
+            ]
+        },
+        {
+            "key": "verb_action_celestial",
+            "hint": "verb (light movement)",
+            "suggestions": [
+                "lacerates",
+                "pierces",
+                "incinerates",
+                "dissolves",
+                "fractures"
+            ]
+        },
+        {
+            "key": "noun_feeling_abstract",
+            "hint": "noun (an emotion)",
+            "suggestions": [
+                "reverence",
+                "trepidation",
+                "euphoria",
+                "solitude",
+                "melancholy"
+            ]
+        },
+        {
+            "key": "adjective_emotional_state",
+            "hint": "adjective (feeling)",
+            "suggestions": [
+                "enlightened",
+                "rejuvenated",
+                "pensive",
+                "bewitched",
+                "anchored"
+            ]
+        },
+        {
+            "key": "noun_enclosed_space",
+            "hint": "noun (a container or chamber)",
+            "suggestions": [
+                "sanctum",
+                "labyrinth",
+                "vault",
+                "alcove",
+                "tabernacle"
+            ]
+        }
+    ]
+}

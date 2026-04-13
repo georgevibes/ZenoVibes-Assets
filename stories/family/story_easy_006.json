@@ -1,0 +1,63 @@
+{
+    "id": "family_easy_006",
+    "title": "The Glowing Holiday Feast",
+    "difficulty": "easy",
+    "template": "The whole family gathered around the long wooden table for our annual holiday feast. Everyone brought their favorite [adjective_1] dish to share with the group. My favorite aunt arrived late, carrying a platter that smelled like [scent_1].\n\nThe centerpiece of the table was a massive [food_item] that glistened under the warm candlelight. My cousin started a funny game where we had to [verb_1] while passing the rolls. Laughter filled the room as the fireplace crackled softly in the background.\n\nAfter the main course, we all moved to the living room to share our [noun_1] about the past year. Grandfather told stories that made us feel warm and cozy inside. The holiday spirit truly filled every corner of our home.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive word",
+            "suggestions": [
+                "Sparkly",
+                "Gigantic",
+                "Golden",
+                "Sizzling",
+                "Magic"
+            ]
+        },
+        {
+            "key": "scent_1",
+            "hint": "a smell",
+            "suggestions": [
+                "Cinnamon",
+                "Fresh Pine",
+                "Toasted Marshmallows",
+                "Peppermint",
+                "Lavender"
+            ]
+        },
+        {
+            "key": "food_item",
+            "hint": "a type of food",
+            "suggestions": [
+                "Pumpkin Pie",
+                "Roasted Turkey",
+                "Green Casserole",
+                "Bread Pudding",
+                "Fancy Fruitcake"
+            ]
+        },
+        {
+            "key": "verb_1",
+            "hint": "action word",
+            "suggestions": [
+                "Wiggle",
+                "Whistle",
+                "Giggle",
+                "Sing",
+                "Dance"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "plural noun",
+            "suggestions": [
+                "Dreams",
+                "Secrets",
+                "Memories",
+                "Hopes",
+                "Jokes"
+            ]
+        }
+    ]
+}

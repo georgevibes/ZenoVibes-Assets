@@ -1,0 +1,118 @@
+{
+    "id": "family_hard_028",
+    "title": "The Botanical Union",
+    "difficulty": "hard",
+    "template": "Under the canopy of the [adjective_1] willow trees, the family assembled for the celebration of a lifetime. The air smelled of [scent] and ancient moss, creating an ethereal backdrop for the ceremony. Sunlight filtered through the heavy branches, casting golden patterns upon the ancient stone walkway.\n\nGreat-Aunt Martha clutched her [object] tightly as she found her seat near the front of the altar. Cousins from across the globe shared [adverb] whispers about the intricate floral arrangements. Everyone felt a deep sense of connection as the strings began to swell with music.\n\nThe couple walked down the aisle, stepping over a carpet of [plural_noun_1] scattered by the youngest cousins. They reached the altar, which was elegantly decorated with shimmering [material] accents. The officiant spoke of family as a root system that anchors us against any storm.\n\nDuring the reception, the family toasted with glasses of [liquid] while the musicians played a lively tune. Uncle Bob started a/an [dance_style] routine that had everyone laughing and joining in. The joy was so palpable that even the garden's birds seemed to chirp along in rhythmic harmony.\n\nAs the sun began to [verb], the garden transformed into a bioluminescent wonderland of lanterns. The family shared one final moment of celebration before the carriage arrived at the gate. It was a day that would be etched into their collective [body_part] for generations to come.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "resplendent",
+                "pellucid",
+                "effervescent",
+                "labyrinthine",
+                "vermeil"
+            ]
+        },
+        {
+            "key": "scent",
+            "hint": "a specific smell (noun)",
+            "suggestions": [
+                "petrichor",
+                "frankincense",
+                "bergamot",
+                "sandalwood",
+                "honeysuckle"
+            ]
+        },
+        {
+            "key": "object",
+            "hint": "a rare vintage item",
+            "suggestions": [
+                "phylactery",
+                "reticule",
+                "daguerreotype",
+                "talisman",
+                "metronome"
+            ]
+        },
+        {
+            "key": "adverb",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "stentoriously",
+                "furtively",
+                "mellifluously",
+                "vivaciously",
+                "obsequiously"
+            ]
+        },
+        {
+            "key": "plural_noun_1",
+            "hint": "plural noun",
+            "suggestions": [
+                "chrysanthemums",
+                "effigies",
+                "gossamers",
+                "trinkets",
+                "keepsakes"
+            ]
+        },
+        {
+            "key": "material",
+            "hint": "a luxurious substance",
+            "suggestions": [
+                "iridescent silk",
+                "burnished copper",
+                "obsidian",
+                "mother-of-pearl",
+                "alabaster"
+            ]
+        },
+        {
+            "key": "liquid",
+            "hint": "an exotic beverage",
+            "suggestions": [
+                "ambrosia",
+                "chartreuse",
+                "mead",
+                "rosolio",
+                "elixir"
+            ]
+        },
+        {
+            "key": "dance_style",
+            "hint": "style of movement",
+            "suggestions": [
+                "bacchanalian",
+                "uninhibited",
+                "ecstatic",
+                "rhapsodic",
+                "interpretive"
+            ]
+        },
+        {
+            "key": "verb",
+            "hint": "atmospheric verb",
+            "suggestions": [
+                "evanesce",
+                "oscillate",
+                "subside",
+                "transfigure",
+                "congeal"
+            ]
+        },
+        {
+            "key": "body_part",
+            "hint": "metaphorical location",
+            "suggestions": [
+                "consciousness",
+                "amygdala",
+                "chronicles",
+                "marrow",
+                "legacy"
+            ]
+        }
+    ]
+}

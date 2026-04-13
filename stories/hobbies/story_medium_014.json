@@ -1,0 +1,85 @@
+{
+    "id": "hobbies_medium_014",
+    "title": "The Forgotten Prize",
+    "difficulty": "medium",
+    "template": "Deep in the attic of a [dusty_adjective] shop, an enthusiast searched for a secret treasure. Their collection was already impressive, but one piece was missing. Suddenly, behind a stack of old crates, something [shimmer_verb] brightly in the shadows.\n\nIt was a [unique_item] of incredible rarity, rumored to be lost for decades. The collector's heart began to beat with pure excitement. They reached out with [trembling_adjective] fingers to touch the cool surface.\n\nThe craftsmanship was unlike anything they had ever seen before. It hummed with a [mystical_color] glow that seemed to light up the dark corner. Every detail told a story of a distant, magical land. It was exactly the [object_category] they had been dreaming of finding.\n\nBringing the prize home, the collector placed it on the highest shelf. The entire room felt more [vibrant_adverb] once the piece was in its rightful place. Their hobby had finally led them to a truly legendary discovery.",
+    "blanks": [
+        {
+            "key": "dusty_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "forgotten",
+                "enchanted",
+                "cluttered",
+                "musty",
+                "ancient"
+            ]
+        },
+        {
+            "key": "shimmer_verb",
+            "hint": "verb (past tense)",
+            "suggestions": [
+                "sparkled",
+                "glimmered",
+                "pulsed",
+                "glowed",
+                "twinkled"
+            ]
+        },
+        {
+            "key": "unique_item",
+            "hint": "noun (an object)",
+            "suggestions": [
+                "mechanical beetle",
+                "crystal teapot",
+                "silver compass",
+                "wooden whistle",
+                "starlit coin"
+            ]
+        },
+        {
+            "key": "trembling_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "shaky",
+                "reverent",
+                "eager",
+                "delicate",
+                "clumsy"
+            ]
+        },
+        {
+            "key": "mystical_color",
+            "hint": "color or texture",
+            "suggestions": [
+                "cerulean",
+                "golden",
+                "iridescent",
+                "lavender",
+                "emerald"
+            ]
+        },
+        {
+            "key": "object_category",
+            "hint": "noun (type of item)",
+            "suggestions": [
+                "relic",
+                "artifact",
+                "masterpiece",
+                "trinket",
+                "treasure"
+            ]
+        },
+        {
+            "key": "vibrant_adverb",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "harmoniously",
+                "magically",
+                "peacefully",
+                "radiantly",
+                "gracefully"
+            ]
+        }
+    ]
+}

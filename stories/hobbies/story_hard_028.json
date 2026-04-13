@@ -1,0 +1,118 @@
+{
+    "id": "hobbies_hard_028",
+    "title": "The Rare Discovery",
+    "difficulty": "hard",
+    "template": "The mist rolled over the [geographical_feature] like a silken blanket. Silence was heavy, broken only by the distant [ambient_sound] of the waking forest. Every leaf was coated in a layer of crystalline dew, sparkling under the first rays of light.\n\nI adjusted my [precision_instrument] and waited patiently in the thicket. Seeking the legendary bird known as the [mystical_creature_adjective] Warbler requires immense dedication. The air smelled of damp earth and anticipation.\n\nSuddenly, a flash of [vibrant_color] darted through the canopy. My heart began to [vigorous_verb] against my ribs in pure excitement. I barely dared to blink as the creature hovered in mid-air.\n\nIt landed softly on a branch of the ancient [tree_species] just feet away. The bird began to [peculiar_action], its feathers shimmering with an iridescent sheen. Its presence felt like a secret shared between the forest and myself.\n\nJust as quickly as it had arrived, the creature took flight toward the [celestial_direction]. I felt a sense of [profound_emotion] wash over me as I lowered my gear. This was the moment every watcher dreams of capturing.",
+    "blanks": [
+        {
+            "key": "geographical_feature",
+            "hint": "a distinct landform",
+            "suggestions": [
+                "fjord",
+                "mesa",
+                "crag",
+                "archipelago",
+                "glade"
+            ]
+        },
+        {
+            "key": "ambient_sound",
+            "hint": "a complex sound",
+            "suggestions": [
+                "reverberation",
+                "susurrus",
+                "staccato",
+                "pulsation",
+                "harmonic"
+            ]
+        },
+        {
+            "key": "precision_instrument",
+            "hint": "advanced technical tool",
+            "suggestions": [
+                "spectrometer",
+                "astrolabe",
+                "tele-monocular",
+                "chronometer",
+                "theodolite"
+            ]
+        },
+        {
+            "key": "mystical_creature_adjective",
+            "hint": "ethereal descriptor",
+            "suggestions": [
+                "Glistening",
+                "Spectral",
+                "Ephemeral",
+                "Nebulous",
+                "Luminescent"
+            ]
+        },
+        {
+            "key": "vibrant_color",
+            "hint": "exotic hue",
+            "suggestions": [
+                "Chartreuse",
+                "Vermillion",
+                "Ultramarine",
+                "Amaranth",
+                "Celeste"
+            ]
+        },
+        {
+            "key": "vigorous_verb",
+            "hint": "intense physical action",
+            "suggestions": [
+                "palpitate",
+                "reverberate",
+                "oscillate",
+                "galvanize",
+                "thrum"
+            ]
+        },
+        {
+            "key": "tree_species",
+            "hint": "rare tree type",
+            "suggestions": [
+                "Baobab",
+                "Jacaranda",
+                "Banyan",
+                "Juniper",
+                "Tamarack"
+            ]
+        },
+        {
+            "key": "peculiar_action",
+            "hint": "unusual movement",
+            "suggestions": [
+                "levitate",
+                "undulate",
+                "incandesce",
+                "choreograph",
+                "recalibrate"
+            ]
+        },
+        {
+            "key": "celestial_direction",
+            "hint": "astronomical point",
+            "suggestions": [
+                "Zenith",
+                "Nadir",
+                "Event Horizon",
+                "Meridian",
+                "Solstice"
+            ]
+        },
+        {
+            "key": "profound_emotion",
+            "hint": "deep state of being",
+            "suggestions": [
+                "Enlightenment",
+                "Serendipity",
+                "Euphoria",
+                "Transcendence",
+                "Solace"
+            ]
+        }
+    ]
+}

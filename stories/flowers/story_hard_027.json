@@ -1,0 +1,118 @@
+{
+    "id": "flowers_hard_027",
+    "title": "The Botanist's Keepsake",
+    "difficulty": "hard",
+    "template": "Deep within the [adjective_1] glen, the emerald fronds of the ancient ferns swayed in the morning breeze. I knelt on the mossy ground to select a specimen that looked particularly [adjective_2]. Every leaf seemed to vibrate with a secret, green energy that pulsed through the earth.\n\nTo preserve this fleeting beauty, I carried the fronds back to my [noun_3] where the heavy volumes waited. Selecting a tome bound in [material_4], I prepared the parchment layers with focused intent. The air smelled faintly of old paper and wildflower honey as I worked.\n\nWith [adverb_5] care, I laid each delicate stem across the absorbent surface. It was vital to ensure that no edges were [verb_past_6] during the transition. The pressing of the ferns required a meditative state of mind and a steady hand.\n\nMonths passed as the weight of knowledge [verb_7] the botanical life into thin, translucent art. Occasionally, a [creature_8] would flutter by the window, curious about the stillness within the workshop. Patience is the hidden ingredient in every masterpiece of nature.\n\nFinally, I opened the book to find a [adjective_9] silhouette perfectly etched onto the page. I decided to gift this captured memory to a [noun_10] who appreciated the quiet wonders of the woods. The spirit of the forest now lived forever in ink and fiber.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "luminescent",
+                "forgotten",
+                "velvety",
+                "primordial",
+                "shimmering"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "impressive adjective",
+            "suggestions": [
+                "kaleidoscopic",
+                "majestic",
+                "symmetrical",
+                "ethereal",
+                "resplendent"
+            ]
+        },
+        {
+            "key": "noun_3",
+            "hint": "a workspace or room",
+            "suggestions": [
+                "sanctuary",
+                "atelier",
+                "observatory",
+                "solarium",
+                "conservatory"
+            ]
+        },
+        {
+            "key": "material_4",
+            "hint": "a rich or old material",
+            "suggestions": [
+                "vellum",
+                "obsidian",
+                "crushed velvet",
+                "weathered oak",
+                "birch bark"
+            ]
+        },
+        {
+            "key": "adverb_5",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "meticulously",
+                "reverently",
+                "rhythmically",
+                "exquisitely",
+                "unwaveringly"
+            ]
+        },
+        {
+            "key": "verb_past_6",
+            "hint": "past tense verb (negative outcome)",
+            "suggestions": [
+                "crumpled",
+                "obliterated",
+                "skewed",
+                "fractured",
+                "entangled"
+            ]
+        },
+        {
+            "key": "verb_7",
+            "hint": "past tense verb (transformation)",
+            "suggestions": [
+                "transmuted",
+                "compressed",
+                "distilled",
+                "crystallized",
+                "ossified"
+            ]
+        },
+        {
+            "key": "creature_8",
+            "hint": "magical or small animal",
+            "suggestions": [
+                "dragonfly",
+                "wood-nymph",
+                "hummingbird",
+                "glowing beetle",
+                "will-o'-the-wisp"
+            ]
+        },
+        {
+            "key": "adjective_9",
+            "hint": "delicate adjective",
+            "suggestions": [
+                "diaphanous",
+                "gossamer",
+                "scintillating",
+                "ghostly",
+                "spectral"
+            ]
+        },
+        {
+            "key": "noun_10",
+            "hint": "type of person",
+            "suggestions": [
+                "wanderer",
+                "archivist",
+                "philosopher",
+                "mystic",
+                "cartographer"
+            ]
+        }
+    ]
+}

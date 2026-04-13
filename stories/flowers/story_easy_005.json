@@ -1,0 +1,63 @@
+{
+    "id": "flowers_easy_005",
+    "title": "The Petal Trail",
+    "difficulty": "easy",
+    "template": "Deep in the heart of the meadow, a tiny collector searched for the perfect bloom. They carried a [adjective_1] basket made of woven grass and starlight. Every step they took felt like a gentle dance with the wind. The sunlight warmed their wings as they moved through the tall blades.\n\nThe collector spotted a rare flower that shimmered with a [color_1] glow. Carefully, they reached out to pluck a single petal that felt as soft as a [noun_1]. The air smelled like sweet honey and ancient dreams.\n\nBy the time the sun began to set, the basket was overflowing with treasures. They would use these petals to build a [noun_2] for the local butterflies. It was a truly [adjective_2] day in the floral kingdom.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "describing word",
+            "suggestions": [
+                "sparkling",
+                "whimsical",
+                "woven",
+                "ornate",
+                "mystical"
+            ]
+        },
+        {
+            "key": "color_1",
+            "hint": "a bright color",
+            "suggestions": [
+                "golden",
+                "violet",
+                "rainbow",
+                "indigo",
+                "silver"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "something soft",
+            "suggestions": [
+                "cloud",
+                "marshmallow",
+                "feather",
+                "whisper",
+                "kitten"
+            ]
+        },
+        {
+            "key": "noun_2",
+            "hint": "a building or place",
+            "suggestions": [
+                "castle",
+                "playground",
+                "hammock",
+                "throne",
+                "library"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "a happy feeling",
+            "suggestions": [
+                "wondrous",
+                "peaceful",
+                "sparkling",
+                "magical",
+                "joyful"
+            ]
+        }
+    ]
+}

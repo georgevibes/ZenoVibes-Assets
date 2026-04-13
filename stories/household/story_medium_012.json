@@ -1,0 +1,85 @@
+{
+    "id": "household_medium_012",
+    "title": "The Sun-Drenched Clothesline",
+    "difficulty": "medium",
+    "template": "The sun rose over the hills, casting a [adjective] glow across the backyard garden. I hauled my heavy basket of clothes to the porch, noticing a stray [unusual_item] tucked between the white towels. It was the perfect moment to start the day's chores under the clear blue sky.\n\nI began [movement_verb_ing] across the grass toward the long, sturdy clothesline. Each damp shirt was pinned [adverb] to ensure the breeze wouldn't carry it away into the neighbor's yard. The rhythmic snap of the fabric against the wind sounded like soft, wooden percussion.\n\nWhile the sun worked its magic, a tiny [creature] fluttered down to rest on a lace pillowcase. The garden felt alive with the hum of bees and the warmth of the light. Time seemed to slow down as the moisture evaporated into the shimmering air.\n\nBy late afternoon, the laundry carried the distinct aroma of [scent] and fresh summer air. I folded the warm fabrics into neat stacks, feeling a deep sense of domestic peace. My heart felt like a collection of [plural_noun], light and ready for the week ahead.",
+    "blanks": [
+        {
+            "key": "adjective",
+            "hint": "a descriptive word",
+            "suggestions": [
+                "luminous",
+                "golden",
+                "shimmering",
+                "velvet",
+                "ethereal"
+            ]
+        },
+        {
+            "key": "unusual_item",
+            "hint": "something you wouldn't expect in laundry",
+            "suggestions": [
+                "rubber duck",
+                "crystal shard",
+                "silk ribbon",
+                "silver key",
+                "peacock feather"
+            ]
+        },
+        {
+            "key": "movement_verb_ing",
+            "hint": "an action ending in -ing",
+            "suggestions": [
+                "waltzing",
+                "floating",
+                "skipping",
+                "gliding",
+                "sashaying"
+            ]
+        },
+        {
+            "key": "adverb",
+            "hint": "a word describing how you do something",
+            "suggestions": [
+                "delicately",
+                "strategically",
+                "triumphantly",
+                "rhythmically",
+                "playfully"
+            ]
+        },
+        {
+            "key": "creature",
+            "hint": "a small living thing",
+            "suggestions": [
+                "forest sprite",
+                "dragonfly king",
+                "glowing moth",
+                "tiny phoenix",
+                "garden gnome"
+            ]
+        },
+        {
+            "key": "scent",
+            "hint": "a wonderful smell",
+            "suggestions": [
+                "wild jasmine",
+                "toasted marshmallows",
+                "starlight",
+                "citrus honey",
+                "ancient cedar"
+            ]
+        },
+        {
+            "key": "plural_noun",
+            "hint": "more than one object",
+            "suggestions": [
+                "soaring kites",
+                "fluffy clouds",
+                "sparkling jewels",
+                "dancing leaves",
+                "singing bells"
+            ]
+        }
+    ]
+}

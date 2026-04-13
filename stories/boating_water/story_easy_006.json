@@ -1,0 +1,63 @@
+{
+    "id": "boating_water_easy_006",
+    "title": "The River Rush",
+    "difficulty": "easy",
+    "template": "We pushed our [vessel_type] into the crystal clear river. The morning sun danced on the ripples, making the water look like diamonds. We knew the rapids were ahead, but the air felt cool and refreshing.\n\nSuddenly, we heard a loud [sound_effect] echoing off the canyon walls. The water began to churn with a bright [color] foam as we picked up speed. Everyone held on tight to their oars, smiling at the refreshing spray. It felt like we were flying over the liquid surface.\n\nWe splashed through the last wave and glided into a peaceful [nature_place]. A family of [animal_plural] watched us from the mossy bank. We celebrated our successful journey with a joyful song.",
+    "blanks": [
+        {
+            "key": "vessel_type",
+            "hint": "a type of boat",
+            "suggestions": [
+                "kayak",
+                "inflatable raft",
+                "wooden canoe",
+                "river tube",
+                "paddleboard"
+            ]
+        },
+        {
+            "key": "sound_effect",
+            "hint": "a noise or sound",
+            "suggestions": [
+                "whoosh",
+                "thundering roar",
+                "rhythmic drumbeat",
+                "giant splash",
+                "gentle hum"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "neon orange",
+                "sparkling sapphire",
+                "frothy white",
+                "deep purple",
+                "shimmering gold"
+            ]
+        },
+        {
+            "key": "nature_place",
+            "hint": "a calm outdoor spot",
+            "suggestions": [
+                "hidden cove",
+                "sunlit bay",
+                "misty grotto",
+                "flower-filled meadow",
+                "quiet sanctuary"
+            ]
+        },
+        {
+            "key": "animal_plural",
+            "hint": "a group of animals",
+            "suggestions": [
+                "river otters",
+                "blue herons",
+                "painted turtles",
+                "glittering dragonflies",
+                "busy beavers"
+            ]
+        }
+    ]
+}

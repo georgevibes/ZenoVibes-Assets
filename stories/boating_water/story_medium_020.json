@@ -1,0 +1,85 @@
+{
+    "id": "boating_water_medium_020",
+    "title": "Voyage to the Gilded Shores",
+    "difficulty": "medium",
+    "template": "The sun dipped low as our small vessel glided across the shimmering sea. We were searching for the legendary islands where the sands supposedly [glow_verb] like pure treasure. The [wave_adjective] waves hummed a melody that guided us further from the shore.\n\nAs the mist cleared, we spotted a distant shore reflecting a brilliant [glow_color] light. We dropped the [heavy_object] into the shallow turquoise depths to secure our position. Exotic birds with feathers of silk circled above, calling out to the explorers. It felt like we had entered a dream where time had simply stopped.\n\nStepping onto the beach, the ground felt surprisingly [texture_adjective] beneath our bare feet. Scattered among the golden dunes were [shiny_objects] that sparkled with an inner fire. We wandered through a grove of trees that swayed without any wind at all.\n\nDeep within the island's heart, we discovered a spring that flowed with [mystic_liquid]. After filling our flasks, we felt a sense of profound peace wash over us. We sailed home knowing that the true gold was the memory of this hidden paradise.",
+    "blanks": [
+        {
+            "key": "glow_verb",
+            "hint": "verb (base form)",
+            "suggestions": [
+                "shimmer",
+                "radiate",
+                "twinkle",
+                "pulsate",
+                "glisten"
+            ]
+        },
+        {
+            "key": "wave_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "rhythmic",
+                "crystalline",
+                "velvety",
+                "serene",
+                "musical"
+            ]
+        },
+        {
+            "key": "glow_color",
+            "hint": "color",
+            "suggestions": [
+                "amber",
+                "iridescent",
+                "saffron",
+                "opalescent",
+                "goldenrod"
+            ]
+        },
+        {
+            "key": "heavy_object",
+            "hint": "noun",
+            "suggestions": [
+                "anchor",
+                "statue",
+                "chest",
+                "compass",
+                "totem"
+            ]
+        },
+        {
+            "key": "texture_adjective",
+            "hint": "adjective (texture)",
+            "suggestions": [
+                "spongy",
+                "powdery",
+                "warm",
+                "vibrant",
+                "ethereal"
+            ]
+        },
+        {
+            "key": "shiny_objects",
+            "hint": "plural noun",
+            "suggestions": [
+                "gemstones",
+                "seashells",
+                "crystals",
+                "lanterns",
+                "relics"
+            ]
+        },
+        {
+            "key": "mystic_liquid",
+            "hint": "noun (a type of liquid)",
+            "suggestions": [
+                "melted honey",
+                "liquid starlight",
+                "silver dew",
+                "rainbow mist",
+                "sweet nectar"
+            ]
+        }
+    ]
+}

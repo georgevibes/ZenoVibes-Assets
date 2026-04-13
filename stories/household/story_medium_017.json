@@ -1,0 +1,85 @@
+{
+    "id": "household_medium_017",
+    "title": "The Secret Sanctuary",
+    "difficulty": "medium",
+    "template": "Tucked away behind the heavy laundry room door lies a hidden entrance. It leads to a room filled with [grand_adjective] mahogany shelves that reach the very ceiling. Within this space, the [sensory_noun] of aged parchment fills the air. \n\nRows of leather-bound books stand in [quiet_adjective] silence, waiting for a curious reader. Each spine is embossed with a tiny [mystical_noun] that shimmers under the soft lamp light. You run your fingers along the covers, feeling the history etched into the grain.\n\nSuddenly, one thick volume begins to [gentle_verb] as you reach toward it. You pull it from the shelf and a [magical_color] spark flies out from between the pages. The room seems to tilt as the library shares its oldest secret.\n\nYou settle into a comfortable chair and let the rhythm of the words carry you away. The usual household noises fade into a distant, peaceful hum. It is truly the most [vibe_adjective] afternoon you have ever spent.",
+    "blanks": [
+        {
+            "key": "grand_adjective",
+            "hint": "adjective for something large or impressive",
+            "suggestions": [
+                "towering",
+                "ornate",
+                "limitless",
+                "majestic",
+                "carved"
+            ]
+        },
+        {
+            "key": "sensory_noun",
+            "hint": "noun related to senses",
+            "suggestions": [
+                "aroma",
+                "whisper",
+                "echo",
+                "glow",
+                "essence"
+            ]
+        },
+        {
+            "key": "quiet_adjective",
+            "hint": "adjective for a quiet mood",
+            "suggestions": [
+                "stately",
+                "reverent",
+                "mysterious",
+                "solemn",
+                "peaceful"
+            ]
+        },
+        {
+            "key": "mystical_noun",
+            "hint": "a magical object or symbol",
+            "suggestions": [
+                "constellation",
+                "phoenix",
+                "golden key",
+                "crescent moon",
+                "dragon scale"
+            ]
+        },
+        {
+            "key": "gentle_verb",
+            "hint": "a soft action verb",
+            "suggestions": [
+                "hum",
+                "thrum",
+                "whisper",
+                "glow",
+                "chime"
+            ]
+        },
+        {
+            "key": "magical_color",
+            "hint": "a vibrant or unusual color",
+            "suggestions": [
+                "emerald",
+                "sapphire",
+                "amber",
+                "violet",
+                "silver"
+            ]
+        },
+        {
+            "key": "vibe_adjective",
+            "hint": "adjective for a positive feeling or atmosphere",
+            "suggestions": [
+                "enchanting",
+                "serene",
+                "whimsical",
+                "transcendent",
+                "soulful"
+            ]
+        }
+    ]
+}

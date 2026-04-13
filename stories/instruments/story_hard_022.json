@@ -1,0 +1,118 @@
+{
+    "id": "instruments_hard_022",
+    "title": "The Resonance of Silver",
+    "difficulty": "hard",
+    "template": "The [adjective_atmosphere] concert hall waited in breathless anticipation. Resting upon a velvet [noun_instrument_stand], the small silver triangle caught the spotlight. Its player, a master of timing, stood poised with a slender metal wand.\n\nThe strings began to [verb_movement] like falling leaves in a gentle breeze. Every musician watched the conductor, who gestured [adverb_manner] toward the percussion section. The air grew thick with a melodic tension that only silence could break.\n\nWith a single flick of the wrist, a [adjective_sound_quality] note sliced through the harmony. A sudden [noun_magical_effect] rippled across the room, turning the heavy air into liquid crystal. The ting was not just a sound; it was a physical sensation.\n\nThe audience [verb_past_tense] in their seats, feeling a surge of pure [noun_abstract_feeling]. Time seemed to stop as the vibration traveled through the floorboards and into their very bones. No one dared to exhale until the final shimmer finally faded into the rafters.\n\nA [adjective_texture] silence reclaimed the stage, more profound than the one that had come before. The triangle hung there, now a simple piece of metal once again, yet holding the weight of a [noun_cosmic_element]. It was the most perfect moment of the entire symphony.",
+    "blanks": [
+        {
+            "key": "adjective_atmosphere",
+            "hint": "adjective (mood/setting)",
+            "suggestions": [
+                "ethereal",
+                "cavernous",
+                "starlit",
+                "hushed",
+                "opulent"
+            ]
+        },
+        {
+            "key": "noun_instrument_stand",
+            "hint": "noun (a place to rest something)",
+            "suggestions": [
+                "pedestal",
+                "altar",
+                "cushion",
+                "lectern",
+                "scaffold"
+            ]
+        },
+        {
+            "key": "verb_movement",
+            "hint": "verb (action/motion)",
+            "suggestions": [
+                "shimmer",
+                "oscillate",
+                "flutter",
+                "undulate",
+                "swirl"
+            ]
+        },
+        {
+            "key": "adverb_manner",
+            "hint": "adverb (describing an action)",
+            "suggestions": [
+                "imperceptibly",
+                "rhythmically",
+                "cautiously",
+                "elegantly",
+                "hypnotically"
+            ]
+        },
+        {
+            "key": "adjective_sound_quality",
+            "hint": "adjective (describing a sound)",
+            "suggestions": [
+                "incisive",
+                "crystalline",
+                "piercing",
+                "luminous",
+                "metallic"
+            ]
+        },
+        {
+            "key": "noun_magical_effect",
+            "hint": "noun (a visual phenomenon)",
+            "suggestions": [
+                "aurora",
+                "shockwave",
+                "prism",
+                "halo",
+                "luminescence"
+            ]
+        },
+        {
+            "key": "verb_past_tense",
+            "hint": "verb (past tense action)",
+            "suggestions": [
+                "transfigured",
+                "levitated",
+                "dissolved",
+                "crystallized",
+                "swooned"
+            ]
+        },
+        {
+            "key": "noun_abstract_feeling",
+            "hint": "noun (an emotion or state)",
+            "suggestions": [
+                "serenity",
+                "euphoria",
+                "nostalgia",
+                "wonderment",
+                "transcendence"
+            ]
+        },
+        {
+            "key": "adjective_texture",
+            "hint": "adjective (tactile/texture)",
+            "suggestions": [
+                "velvety",
+                "gossamer",
+                "obsidian",
+                "translucent",
+                "grainy"
+            ]
+        },
+        {
+            "key": "noun_cosmic_element",
+            "hint": "noun (space/cosmic object)",
+            "suggestions": [
+                "nebula",
+                "supernova",
+                "constellation",
+                "comet",
+                "pulsar"
+            ]
+        }
+    ]
+}

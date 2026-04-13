@@ -1,0 +1,85 @@
+{
+    "id": "boating_water_medium_012",
+    "title": "The Frozen Passage",
+    "difficulty": "medium",
+    "template": "The [vessel_adjective] ship pushed its heavy bow into the frozen expanse. Each mile forward was a testament to the crew's determination in the biting cold. The horizon shimmered with a pale light as they carved a path through the [frozen_obstacle].\n\nSuddenly, a loud [breaking_sound] echoed across the silent tundra. The massive sheets of ice buckled and groaned under the weight of the steel hull. Beneath the surface, the [water_description] depths waited to be revealed to the world once more.\n\nA lonely [arctic_animal] watched from a distant floe, tilting its head in quiet curiosity. It seemed unfazed by the mechanical giant disrupting the absolute winter stillness. The vessel continued to glide [movement_adverb] through the narrow channel it had just created.\n\nFinally, the jagged white landscape gave way to the vast, open sea. The crew gathered on the deck to witness the magical transition from frost to fluid. They had finally reached the legendary [final_destination], a sight that warmed their spirits despite the frost.",
+    "blanks": [
+        {
+            "key": "vessel_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "mighty",
+                "sturdy",
+                "glimmering",
+                "dauntless",
+                "vibrant"
+            ]
+        },
+        {
+            "key": "frozen_obstacle",
+            "hint": "plural noun or phrase",
+            "suggestions": [
+                "crystal sheets",
+                "diamond crust",
+                "glassy layers",
+                "frosty barriers",
+                "mirror worlds"
+            ]
+        },
+        {
+            "key": "breaking_sound",
+            "hint": "noun (a sound)",
+            "suggestions": [
+                "crunch",
+                "thrum",
+                "shatter",
+                "reverberation",
+                "crack"
+            ]
+        },
+        {
+            "key": "water_description",
+            "hint": "adjective",
+            "suggestions": [
+                "indigo",
+                "azure",
+                "mystical",
+                "swirling",
+                "emerald"
+            ]
+        },
+        {
+            "key": "arctic_animal",
+            "hint": "animal name",
+            "suggestions": [
+                "polar bear",
+                "snowy owl",
+                "silver fox",
+                "reindeer",
+                "puffin"
+            ]
+        },
+        {
+            "key": "movement_adverb",
+            "hint": "adverb",
+            "suggestions": [
+                "gracefully",
+                "steadily",
+                "triumphantly",
+                "rhythmically",
+                "boldly"
+            ]
+        },
+        {
+            "key": "final_destination",
+            "hint": "place name",
+            "suggestions": [
+                "northern sanctuary",
+                "hidden harbor",
+                "starlit cove",
+                "shimmering bay",
+                "ethereal lagoon"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "instruments_medium_013",
+    "title": "The Echoing Grove",
+    "difficulty": "medium",
+    "template": "Deep within the [adjective_atmosphere] glade, a series of polished wooden bars lay waiting. A traveling musician approached the instrument, their mallets held with a gentle grip. The air felt charged with a quiet energy as they prepared to play.\n\nThe first strike made the wood [verb_action] with a resonant depth. A [onomatopoeia_sound] echoed through the ancient trees, bouncing off the mossy bark. Each note seemed to ripple like a stone dropped into a still pond.\n\nSuddenly, a swirl of [magical_noun] began to rise from the xylophone's surface. The sky shifted into a brilliant shade of [vibrant_color] as the melody climbed higher. It was as if the forest itself was breathing in sync with the rhythm.\n\nA profound sense of [emotion_noun] washed over the musician as the final note lingered. Nearby, a [forest_creature] paused to listen, its eyes reflecting the magic of the moment. The wooden echoes eventually faded, leaving the world forever changed.",
+    "blanks": [
+        {
+            "key": "adjective_atmosphere",
+            "hint": "atmosphere adjective",
+            "suggestions": [
+                "whispering",
+                "shimmering",
+                "ancient",
+                "misty",
+                "hallowed"
+            ]
+        },
+        {
+            "key": "verb_action",
+            "hint": "vivid verb",
+            "suggestions": [
+                "vibrate",
+                "bloom",
+                "thrum",
+                "glow",
+                "resonate"
+            ]
+        },
+        {
+            "key": "onomatopoeia_sound",
+            "hint": "sound word",
+            "suggestions": [
+                "plink",
+                "clack",
+                "chime",
+                "ping",
+                "hum"
+            ]
+        },
+        {
+            "key": "magical_noun",
+            "hint": "mystical substance",
+            "suggestions": [
+                "stardust",
+                "fireflies",
+                "golden petals",
+                "velvet mist",
+                "floating runes"
+            ]
+        },
+        {
+            "key": "vibrant_color",
+            "hint": "vivid color",
+            "suggestions": [
+                "amethyst",
+                "emerald",
+                "amber",
+                "indigo",
+                "pearlescent"
+            ]
+        },
+        {
+            "key": "emotion_noun",
+            "hint": "a feeling",
+            "suggestions": [
+                "serenity",
+                "wonder",
+                "nostalgia",
+                "euphoria",
+                "harmony"
+            ]
+        },
+        {
+            "key": "forest_creature",
+            "hint": "an animal",
+            "suggestions": [
+                "stag",
+                "fox",
+                "owl",
+                "spirit-bear",
+                "fire-newt"
+            ]
+        }
+    ]
+}

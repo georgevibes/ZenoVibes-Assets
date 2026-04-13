@@ -1,0 +1,85 @@
+{
+    "id": "instruments_medium_016",
+    "title": "The Midnight Melody",
+    "difficulty": "medium",
+    "template": "The sun dipped below the horizon, painting the sky in shades of deep indigo. From the porch of the old shack, a [vivid_adjective] sound began to drift across the marsh. It was the soulful cry of a harmonica, echoing through the [natural_setting].\n\nEvery note seemed to carry a piece of the [human_emotion] that lived in the wind. The metal reeds vibrated with a rhythmic energy that made the fireflies dance. It wasn't just music; it was a [poetic_metaphor] that spoke to the stars. The player inhaled deeply, drawing the night air through the tiny holes.\n\nA nearby [nocturnal_creature] paused its hunt to listen to the swaying melody. The bluesy wail [action_verb_past] over the tall grass like a ghost. Even the river seemed to slow its pace to catch the fading echoes.\n\nAs the final note stretched out, the world felt momentarily [feeling_adjective]. The player tucked the silver instrument into a pocket and smiled. Silence returned to the valley, but the vibration remained in the earth. It was a night when a simple breath became a masterpiece.",
+    "blanks": [
+        {
+            "key": "vivid_adjective",
+            "hint": "a descriptive adjective",
+            "suggestions": [
+                "honeyed",
+                "shimmering",
+                "haunting",
+                "velvety",
+                "rugged"
+            ]
+        },
+        {
+            "key": "natural_setting",
+            "hint": "a place in nature",
+            "suggestions": [
+                "willow grove",
+                "cypress swamp",
+                "dusty canyon",
+                "misty valley",
+                "starlit meadow"
+            ]
+        },
+        {
+            "key": "human_emotion",
+            "hint": "a noun representing a feeling",
+            "suggestions": [
+                "longing",
+                "serenity",
+                "mischief",
+                "wonder",
+                "solitude"
+            ]
+        },
+        {
+            "key": "poetic_metaphor",
+            "hint": "a noun phrase",
+            "suggestions": [
+                "silver ribbon",
+                "lovesick poem",
+                "crackling campfire",
+                "whispering secret",
+                "timeless bridge"
+            ]
+        },
+        {
+            "key": "nocturnal_creature",
+            "hint": "an animal active at night",
+            "suggestions": [
+                "great horned owl",
+                "masked raccoon",
+                "silver fox",
+                "sleepy bullfrog",
+                "curious bobcat"
+            ]
+        },
+        {
+            "key": "action_verb_past",
+            "hint": "a movement verb in past tense",
+            "suggestions": [
+                "glided",
+                "tumbled",
+                "shimmered",
+                "swirled",
+                "drifted"
+            ]
+        },
+        {
+            "key": "feeling_adjective",
+            "hint": "an adjective describing an atmosphere",
+            "suggestions": [
+                "enchanted",
+                "weightless",
+                "harmonious",
+                "golden",
+                "vibrant"
+            ]
+        }
+    ]
+}

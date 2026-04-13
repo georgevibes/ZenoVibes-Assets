@@ -1,0 +1,118 @@
+{
+    "id": "family_hard_022",
+    "title": "Echoes of the Old Lane",
+    "difficulty": "hard",
+    "template": "We stepped onto the [adjective_1] sidewalk where the cracked pavement hummed with forgotten secrets. Grandmother pointed toward the oak tree that looked like a [noun_1] reaching for the sun. The air smelled of rain and sweet jasmine.\n\nMy brother began to [verb_present_participle_1] as we passed the house with the indigo shutters. He remembered the time we found a [mythical_creature] hiding in the hydrangea bushes. We stood there, letting the nostalgia wash over us like a warm wave.\n\n'Look at how the light [verb_present_tense_1] through the leaves,' Aunt Martha whispered softly. She moved with a [adverb_1] grace that always made the world feel safer. We were a quiet parade of hearts bound by shared history.\n\nSuddenly, a [color] bird landed on the fence, chirping a melody that sounded like a [musical_instrument]. It was as if the neighborhood itself was singing a welcome-home song. We paused to breathe in the [abstract_noun] of the afternoon.\n\nAs the sun dipped below the horizon, we felt [emotion_1] and deeply connected. The journey through our past had become a lantern for our future. Hand in hand, we walked toward the flickering streetlights of home.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "iridescent",
+                "weathered",
+                "kaleidoscopic",
+                "antiquated",
+                "sun-dappled"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "large object",
+            "suggestions": [
+                "cathedral",
+                "sentinel",
+                "sculpture",
+                "hourglass",
+                "monolith"
+            ]
+        },
+        {
+            "key": "verb_present_participle_1",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "reminiscing",
+                "daydreaming",
+                "levitating",
+                "radiating",
+                "frolicking"
+            ]
+        },
+        {
+            "key": "mythical_creature",
+            "hint": "legendary being",
+            "suggestions": [
+                "woodland dryad",
+                "silver phoenix",
+                "star-fox",
+                "garden gnome",
+                "jade dragon"
+            ]
+        },
+        {
+            "key": "verb_present_tense_1",
+            "hint": "verb (present tense)",
+            "suggestions": [
+                "shimmers",
+                "cascades",
+                "fractals",
+                "meanders",
+                "pirouettes"
+            ]
+        },
+        {
+            "key": "adverb_1",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "ethereally",
+                "rhythmically",
+                "serenely",
+                "whimsically",
+                "majestically"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "vibrant color",
+            "suggestions": [
+                "cerulean",
+                "vermillion",
+                "goldenrod",
+                "amethyst",
+                "obsidian"
+            ]
+        },
+        {
+            "key": "musical_instrument",
+            "hint": "delicate instrument",
+            "suggestions": [
+                "crystal flute",
+                "silver bell",
+                "mahogany cello",
+                "glass harp",
+                "zen drum"
+            ]
+        },
+        {
+            "key": "abstract_noun",
+            "hint": "concept or feeling",
+            "suggestions": [
+                "tranquility",
+                "nostalgia",
+                "serendipity",
+                "radiance",
+                "benevolence"
+            ]
+        },
+        {
+            "key": "emotion_1",
+            "hint": "complex emotion",
+            "suggestions": [
+                "transcendent",
+                "grounded",
+                "jubilant",
+                "luminous",
+                "pensive"
+            ]
+        }
+    ]
+}

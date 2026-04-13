@@ -1,0 +1,85 @@
+{
+    "id": "family_medium_019",
+    "title": "The Living Room Stage",
+    "difficulty": "medium",
+    "template": "The living room transformed into a grand theater as the family gathered on the plush rug. Uncle Leo stepped into the spotlight, holding a very old [magical_instrument] with great care. He began a [quirky_adjective] melody that felt like a warm summer breeze.\n\nNext, Aunt Sarah shared a moment of pure [warm_emotion] by reciting a poem about the moon. She wore a giant [whimsical_prop] that she had decorated with recycled ribbons. Everyone sat in hushed silence, captivated by her storytelling.\n\nFor the main event, the children moved across the floor looking absolutely [sparkling_adjective]. They began to [rhythmic_verb] in synchronization, creating a beautiful pattern of movement and light. It was the most creative part of the entire talent show.\n\nTo close the night, the whole family joined hands in a giant circle. Laughter echoed off the walls as the stars peeked through the window. We ended the evening sharing a delicious [comfort_item] while planning next year’s performance.",
+    "blanks": [
+        {
+            "key": "magical_instrument",
+            "hint": "a magical or musical object",
+            "suggestions": [
+                "silver flute",
+                "crystal harmonica",
+                "golden ukulele",
+                "luminous tambourine",
+                "velvet violin"
+            ]
+        },
+        {
+            "key": "quirky_adjective",
+            "hint": "an unusual descriptive word",
+            "suggestions": [
+                "zesty",
+                "ethereal",
+                "bubbly",
+                "graceful",
+                "whimsical"
+            ]
+        },
+        {
+            "key": "warm_emotion",
+            "hint": "a positive feeling",
+            "suggestions": [
+                "glee",
+                "wonder",
+                "serenity",
+                "radiance",
+                "adoration"
+            ]
+        },
+        {
+            "key": "whimsical_prop",
+            "hint": "a creative costume piece or object",
+            "suggestions": [
+                "paper-mache dragon",
+                "silk parachute",
+                "neon bubble-wand",
+                "feathered cape",
+                "origami crown"
+            ]
+        },
+        {
+            "key": "sparkling_adjective",
+            "hint": "a word for something that shines",
+            "suggestions": [
+                "prismatic",
+                "enchanted",
+                "galactic",
+                "shimmering",
+                "incandescent"
+            ]
+        },
+        {
+            "key": "rhythmic_verb",
+            "hint": "an action verb for movement",
+            "suggestions": [
+                "sway",
+                "hum",
+                "chant",
+                "twirl",
+                "glide"
+            ]
+        },
+        {
+            "key": "comfort_item",
+            "hint": "a cozy snack or object",
+            "suggestions": [
+                "cinnamon roll",
+                "cup of cocoa",
+                "hand-knit blanket",
+                "honey tart",
+                "warm pretzel"
+            ]
+        }
+    ]
+}

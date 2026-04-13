@@ -1,0 +1,118 @@
+{
+    "id": "flowers_hard_024",
+    "title": "The Sovereign Bloom",
+    "difficulty": "hard",
+    "template": "The sunrise painted the royal garden in shades of [color_adjective]. Queen Seraphina stepped onto the dew-kissed grass, her feet feeling [texture_adverb] light. She sought the perfect blossoms for her annual coronation circlet.\n\nDeep within the thicket, she discovered a patch of [rare_flower_name] swaying in the breeze. Their petals shimmered with a [magical_quality] glow that lit up the deep shadows. She carefully harvested the stems while whispering a quiet thanks to the soil.\n\nBack in the conservatory, she began to [verb_sophisticated] the stems with practiced grace. Tiny [insect_plural] fluttered around her head, offering a musical hum to the rhythmic work. The morning sunlight caught the sap as it dripped like liquid gold.\n\nEach twist of the vine felt like a [metaphorical_noun] connecting her spirit to the living earth. The completed headpiece smelled of [aromatic_scent] and ancient, forgotten dreams. It rested on the table, vibrating with a strange, natural energy.\n\nIt sat upon the velvet cushion, looking more like a [regal_object] than a simple wreath of flora. As the crown touched her brow, a wave of [emotion_noun] swept through the entire palace. She reigned for many years, her heart forever tied to the spirit of the garden.",
+    "blanks": [
+        {
+            "key": "color_adjective",
+            "hint": "an evocative or rare color",
+            "suggestions": [
+                "Opalescent",
+                "Cinnabar",
+                "Saffron",
+                "Viridian",
+                "Obsidian"
+            ]
+        },
+        {
+            "key": "texture_adverb",
+            "hint": "an adverb describing movement or feel",
+            "suggestions": [
+                "Weightlessly",
+                "Sublimely",
+                "Fluidly",
+                "Delicately",
+                "Rhythmically"
+            ]
+        },
+        {
+            "key": "rare_flower_name",
+            "hint": "a specific or exotic plant name",
+            "suggestions": [
+                "Moonflower",
+                "Stargazer",
+                "Hellebore",
+                "Wisteria",
+                "Snapdragon"
+            ]
+        },
+        {
+            "key": "magical_quality",
+            "hint": "an adjective describing light or energy",
+            "suggestions": [
+                "Phosphorescent",
+                "Incandescent",
+                "Prismatic",
+                "Effervescent",
+                "Starlit"
+            ]
+        },
+        {
+            "key": "verb_sophisticated",
+            "hint": "a complex verb for crafting",
+            "suggestions": [
+                "Interweave",
+                "Manipulate",
+                "Sculpt",
+                "Orchestrate",
+                "Embellish"
+            ]
+        },
+        {
+            "key": "insect_plural",
+            "hint": "plural winged creatures",
+            "suggestions": [
+                "Lacewings",
+                "Fireflies",
+                "Bumblebees",
+                "Beetles",
+                "Sphinx-moths"
+            ]
+        },
+        {
+            "key": "metaphorical_noun",
+            "hint": "a symbolic noun",
+            "suggestions": [
+                "Bridge",
+                "Manifesto",
+                "Benediction",
+                "Lighthouse",
+                "Echo"
+            ]
+        },
+        {
+            "key": "aromatic_scent",
+            "hint": "a deep or complex aroma",
+            "suggestions": [
+                "Ambergris",
+                "Neroli",
+                "Eucalyptus",
+                "Myrrh",
+                "Patchouli"
+            ]
+        },
+        {
+            "key": "regal_object",
+            "hint": "a grand or ceremonial item",
+            "suggestions": [
+                "Artifact",
+                "Ornament",
+                "Heirloom",
+                "Sigil",
+                "Emblem"
+            ]
+        },
+        {
+            "key": "emotion_noun",
+            "hint": "a powerful state of being",
+            "suggestions": [
+                "Euphoria",
+                "Equanimity",
+                "Resilience",
+                "Wonder",
+                "Solace"
+            ]
+        }
+    ]
+}

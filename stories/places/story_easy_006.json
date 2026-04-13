@@ -1,0 +1,63 @@
+{
+    "id": "places_easy_006",
+    "title": "The Infinite Palace",
+    "difficulty": "easy",
+    "template": "High atop a mountain of [color] mist sits the Great Castle. Legend says it has a thousand rooms, each filled with wonders. The front gate is guarded by a friendly creature who offers a magic key to every visitor.\n\nAs you walk through the winding halls, you find a room where the floors are made of [material]. In another room, the ceiling looks exactly like a starry night sky. You can hear a soft melody coming from a golden [object] sitting in the corner. Every hallway smells like fresh flowers or sweet vanilla.\n\nAt the very top of the tallest spire, there is a balcony overlooking the [nature_place]. This is where a gentle [animal] comes to rest and dream of new journeys. The castle of a thousand rooms is truly a place of eternal peace.",
+    "blanks": [
+        {
+            "key": "color",
+            "hint": "a bright color",
+            "suggestions": [
+                "violet",
+                "shimmering gold",
+                "sky blue",
+                "pearl white",
+                "glowing neon"
+            ]
+        },
+        {
+            "key": "material",
+            "hint": "a substance or material",
+            "suggestions": [
+                "pancakes",
+                "smooth marble",
+                "woven starlight",
+                "thick clouds",
+                "velvet ribbon"
+            ]
+        },
+        {
+            "key": "object",
+            "hint": "a small item",
+            "suggestions": [
+                "teacup",
+                "sundial",
+                "lute",
+                "telescope",
+                "lantern"
+            ]
+        },
+        {
+            "key": "nature_place",
+            "hint": "a beautiful location",
+            "suggestions": [
+                "rolling hills",
+                "sparkling lagoon",
+                "echoing canyon",
+                "candy garden",
+                "diamond peak"
+            ]
+        },
+        {
+            "key": "animal",
+            "hint": "a type of animal",
+            "suggestions": [
+                "dragon",
+                "unicorn",
+                "fox",
+                "swan",
+                "koala"
+            ]
+        }
+    ]
+}

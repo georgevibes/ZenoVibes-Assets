@@ -1,0 +1,85 @@
+{
+    "id": "instruments_medium_012",
+    "title": "The Rhythmic Transformation",
+    "difficulty": "medium",
+    "template": "In the corner of a [mystical_adjective] music shop, a small tambourine waited for a hand to find it. Its silver jingles caught the light like tiny [sparkling_objects]. When the shopkeeper finally gave it a nudge, a soft sound echoed through the room.\n\nSuddenly, a [creative_individual] stepped in and picked up the instrument with a smile. They began to [rhythmic_action] in a steady, hypnotic beat that filled the dusty air. Each shake sent ripples of golden energy across the floorboards.\n\nThe shop began to transform into a [magical_location] as the music grew louder and more intense. Shelves pulsed with the beat, and the surrounding guitars seemed to hum in [abstract_noun]. It was a moment of pure, rhythmic magic that captured everyone's attention.\n\nAs the final shake faded into silence, the room felt more [peaceful_adjective] than it ever had before. The tambourine rested once more upon its velvet cushion, its job done for the afternoon. Every listener walked away carrying a piece of that song in their spirit.",
+    "blanks": [
+        {
+            "key": "mystical_adjective",
+            "hint": "an adjective describing a mood",
+            "suggestions": [
+                "enchanted",
+                "luminous",
+                "forgotten",
+                "starlit",
+                "vibrant"
+            ]
+        },
+        {
+            "key": "sparkling_objects",
+            "hint": "plural noun for things that shine",
+            "suggestions": [
+                "fireflies",
+                "diamonds",
+                "falling stars",
+                "frozen dewdrops",
+                "ancient coins"
+            ]
+        },
+        {
+            "key": "creative_individual",
+            "hint": "a type of person or character",
+            "suggestions": [
+                "wandering poet",
+                "cosmic traveler",
+                "village herbalist",
+                "dream weaver",
+                "silent monk"
+            ]
+        },
+        {
+            "key": "rhythmic_action",
+            "hint": "a verb of movement",
+            "suggestions": [
+                "twirl",
+                "shimmer",
+                "float",
+                "vibrate",
+                "unfold"
+            ]
+        },
+        {
+            "key": "magical_location",
+            "hint": "a wonderful or strange place",
+            "suggestions": [
+                "crystal cavern",
+                "floating meadow",
+                "nebula cloud",
+                "sun-drenched orchard",
+                "secret reef"
+            ]
+        },
+        {
+            "key": "abstract_noun",
+            "hint": "a concept or feeling",
+            "suggestions": [
+                "perfect symmetry",
+                "liquid gold",
+                "soft whispers",
+                "pure joy",
+                "oceanic bliss"
+            ]
+        },
+        {
+            "key": "peaceful_adjective",
+            "hint": "an adjective for a calm state",
+            "suggestions": [
+                "harmonious",
+                "serene",
+                "rejuvenated",
+                "tranquil",
+                "enlightened"
+            ]
+        }
+    ]
+}

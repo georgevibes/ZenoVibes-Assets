@@ -1,0 +1,85 @@
+{
+    "id": "flowers_medium_017",
+    "title": "The Secret Garden Waltz",
+    "difficulty": "medium",
+    "template": "High atop the [mossy_branch] branch, a rare orchid waited for the first light of dawn. As the sun peeked through the canopy, the petals began to [dance_action] with a grace that seemed otherworldly. This daily ritual was known only to the most patient of observers.\n\nA wandering [forest_creature] paused in its journey to watch the floral performance. The air around the orchid began to smell like [floral_scent], attracting even more curious onlookers. Soon, the entire clearing felt alive with a subtle, humming energy.\n\nThe orchid’s stem swayed to the rhythm of a [breeze_style] breeze. Every movement was precise, tracing patterns in the air that looked like [magic_objects] dancing in a dream. It was a spectacle of nature’s quietest magic.\n\nAs the noon sun reached its peak, the orchid finally stilled its [flower_texture] frame. The forest fell into a respectful silence, cherishing the memory of the dance. One by one, the spectators drifted away, leaving the flower to its peaceful slumber.",
+    "blanks": [
+        {
+            "key": "mossy_branch",
+            "hint": "adjective",
+            "suggestions": [
+                "ancient",
+                "crystalline",
+                "towering",
+                "hidden",
+                "velvet"
+            ]
+        },
+        {
+            "key": "dance_action",
+            "hint": "verb",
+            "suggestions": [
+                "shimmer",
+                "pirouette",
+                "glow",
+                "unfurl",
+                "vibrate"
+            ]
+        },
+        {
+            "key": "forest_creature",
+            "hint": "type of creature",
+            "suggestions": [
+                "hummingbird",
+                "dragonfly",
+                "woodland sprite",
+                "iridescent beetle",
+                "bumblebee"
+            ]
+        },
+        {
+            "key": "floral_scent",
+            "hint": "noun (a scent)",
+            "suggestions": [
+                "honeysuckle",
+                "spun sugar",
+                "midnight rain",
+                "fresh cinnamon",
+                "stardust"
+            ]
+        },
+        {
+            "key": "breeze_style",
+            "hint": "adjective",
+            "suggestions": [
+                "melodic",
+                "whispering",
+                "fragrant",
+                "mischievous",
+                "rhythmic"
+            ]
+        },
+        {
+            "key": "magic_objects",
+            "hint": "plural noun",
+            "suggestions": [
+                "fireflies",
+                "silk ribbons",
+                "falling stars",
+                "water droplets",
+                "phantom wings"
+            ]
+        },
+        {
+            "key": "flower_texture",
+            "hint": "adjective",
+            "suggestions": [
+                "radiant",
+                "slender",
+                "fragile",
+                "luminous",
+                "delicate"
+            ]
+        }
+    ]
+}

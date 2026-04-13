@@ -1,0 +1,85 @@
+{
+    "id": "places_medium_020",
+    "title": "The Whispering Spire",
+    "difficulty": "medium",
+    "template": "High atop the [landscape_adjective] peaks stands the legendary Tower of the Wind. It is said that the structure was built using [magical_material] that hums whenever a breeze passes through. Travelers come from far away just to witness the rotating vanes.\n\nInside, the air smells like [aromatic_scent] and ancient magic. A spiral staircase winds upward, disappearing into a soft [ethereal_color] mist. Each step echoes with the sound of distant chimes.\n\nAt the very top, a giant [large_object] sits in the center of the room. When the gale picks up, the device begins to [sensory_verb_ing] rhythmically. Light filters through the stained glass, casting patterns across the floor. It feels as though the building is breathing.\n\nVisitors often leave behind a [offering_noun] as a gift to the spirits of the air. They walk back down the mountain path feeling lighter than air. The memory of the tower remains a quiet song in their hearts.",
+    "blanks": [
+        {
+            "key": "landscape_adjective",
+            "hint": "adjective describing terrain",
+            "suggestions": [
+                "shimmering",
+                "ethereal",
+                "cloud-swept",
+                "obsidian",
+                "floating"
+            ]
+        },
+        {
+            "key": "magical_material",
+            "hint": "type of magical substance",
+            "suggestions": [
+                "frozen moonlight",
+                "hollow obsidian",
+                "singing crystal",
+                "enchanted cedar",
+                "woven mist"
+            ]
+        },
+        {
+            "key": "aromatic_scent",
+            "hint": "a pleasant smell",
+            "suggestions": [
+                "wild lavender",
+                "burnt sage",
+                "morning dew",
+                "sweet nectar",
+                "ancient parchment"
+            ]
+        },
+        {
+            "key": "ethereal_color",
+            "hint": "a color or shade",
+            "suggestions": [
+                "periwinkle",
+                "opalescent",
+                "amber",
+                "deep turquoise",
+                "soft silver"
+            ]
+        },
+        {
+            "key": "large_object",
+            "hint": "a big mechanical or decorative item",
+            "suggestions": [
+                "brass astrolabe",
+                "crystal chime",
+                "velvet bellows",
+                "golden spindle",
+                "obsidian gong"
+            ]
+        },
+        {
+            "key": "sensory_verb_ing",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "reverberating",
+                "glimmering",
+                "whirling",
+                "singing",
+                "pulsating"
+            ]
+        },
+        {
+            "key": "offering_noun",
+            "hint": "a small physical object",
+            "suggestions": [
+                "woven braid",
+                "carved acorn",
+                "painted shell",
+                "small bell",
+                "feathered quill"
+            ]
+        }
+    ]
+}

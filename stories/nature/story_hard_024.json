@@ -1,0 +1,118 @@
+{
+    "id": "nature_hard_024",
+    "title": "The Horizon's Eternal Amber",
+    "difficulty": "hard",
+    "template": "The horizon began [verb_ing] with a shade of [unusual_color] that no one had ever seen before. Crowds gathered along the coast to watch the sun dip, but it simply hovered in place. They waited for hours, yet the golden light refused to dim or surrender to the night.\n\nThe sky remained [celestial_adjective] for three whole days without fading into the usual darkness. Deep in the ancient woods, the local wildlife reacted with absolute confusion to the persistent glow. Squirrels abandoned their piles of [strange_plural_noun] to gaze upward in a silent, fluffy trance.\n\nThe forest felt like a [metaphorical_noun] caught in a moment of eternal, frozen twilight. A gentle wind carried the sweet, heavy aroma of [sensory_noun] through the cooling valley air. Time seemed to move differently as the shadows grew long, purple, and increasingly heavy.\n\nPeople began to [abstract_verb] as they lost track of whether it was breakfast time or the middle of the night. Neighbors brought out their [comforting_plural_noun] and set up camp right on the open meadows to sleep under the fire. The world was bathed in a glow that felt both hauntingly warm and perfectly infinite.\n\nThe lake took on a [mystical_adjective] shimmer that illuminated the secret, scaly world beneath the waves. Finally, the sun began to [final_action_verb] below the distant hills, ending the beautiful marathon of light. Nature finally rested, dreaming of the week the day never ended.",
+    "blanks": [
+        {
+            "key": "verb_ing",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "pulsating",
+                "shimmering",
+                "radiating",
+                "vibrating",
+                "oscillating"
+            ]
+        },
+        {
+            "key": "unusual_color",
+            "hint": "a creative or compound color",
+            "suggestions": [
+                "electric-magenta",
+                "obsidian-gold",
+                "ultraviolet",
+                "iridescent-peach",
+                "burnt-sienna"
+            ]
+        },
+        {
+            "key": "celestial_adjective",
+            "hint": "adjective describing space or light",
+            "suggestions": [
+                "incandescent",
+                "suspended",
+                "unwavering",
+                "transcendent",
+                "luminous"
+            ]
+        },
+        {
+            "key": "strange_plural_noun",
+            "hint": "plural noun (unusual items)",
+            "suggestions": [
+                "crystal acorns",
+                "silver pinecones",
+                "neon mushrooms",
+                "holographic leaves",
+                "petrified berries"
+            ]
+        },
+        {
+            "key": "metaphorical_noun",
+            "hint": "noun used as a metaphor",
+            "suggestions": [
+                "kaleidoscope",
+                "dreamscape",
+                "hourglass",
+                "cathedral",
+                "tapestry"
+            ]
+        },
+        {
+            "key": "sensory_noun",
+            "hint": "noun representing a smell or sensation",
+            "suggestions": [
+                "roasted jasmine",
+                "ancient cedar",
+                "caramelized rain",
+                "wild honeycomb",
+                "damp sandalwood"
+            ]
+        },
+        {
+            "key": "abstract_verb",
+            "hint": "verb describing a mental or slow state",
+            "suggestions": [
+                "drift",
+                "float",
+                "soften",
+                "linger",
+                "daydream"
+            ]
+        },
+        {
+            "key": "comforting_plural_noun",
+            "hint": "plural noun for cozy items",
+            "suggestions": [
+                "velvet quilts",
+                "oversized hammocks",
+                "wicker baskets",
+                "knitted tapestries",
+                "silk pillows"
+            ]
+        },
+        {
+            "key": "mystical_adjective",
+            "hint": "adjective describing magic or aura",
+            "suggestions": [
+                "bioluminescent",
+                "ethereal",
+                "otherworldly",
+                "prismatic",
+                "gossamer"
+            ]
+        },
+        {
+            "key": "final_action_verb",
+            "hint": "verb describing a departure",
+            "suggestions": [
+                "descend",
+                "vanish",
+                "evaporate",
+                "slumber",
+                "retreat"
+            ]
+        }
+    ]
+}

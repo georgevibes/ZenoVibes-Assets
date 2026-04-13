@@ -1,0 +1,85 @@
+{
+    "id": "boating_water_medium_011",
+    "title": "The Silent Glide",
+    "difficulty": "medium",
+    "template": "The sun hung low over the crystal lake as we prepared our [vessel_style] canoe. We carefully loaded our supplies, making sure to balance the weight of our gear. With a gentle push, we glided away from the wooden dock and into the [water_texture] ripples.\n\nAs we paddled further, a school of [aquatic_creatures] began to leap playfully alongside us. The water was so clear that we could see the ancient remnants of a [strange_object] resting on the sandy bottom. It felt as though we were traveling through a magical world.\n\nMy companion began to [peaceful_verb] a soft melody that echoed against the high canyon walls. I dipped my paddle into the surface, feeling the [water_adjective] current pull us deeper into the quiet wilderness. We shared a look of pure joy under the vast, open sky.\n\nFinally, we rounded the bend and spotted a secluded beach perfect for our picnic. We pulled the vessel onto the sand and watched the first stars begin to twinkle overhead. This was the most [final_adjective] trip we had ever shared together.",
+    "blanks": [
+        {
+            "key": "vessel_style",
+            "hint": "adjective for a boat",
+            "suggestions": [
+                "sturdy",
+                "neon-painted",
+                "hand-carved",
+                "wobbly",
+                "vintage"
+            ]
+        },
+        {
+            "key": "water_texture",
+            "hint": "adjective for water ripples",
+            "suggestions": [
+                "silky",
+                "shimmering",
+                "electric-blue",
+                "velvety",
+                "glassy"
+            ]
+        },
+        {
+            "key": "aquatic_creatures",
+            "hint": "plural animals or creatures",
+            "suggestions": [
+                "glitter-finned trout",
+                "glowing jellyfish",
+                "tiny sea dragons",
+                "whistling dolphins",
+                "giant goldfish"
+            ]
+        },
+        {
+            "key": "strange_object",
+            "hint": "a mysterious noun",
+            "suggestions": [
+                "sunken disco ball",
+                "giant stone key",
+                "submerged typewriter",
+                "rusty treasure chest",
+                "fossilized anchor"
+            ]
+        },
+        {
+            "key": "peaceful_verb",
+            "hint": "a quiet action verb",
+            "suggestions": [
+                "hum",
+                "whistle",
+                "chant",
+                "whisper",
+                "croon"
+            ]
+        },
+        {
+            "key": "water_adjective",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "effervescent",
+                "swirling",
+                "lukewarm",
+                "emerald",
+                "sparkling"
+            ]
+        },
+        {
+            "key": "final_adjective",
+            "hint": "an emotive adjective",
+            "suggestions": [
+                "enchanting",
+                "legendary",
+                "soul-soothing",
+                "unforgettable",
+                "whimsical"
+            ]
+        }
+    ]
+}

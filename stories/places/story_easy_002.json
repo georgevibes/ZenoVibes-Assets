@@ -1,0 +1,63 @@
+{
+    "id": "places_easy_002",
+    "title": "The Midnight Chime",
+    "difficulty": "easy",
+    "template": "The ancient clock tower loomed over the [adjective_town] town square as the moon reached its peak. Below, the cobblestone streets were silent, waiting for the first chime to echo through the air. A small [animal] perched on the minute hand, unaffected by the height or the cold breeze. It seemed to be waiting for the magic to begin.\n\nSuddenly, the clock struck twelve, and the gears began to rotate with a [sound] noise. The tower glowed with a soft, golden light that spilled out from the ornate windows. From the top, a cascade of [magical_item_plural] drifted down like snow onto the sleeping world.\n\nAs the last chime faded, the atmosphere felt incredibly [feeling_adjective]. The town remained tucked away in its dreams, unaware of the enchantment that had just occurred. The clock tower stood still once more, guarding the secrets of the night.",
+    "blanks": [
+        {
+            "key": "adjective_town",
+            "hint": "descriptive word for a city",
+            "suggestions": [
+                "sleepy",
+                "whispering",
+                "starlit",
+                "foggy",
+                "enchanted"
+            ]
+        },
+        {
+            "key": "animal",
+            "hint": "a creature",
+            "suggestions": [
+                "raven",
+                "moth",
+                "kitten",
+                "gargoyle",
+                "hamster"
+            ]
+        },
+        {
+            "key": "sound",
+            "hint": "type of noise",
+            "suggestions": [
+                "chiming",
+                "thumping",
+                "clicking",
+                "humming",
+                "ticking"
+            ]
+        },
+        {
+            "key": "magical_item_plural",
+            "hint": "plural objects",
+            "suggestions": [
+                "fireflies",
+                "clock-hands",
+                "flower-seeds",
+                "ribbons",
+                "gemstones"
+            ]
+        },
+        {
+            "key": "feeling_adjective",
+            "hint": "a feeling or mood",
+            "suggestions": [
+                "tranquil",
+                "magical",
+                "quiet",
+                "dreamy",
+                "still"
+            ]
+        }
+    ]
+}

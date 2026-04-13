@@ -1,0 +1,118 @@
+{
+    "id": "instruments_hard_026",
+    "title": "The Resonance of the Stage",
+    "difficulty": "hard",
+    "template": "The silver auditorium shimmered with a [luminescent_quality] glow as the musicians arrived. Each performer clutched a [rare_instrument] close to their chest, feeling the hum of anticipation. This was no ordinary rehearsal, for the air tasted like pure electricity.\n\nAt the center of the stage stood a vintage stand holding a [lustrous_color] microphone. It seemed to pulse with a rhythmic [metaphysical_noun] that resonated through the floorboards. The lead vocalist approached, their hands trembling with quiet excitement.\n\nAs they leaned in, the first note [energetic_verb] through the speakers with unexpected force. The sound wasn't just loud; it was [ethereal_adjective]. Every shadow in the room began to dance to the melody.\n\nSuddenly, the walls were [vivid_action_ing] with a kaleidoscope of lights triggered by the frequency. Flowers made of sound waves began to [graceful_verb] from the ceiling. It was as if the microphone had unlocked a secret portal.\n\nWhen the final echo faded, a sense of [peaceful_noun] settled over the exhausted audience. The instruments were silent, yet their spirits felt [invigorating_adjective] and recharged. The microphone sat still once more, waiting for the next spark of magic.",
+    "blanks": [
+        {
+            "key": "luminescent_quality",
+            "hint": "adjective describing light",
+            "suggestions": [
+                "effulgent",
+                "coruscating",
+                "iridescent",
+                "phosphorescent",
+                "opaline"
+            ]
+        },
+        {
+            "key": "rare_instrument",
+            "hint": "noun (a specific musical instrument)",
+            "suggestions": [
+                "nyckelharpa",
+                "theremin",
+                "ondes Martenot",
+                "glass armonica",
+                "celesta"
+            ]
+        },
+        {
+            "key": "lustrous_color",
+            "hint": "adjective (a metallic or jewel-like color)",
+            "suggestions": [
+                "obsidian",
+                "rose-gold",
+                "platinum",
+                "emerald",
+                "cobalt"
+            ]
+        },
+        {
+            "key": "metaphysical_noun",
+            "hint": "abstract noun",
+            "suggestions": [
+                "singularity",
+                "effervescence",
+                "resonance",
+                "aura",
+                "continuum"
+            ]
+        },
+        {
+            "key": "energetic_verb",
+            "hint": "verb (past tense)",
+            "suggestions": [
+                "thundered",
+                "cascaded",
+                "reverberated",
+                "rippled",
+                "exploded"
+            ]
+        },
+        {
+            "key": "ethereal_adjective",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "interstellar",
+                "sublime",
+                "translucent",
+                "otherworldly",
+                "harmonic"
+            ]
+        },
+        {
+            "key": "vivid_action_ing",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "scintillating",
+                "pulsating",
+                "undulating",
+                "fracturing",
+                "swirling"
+            ]
+        },
+        {
+            "key": "graceful_verb",
+            "hint": "verb (infinitive)",
+            "suggestions": [
+                "materialize",
+                "unfurl",
+                "oscillate",
+                "bloom",
+                "descend"
+            ]
+        },
+        {
+            "key": "peaceful_noun",
+            "hint": "noun describing a state of being",
+            "suggestions": [
+                "equilibrium",
+                "euphoria",
+                "stillness",
+                "serenity",
+                "quiescence"
+            ]
+        },
+        {
+            "key": "invigorating_adjective",
+            "hint": "positive adjective",
+            "suggestions": [
+                "electrified",
+                "awakened",
+                "ascendant",
+                "rejuvenated",
+                "radiant"
+            ]
+        }
+    ]
+}

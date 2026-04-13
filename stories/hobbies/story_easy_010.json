@@ -1,0 +1,63 @@
+{
+    "id": "hobbies_easy_010",
+    "title": "The Rainbow Stitch",
+    "difficulty": "easy",
+    "template": "Deep in a cozy corner, a pile of soft [texture] yarn sat waiting for the needles. Every stitch added a new layer of magic to the growing garment. It was meant to be a masterpiece of comfort and style.\n\nAs the colors blended together, the sweater began to look like a vibrant [natural_wonder]. The person knitting hummed a [song_style] tune while the needles clicked rhythmically. It felt as though the threads were weaving a secret story.\n\nFinally, the project was finished and ready to be worn [manner]. When put on, the sweater shimmered with a [light_source] glow that warmed the heart. This handmade treasure was truly one of a kind.",
+    "blanks": [
+        {
+            "key": "texture",
+            "hint": "an adjective describing a feel",
+            "suggestions": [
+                "fluffy",
+                "silky",
+                "neon",
+                "chunky",
+                "glittering"
+            ]
+        },
+        {
+            "key": "natural_wonder",
+            "hint": "a beautiful thing in nature",
+            "suggestions": [
+                "sunset",
+                "coral reef",
+                "nebula",
+                "flower garden",
+                "mountain range"
+            ]
+        },
+        {
+            "key": "song_style",
+            "hint": "an adjective for music",
+            "suggestions": [
+                "cheerful",
+                "melodic",
+                "mystical",
+                "upbeat",
+                "whimsical"
+            ]
+        },
+        {
+            "key": "manner",
+            "hint": "how or where it is used",
+            "suggestions": [
+                "confidently",
+                "everywhere",
+                "joyfully",
+                "frequently",
+                "proudly"
+            ]
+        },
+        {
+            "key": "light_source",
+            "hint": "a source of light or color",
+            "suggestions": [
+                "starlight",
+                "aurora",
+                "candlelight",
+                "rainbow",
+                "moonbeam"
+            ]
+        }
+    ]
+}

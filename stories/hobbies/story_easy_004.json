@@ -1,0 +1,63 @@
+{
+    "id": "hobbies_easy_004",
+    "title": "The Melodic Attic",
+    "difficulty": "easy",
+    "template": "The old upright piano sat in the corner of the attic, covered in a layer of dust. I sat down on the [bench_adjective] bench and felt the cool ivory keys under my fingers. It had been years since anyone played a single note in this quiet room.\n\nI began to press the keys, creating a [melody_adjective] melody that filled the air. Each [musical_part] seemed to tell a story of a time long forgotten. The music swirled around the room like a gentle breeze. It felt like the house was finally waking up from a long nap.\n\nAs the final chord rang out, a [glow_color] light began to glow from the sheet music. I realized that my hobby was more than just practice; it was [magic_feeling]. I closed the lid softly, promising to return to the piano every single day.",
+    "blanks": [
+        {
+            "key": "bench_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "velvet",
+                "wooden",
+                "wobbly",
+                "shiny",
+                "ancient"
+            ]
+        },
+        {
+            "key": "melody_adjective",
+            "hint": "adjective describing a sound",
+            "suggestions": [
+                "sparkling",
+                "haunting",
+                "cheerful",
+                "mysterious",
+                "clumsy"
+            ]
+        },
+        {
+            "key": "musical_part",
+            "hint": "noun",
+            "suggestions": [
+                "chord",
+                "rhythm",
+                "whisper",
+                "echo",
+                "harmony"
+            ]
+        },
+        {
+            "key": "glow_color",
+            "hint": "a color",
+            "suggestions": [
+                "golden",
+                "emerald",
+                "sapphire",
+                "violet",
+                "amber"
+            ]
+        },
+        {
+            "key": "magic_feeling",
+            "hint": "a feeling or state of being",
+            "suggestions": [
+                "pure magic",
+                "total bliss",
+                "an adventure",
+                "true peace",
+                "a dream"
+            ]
+        }
+    ]
+}
