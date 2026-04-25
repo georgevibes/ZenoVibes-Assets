@@ -1,0 +1,85 @@
+{
+    "id": "places_story_medium_017",
+    "title": "Places: The Silhouetted Stage",
+    "difficulty": "medium",
+    "template": "Tucked away in a quiet [location_setting], the theater of shadows waits for the sun to dip below the horizon. The walls are lined with [decorative_material] that glimmers in the dim candlelight. Every seat is carved from aged wood, smelling faintly of jasmine and old stories.\n\nAs the silk curtain rises, a [vibrant_adjective] light begins to dance behind the translucent screen. A master puppeteer moves their hands with [graceful_noun], creating silhouettes that seem to breathe and jump. Tiny paper birds flutter across the stage, chasing a silver moon. The atmosphere is thick with wonder and soft music.\n\nSuddenly, a giant [mythical_creature] appears, stretching its wings across the entire room. The audience gasps in delight as the shadow leans forward to whisper a [secret_type] secret. It is a moment where reality and imagination become one.\n\nWhen the performance ends, the lanterns are slowly [ending_action]. Everyone leaves with a sense of peace tucked into their pockets. The theater remains a silent guardian of dreams until the next performance begins.",
+    "blanks": [
+        {
+            "key": "location_setting",
+            "hint": "a specific type of peaceful location",
+            "suggestions": [
+                "hidden valley",
+                "underwater dome",
+                "misty rooftop",
+                "hollow oak tree",
+                "starlit canyon"
+            ]
+        },
+        {
+            "key": "decorative_material",
+            "hint": "a texture or substance",
+            "suggestions": [
+                "iridescent silk",
+                "beaten copper",
+                "luminescent lichen",
+                "dark mahogany",
+                "frosted crystal"
+            ]
+        },
+        {
+            "key": "vibrant_adjective",
+            "hint": "a descriptive word for light",
+            "suggestions": [
+                "pulsating",
+                "amber",
+                "radiant",
+                "violet",
+                "shimmering"
+            ]
+        },
+        {
+            "key": "graceful_noun",
+            "hint": "a word describing elegant movement",
+            "suggestions": [
+                "dexterity",
+                "finesse",
+                "artistry",
+                "synchronicity",
+                "flair"
+            ]
+        },
+        {
+            "key": "mythical_creature",
+            "hint": "a legendary animal or being",
+            "suggestions": [
+                "firebird",
+                "leviathan",
+                "chimera",
+                "kitsune",
+                "thunderbird"
+            ]
+        },
+        {
+            "key": "secret_type",
+            "hint": "a descriptive word for a secret",
+            "suggestions": [
+                "limitless",
+                "shimmering",
+                "ancient",
+                "whimsical",
+                "melodic"
+            ]
+        },
+        {
+            "key": "ending_action",
+            "hint": "a verb (past tense) for turning off a light",
+            "suggestions": [
+                "extinguished",
+                "softened",
+                "lowered",
+                "hushed",
+                "cooled"
+            ]
+        }
+    ]
+}

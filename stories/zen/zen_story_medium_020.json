@@ -1,0 +1,85 @@
+{
+    "id": "zen_story_medium_020",
+    "title": "Zen: The Wayward Stream",
+    "difficulty": "medium",
+    "template": "You step outside with a [adjective_feeling] heart, leaving your map behind on the table. The path ahead is not a line but a soft [noun_shape] of light. Your feet move with a rhythm that only the ancient stones can understand.\n\nAs you wander, a [adjective_color] breeze whispers secrets through the bamboo leaves. You pause to watch a single petal [verb_motion] across the surface of a still pond. Time seems to stretch until every second feels like an eternity of quiet.\n\nSuddenly, you notice a [noun_creature] perched upon a floating cloud, offering you a cup of invisible tea. You drink deeply, feeling your worries dissolve into a [noun_elemental] mist. The horizon continues to shift, revealing colors that do not even have names yet.\n\nThere is no goal to reach, only the joy of being exactly where you are. You close your eyes and realize that the journey is the only home you have ever needed. Each breath is a [noun_musical] that plays forever in the silence.",
+    "blanks": [
+        {
+            "key": "adjective_feeling",
+            "hint": "a state of mind or feeling",
+            "suggestions": [
+                "untethered",
+                "luminous",
+                "serene",
+                "vibrant",
+                "weightless"
+            ]
+        },
+        {
+            "key": "noun_shape",
+            "hint": "a geometric form or visual pattern",
+            "suggestions": [
+                "spiral",
+                "tapestry",
+                "shimmer",
+                "circle",
+                "glimmer"
+            ]
+        },
+        {
+            "key": "adjective_color",
+            "hint": "a descriptive color",
+            "suggestions": [
+                "emerald",
+                "cerulean",
+                "golden",
+                "lavender",
+                "opalescent"
+            ]
+        },
+        {
+            "key": "verb_motion",
+            "hint": "a graceful action",
+            "suggestions": [
+                "dance",
+                "meander",
+                "drift",
+                "skitter",
+                "float"
+            ]
+        },
+        {
+            "key": "noun_creature",
+            "hint": "a living being or animal",
+            "suggestions": [
+                "heron",
+                "salamander",
+                "butterfly",
+                "spirit",
+                "owl"
+            ]
+        },
+        {
+            "key": "noun_elemental",
+            "hint": "a natural substance or element",
+            "suggestions": [
+                "starlight",
+                "juniper",
+                "ocean",
+                "amber",
+                "cloud"
+            ]
+        },
+        {
+            "key": "noun_musical",
+            "hint": "a word related to sound or music",
+            "suggestions": [
+                "resonance",
+                "melody",
+                "hum",
+                "song",
+                "whisper"
+            ]
+        }
+    ]
+}

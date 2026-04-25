@@ -1,0 +1,63 @@
+{
+    "id": "zen_story_easy_006",
+    "title": "Zen: The Silent Sentinel",
+    "difficulty": "easy",
+    "template": "The Great Peak has sat in silence for many [plural_time_unit]. It watches the clouds drift by like white fluff against the sky. Its stony face is covered in soft, green [natural_substance] that feels like a velvet blanket.\n\nOne morning, a small traveler began to [action_verb] up the steep, winding path. They carried nothing but a heavy heart and a curious spirit. The mountain stood tall and watched the world spin by.\n\nAs the sun set, the traveler sat on a flat rock and felt a deep [feeling]. The ancient mountain whispered a secret through the rustling pine needles. To be truly still is to find the most powerful [source_of_power] in the universe.",
+    "blanks": [
+        {
+            "key": "plural_time_unit",
+            "hint": "units of time (plural)",
+            "suggestions": [
+                "centuries",
+                "millennia",
+                "moon-cycles",
+                "lifetimes",
+                "eons"
+            ]
+        },
+        {
+            "key": "natural_substance",
+            "hint": "a soft natural material",
+            "suggestions": [
+                "moss",
+                "lichen",
+                "clover",
+                "stardust",
+                "dew"
+            ]
+        },
+        {
+            "key": "action_verb",
+            "hint": "an action in base form",
+            "suggestions": [
+                "scramble",
+                "waltz",
+                "tiptoe",
+                "float",
+                "drift"
+            ]
+        },
+        {
+            "key": "feeling",
+            "hint": "an emotion or sensation",
+            "suggestions": [
+                "quietude",
+                "warmth",
+                "revelation",
+                "harmony",
+                "glow"
+            ]
+        },
+        {
+            "key": "source_of_power",
+            "hint": "a noun of strength or essence",
+            "suggestions": [
+                "vibration",
+                "rhythm",
+                "serenity",
+                "anchor",
+                "light"
+            ]
+        }
+    ]
+}

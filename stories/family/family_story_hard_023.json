@@ -1,0 +1,118 @@
+{
+    "id": "family_story_hard_023",
+    "title": "Family: The Heirloom Feast",
+    "difficulty": "hard",
+    "template": "The old family cookbook sits on a [mystical_adjective] shelf, its pages smelling of stardust and memories. My [eccentric_relative] used to say that every dish tells a secret story of our ancestors. This leather-bound volume contains the essence of our heritage and heart.\n\nTo start the ritual, one must first [spiritual_verb] the kitchen with golden candlelight and soft music. We carefully gather the [enchanted_ingredients] which have been harvested from the hidden glen behind the old house. Every component is handled with the utmost respect for the earth it came from.\n\nThe secret ingredient isn't just a spice, but a dash of [magical_quality] found only in the quietest moments. We stir the mixture until it starts to [vibrant_verb] with a soft, pulsing light that warms our faces. The rhythmic motion of the spoon becomes a dance shared across time.\n\nAs the cauldron warms, a [celestial_scent] begins to fill the house with a sense of wonder and comfort. We must wait exactly [peculiar_timespan] for the flavors to harmonize into a singular, beautiful melody. Patience is the bridge that connects the ingredients to the final masterpiece.\n\nThis focus is what turns a simple meal into a truly [extravagant_adjective] legacy for the next generation. Finally, we set the table with the [ancient_heirloom] that has survived three generations of joy and hardship. We sit together, realizing we are not just eating, but tasting our own history.",
+    "blanks": [
+        {
+            "key": "mystical_adjective",
+            "hint": "a word describing something magical or otherworldly",
+            "suggestions": [
+                "shimmering",
+                "velvet-lined",
+                "gravity-defying",
+                "moss-covered",
+                "echoing"
+            ]
+        },
+        {
+            "key": "eccentric_relative",
+            "hint": "a specific family title with a quirky personality",
+            "suggestions": [
+                "Great-Great-Godmother",
+                "cosmic patriarch",
+                "alchemist aunt",
+                "whistling grandfather",
+                "nomadic cousin"
+            ]
+        },
+        {
+            "key": "spiritual_verb",
+            "hint": "a verb for a ritualistic or gentle action",
+            "suggestions": [
+                "anoint",
+                "harmonize",
+                "serenade",
+                "illuminate",
+                "whisper-bless"
+            ]
+        },
+        {
+            "key": "enchanted_ingredients",
+            "hint": "plural noun for magical food items",
+            "suggestions": [
+                "crystalized tears",
+                "sun-dried echoes",
+                "floating berries",
+                "dragon-kale",
+                "starlit truffles"
+            ]
+        },
+        {
+            "key": "magical_quality",
+            "hint": "an abstract noun representing a virtue or magic",
+            "suggestions": [
+                "serendipity",
+                "timelessness",
+                "quiet-courage",
+                "liquid-gratitude",
+                "pure-mischief"
+            ]
+        },
+        {
+            "key": "vibrant_verb",
+            "hint": "a verb describing movement or energy",
+            "suggestions": [
+                "hum",
+                "pulsate",
+                "glow",
+                "shimmer",
+                "undulate"
+            ]
+        },
+        {
+            "key": "celestial_scent",
+            "hint": "a compound noun for a wonderful smell",
+            "suggestions": [
+                "cedar-infused-mist",
+                "caramelized-starlight",
+                "jasmine-thunder",
+                "ancient-rain-perfume",
+                "honeyed-memory"
+            ]
+        },
+        {
+            "key": "peculiar_timespan",
+            "hint": "a poetic or strange amount of time",
+            "suggestions": [
+                "three heartbeats",
+                "a butterfly's nap",
+                "seven cricket chirps",
+                "the blink of a star",
+                "a midsummer's dream"
+            ]
+        },
+        {
+            "key": "extravagant_adjective",
+            "hint": "a word for something impressive or grand",
+            "suggestions": [
+                "transcendent",
+                "luminous",
+                "multi-dimensional",
+                "legendary",
+                "soul-stirring"
+            ]
+        },
+        {
+            "key": "ancient_heirloom",
+            "hint": "a noun for a special family object used for eating",
+            "suggestions": [
+                "obsidian-platter",
+                "hand-woven-tapestry",
+                "silver-chalice",
+                "singing-bowls",
+                "opal-rimmed-plates"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "flowers_story_easy_004",
+    "title": "Flowers: The Enchanted Entrance",
+    "difficulty": "easy",
+    "template": "Deep in the ancient woods, I stumbled upon a hidden iron gate. It was completely covered in [texture_adjective] vines and moss. I reached out my hand and felt the cold metal against my skin.\n\nWith a loud [sudden_sound], the heavy gate swung open. Inside, thousands of [vibrant_color] petals floated through the soft breeze. The scent of jasmine filled the air, making me feel lighthearted. I stepped over the threshold into a world of color.\n\nA small [garden_creature] scurried past my feet toward a patch of lilies. I sat down on a stone bench and watched the sunlight dance. In this secret place, every flower seemed to [magical_action] with magic. I never wanted to leave this peaceful sanctuary.",
+    "blanks": [
+        {
+            "key": "texture_adjective",
+            "hint": "an adjective describing how something feels",
+            "suggestions": [
+                "shimmering",
+                "thorny",
+                "velvet",
+                "silky",
+                "glowing"
+            ]
+        },
+        {
+            "key": "sudden_sound",
+            "hint": "a noise word",
+            "suggestions": [
+                "creak",
+                "thud",
+                "clink",
+                "whisper",
+                "melody"
+            ]
+        },
+        {
+            "key": "vibrant_color",
+            "hint": "a bright color",
+            "suggestions": [
+                "golden",
+                "indigo",
+                "crimson",
+                "lavender",
+                "emerald"
+            ]
+        },
+        {
+            "key": "garden_creature",
+            "hint": "a small animal or insect",
+            "suggestions": [
+                "rabbit",
+                "fox",
+                "hedgehog",
+                "butterfly",
+                "toad"
+            ]
+        },
+        {
+            "key": "magical_action",
+            "hint": "a verb",
+            "suggestions": [
+                "sparkle",
+                "hum",
+                "vibrate",
+                "twirl",
+                "bloom"
+            ]
+        }
+    ]
+}

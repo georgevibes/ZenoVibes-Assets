@@ -1,0 +1,118 @@
+{
+    "id": "family_story_hard_021",
+    "title": "Family: The Ancient Tabletop Quest",
+    "difficulty": "hard",
+    "template": "The living room was bathed in a [adjective_luminous] glow as the family gathered around the coffee table. Aunt Martha carefully unveiled a dusty [noun_heirloom] she had discovered in the attic earlier that morning. Everyone leaned in, their faces reflecting the flickering candlelight.\n\nUncle Jim spent thirty minutes [verb_present_participle] the complex instructions printed on the inner lid. He claimed the game was designed to test their collective [noun_abstract] through a series of riddles. The children watched with wide eyes, wondering if the pieces would actually move on their own.\n\nAs the first die was cast, the room [adverb_manner] transformed into a landscape of shifting colors. Tiny, glowing [plural_noun_creatures] seemed to flutter around the players, whispering hints about the next move. No one cared about winning anymore; they were too enchanted by the spectacle.\n\nSuddenly, the youngest sibling touched a [adjective_tactile] card and the entire board began to hum. The coffee table [verb_past_tense] into a miniature mountain range made of shimmering glass. Laughter filled the air as the family navigated the obstacles together.\n\nThe evening ended with a collective [noun_celebration] that echoed through the quiet house. They folded the board away, feeling a [adjective_emotional] connection that only magic and games could provide. It was a night that would be whispered about for generations to come.",
+    "blanks": [
+        {
+            "key": "adjective_luminous",
+            "hint": "an adjective for light or glow",
+            "suggestions": [
+                "opalescent",
+                "phosphorescent",
+                "ethereal",
+                "radiant",
+                "auroral"
+            ]
+        },
+        {
+            "key": "noun_heirloom",
+            "hint": "an old or precious object",
+            "suggestions": [
+                "artifact",
+                "relic",
+                "contraption",
+                "codex",
+                "keepsake"
+            ]
+        },
+        {
+            "key": "verb_present_participle",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "unravelling",
+                "scrutinizing",
+                "deciphering",
+                "narrating",
+                "interpreting"
+            ]
+        },
+        {
+            "key": "noun_abstract",
+            "hint": "a quality or concept",
+            "suggestions": [
+                "fortitude",
+                "intuition",
+                "harmony",
+                "wisdom",
+                "perception"
+            ]
+        },
+        {
+            "key": "adverb_manner",
+            "hint": "adverb describing how something happened",
+            "suggestions": [
+                "enigmatically",
+                "spectacularly",
+                "whimsically",
+                "vibrantly",
+                "gracefully"
+            ]
+        },
+        {
+            "key": "plural_noun_creatures",
+            "hint": "plural mythical or small beings",
+            "suggestions": [
+                "sprites",
+                "phoenixes",
+                "sylphs",
+                "automatons",
+                "griffins"
+            ]
+        },
+        {
+            "key": "adjective_tactile",
+            "hint": "adjective describing texture",
+            "suggestions": [
+                "obsidian",
+                "velvet",
+                "crystalline",
+                "rugged",
+                "silken"
+            ]
+        },
+        {
+            "key": "verb_past_tense",
+            "hint": "verb ending in -ed",
+            "suggestions": [
+                "metamorphosed",
+                "reverberated",
+                "transmuted",
+                "oscillated",
+                "ascended"
+            ]
+        },
+        {
+            "key": "noun_celebration",
+            "hint": "a state of happiness or celebration",
+            "suggestions": [
+                "revelry",
+                "exultation",
+                "euphoria",
+                "conviviality",
+                "merriment"
+            ]
+        },
+        {
+            "key": "adjective_emotional",
+            "hint": "a deep or soulful adjective",
+            "suggestions": [
+                "transcendent",
+                "nostalgic",
+                "ineffable",
+                "enraptured",
+                "soulful"
+            ]
+        }
+    ]
+}

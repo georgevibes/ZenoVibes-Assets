@@ -1,0 +1,63 @@
+{
+    "id": "household_story_easy_002",
+    "title": "Household: The Silent Sanctuary",
+    "difficulty": "easy",
+    "template": "Tucked away behind the velvet curtains lies a hidden [adjective_1] corner. It is the perfect spot to escape the noise of the world. A soft lamp casts a warm glow over the wooden floor.\n\nI settle into my favorite [noun_1] with a steaming mug of cocoa. The pages of my book smell like old parchment and [noun_2]. Time seems to slow down as I dive into a new world.\n\nOutside the window, the [noun_3] sways gently in the evening breeze. Everything feels calm and perfectly [adjective_2]. This little nook is my favorite part of the whole house.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive word",
+            "suggestions": [
+                "enchanted",
+                "whispering",
+                "sun-drenched",
+                "velvet",
+                "secret"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "something to sit on",
+            "suggestions": [
+                "armchair",
+                "beanbag",
+                "fort",
+                "hammock",
+                "nest"
+            ]
+        },
+        {
+            "key": "noun_2",
+            "hint": "a scent or object",
+            "suggestions": [
+                "jasmine",
+                "wildflowers",
+                "cinnamon",
+                "stardust",
+                "adventure"
+            ]
+        },
+        {
+            "key": "noun_3",
+            "hint": "something outdoors",
+            "suggestions": [
+                "willow tree",
+                "climbing ivy",
+                "silver moon",
+                "neighborhood",
+                "wind chime"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "feeling or state",
+            "suggestions": [
+                "serene",
+                "magical",
+                "cozy",
+                "radiant",
+                "timeless"
+            ]
+        }
+    ]
+}

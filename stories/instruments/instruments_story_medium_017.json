@@ -1,0 +1,85 @@
+{
+    "id": "instruments_story_medium_017",
+    "title": "Instruments: The Resonance of Strings",
+    "difficulty": "medium",
+    "template": "The master sat cross-legged, cradling the [ornate_adjective] gourd of the sitar against his chest. As his plectrum grazed the main strings, a [unusual_sound] tone rippled through the silent room. The audience held their breath, waiting for the journey to begin.\n\nBelow the surface, the sympathetic strings began to [vibrant_verb] in response to the melody. This hidden layer created a [mystical_adjective] resonance that filled the entire courtyard. It was as if the instrument itself was breathing along with the artist.\n\nThe musician's fingers moved with incredible [graceful_noun], bending the strings to reach impossible notes. Each movement added a new dimension to the sonic landscape being painted. The sound spiraled upward like smoke from a sacred fire.\n\nSuddenly, the melody transformed into a shower of [celestial_noun], shimmering in the twilight. The listener felt a deep connection to the [ancient_adjective] layers of the music. Finally, the last vibration settled, leaving only a profound and beautiful silence.",
+    "blanks": [
+        {
+            "key": "ornate_adjective",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "iridescent",
+                "weathered",
+                "golden",
+                "polished",
+                "oversized"
+            ]
+        },
+        {
+            "key": "unusual_sound",
+            "hint": "adjective describing a sound",
+            "suggestions": [
+                "silvery",
+                "metallic",
+                "ghostly",
+                "honeyed",
+                "crystalline"
+            ]
+        },
+        {
+            "key": "vibrant_verb",
+            "hint": "verb (infinitive)",
+            "suggestions": [
+                "shimmer",
+                "hum",
+                "awaken",
+                "glow",
+                "tremble"
+            ]
+        },
+        {
+            "key": "mystical_adjective",
+            "hint": "ethereal adjective",
+            "suggestions": [
+                "ethereal",
+                "swirling",
+                "holographic",
+                "timeless",
+                "velvet"
+            ]
+        },
+        {
+            "key": "graceful_noun",
+            "hint": "abstract noun",
+            "suggestions": [
+                "precision",
+                "fluidity",
+                "lightning",
+                "softness",
+                "magic"
+            ]
+        },
+        {
+            "key": "celestial_noun",
+            "hint": "plural noun",
+            "suggestions": [
+                "comets",
+                "stardust",
+                "echoes",
+                "jewels",
+                "petals"
+            ]
+        },
+        {
+            "key": "ancient_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "cosmic",
+                "legendary",
+                "hidden",
+                "sacred",
+                "intricate"
+            ]
+        }
+    ]
+}

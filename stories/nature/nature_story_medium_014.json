@@ -1,0 +1,85 @@
+{
+    "id": "nature_story_medium_014",
+    "title": "Nature: The Evening Meadow",
+    "difficulty": "medium",
+    "template": "The humid air hung heavy over the [location_name], where the tall grass swayed in the breeze. Suddenly, a tiny spark flickered near the mossy rocks, signaling the start of the nightly ritual. Hundreds of fireflies emerged from their hiding spots, their wings making a [soft_sound_adjective] noise as they rose together.\n\nThey began to dance in a [motion_adjective] pattern across the meadow. Each tiny insect carried a glow that looked like a [bright_noun] floating through the dark. The surrounding trees seemed to lean in, watching the glowing river of light flow by.\n\nThe parade eventually reached the edge of the pond, where the water reflected their [color_adjective] lights. A group of crickets joined in, providing a background beat for the silent, flickering celebration. It felt as though the entire forest was holding its breath in [emotion_noun].\n\nAs the moon climbed higher, the fireflies began to [action_verb] toward the safety of the high leaves. The magical light show slowly faded into the shadows of the ancient oaks. Sleepy observers left the field feeling peaceful and refreshed by the natural magic.",
+    "blanks": [
+        {
+            "key": "location_name",
+            "hint": "a place in nature",
+            "suggestions": [
+                "Whispering Glen",
+                "Silver Stream",
+                "Bramble Thicket",
+                "Moonlit Valley",
+                "Fern Hollow"
+            ]
+        },
+        {
+            "key": "soft_sound_adjective",
+            "hint": "adjective for a sound",
+            "suggestions": [
+                "rhythmic",
+                "whirring",
+                "delicate",
+                "musical",
+                "faint"
+            ]
+        },
+        {
+            "key": "motion_adjective",
+            "hint": "describing movement",
+            "suggestions": [
+                "swirling",
+                "zig-zag",
+                "hypnotic",
+                "erratic",
+                "graceful"
+            ]
+        },
+        {
+            "key": "bright_noun",
+            "hint": "something that glows",
+            "suggestions": [
+                "falling star",
+                "neon marble",
+                "glowing ember",
+                "tiny lantern",
+                "liquid diamond"
+            ]
+        },
+        {
+            "key": "color_adjective",
+            "hint": "a vivid color",
+            "suggestions": [
+                "sapphire",
+                "chartreuse",
+                "violet",
+                "molten gold",
+                "iridescent"
+            ]
+        },
+        {
+            "key": "emotion_noun",
+            "hint": "a feeling",
+            "suggestions": [
+                "wonder",
+                "serenity",
+                "amazement",
+                "reverence",
+                "delight"
+            ]
+        },
+        {
+            "key": "action_verb",
+            "hint": "a verb meaning to move away",
+            "suggestions": [
+                "scatter",
+                "disperse",
+                "retreat",
+                "vanish",
+                "drift"
+            ]
+        }
+    ]
+}

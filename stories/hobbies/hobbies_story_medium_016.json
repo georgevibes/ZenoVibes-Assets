@@ -1,0 +1,85 @@
+{
+    "id": "hobbies_story_medium_016",
+    "title": "Hobbies: The Silent Artisan",
+    "difficulty": "medium",
+    "template": "In the heart of a quiet grove, the artisan sat upon a [texture] stool. The air was filled with the scent of cedar and morning dew. Sunlight filtered through the leaves, casting dancing patterns on the workbench. He held a block of ancient oak, feeling its weight and secret history.\n\nHis hands moved with the grace of a [creature], guided by years of patient practice. Every stroke of the chisel was a conversation between the steel and the grain. He spent hours [action_ing] the rough edges until they felt as smooth as river stones. The rhythm of the work created a soft, meditative hum in the workshop.\n\nSuddenly, the wood began to [adverb] glow with a faint, amber light. This was no ordinary piece of timber, for it seemed to remember the wind's [sound]. The artisan smiled, knowing that the spirit of the forest was satisfied with his progress.\n\nFinally, a [color] figurine stood where the block once was. It looked so lifelike that it seemed ready to [movement_verb] right off the table. The woodcarver placed it on the shelf, adding to his collection of silent wonders. Peace settled over the room as the sun dipped below the horizon.",
+    "blanks": [
+        {
+            "key": "texture",
+            "hint": "adjective for a surface",
+            "suggestions": [
+                "moss-covered",
+                "weathered",
+                "velvety",
+                "polished",
+                "gnarled"
+            ]
+        },
+        {
+            "key": "creature",
+            "hint": "graceful animal",
+            "suggestions": [
+                "hummingbird",
+                "snow leopard",
+                "dancing crane",
+                "dragonfly",
+                "silver fox"
+            ]
+        },
+        {
+            "key": "action_ing",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "sculpting",
+                "caressing",
+                "smoothing",
+                "tracing",
+                "refining"
+            ]
+        },
+        {
+            "key": "adverb",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "mysteriously",
+                "rhythmically",
+                "gently",
+                "radiantly",
+                "harmoniously"
+            ]
+        },
+        {
+            "key": "sound",
+            "hint": "type of noise or music",
+            "suggestions": [
+                "lullaby",
+                "whisper",
+                "echo",
+                "sigh",
+                "melody"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "vivid color or adjective",
+            "suggestions": [
+                "luminescent",
+                "golden",
+                "crimson",
+                "azure",
+                "pearl-white"
+            ]
+        },
+        {
+            "key": "movement_verb",
+            "hint": "verb for movement",
+            "suggestions": [
+                "float",
+                "gallop",
+                "dance",
+                "soar",
+                "tiptoe"
+            ]
+        }
+    ]
+}

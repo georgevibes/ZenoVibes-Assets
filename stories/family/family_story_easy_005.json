@@ -1,0 +1,63 @@
+{
+    "id": "family_story_easy_005",
+    "title": "Family: The Roots of Tomorrow",
+    "difficulty": "easy",
+    "template": "Deep in the heart of our garden stands the ancient legacy tree. Every year, our family gathers under its [shimmering_adjective] branches to share stories. We bring lanterns and blankets to stay cozy during the sunset.\n\nMy grandmother says the tree grew from a [magical_object] planted by our ancestors. As we laugh together, the leaves seem to [rhythmic_action] in harmony with our voices. We carve our names into the soft soil nearby instead of the bark. It reminds us that our roots are deep and strong.\n\nThis year, we decided to hang a [sentimental_item] on the lowest limb. It shines brightly, symbolizing the [positive_adjective] future we all share. We promise to protect this magical place for many generations to come.",
+    "blanks": [
+        {
+            "key": "shimmering_adjective",
+            "hint": "an adjective describing light or texture",
+            "suggestions": [
+                "sparkling",
+                "golden",
+                "velvety",
+                "glowing",
+                "emerald"
+            ]
+        },
+        {
+            "key": "magical_object",
+            "hint": "a small, special item",
+            "suggestions": [
+                "starseed",
+                "crystal",
+                "silver acorn",
+                "enchanted nut",
+                "glowing pebble"
+            ]
+        },
+        {
+            "key": "rhythmic_action",
+            "hint": "a verb for movement or sound",
+            "suggestions": [
+                "dance",
+                "whisper",
+                "giggle",
+                "hum",
+                "sway"
+            ]
+        },
+        {
+            "key": "sentimental_item",
+            "hint": "a small decorative object",
+            "suggestions": [
+                "locket",
+                "bell",
+                "ribbon",
+                "dreamcatcher",
+                "feather"
+            ]
+        },
+        {
+            "key": "positive_adjective",
+            "hint": "a word for something wonderful",
+            "suggestions": [
+                "brilliant",
+                "harmonious",
+                "limitless",
+                "dazzling",
+                "radiant"
+            ]
+        }
+    ]
+}

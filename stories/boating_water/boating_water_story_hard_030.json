@@ -1,0 +1,118 @@
+{
+    "id": "boating_water_story_hard_030",
+    "title": "Boating water: The Weight of the Deep",
+    "difficulty": "hard",
+    "template": "The sun dipped low, casting a [vibrant_adjective] hue across the glass-like surface of the lagoon. Our vessel, the S.S. Whispering Ripple, drifted toward a patch of [aquatic_flora]. We needed to stop before the current carried us into the unknown.\n\nI grabbed the rusted chain, feeling its [tactile_sensation] texture against my palms. With a mighty heave, I pushed the massive iron anchor over the gunwale. It splashed into the deep with a sound like a [mythical_creature] waking from a long slumber.\n\nThe rope unspooled with [unexpected_speed], whistling as it vanished into the dark blue abyss. This anchor felt far heavier than any standard lead weight should ever be. It seemed to be pulling us toward a [hidden_underwater_feature] buried beneath the silt.\n\nBubbles rose to the surface, shimmering with a [ethereal_color] light as the anchor finally hit the bottom. The entire boat gave a sudden, [adverb_of_motion] jerk that nearly knocked me overboard. Below us, the weight had settled into the heart of the sea.\n\nPeace returned as the rope pulled taut, securing our place in this watery [sanctuary_synonym]. We looked down to see the anchor's glow reflecting against the [celestial_body] above. It was a heavy burden, but it held us exactly where we were meant to be.",
+    "blanks": [
+        {
+            "key": "vibrant_adjective",
+            "hint": "a striking or glowing adjective",
+            "suggestions": [
+                "bioluminescent",
+                "prismatic",
+                "obsidian",
+                "cerulean",
+                "incandescent"
+            ]
+        },
+        {
+            "key": "aquatic_flora",
+            "hint": "type of water plant",
+            "suggestions": [
+                "neon kelp",
+                "crystalline lilies",
+                "floating ferns",
+                "velvet moss",
+                "glowing reeds"
+            ]
+        },
+        {
+            "key": "tactile_sensation",
+            "hint": "how something feels to the touch",
+            "suggestions": [
+                "barnacle-encrusted",
+                "slick",
+                "freezing",
+                "electric",
+                "gritty"
+            ]
+        },
+        {
+            "key": "mythical_creature",
+            "hint": "a legendary beast",
+            "suggestions": [
+                "leviathan",
+                "hydra",
+                "kraken",
+                "kelpie",
+                "siren"
+            ]
+        },
+        {
+            "key": "unexpected_speed",
+            "hint": "noun phrase describing movement",
+            "suggestions": [
+                "alarming velocity",
+                "rhythmic grace",
+                "chaotic fervor",
+                "silent urgency",
+                "dizzying momentum"
+            ]
+        },
+        {
+            "key": "hidden_underwater_feature",
+            "hint": "a place found on the ocean floor",
+            "suggestions": [
+                "sapphire grotto",
+                "sunken citadel",
+                "coral labyrinth",
+                "volcanic vent",
+                "ancient shipwreck"
+            ]
+        },
+        {
+            "key": "ethereal_color",
+            "hint": "a magical or unusual color",
+            "suggestions": [
+                "ultraviolet",
+                "pearlescent",
+                "ghostly silver",
+                "amber",
+                "iridescent"
+            ]
+        },
+        {
+            "key": "adverb_of_motion",
+            "hint": "adverb describing a movement",
+            "suggestions": [
+                "rhythmically",
+                "violently",
+                "majestically",
+                "precariously",
+                "enigmatically"
+            ]
+        },
+        {
+            "key": "sanctuary_synonym",
+            "hint": "a word for a safe place",
+            "suggestions": [
+                "haven",
+                "oasis",
+                "tabernacle",
+                "refuge",
+                "glade"
+            ]
+        },
+        {
+            "key": "celestial_body",
+            "hint": "something in space",
+            "suggestions": [
+                "blood moon",
+                "pulsar",
+                "comet's tail",
+                "supernova",
+                "constellation"
+            ]
+        }
+    ]
+}

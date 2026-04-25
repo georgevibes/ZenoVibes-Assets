@@ -1,0 +1,118 @@
+{
+    "id": "family_story_hard_025",
+    "title": "Family: The Great Domestic Expedition",
+    "difficulty": "hard",
+    "template": "The household was bathed in a [luminous_adjective] glow as the morning sun hit the living room floor. Our family's beloved pet, a creature of [eccentric_adjective] habits, began their daily ritual. They stretched their limbs with a grace that suggested they were more royalty than animal.\n\nSuddenly, the pet spotted a [fragile_object] resting precariously on the edge of the mahogany coffee table. With a [graceful_adverb] leap, they cleared the distance between the sofa and the target. The family watched in hushed silence, wondering if this would lead to a domestic disaster.\n\nInstead of chaos, the pet began to [elegant_verb] around the object, creating a rhythmic sound that echoed through the hallways. Grandma laughed, her eyes [sparkling_verb_ing] with delight at the unexpected performance. It was a moment of pure, unadulterated joy shared among three generations.\n\nThe pet then retreated to their [plush_location], which had been painstakingly lined with [colorful_plural_noun] by the children. From this vantage point, the animal surveyed their kingdom with a look of profound satisfaction. We all realized that the house truly belonged to our furry, or perhaps scaly, companion.\n\nAs evening fell, the family gathered to share a [communal_snack] while the pet purred or chirped in the corner. Life with such a [mystical_adjective] member of the family was never predictable, but it was always warm. We wouldn't trade these quirky antics for all the peace in the world.",
+    "blanks": [
+        {
+            "key": "luminous_adjective",
+            "hint": "adjective describing light",
+            "suggestions": [
+                "iridescent",
+                "ethereal",
+                "golden",
+                "honeyed",
+                "prismatic"
+            ]
+        },
+        {
+            "key": "eccentric_adjective",
+            "hint": "adjective for strange behavior",
+            "suggestions": [
+                "idiosyncratic",
+                "unorthodox",
+                "whimsical",
+                "peculiar",
+                "rhapsodic"
+            ]
+        },
+        {
+            "key": "fragile_object",
+            "hint": "a delicate item",
+            "suggestions": [
+                "crystal goblet",
+                "porcelain thimble",
+                "origami crane",
+                "vintage pocket watch",
+                "hand-painted figurine"
+            ]
+        },
+        {
+            "key": "graceful_adverb",
+            "hint": "adverb describing movement",
+            "suggestions": [
+                "majestically",
+                "effortlessly",
+                "serenely",
+                "acrobatically",
+                "fluidly"
+            ]
+        },
+        {
+            "key": "elegant_verb",
+            "hint": "sophisticated action verb",
+            "suggestions": [
+                "waltz",
+                "pirouette",
+                "undulate",
+                "frolic",
+                "meander"
+            ]
+        },
+        {
+            "key": "sparkling_verb_ing",
+            "hint": "verb ending in -ing for light/emotion",
+            "suggestions": [
+                "twinkling",
+                "glistening",
+                "beaming",
+                "radiating",
+                "glimmering"
+            ]
+        },
+        {
+            "key": "plush_location",
+            "hint": "a soft or fancy place",
+            "suggestions": [
+                "velvet fortress",
+                "corduroy nook",
+                "silk hammock",
+                "cashmere alcove",
+                "tapestry-lined basket"
+            ]
+        },
+        {
+            "key": "colorful_plural_noun",
+            "hint": "plural small items",
+            "suggestions": [
+                "pompoms",
+                "sequins",
+                "ribbons",
+                "feathers",
+                "marbles"
+            ]
+        },
+        {
+            "key": "communal_snack",
+            "hint": "something the family eats/drinks together",
+            "suggestions": [
+                "elderberry tart",
+                "cinnamon confection",
+                "mint infusion",
+                "honey wafer",
+                "clove biscuit"
+            ]
+        },
+        {
+            "key": "mystical_adjective",
+            "hint": "magical or special adjective",
+            "suggestions": [
+                "transcendent",
+                "enigmatic",
+                "numinous",
+                "harmonious",
+                "otherworldly"
+            ]
+        }
+    ]
+}

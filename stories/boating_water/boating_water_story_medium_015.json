@@ -1,0 +1,85 @@
+{
+    "id": "boating_water_story_medium_015",
+    "title": "Boating water: The Silent Abyss",
+    "difficulty": "medium",
+    "template": "The [vessel_adjective] submarine hummed softly as it prepared for its descent into the blue. It was powered entirely by [power_source], ensuring a quiet journey into the unknown depths. The crew settled into their plush seats, ready for a magical adventure.\n\nThey began [movement_verb] through the dark, crystalline waters of the midnight zone. Far below the surface, the ocean pressure felt like a gentle embrace against the hull. Tiny bioluminescent specks flickered past the reinforced glass like underwater stars.\n\nSuddenly, they discovered a vast forest of [coral_adjective] coral that stretched for miles across the floor. Large, friendly [sea_creatures] swam alongside the vessel, guiding it through the narrow canyons. The sight was far more beautiful than any map had ever described.\n\nThe external searchlights shone [light_adverb] across the seabed, revealing hidden treasures and ancient shells. Inside the cabin, everyone sat in awe, listening to the rhythmic [soothing_sound] of the deep ocean. It was a perfect moment of peace beneath the heavy waves.",
+    "blanks": [
+        {
+            "key": "vessel_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "shimmering",
+                "bulbous",
+                "enchanted",
+                "sturdy",
+                "futuristic"
+            ]
+        },
+        {
+            "key": "power_source",
+            "hint": "noun",
+            "suggestions": [
+                "starlight crystals",
+                "magical algae",
+                "neon bubbles",
+                "ancient clockwork",
+                "solar pearls"
+            ]
+        },
+        {
+            "key": "movement_verb",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "gliding",
+                "waltzing",
+                "spiraling",
+                "drifting",
+                "plunging"
+            ]
+        },
+        {
+            "key": "coral_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "iridescent",
+                "crystalline",
+                "velvet",
+                "golden",
+                "translucent"
+            ]
+        },
+        {
+            "key": "sea_creatures",
+            "hint": "plural noun",
+            "suggestions": [
+                "jellyfish dragons",
+                "whistling whales",
+                "neon turtles",
+                "silver squids",
+                "giant seahorses"
+            ]
+        },
+        {
+            "key": "light_adverb",
+            "hint": "adverb",
+            "suggestions": [
+                "majestically",
+                "softly",
+                "brilliantly",
+                "rhythmically",
+                "mystically"
+            ]
+        },
+        {
+            "key": "soothing_sound",
+            "hint": "noun",
+            "suggestions": [
+                "lullaby",
+                "whisper",
+                "echo",
+                "chorus",
+                "hum"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "boating_water_story_easy_008",
+    "title": "Boating water: The Midnight Voyage",
+    "difficulty": "easy",
+    "template": "The velvet sky stretched across the horizon as the boat began to [verb_ending_in_ing] through the waves. A soft breeze carried the scent of salt and magic across the wooden deck. Up above, the constellations shimmered like [plural_noun] scattered on a dark blanket.\n\nSuddenly, a silver trail appeared in the water, following the rhythmic path of the [nautical_noun]. The captain steered the vessel with a steady hand, guided only by the North Star. Everything felt [feeling_adjective] as the lights of the distant shore finally faded away.\n\nLaughter echoed softly against the sails while the crew shared stories of legendary sea monsters. They watched as a shooting star zipped past, leaving a [bright_color] glow in its wake. It was a night on the water that no one would ever forget.",
+    "blanks": [
+        {
+            "key": "verb_ending_in_ing",
+            "hint": "an action ending in -ing",
+            "suggestions": [
+                "gliding",
+                "dancing",
+                "drifting",
+                "humming",
+                "waltzing"
+            ]
+        },
+        {
+            "key": "plural_noun",
+            "hint": "more than one object",
+            "suggestions": [
+                "diamonds",
+                "fireflies",
+                "pearls",
+                "sequins",
+                "marbles"
+            ]
+        },
+        {
+            "key": "nautical_noun",
+            "hint": "part of a boat or sea gear",
+            "suggestions": [
+                "rudder",
+                "anchor",
+                "compass",
+                "telescope",
+                "lantern"
+            ]
+        },
+        {
+            "key": "feeling_adjective",
+            "hint": "a word describing an emotion or vibe",
+            "suggestions": [
+                "mystical",
+                "serene",
+                "glowing",
+                "silent",
+                "electric"
+            ]
+        },
+        {
+            "key": "bright_color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "lavender",
+                "golden",
+                "emerald",
+                "sapphire",
+                "neon"
+            ]
+        }
+    ]
+}

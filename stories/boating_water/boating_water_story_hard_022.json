@@ -1,0 +1,118 @@
+{
+    "id": "boating_water_story_hard_022",
+    "title": "Boating water: Chronicles of the Azure Wake",
+    "difficulty": "hard",
+    "template": "The sunrise today appeared remarkably [vibrant_adjective] as it spilled across the glass-like surface of the lagoon. I adjusted the [nautical_instrument] to ensure our course remained true toward the hidden archipelago. The crew is currently humming a tune that sounds suspiciously like a melody from the depths. The air remains perfectly still.\n\nOur vessel began to [rhythmic_verb] with a grace that defied the laws of physics. We noticed that the wake behind us was glowing with [luminescent_color] light, illuminating the schools of silver fish. It felt as though the ocean itself was whispering secrets to our ship's frame. We are all quite mesmerized by the display.\n\nBy midday, we encountered a massive [mythical_aquatic_entity] that breached the surface just yards from our starboard bow. Instead of causing a splash, it released a cloud of [ethereal_substance] that smelled like ancient lavender and sea salt. The creature lingered for a moment before descending back into the silence. It left us all feeling remarkably small.\n\nNavigating through the [geological_feature] proved challenging but rewarding as the winds shifted in our favor. Every sailor on deck stood in [emotional_state], unable to look away from the shimmering horizon. We maintained our vigil as the daylight began to fade into twilight.\n\nAs the twin moons rise, I am recording these final observations into the leather-bound ledger. Our sails have been furled, looking like [texture_noun] resting against the tall masts. The anchor has been lowered into the [liquid_description] abyss, securing our position for a night of restorative rest. May the tides remain gentle as we dream of the wonders yet to be discovered.",
+    "blanks": [
+        {
+            "key": "vibrant_adjective",
+            "hint": "a striking or unusual adjective for light",
+            "suggestions": [
+                "iridescent",
+                "pearlescent",
+                "sepia-toned",
+                "electric-indigo",
+                "holographic"
+            ]
+        },
+        {
+            "key": "nautical_instrument",
+            "hint": "a specialized navigation tool",
+            "suggestions": [
+                "astrolabe",
+                "brass sextant",
+                "obsidian chronometer",
+                "hydro-compass",
+                "tide-oracle"
+            ]
+        },
+        {
+            "key": "rhythmic_verb",
+            "hint": "a verb for graceful movement",
+            "suggestions": [
+                "pirouette",
+                "undulate",
+                "oscillate",
+                "shimmer-step",
+                "glide-pulsate"
+            ]
+        },
+        {
+            "key": "luminescent_color",
+            "hint": "a color that seems to glow",
+            "suggestions": [
+                "bioluminescent teal",
+                "neon sapphire",
+                "ultraviolet",
+                "molten gold",
+                "phosphor-green"
+            ]
+        },
+        {
+            "key": "mythical_aquatic_entity",
+            "hint": "a legendary sea creature",
+            "suggestions": [
+                "Leviathan-calf",
+                "Star-shell Turtle",
+                "Hydro-Phoenix",
+                "Glint-finned Drake",
+                "Coral-Behemoth"
+            ]
+        },
+        {
+            "key": "ethereal_substance",
+            "hint": "a mystical or airy material",
+            "suggestions": [
+                "stardust-vapor",
+                "crystalline mist",
+                "liquid moonlight",
+                "opal-dust",
+                "auroral fog"
+            ]
+        },
+        {
+            "key": "geological_feature",
+            "hint": "an exotic coastal formation",
+            "suggestions": [
+                "obsidian trench",
+                "singing grotto",
+                "crystal reef-bridge",
+                "basalt labyrinth",
+                "floating kelp-spire"
+            ]
+        },
+        {
+            "key": "emotional_state",
+            "hint": "a profound feeling or mood",
+            "suggestions": [
+                "transcendental awe",
+                "melancholic bliss",
+                "quiet reverence",
+                "euphoric paralysis",
+                "contemplative stillness"
+            ]
+        },
+        {
+            "key": "texture_noun",
+            "hint": "a material with a distinct feel",
+            "suggestions": [
+                "gossamer silk",
+                "stretched parchment",
+                "velvet smoke",
+                "spun-glass",
+                "dragon-skin"
+            ]
+        },
+        {
+            "key": "liquid_description",
+            "hint": "an adjective for the state of water",
+            "suggestions": [
+                "velvet-shadowed",
+                "mercury-calm",
+                "indigo-inked",
+                "star-dappled",
+                "honey-thick"
+            ]
+        }
+    ]
+}

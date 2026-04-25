@@ -1,0 +1,118 @@
+{
+    "id": "boating_water_story_hard_023",
+    "title": "Boating water: The Sunken Sanctuary",
+    "difficulty": "hard",
+    "template": "Sunlight was [shimmering_action] through the turquoise surface as we submerged into the crystalline depths. Our oxygen tanks hissed with a [rhythmic_desc] rhythm that synchronized with the heartbeat of the ocean. Below us, the vast coral garden stretched out like an underwater metropolis. \n\nWe drifted past towering structures of [material] coral that shimmered under our dive lights. A school of neon fish darted between the branches, their scales reflecting a [visual_glow] glow. The seabed was carpeted in velvet moss that swayed with every passing current. \n\nSuddenly, a giant sea turtle [motion] toward us with an air of ancient wisdom. It seemed to be guarding a [relic] tucked within a crevice of the reef. We watched in silence as the creature performed a slow, graceful dance. \n\nIn the center of the garden sat a [magical_adj] statue encrusted with barnacles and sea glass. It appeared as though the ocean had [transformation_verb] the relic into its own living masterpiece. Bubbles rose from a nearby thermal vent, looking like liquid pearls. \n\nAs our air levels dipped, we began our [ascent] back toward the shimmering world above. The memory of the garden felt like a [dream_adj] dream etched into our minds. We broke the surface, feeling the warm sun kiss our salt-crusted skin once more.",
+    "blanks": [
+        {
+            "key": "shimmering_action",
+            "hint": "verb ending in -ing (ethereal action)",
+            "suggestions": [
+                "fractalling",
+                "cascading",
+                "oscillating",
+                "glimmering",
+                "meandering"
+            ]
+        },
+        {
+            "key": "rhythmic_desc",
+            "hint": "adjective describing sound or rhythm",
+            "suggestions": [
+                "syncopated",
+                "ethereal",
+                "metronomic",
+                "pulsating",
+                "sonorous"
+            ]
+        },
+        {
+            "key": "material",
+            "hint": "noun (a rare mineral or precious material)",
+            "suggestions": [
+                "amethyst",
+                "obsidian",
+                "alabaster",
+                "porcelain",
+                "malachite"
+            ]
+        },
+        {
+            "key": "visual_glow",
+            "hint": "adjective (light or color effect)",
+            "suggestions": [
+                "bioluminescent",
+                "prismatic",
+                "iridescent",
+                "phosphorescent",
+                "opalescent"
+            ]
+        },
+        {
+            "key": "motion",
+            "hint": "verb (past tense, elegant movement)",
+            "suggestions": [
+                "pirouetted",
+                "glided",
+                "navigated",
+                "maneuvered",
+                "spiraled"
+            ]
+        },
+        {
+            "key": "relic",
+            "hint": "noun (a specific historical or rare object)",
+            "suggestions": [
+                "scepter",
+                "medallion",
+                "talisman",
+                "chronometer",
+                "sextant"
+            ]
+        },
+        {
+            "key": "magical_adj",
+            "hint": "adjective (otherworldly or ancient)",
+            "suggestions": [
+                "celestial",
+                "antediluvian",
+                "translucent",
+                "sublime",
+                "effervescent"
+            ]
+        },
+        {
+            "key": "transformation_verb",
+            "hint": "verb (past participle, creative process)",
+            "suggestions": [
+                "assimilated",
+                "sculpted",
+                "metamorphosed",
+                "welded",
+                "woven"
+            ]
+        },
+        {
+            "key": "ascent",
+            "hint": "noun (upward movement or journey)",
+            "suggestions": [
+                "ascension",
+                "trajectory",
+                "sojourn",
+                "migration",
+                "navigation"
+            ]
+        },
+        {
+            "key": "dream_adj",
+            "hint": "adjective (vivid or surreal)",
+            "suggestions": [
+                "halcyon",
+                "kaleidoscopic",
+                "surreal",
+                "transcendental",
+                "luminescent"
+            ]
+        }
+    ]
+}

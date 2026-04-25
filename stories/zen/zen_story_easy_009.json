@@ -1,0 +1,63 @@
+{
+    "id": "zen_story_easy_009",
+    "title": "Zen: The Midnight Glow",
+    "difficulty": "easy",
+    "template": "The sun begins its slow descent behind the rolling hills. A [gentle_adjective] breeze brushes against the tall grass, carrying the scent of pine. The world grows quiet as the stars begin to flicker.\n\nSuddenly, a soft [soft_sound] echoes through the valley as the moon peeks over the horizon. Its light is a beautiful shade of [glowing_color] that illuminates the tranquil lake. Every ripple on the water reflects the celestial dance.\n\nYou take a deep breath and [relaxing_verb] while watching the silver orb climb higher. The harmony of the night feels like a warm [peaceful_object] wrapped around your soul. All is still, and all is perfectly balanced.",
+    "blanks": [
+        {
+            "key": "gentle_adjective",
+            "hint": "adjective (describing a feeling)",
+            "suggestions": [
+                "silky",
+                "fragrant",
+                "mystical",
+                "velvet",
+                "whispering"
+            ]
+        },
+        {
+            "key": "soft_sound",
+            "hint": "noun (a gentle noise)",
+            "suggestions": [
+                "hum",
+                "sigh",
+                "melody",
+                "resonance",
+                "chime"
+            ]
+        },
+        {
+            "key": "glowing_color",
+            "hint": "adjective (a vibrant color)",
+            "suggestions": [
+                "lavender",
+                "opalescent",
+                "golden",
+                "pearlescent",
+                "indigo"
+            ]
+        },
+        {
+            "key": "relaxing_verb",
+            "hint": "verb (action of rest)",
+            "suggestions": [
+                "smile",
+                "meditate",
+                "float",
+                "exhale",
+                "rejoice"
+            ]
+        },
+        {
+            "key": "peaceful_object",
+            "hint": "noun (something comforting)",
+            "suggestions": [
+                "blanket",
+                "lantern",
+                "feather",
+                "cloud",
+                "tapestry"
+            ]
+        }
+    ]
+}

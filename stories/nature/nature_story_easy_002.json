@@ -1,0 +1,63 @@
+{
+    "id": "nature_story_easy_002",
+    "title": "Nature: The Dozing Mountain",
+    "difficulty": "easy",
+    "template": "High above the emerald valley, the ancient mountain began to wake from its long slumber. A soft, [sound_adjective] sound vibrated through the earth, tickling the roots of the nearby trees. The local birds didn't fly away in fear; instead, they chirped in harmony with the deep bass.\n\nTiny puffs of [smoke_color] smoke drifted lazily from the peak like rings from a giant’s pipe. The nearby stream started to bubble as if it were a [bubbly_object] getting ready for a party. Nature seemed to hold its breath, waiting for the mountain to share its secret.\n\nSuddenly, instead of fire, the volcano released a shower of [magical_items] into the sky. They floated down gently, covering the meadows in a blanket of magic. The mountain let out one last [final_adjective] sigh and settled back into its peaceful dream. Everyone in the valley smiled at the beautiful display.",
+    "blanks": [
+        {
+            "key": "sound_adjective",
+            "hint": "adjective describing a sound",
+            "suggestions": [
+                "musical",
+                "humming",
+                "rhythmic",
+                "gentle",
+                "fuzzy"
+            ]
+        },
+        {
+            "key": "smoke_color",
+            "hint": "a bright or unusual color",
+            "suggestions": [
+                "lavender",
+                "golden",
+                "turquoise",
+                "glittery",
+                "marshmallow-white"
+            ]
+        },
+        {
+            "key": "bubbly_object",
+            "hint": "something that makes bubbles",
+            "suggestions": [
+                "teapot",
+                "hot tub",
+                "soda bottle",
+                "fountain",
+                "fizzy cauldron"
+            ]
+        },
+        {
+            "key": "magical_items",
+            "hint": "plural noun (light things)",
+            "suggestions": [
+                "flower petals",
+                "glowing bubbles",
+                "silk ribbons",
+                "tiny stars",
+                "sugar cubes"
+            ]
+        },
+        {
+            "key": "final_adjective",
+            "hint": "adjective describing a feeling",
+            "suggestions": [
+                "satisfied",
+                "cozy",
+                "sleepy",
+                "thunderous",
+                "content"
+            ]
+        }
+    ]
+}

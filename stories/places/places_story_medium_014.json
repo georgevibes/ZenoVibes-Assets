@@ -1,0 +1,85 @@
+{
+    "id": "places_story_medium_014",
+    "title": "Places: The Archive of Forgotten Wonders",
+    "difficulty": "medium",
+    "template": "Deep within the mist-covered mountains lies the entrance to the Archive of Forgotten Wonders. Visitors are greeted by a [descriptive_adjective] gate that hums with ancient energy. To enter, one must simply whisper the name of a memory they wish to keep forever.\n\nThe first hall is filled with floating [magical_items] that shimmer in the moonlight. Each item once belonged to a traveler who wandered too far into the [enchanted_location]. You might find a compass that points only to dreams or a key that unlocks the wind. The air smells faintly of old parchment and [pleasant_scent].\n\nA small, [ethereal_adjective] creature acts as the curator, gliding silently between the tall shelves. It offers you a cup of tea brewed from starlight and echoes. As you sip, the curator explains that these artifacts aren't lost, but simply waiting to be [mystical_verb_past_tense].\n\nBefore you leave, you are invited to place a [small_object] on the Altar of Reminiscence. The museum glows brighter with every gift, illuminating the path back home. You walk away feeling lighter, knowing your story is now part of the collection.",
+    "blanks": [
+        {
+            "key": "descriptive_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "opalescent",
+                "humming",
+                "geometric",
+                "velvet",
+                "translucent"
+            ]
+        },
+        {
+            "key": "magical_items",
+            "hint": "plural noun",
+            "suggestions": [
+                "teardrops",
+                "sandals",
+                "lanterns",
+                "clocks",
+                "origami birds"
+            ]
+        },
+        {
+            "key": "enchanted_location",
+            "hint": "a specific place name",
+            "suggestions": [
+                "Crystal Abyss",
+                "Midnight Orchard",
+                "Echoing Canyon",
+                "Cloud Sea",
+                "Forgotten Library"
+            ]
+        },
+        {
+            "key": "pleasant_scent",
+            "hint": "noun",
+            "suggestions": [
+                "cinnamon",
+                "ozone",
+                "jasmine",
+                "fresh pine",
+                "petrichor"
+            ]
+        },
+        {
+            "key": "ethereal_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "luminous",
+                "willowy",
+                "starlit",
+                "feathered",
+                "gossamer"
+            ]
+        },
+        {
+            "key": "mystical_verb_past_tense",
+            "hint": "verb ending in -ed",
+            "suggestions": [
+                "rediscovered",
+                "awakened",
+                "cherished",
+                "transformed",
+                "remembered"
+            ]
+        },
+        {
+            "key": "small_object",
+            "hint": "noun",
+            "suggestions": [
+                "smooth pebble",
+                "silver feather",
+                "dried flower",
+                "glass marble",
+                "copper coin"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "zen_story_medium_018",
+    "title": "Zen: The Radiant Awakening",
+    "difficulty": "medium",
+    "template": "Deep within the center of a [adjective_1] swamp, a tiny seed began to stir. It lay buried under layers of thick, gooey mud, waiting for a signal from the universe. Even in the darkness, the seed felt a [noun_1] of pure energy.\n\nSlowly, a slender green stem pushed through the [adjective_2] depths. It didn't mind the muck or the tangled roots of the reeds nearby. The plant knew that every struggle was simply a [noun_2] towards the light. Soon, it reached the surface of the water with a soft splash.\n\nUnder the silver glow of the moon, the bud started to [verb_1] slowly. Petals as soft as silk unfurled, revealing colors that seemed to [verb_2] in the dark. The surrounding dragonflies watched in awe as the flower transformed the murky pond.\n\nNow fully bloomed, the lotus stood [adverb_1] above the silty water. Its fragrance filled the air, bringing peace to every creature in the marsh. From the mud came a miracle, proving that beauty can thrive anywhere.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive word",
+            "suggestions": [
+                "mystical",
+                "shimmering",
+                "forgotten",
+                "ancient",
+                "velvety"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "a concept or thing",
+            "suggestions": [
+                "heartbeat",
+                "whisper",
+                "spark",
+                "rhythm",
+                "vibration"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "descriptive word",
+            "suggestions": [
+                "murky",
+                "stagnant",
+                "heavy",
+                "primordial",
+                "chocolatey"
+            ]
+        },
+        {
+            "key": "noun_2",
+            "hint": "a thing used for travel",
+            "suggestions": [
+                "ladder",
+                "stepping-stone",
+                "bridge",
+                "dance",
+                "portal"
+            ]
+        },
+        {
+            "key": "verb_1",
+            "hint": "action word",
+            "suggestions": [
+                "unfold",
+                "blossom",
+                "expand",
+                "twirl",
+                "awaken"
+            ]
+        },
+        {
+            "key": "verb_2",
+            "hint": "action word",
+            "suggestions": [
+                "glow",
+                "hum",
+                "vibrate",
+                "sparkle",
+                "sing"
+            ]
+        },
+        {
+            "key": "adverb_1",
+            "hint": "word ending in -ly",
+            "suggestions": [
+                "gracefully",
+                "majestically",
+                "serenely",
+                "triumphantly",
+                "quietly"
+            ]
+        }
+    ]
+}

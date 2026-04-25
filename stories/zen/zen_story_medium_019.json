@@ -1,0 +1,85 @@
+{
+    "id": "zen_story_medium_019",
+    "title": "Zen: The Resonance of Silence",
+    "difficulty": "medium",
+    "template": "High atop the misty peaks, a monk stood before the ancient bronze bell. The air smelled of [aroma] and wet stone. He reached for the wooden striker, preparing to send a sound through the valley. Birds nearby stopped their chirping in anticipation.\n\nWith a sudden [movement], the striker connected with the cold metal. Instead of a loud boom, the bell emitted a soft [sound_description] that tickled the ears of the mountain goats. It felt as if time itself had decided to take a nap.\n\nDown in the village, a gardener stopped pruning their [plant_type] to listen. The vibration traveled through the earth, making the [color] pebbles dance in the courtyard. Even the wind seemed to hold its breath. The entire village fell into a beautiful, heavy silence.\n\nA sense of profound [emotion] washed over the valley as the echo drifted toward the clouds. It reminded everyone that the loudest truths are often spoken in a whisper. The temple remained peaceful, holding its secrets [adverb] for the next century.",
+    "blanks": [
+        {
+            "key": "aroma",
+            "hint": "a pleasant scent",
+            "suggestions": [
+                "roasted oolong",
+                "rain-soaked earth",
+                "burning sage",
+                "sweet citrus",
+                "fragrant pine"
+            ]
+        },
+        {
+            "key": "movement",
+            "hint": "a specific action",
+            "suggestions": [
+                "flick of the wrist",
+                "graceful lunge",
+                "rhythmic sway",
+                "clumsy stumble",
+                "delicate tap"
+            ]
+        },
+        {
+            "key": "sound_description",
+            "hint": "a soft or unusual noise",
+            "suggestions": [
+                "sparkling chime",
+                "low vibration",
+                "harmonic sigh",
+                "curious pop",
+                "melodic purr"
+            ]
+        },
+        {
+            "key": "plant_type",
+            "hint": "a type of flora",
+            "suggestions": [
+                "peony bushes",
+                "willow branches",
+                "silver ferns",
+                "juniper shrubs",
+                "maple saplings"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "neon violet",
+                "liquid silver",
+                "obsidian",
+                "pale apricot",
+                "electric blue"
+            ]
+        },
+        {
+            "key": "emotion",
+            "hint": "a feeling of the heart",
+            "suggestions": [
+                "unwavering peace",
+                "breathless awe",
+                "cosmic unity",
+                "quiet joy",
+                "deep curiosity"
+            ]
+        },
+        {
+            "key": "adverb",
+            "hint": "a word ending in -ly",
+            "suggestions": [
+                "harmoniously",
+                "gracefully",
+                "mischievously",
+                "quietly",
+                "radiantly"
+            ]
+        }
+    ]
+}

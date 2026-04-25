@@ -1,0 +1,85 @@
+{
+    "id": "zen_story_medium_015",
+    "title": "Zen: The Radiant Poem",
+    "difficulty": "medium",
+    "template": "The moon hung low over the [sacred_location], casting a silvery glow on the stone table. Master Koji dipped his brush into a pot of [mystical_adjective] ink. He began to trace symbols that shimmered with an inner light.\n\nAs each line appeared, the paper emitted a soft [gentle_sound]. The ink seemed to flow like a tiny [landscape_feature] across the parchment. Every stroke was a lesson in patience and grace. The air smelled of sandalwood and fresh rain.\n\nSuddenly, the words lifted off the page and began to [graceful_action]. They spun in a circle, forming a halo of wisdom. The scribe watched as the letters transformed into a [serene_creature].\n\nThis magical being bowed before disappearing into the [luminous_color] mist. Only the faint scent of lotus remained in the room. The haiku was gone, but its peace stayed in the heart.",
+    "blanks": [
+        {
+            "key": "sacred_location",
+            "hint": "a peaceful place",
+            "suggestions": [
+                "Hidden Garden",
+                "Floating Temple",
+                "Bamboo Grove",
+                "Misty Peak",
+                "Crystal Cavern"
+            ]
+        },
+        {
+            "key": "mystical_adjective",
+            "hint": "a descriptive word for magic",
+            "suggestions": [
+                "Bioluminescent",
+                "Stardust-infused",
+                "Ethereal",
+                "Iridescent",
+                "Ever-changing"
+            ]
+        },
+        {
+            "key": "gentle_sound",
+            "hint": "a quiet noise",
+            "suggestions": [
+                "Hum",
+                "Chime",
+                "Whisper",
+                "Echo",
+                "Lullaby"
+            ]
+        },
+        {
+            "key": "landscape_feature",
+            "hint": "something found in nature",
+            "suggestions": [
+                "Waterfall",
+                "River",
+                "Glacier",
+                "Meadow",
+                "Canyon"
+            ]
+        },
+        {
+            "key": "graceful_action",
+            "hint": "a movement verb",
+            "suggestions": [
+                "Pirouette",
+                "Drift",
+                "Ascend",
+                "Twirl",
+                "Meander"
+            ]
+        },
+        {
+            "key": "serene_creature",
+            "hint": "an animal or mythical being",
+            "suggestions": [
+                "Dragonfly",
+                "Crane",
+                "Koi Fish",
+                "Snow Leopard",
+                "Phoenix"
+            ]
+        },
+        {
+            "key": "luminous_color",
+            "hint": "a bright color",
+            "suggestions": [
+                "Indigo",
+                "Amber",
+                "Jade",
+                "Violet",
+                "Golden"
+            ]
+        }
+    ]
+}

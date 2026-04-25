@@ -1,0 +1,118 @@
+{
+    "id": "household_story_hard_022",
+    "title": "Household: The Living Room Sanctuary",
+    "difficulty": "hard",
+    "template": "In the heart of the quiet den, a [texture_adj] cushion rests upon the velvet sofa. It feels as though it were woven from [ethereal_material] by unseen hands. This simple object serves as the ultimate anchor for wandering minds.\n\nWhile [action_ing] nearby, one cannot help but notice the way the sunlight hits its edges. It sits [manner_adverb] against the backrest, inviting anyone to lean back and forget their worries. This mundane furniture hides a secret depth.\n\nDeep within the stuffing, a [mystical_object] hums with a frequency only the heart can hear. The fabric begins to emit a [glowing_adj] light that fills the entire room with warmth. It is no longer just a place to sit, but a gateway.\n\nSmall, translucent [tiny_beings] seem to dance around the tassels, whispering secrets of the universe. If you touch the surface, the room will [transformation_verb] into a landscape of infinite clouds. The floor beneath you vanishes into a soft, hazy dream.\n\nEvery breath you take becomes [vibe_adj], matching the rhythmic pulse of the sleeping house. It remains a silent guardian of [abstract_concept] in an otherwise chaotic world. The sofa is once again still, waiting for the next weary traveler.",
+    "blanks": [
+        {
+            "key": "texture_adj",
+            "hint": "adjective (describing texture)",
+            "suggestions": [
+                "Gossamer",
+                "Iridescent",
+                "Crystalline",
+                "Velvety",
+                "Nebulous"
+            ]
+        },
+        {
+            "key": "ethereal_material",
+            "hint": "noun (a mystical substance)",
+            "suggestions": [
+                "Stardust",
+                "Cloud-silk",
+                "Frozen echoes",
+                "Moonbeams",
+                "Whale-song"
+            ]
+        },
+        {
+            "key": "action_ing",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "Meditating",
+                "Levitating",
+                "Daydreaming",
+                "Tiptoeing",
+                "Pondering"
+            ]
+        },
+        {
+            "key": "manner_adverb",
+            "hint": "adverb",
+            "suggestions": [
+                "Majestically",
+                "Precariously",
+                "Serenely",
+                "Stoically",
+                "Enigmatically"
+            ]
+        },
+        {
+            "key": "mystical_object",
+            "hint": "noun (a magical item)",
+            "suggestions": [
+                "Cosmic portal",
+                "Ancient talisman",
+                "Swirling nebula",
+                "Locket of sighs",
+                "Crystal seed"
+            ]
+        },
+        {
+            "key": "glowing_adj",
+            "hint": "adjective (describing light)",
+            "suggestions": [
+                "Bioluminescent",
+                "Prismatic",
+                "Phosphorescent",
+                "Ethereal",
+                "Supernova"
+            ]
+        },
+        {
+            "key": "tiny_beings",
+            "hint": "plural noun (small creatures)",
+            "suggestions": [
+                "Dust-sprites",
+                "Lullaby-moths",
+                "Geometric sparks",
+                "Time-fragments",
+                "Glitter-gnomes"
+            ]
+        },
+        {
+            "key": "transformation_verb",
+            "hint": "verb (action of change)",
+            "suggestions": [
+                "Metamorphose",
+                "Crystallize",
+                "Subliminate",
+                "Fractalize",
+                "Unspool"
+            ]
+        },
+        {
+            "key": "vibe_adj",
+            "hint": "adjective (describing a feeling)",
+            "suggestions": [
+                "Harmonious",
+                "Transcendent",
+                "Weightless",
+                "Euphonic",
+                "Luminous"
+            ]
+        },
+        {
+            "key": "abstract_concept",
+            "hint": "noun (abstract idea)",
+            "suggestions": [
+                "Equilibrium",
+                "Infinite stillness",
+                "Nirvana",
+                "Zenith",
+                "Temporal peace"
+            ]
+        }
+    ]
+}

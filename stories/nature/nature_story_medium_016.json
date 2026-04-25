@@ -1,0 +1,85 @@
+{
+    "id": "nature_story_medium_016",
+    "title": "Nature: The Musical Meadow",
+    "difficulty": "medium",
+    "template": "Deep in the hidden valley lies a meadow unlike any other. The [adjective_1] blades of grass don't just sway; they vibrate with a soft melody. Whenever a gentle breeze passes through, the entire field begins to [verb_1].\n\nVisitors often describe the sound as a choir of tiny [plural_noun_1]. The music changes its tune based on the position of the sun. At high noon, the harmony becomes [adjective_2] and energetic. It feels like the earth itself is sharing a secret.\n\nIf you sit perfectly still, the grass will grow closer to your [body_part]. You might even hear a specific song dedicated just to you. The blades shimmer in shades of [color_1] as they perform.\n\nLeaving the meadow is the hardest part of the journey. You carry the [noun_1] of the song in your heart for days. Nature has a way of reminding us that everything has a voice.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "adjective",
+            "suggestions": [
+                "emerald",
+                "translucent",
+                "shimmering",
+                "rhythmic",
+                "velvety"
+            ]
+        },
+        {
+            "key": "verb_1",
+            "hint": "verb (action)",
+            "suggestions": [
+                "hum",
+                "whistle",
+                "giggle",
+                "chant",
+                "yodel"
+            ]
+        },
+        {
+            "key": "plural_noun_1",
+            "hint": "plural noun",
+            "suggestions": [
+                "flutes",
+                "dragonflies",
+                "bells",
+                "sprites",
+                "violins"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "adjective",
+            "suggestions": [
+                "thunderous",
+                "sparkly",
+                "symphonic",
+                "electric",
+                "radiant"
+            ]
+        },
+        {
+            "key": "body_part",
+            "hint": "body part",
+            "suggestions": [
+                "elbows",
+                "ankles",
+                "ears",
+                "knees",
+                "fingertips"
+            ]
+        },
+        {
+            "key": "color_1",
+            "hint": "color",
+            "suggestions": [
+                "indigo",
+                "sunset-orange",
+                "neon-pink",
+                "lavender",
+                "gold"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "noun",
+            "suggestions": [
+                "echo",
+                "vibration",
+                "warmth",
+                "sparkle",
+                "rhythm"
+            ]
+        }
+    ]
+}

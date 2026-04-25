@@ -1,0 +1,118 @@
+{
+    "id": "family_story_hard_026",
+    "title": "Family: The Morning Gathering",
+    "difficulty": "hard",
+    "template": "The sun peeks through the [curtain_style] curtains, signaling the start of our favorite family tradition. In the kitchen, the aroma of [brew_aroma] coffee mingles with the sound of gentle laughter. Everyone gathers around the table, their faces glowing with a warm sense of anticipation.\n\nGrandpa is busy flipping [breakfast_item] with the precision of a master magician. He insists that the secret ingredient is a pinch of [secret_spice] and a lot of heart. The sizzling pan hums a rhythmic tune that fills the cozy, sun-drenched room.\n\nMeanwhile, the kids are trying to [cooking_action] the sourdough toast without burning it to a crisp. The table is laden with bowls of [fruit_description] berries and jars of homemade mountain honey. Each plate is a canvas, decorated with intricate swirls of syrup and fresh mint.\n\nWe share stories of our dreams, some [dream_quality] and others surprisingly realistic. Suddenly, the family pet decides to [clumsy_move] through the kitchen, narrowly missing the orange juice. Dad lets out a belly laugh that echoes through the halls and into the garden.\n\nAs the meal winds down, a sense of [final_feeling] settles over the sleepy household. We clear the dishes together, reinforcing the [family_bond] that keeps us grounded. Sunday mornings are truly the magical heartbeat that sustains our home through the week.",
+    "blanks": [
+        {
+            "key": "curtain_style",
+            "hint": "adjective for fabric",
+            "suggestions": [
+                "gossamer",
+                "iridescent",
+                "damask",
+                "brocade",
+                "diaphanous"
+            ]
+        },
+        {
+            "key": "brew_aroma",
+            "hint": "sophisticated scent",
+            "suggestions": [
+                "chicory",
+                "cardamom-infused",
+                "obsidian",
+                "ambrosial",
+                "botanical"
+            ]
+        },
+        {
+            "key": "breakfast_item",
+            "hint": "plural food item",
+            "suggestions": [
+                "buckwheat blinis",
+                "brioche rounds",
+                "potato galettes",
+                "puffed popovers",
+                "savory frittatas"
+            ]
+        },
+        {
+            "key": "secret_spice",
+            "hint": "abstract noun",
+            "suggestions": [
+                "enchantment",
+                "serendipity",
+                "folklore",
+                "luminescence",
+                "equanimity"
+            ]
+        },
+        {
+            "key": "cooking_action",
+            "hint": "complex verb",
+            "suggestions": [
+                "manipulate",
+                "salvage",
+                "maneuver",
+                "choreograph",
+                "liberate"
+            ]
+        },
+        {
+            "key": "fruit_description",
+            "hint": "adjective for texture/color",
+            "suggestions": [
+                "crystalline",
+                "jewel-toned",
+                "velvet-skinned",
+                "nectarous",
+                "effervescent"
+            ]
+        },
+        {
+            "key": "dream_quality",
+            "hint": "abstract adjective",
+            "suggestions": [
+                "kaleidoscopic",
+                "Kafkaesque",
+                "surrealist",
+                "nebulous",
+                "operatic"
+            ]
+        },
+        {
+            "key": "clumsy_move",
+            "hint": "energetic verb",
+            "suggestions": [
+                "pirouette",
+                "ricochet",
+                "meander",
+                "careen",
+                "cavort"
+            ]
+        },
+        {
+            "key": "final_feeling",
+            "hint": "emotion or state",
+            "suggestions": [
+                "bliss",
+                "camaraderie",
+                "solace",
+                "rejuvenation",
+                "plenitude"
+            ]
+        },
+        {
+            "key": "family_bond",
+            "hint": "metaphorical noun",
+            "suggestions": [
+                "architecture",
+                "infrastructure",
+                "kaleidoscope",
+                "constellation",
+                "tether"
+            ]
+        }
+    ]
+}

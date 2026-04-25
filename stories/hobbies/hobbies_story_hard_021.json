@@ -1,0 +1,118 @@
+{
+    "id": "hobbies_story_hard_021",
+    "title": "Hobbies: The Paper Wings of Dawn",
+    "difficulty": "hard",
+    "template": "In the quiet corner of a sun-drenched library, an [adjective_1] artist carefully smoothed out a sheet of [color] paper. This was no ordinary crafting session, but a ritual of patience and precision. The air smelled of old parchment and jasmine tea. The dust motes danced in the silence.\n\nWith a [adverb] flick of the fingers, the first crease was formed, creating a sharp valley fold. The artist's [manual_features] moved with a grace that suggested years of dedicated practice. Every corner had to align perfectly to capture the essence of a living creature.\n\nSuddenly, a soft [sound] echoed through the silent room as the paper began to vibrate. A faint [type_of_light] glow emanated from the delicate wings of the newly formed crane. The hobbyist held their breath, watching the inanimate object twitch with newfound energy.\n\nWith a sudden [kinetic_action] motion, the origami bird took to the sky, circling the mahogany bookshelves. Soon, a whole flock of paper creatures was [navigational_verb] through the open window toward the horizon. They looked like flickering stars against the twilight sky.\n\nThe artist watched them go, feeling a sense of [emotion] wash over their heart. This [adjective_2] hobby had turned a simple afternoon into a legendary tale. As the sun set, the only trace left behind was a single, golden feather made of silk. They would remember this magic forever.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "sophisticated adjective",
+            "suggestions": [
+                "Enigmatic",
+                "Industrious",
+                "Visionary",
+                "Whimsical",
+                "Ethereal"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "vibrant or unusual color",
+            "suggestions": [
+                "Cerulean",
+                "Iridescent",
+                "Vermillion",
+                "Obsidian",
+                "Chartreuse"
+            ]
+        },
+        {
+            "key": "adverb",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "Methodically",
+                "Sprightly",
+                "Mystically",
+                "Erratically",
+                "Gingerly"
+            ]
+        },
+        {
+            "key": "manual_features",
+            "hint": "plural noun (descriptive hands/fingers)",
+            "suggestions": [
+                "Calloused palms",
+                "Slender digits",
+                "Dexterous appendages",
+                "Talented knuckles",
+                "Rhythmic thumbs"
+            ]
+        },
+        {
+            "key": "sound",
+            "hint": "a specific sound noun",
+            "suggestions": [
+                "Chime",
+                "Harmonic hum",
+                "Rustle",
+                "Whispered sigh",
+                "Resonant thrum"
+            ]
+        },
+        {
+            "key": "type_of_light",
+            "hint": "descriptive light adjective",
+            "suggestions": [
+                "Bioluminescent",
+                "Spectral",
+                "Phosphorescent",
+                "Pearlescent",
+                "Prismatic"
+            ]
+        },
+        {
+            "key": "kinetic_action",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "Ascending",
+                "Spiraling",
+                "Shimmering",
+                "Gliding",
+                "Fluttering"
+            ]
+        },
+        {
+            "key": "navigational_verb",
+            "hint": "verb ending in -ed",
+            "suggestions": [
+                "Galvanized",
+                "Meandered",
+                "Cascaded",
+                "Propelled",
+                "Transcended"
+            ]
+        },
+        {
+            "key": "emotion",
+            "hint": "complex emotional state",
+            "suggestions": [
+                "Serenity",
+                "Euphoria",
+                "Melancholy",
+                "Reverence",
+                "Astonishment"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "powerful/grand adjective",
+            "suggestions": [
+                "Transcendent",
+                "Ephemeral",
+                "Luminous",
+                "Arcane",
+                "Sublime"
+            ]
+        }
+    ]
+}

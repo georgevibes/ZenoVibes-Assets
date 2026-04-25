@@ -1,0 +1,63 @@
+{
+    "id": "household_story_easy_008",
+    "title": "Household: The Sunlit Pane",
+    "difficulty": "easy",
+    "template": "I love sitting by the window in the morning. The [sparkling_description] glass shows a world full of wonder. Outside, a small [garden_creature] sits on the ledge. It looks like it is waiting for the day to begin.\n\nBeyond the garden, the trees sway gently in the breeze. I can see the neighbors [neighborly_action] in their yard. The sun casts long shadows across the kitchen floor.\n\nThis cozy corner is my favorite place to [peaceful_hobby]. I slowly sip my [soothing_liquid] and watch the clouds drift by. The house feels warm and full of light today.",
+    "blanks": [
+        {
+            "key": "sparkling_description",
+            "hint": "adjective",
+            "suggestions": [
+                "crystalline",
+                "glimmering",
+                "speckled",
+                "foggy",
+                "radiant"
+            ]
+        },
+        {
+            "key": "garden_creature",
+            "hint": "a small animal",
+            "suggestions": [
+                "bumblebee",
+                "hummingbird",
+                "chickadee",
+                "grasshopper",
+                "caterpillar"
+            ]
+        },
+        {
+            "key": "neighborly_action",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "stretching",
+                "harvesting",
+                "whistling",
+                "picnicking",
+                "waving"
+            ]
+        },
+        {
+            "key": "peaceful_hobby",
+            "hint": "a relaxing verb",
+            "suggestions": [
+                "nap",
+                "journal",
+                "stretch",
+                "hum",
+                "daydream"
+            ]
+        },
+        {
+            "key": "soothing_liquid",
+            "hint": "a drink",
+            "suggestions": [
+                "matcha",
+                "peppermint tea",
+                "warm honey",
+                "apple juice",
+                "chamomile"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "household_story_easy_010",
+    "title": "Household: The Enchanted Carpet",
+    "difficulty": "easy",
+    "template": "In the center of the living room lies an ancient, [texture_adjective] rug that seems to hum with secrets. Every time someone steps on its soft fibers, they hear a faint sound of [magical_noun] drifting through the air. It is the heart of the home, grounding everyone who walks across it.\n\nOne afternoon, a small kitten began to [movement_verb] across the intricate patterns of the fabric. Suddenly, the woven threads glowed with a warm, golden light that filled the entire room. The air smelled faintly of [pleasant_scent], evoking memories of distant lands and cozy nights.\n\nEveryone gathered around to watch the rug share its final story of the day. With a gentle [soft_sound], the patterns shifted back into their usual still positions. The house felt peaceful, knowing the rug would always keep its magical tales safe.",
+    "blanks": [
+        {
+            "key": "texture_adjective",
+            "hint": "an adjective describing a texture",
+            "suggestions": [
+                "shimmering",
+                "velvety",
+                "emerald",
+                "whispy",
+                "silken"
+            ]
+        },
+        {
+            "key": "magical_noun",
+            "hint": "a plural noun or abstract concept",
+            "suggestions": [
+                "lullabies",
+                "stardust",
+                "whispers",
+                "silver bells",
+                "echoes"
+            ]
+        },
+        {
+            "key": "movement_verb",
+            "hint": "a verb showing movement",
+            "suggestions": [
+                "prance",
+                "glide",
+                "tumble",
+                "swirl",
+                "dance"
+            ]
+        },
+        {
+            "key": "pleasant_scent",
+            "hint": "a noun representing a smell",
+            "suggestions": [
+                "lavender",
+                "cinnamon",
+                "fresh rain",
+                "toasted marshmallows",
+                "old books"
+            ]
+        },
+        {
+            "key": "soft_sound",
+            "hint": "a noun for a quiet sound",
+            "suggestions": [
+                "chime",
+                "sigh",
+                "hum",
+                "giggle",
+                "sparkle"
+            ]
+        }
+    ]
+}

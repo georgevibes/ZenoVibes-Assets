@@ -1,0 +1,63 @@
+{
+    "id": "instruments_story_easy_010",
+    "title": "Instruments: The Starlit Melody",
+    "difficulty": "easy",
+    "template": "The sun set behind the hills, casting a warm glow over the garden. A musician picked up a [shimmering_adjective] mandolin and began to play. The notes flew through the air like tiny sparks.\n\nWith a [speedy_adverb] flick of the wrist, the strings vibrated with energy. Nearby, a [forest_creature] started to dance to the rhythmic beat. The melody seemed to make the flowers sway in time. It was as if the music had a life of its own.\n\nEvery time the tempo increased, the [magical_object] glowed brighter. The strumming reached a peak before softly fading into the night. A feeling of [positive_feeling] filled the hearts of everyone listening. The night was finally silent once more.",
+    "blanks": [
+        {
+            "key": "shimmering_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "golden",
+                "ancient",
+                "shimmering",
+                "polished",
+                "enchanted"
+            ]
+        },
+        {
+            "key": "speedy_adverb",
+            "hint": "adverb",
+            "suggestions": [
+                "briskly",
+                "elegantly",
+                "wildly",
+                "rhythmically",
+                "playfully"
+            ]
+        },
+        {
+            "key": "forest_creature",
+            "hint": "small animal or creature",
+            "suggestions": [
+                "butterfly",
+                "chipmunk",
+                "owl",
+                "gnome",
+                "fawn"
+            ]
+        },
+        {
+            "key": "magical_object",
+            "hint": "nearby object",
+            "suggestions": [
+                "pond",
+                "willow",
+                "statue",
+                "torch",
+                "mirror"
+            ]
+        },
+        {
+            "key": "positive_feeling",
+            "hint": "a positive emotion",
+            "suggestions": [
+                "bliss",
+                "serenity",
+                "delight",
+                "cheer",
+                "magic"
+            ]
+        }
+    ]
+}

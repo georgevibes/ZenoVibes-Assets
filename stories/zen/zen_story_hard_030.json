@@ -1,0 +1,118 @@
+{
+    "id": "zen_story_hard_030",
+    "title": "Zen: The Infinite Speck",
+    "difficulty": "hard",
+    "template": "Deep within a single [adjective_1] grain of sand lies a universe of quiet wonder. Tiny beings with [noun_plural_1] for wings flutter through the crystalline valleys. They seek the ultimate source of calm hidden beneath the silica.\n\nHere, mountains of translucent quartz [verb_present_tense_1] towards a miniature sun. Rivers of liquid [substance_1] flow through canyons narrower than a human hair. Every ripple reflects a thousand years of meditative silence.\n\nThe elders of this grain spend eons practicing the art of [abstract_noun_1]. They believe that by [verb_ing_1] a single mote of dust, they can understand the cosmos. Their voices sound like the tinkling of glass bells in the breeze. It is a melody of pure existence.\n\nOccasionally, a [natural_phenomenon_1] shakes the foundation of their tiny realm. To them, a falling raindrop is a [noun_2] of epic proportions. Yet, they remain centered, breathing in the vastness of the small.\n\nTo observe this world is to [verb_infinitive_1] the interconnectedness of all things. Size is merely an illusion created by the [adjective_2] mind. In the heart of the smallest speck, the whole infinite universe resides.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "stardust-flecked",
+                "ethereal",
+                "translucent",
+                "luminescent",
+                "primordial"
+            ]
+        },
+        {
+            "key": "noun_plural_1",
+            "hint": "plural noun (ethereal objects)",
+            "suggestions": [
+                "prisms",
+                "auroras",
+                "silken threads",
+                "shimmering echoes",
+                "lotus petals"
+            ]
+        },
+        {
+            "key": "verb_present_tense_1",
+            "hint": "action verb (present tense)",
+            "suggestions": [
+                "spiral",
+                "ascend",
+                "resonate",
+                "glimmer",
+                "pulsate"
+            ]
+        },
+        {
+            "key": "substance_1",
+            "hint": "a fluid or material",
+            "suggestions": [
+                "starlight",
+                "molten amber",
+                "liquid serenity",
+                "dewdrop nectar",
+                "silver mist"
+            ]
+        },
+        {
+            "key": "abstract_noun_1",
+            "hint": "a concept or feeling",
+            "suggestions": [
+                "oneness",
+                "stillness",
+                "equanimity",
+                "transcendence",
+                "harmony"
+            ]
+        },
+        {
+            "key": "verb_ing_1",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "contemplating",
+                "balancing",
+                "weaving",
+                "polishing",
+                "nurturing"
+            ]
+        },
+        {
+            "key": "natural_phenomenon_1",
+            "hint": "a subtle event",
+            "suggestions": [
+                "cosmic vibration",
+                "gentle tremor",
+                "passing shadow",
+                "whisper",
+                "subtle shift"
+            ]
+        },
+        {
+            "key": "noun_2",
+            "hint": "a significant event or object",
+            "suggestions": [
+                "cataclysm",
+                "monolith",
+                "odyssey",
+                "miracle",
+                "revelation"
+            ]
+        },
+        {
+            "key": "verb_infinitive_1",
+            "hint": "verb (to ...)",
+            "suggestions": [
+                "witness",
+                "embrace",
+                "unlock",
+                "transcend",
+                "perceive"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "descriptive adjective for a state of mind",
+            "suggestions": [
+                "unfettered",
+                "restless",
+                "analytical",
+                "wandering",
+                "harmonious"
+            ]
+        }
+    ]
+}

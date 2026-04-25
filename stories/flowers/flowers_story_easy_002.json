@@ -1,0 +1,63 @@
+{
+    "id": "flowers_story_easy_002",
+    "title": "Flowers: The Lavender Sea",
+    "difficulty": "easy",
+    "template": "The sun begins to set over the rolling hills of lavender. The air is filled with a [scent_adjective] aroma that calms every soul. Bees buzz softly between the purple stalks, dancing in the light.\n\nYou decide to sit down and enjoy the [color] view. Suddenly, a [creature] hops out from behind a bush. It looks at you with curious eyes and seems to smile. The tall stems sway gently in the afternoon breeze.\n\nYou reach out to touch a bloom and feel a [texture] sensation. It is as if the field is whispering a [type_of_song] to the wind. This moment of peace is everything you needed today.",
+    "blanks": [
+        {
+            "key": "scent_adjective",
+            "hint": "adjective describing a smell",
+            "suggestions": [
+                "sweet",
+                "magical",
+                "zesty",
+                "soothing",
+                "flowery"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a color",
+            "suggestions": [
+                "violet",
+                "golden",
+                "shimmering",
+                "vibrant",
+                "neon"
+            ]
+        },
+        {
+            "key": "creature",
+            "hint": "a small animal or magical being",
+            "suggestions": [
+                "rabbit",
+                "fairy",
+                "butterfly",
+                "fox",
+                "grasshopper"
+            ]
+        },
+        {
+            "key": "texture",
+            "hint": "how something feels",
+            "suggestions": [
+                "fuzzy",
+                "tingly",
+                "soft",
+                "velvety",
+                "warm"
+            ]
+        },
+        {
+            "key": "type_of_song",
+            "hint": "a type of musical composition",
+            "suggestions": [
+                "lullaby",
+                "secret",
+                "melody",
+                "rhythm",
+                "hymn"
+            ]
+        }
+    ]
+}

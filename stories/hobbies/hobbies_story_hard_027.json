@@ -1,0 +1,118 @@
+{
+    "id": "hobbies_story_hard_027",
+    "title": "Hobbies: The Ink-Stained Portal",
+    "difficulty": "hard",
+    "template": "The sun dipped below the horizon as I clutched my [adjective_1] charcoal stick. I began to sketch a [mythical_creature] upon the textured parchment. Every stroke felt charged with a strange, humming energy that vibrated through the floorboards.\n\nSuddenly, the lines began to [verb_present_participle] with a soft, bioluminescent glow. The creature’s eyes blinked, revealing depths like [plural_noun]. I held my breath, afraid that even a whisper would break this delicate enchantment.\n\nWith a sudden [noun_action], the sketch peeled itself away from the heavy paper. It hovered in the air, its body made of ink and [ethereal_substance]. It circled the room, leaving trails of magic on my messy desk.\n\nThe creature landed softly on a potted plant and began to [verb_infinitive] among the leaves. It looked at me with a sense of [abstract_noun] that warmed my tired heart. My studio felt less like a room and more like a gateway to another realm.\n\nEventually, the visitor returned to the page and settled into a [adjective_2] pose. I realized my hobby was no longer just a way to pass the time. It was a bridge to a [place_type] where imagination reigned supreme.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "shimmering",
+                "weathered",
+                "obsidian",
+                "cerulean",
+                "translucent"
+            ]
+        },
+        {
+            "key": "mythical_creature",
+            "hint": "a fantasy being",
+            "suggestions": [
+                "phoenix",
+                "manticore",
+                "griffin",
+                "leviathan",
+                "dryad"
+            ]
+        },
+        {
+            "key": "verb_present_participle",
+            "hint": "action ending in -ing",
+            "suggestions": [
+                "undulating",
+                "pulsing",
+                "shimmering",
+                "swirling",
+                "glimmering"
+            ]
+        },
+        {
+            "key": "plural_noun",
+            "hint": "objects for comparison",
+            "suggestions": [
+                "nebulae",
+                "gemstones",
+                "ocean depths",
+                "galaxies",
+                "ancient runes"
+            ]
+        },
+        {
+            "key": "noun_action",
+            "hint": "a sudden movement",
+            "suggestions": [
+                "somersault",
+                "flutter",
+                "surge",
+                "pirouette",
+                "lunge"
+            ]
+        },
+        {
+            "key": "ethereal_substance",
+            "hint": "magical material",
+            "suggestions": [
+                "starlight",
+                "moonlight",
+                "aurora borealis",
+                "whispering wind",
+                "molten silver"
+            ]
+        },
+        {
+            "key": "verb_infinitive",
+            "hint": "action verb",
+            "suggestions": [
+                "frolic",
+                "meditate",
+                "repose",
+                "dance",
+                "whisper"
+            ]
+        },
+        {
+            "key": "abstract_noun",
+            "hint": "an emotion or concept",
+            "suggestions": [
+                "camaraderie",
+                "serenity",
+                "mischief",
+                "reverence",
+                "wonder"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "describing a state of being",
+            "suggestions": [
+                "majestic",
+                "quiescent",
+                "stoic",
+                "whimsical",
+                "eternal"
+            ]
+        },
+        {
+            "key": "place_type",
+            "hint": "a type of world or area",
+            "suggestions": [
+                "sanctuary",
+                "kaleidoscope",
+                "labyrinth",
+                "utopia",
+                "dreamscape"
+            ]
+        }
+    ]
+}

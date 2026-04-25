@@ -1,0 +1,85 @@
+{
+    "id": "family_story_medium_011",
+    "title": "Family: The Secret Upstairs",
+    "difficulty": "medium",
+    "template": "The family gathered at the base of the creaky ladder, ready to explore the attic. Dust motes danced in the light of a [luminous_adjective] lantern held by Uncle Leo. Up here, the air smelled like old paper and [calming_scent]. It felt like stepping back into a hidden world.\n\nTucked behind a stack of trunks, Sarah found a [textured_adjective] chest. Inside, she discovered a collection of photographs from long ago. The faces in the pictures were filled with [warm_emotion] as they celebrated a summer feast.\n\nGrandpa picked up a dusty [classic_instrument] and began to play a soft melody. The sound echoed through the rafters, bringing back a wave of [nostalgic_plural_noun]. Even the shadows seemed to sway along with the rhythm.\n\nThey spent the afternoon [tranquil_action] through stories of ancestors and adventures. Eventually, it was time to climb back down to the living room. They left the attic feeling closer together than ever before. The memories would stay safe under the roof until the next rainy day.",
+    "blanks": [
+        {
+            "key": "luminous_adjective",
+            "hint": "a word describing light",
+            "suggestions": [
+                "shimmering",
+                "antique",
+                "glowing",
+                "flickering",
+                "radiant"
+            ]
+        },
+        {
+            "key": "calming_scent",
+            "hint": "a relaxing smell",
+            "suggestions": [
+                "lavender",
+                "cedarwood",
+                "peppermint",
+                "vanilla",
+                "stardust"
+            ]
+        },
+        {
+            "key": "textured_adjective",
+            "hint": "a word describing how something looks or feels",
+            "suggestions": [
+                "velvet-lined",
+                "carved",
+                "mysterious",
+                "oversized",
+                "sturdy"
+            ]
+        },
+        {
+            "key": "warm_emotion",
+            "hint": "a positive feeling",
+            "suggestions": [
+                "gratitude",
+                "wonder",
+                "mischief",
+                "joy",
+                "contentment"
+            ]
+        },
+        {
+            "key": "classic_instrument",
+            "hint": "a musical instrument",
+            "suggestions": [
+                "harmonica",
+                "violin",
+                "flute",
+                "banjo",
+                "accordion"
+            ]
+        },
+        {
+            "key": "nostalgic_plural_noun",
+            "hint": "plural noun representing memories",
+            "suggestions": [
+                "whispers",
+                "legends",
+                "sighs",
+                "laughter",
+                "dreams"
+            ]
+        },
+        {
+            "key": "tranquil_action",
+            "hint": "a verb ending in -ing",
+            "suggestions": [
+                "drifting",
+                "wandering",
+                "weaving",
+                "floating",
+                "searching"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "household_story_hard_030",
+    "title": "Household: The Symphony of Home",
+    "difficulty": "hard",
+    "template": "The sunbeams danced across the [polished_surface], illuminating the dust motes that spiraled like tiny acrobats. Within these walls, a [rhythmic_sound] echoed from the kitchen to the attic. It was the kind of morning where even the wooden floorboards seemed to be smiling in the light.\n\nSuddenly, the resident cat decided to [unusual_action] right in the middle of the hallway. This triggered a chain reaction of giggles that bubbled up like [effervescent_liquid]. Soon, the entire family was doubled over, unable to catch their breath from the sheer silliness.\n\nThe [vibrant_color] curtains billowed in the breeze as if they were joined in the collective merriment. Every corner of the dwelling resonated with a [synonym_for_joyful] energy that felt almost tangible to the touch. The atmosphere was thick with the weightless feeling of shared delight.\n\nEven the shadows seemed to [playful_verb] along the baseboards as the gaiety reached its peak. A bowl of [fruit_or_snack] on the counter began to wobble from the vibration of the hearty chuckles. It was as if the household objects themselves were trying to hold back their own laughter.\n\nEventually, the hysterics settled into a soft glow that warmed the very foundation of the building. The lingering scent of [comforting_aroma] filled the air, grounding everyone in the peaceful present moment. Laughter, it seemed, was the most [magical_attribute] magic this home could ever hope to possess.",
+    "blanks": [
+        {
+            "key": "polished_surface",
+            "hint": "a shiny furniture or floor material",
+            "suggestions": [
+                "mahogany sideboard",
+                "marble countertop",
+                "obsidian mantle",
+                "silver tray",
+                "cedar floorboards"
+            ]
+        },
+        {
+            "key": "rhythmic_sound",
+            "hint": "a repetitive noise (noun)",
+            "suggestions": [
+                "melodic hum",
+                "syncopated tapping",
+                "gentle thrum",
+                "ethereal whistling",
+                "velvet thud"
+            ]
+        },
+        {
+            "key": "unusual_action",
+            "hint": "a strange or funny physical activity",
+            "suggestions": [
+                "perform a backflip",
+                "recite Shakespeare",
+                "tap-dance on the banister",
+                "juggle yarn balls",
+                "levitate an inch"
+            ]
+        },
+        {
+            "key": "effervescent_liquid",
+            "hint": "something bubbly or carbonated",
+            "suggestions": [
+                "sparkling cider",
+                "fizzy kombucha",
+                "bubbling spring water",
+                "ginger ale",
+                "vintage champagne"
+            ]
+        },
+        {
+            "key": "vibrant_color",
+            "hint": "an intense, specific color",
+            "suggestions": [
+                "periwinkle",
+                "chartreuse",
+                "vermilion",
+                "electric indigo",
+                "sun-drenched ochre"
+            ]
+        },
+        {
+            "key": "synonym_for_joyful",
+            "hint": "adjective for very happy",
+            "suggestions": [
+                "jubilant",
+                "radiant",
+                "exuberant",
+                "blissful",
+                "mirthful"
+            ]
+        },
+        {
+            "key": "playful_verb",
+            "hint": "verb describing elegant or silly movement",
+            "suggestions": [
+                "frolic",
+                "sashay",
+                "pirouette",
+                "cavort",
+                "shimmy"
+            ]
+        },
+        {
+            "key": "fruit_or_snack",
+            "hint": "plural food items",
+            "suggestions": [
+                "glazed donuts",
+                "kumquats",
+                "macadamia nuts",
+                "pomegranate seeds",
+                "artisan crackers"
+            ]
+        },
+        {
+            "key": "comforting_aroma",
+            "hint": "a pleasant smell (noun phrase)",
+            "suggestions": [
+                "toasted cinnamon",
+                "sandalwood",
+                "fresh lavender",
+                "baked sourdough",
+                "vanilla bean"
+            ]
+        },
+        {
+            "key": "magical_attribute",
+            "hint": "an impressive, mystical adjective",
+            "suggestions": [
+                "transcendent",
+                "rejuvenating",
+                "bewitching",
+                "luminescent",
+                "transformative"
+            ]
+        }
+    ]
+}

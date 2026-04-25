@@ -1,0 +1,63 @@
+{
+    "id": "family_story_easy_004",
+    "title": "Family: The Starlit Backyard",
+    "difficulty": "easy",
+    "template": "The sun began to set as the family gathered in the backyard. Everyone worked together to unfold the big, colorful [adjective_1] tent. We laid out our sleeping bags and prepared for a night under the stars.\n\nSoon, the fire was crackling softly, casting a warm glow on our faces. Dad started telling a story about a [mystical_creature] that lived in the hedges. We roasted [food_item] over the flames until they were perfectly gooey. The night air felt cool and smelled like pine needles and woodsmoke.\n\nLooking up, the sky was filled with thousands of [shining_objects]. We huddled together, feeling safe and [emotion_1] in our outdoor home. Even though we were just steps from the back door, it felt like a grand adventure.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "a descriptive word",
+            "suggestions": [
+                "sparkly",
+                "gigantic",
+                "striped",
+                "glow-in-the-dark",
+                "velvet"
+            ]
+        },
+        {
+            "key": "mystical_creature",
+            "hint": "a magical animal or being",
+            "suggestions": [
+                "tiny gnome",
+                "friendly dragon",
+                "glittery fairy",
+                "talking squirrel",
+                "star-nosed mole"
+            ]
+        },
+        {
+            "key": "food_item",
+            "hint": "something tasty to eat",
+            "suggestions": [
+                "marshmallows",
+                "chocolate-dipped bananas",
+                "cheese cubes",
+                "giant grapes",
+                "honey crackers"
+            ]
+        },
+        {
+            "key": "shining_objects",
+            "hint": "plural things that glow",
+            "suggestions": [
+                "diamonds",
+                "silver lanterns",
+                "winking stars",
+                "glowing fireflies",
+                "cosmic marbles"
+            ]
+        },
+        {
+            "key": "emotion_1",
+            "hint": "a feeling",
+            "suggestions": [
+                "cozy",
+                "adventurous",
+                "peaceful",
+                "excited",
+                "dreamy"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "nature_story_medium_012",
+    "title": "Nature: The Persistent Prism",
+    "difficulty": "medium",
+    "template": "The afternoon drizzle finally came to a halt over the [scenic_location]. Instead of vanishing as the sun peeked out, the colorful arch remained [adjective_describing_state]. Local squirrels paused their nut-gathering to stare at the unmoving spectrum.\n\nBy evening, the colors began to hum a [musical_sound] melody that echoed through the valley. It felt as though the light had turned into [tangible_material] stretching across the sky. Hikers found they could almost touch the indigo band near the cliffside.\n\nThe local [plural_animal] gathered at the base of the red stripe to nap in its warm glow. Flowers beneath the violet curve began to grow into strange patterns overnight. Nature seemed to embrace this permanent bridge of light.\n\nNow, the village is known for its eternal sky-ribbon that never [verb_action]. Residents often bring picnics to sit under the yellow beam for good luck. It remains a peaceful reminder that some magic is meant to [verb_future_tense].",
+    "blanks": [
+        {
+            "key": "scenic_location",
+            "hint": "a beautiful place in nature",
+            "suggestions": [
+                "Crystal Peak",
+                "Whispering Canyon",
+                "Emerald Marsh",
+                "Silver Lake",
+                "Golden Meadow"
+            ]
+        },
+        {
+            "key": "adjective_describing_state",
+            "hint": "how the rainbow looks or acts",
+            "suggestions": [
+                "shimmering",
+                "solid",
+                "vibrant",
+                "unwavering",
+                "luminous"
+            ]
+        },
+        {
+            "key": "musical_sound",
+            "hint": "an adjective for music",
+            "suggestions": [
+                "rhythmic",
+                "melodic",
+                "whimsical",
+                "ethereal",
+                "harmonic"
+            ]
+        },
+        {
+            "key": "tangible_material",
+            "hint": "something you can touch",
+            "suggestions": [
+                "spun silk",
+                "glowing velvet",
+                "transparent glass",
+                "crystalline mist",
+                "liquid starlight"
+            ]
+        },
+        {
+            "key": "plural_animal",
+            "hint": "a group of animals",
+            "suggestions": [
+                "foxes",
+                "deer",
+                "owls",
+                "butterflies",
+                "badgers"
+            ]
+        },
+        {
+            "key": "verb_action",
+            "hint": "an action verb (present tense)",
+            "suggestions": [
+                "fades",
+                "dissolves",
+                "flickers",
+                "retreats",
+                "evaporates"
+            ]
+        },
+        {
+            "key": "verb_future_tense",
+            "hint": "a verb showing longevity",
+            "suggestions": [
+                "stay",
+                "endure",
+                "bloom",
+                "sparkle",
+                "thrive"
+            ]
+        }
+    ]
+}

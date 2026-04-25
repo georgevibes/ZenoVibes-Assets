@@ -1,0 +1,129 @@
+{
+    "id": "hobbies_story_hard_024",
+    "title": "Hobbies: The Hidden Mountain Path",
+    "difficulty": "hard",
+    "template": "The morning mist clings to the [adjective_1] ferns as I begin my ascent. Every step on the [noun_1] feels like a rhythmic pulse connecting me to the earth. The air smells of pine needles and ancient secrets. \n\nHigh above, a [bird_species] lets out a cry that echoes through the canopy. I pause to admire the [color] wildflowers blooming in the crevices of the granite. The trail winds deeper into the heart of the wilderness. \n\nI finally reach the [location_name], a place where the wind always whispers. The view from here is [adjective_2], stretching out toward the horizon. I take a moment to sip some [beverage] from my flask. \n\nSuddenly, a [mythical_creature] seems to flicker in the corner of my eye near a mossy oak. I rub my eyes, wondering if the [noun_2] is playing tricks on my tired mind. The silence of the forest feels heavy and comforting at once. \n\nDescending back toward the trailhead, my boots feel [adjective_3] and heavy. I carry with me a sense of [abstract_noun] that only the mountains can provide. The journey may be over, but the memories are etched in stone.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "luminescent",
+                "velvet",
+                "serrated",
+                "dew-drenched",
+                "emerald"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "ground material or path type",
+            "suggestions": [
+                "permafrost",
+                "cobblestones",
+                "leaf-litter",
+                "obsidian",
+                "switchbacks"
+            ]
+        },
+        {
+            "key": "bird_species",
+            "hint": "type of bird",
+            "suggestions": [
+                "peregrine falcon",
+                "azure jay",
+                "pileated woodpecker",
+                "golden eagle",
+                "ptarmigan"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "vibrant color",
+            "suggestions": [
+                "amethyst",
+                "vermillion",
+                "chartreuse",
+                "periwinkle",
+                "ochre"
+            ]
+        },
+        {
+            "key": "location_name",
+            "hint": "a landmark name",
+            "suggestions": [
+                "Whispering Ridge",
+                "Sun-Kissed Peak",
+                "Crystal Outlook",
+                "Serpent's Pass",
+                "Echoing Grotto"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "impressive adjective",
+            "suggestions": [
+                "vertiginous",
+                "transcendent",
+                "panoramic",
+                "ethereal",
+                "awe-inspiring"
+            ]
+        },
+        {
+            "key": "beverage",
+            "hint": "a drink",
+            "suggestions": [
+                "elderberry tea",
+                "mountain spring water",
+                "spiced cider",
+                "lukewarm nectar",
+                "herbal infusion"
+            ]
+        },
+        {
+            "key": "mythical_creature",
+            "hint": "fantasy creature",
+            "suggestions": [
+                "sylph",
+                "kodama",
+                "will-o'-the-wisp",
+                "stone giant",
+                "dryad"
+            ]
+        },
+        {
+            "key": "noun_2",
+            "hint": "light or optical phenomenon",
+            "suggestions": [
+                "refraction",
+                "luminescence",
+                "penumbra",
+                "mirage",
+                "twilight"
+            ]
+        },
+        {
+            "key": "adjective_3",
+            "hint": "physical state adjective",
+            "suggestions": [
+                "weather-beaten",
+                "leaden",
+                "encrusted",
+                "supple",
+                "aching"
+            ]
+        },
+        {
+            "key": "abstract_noun",
+            "hint": "a feeling or concept",
+            "suggestions": [
+                "serenity",
+                "equilibrium",
+                "wanderlust",
+                "epiphany",
+                "resilience"
+            ]
+        }
+    ]
+}

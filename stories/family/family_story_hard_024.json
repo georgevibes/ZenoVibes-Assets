@@ -1,0 +1,118 @@
+{
+    "id": "family_story_hard_024",
+    "title": "Family: The Threshold of Tomorrow",
+    "difficulty": "hard",
+    "template": "The sun dipped below the [horizon_adjective] horizon as the family gathered in the garden. Paper lanterns bobbed in the breeze, casting a [lantern_glow] glow over the celebratory feast. Today was not just a graduation; it was a transition into a new world.\n\nGrandma leaned in to whisper a [grandma_secret] secret about her own school days. Everyone laughed when Uncle Leo began [uncle_action] around the koi pond to show his excitement. The joy of the moment felt like a warm blanket wrapped around the whole family.\n\nThe air was thick with nostalgia and the scent of [flower_type] blossoms drifting from the trellis. The graduate stood upon a [wooden_platform] made of ancient cedar wood, looking out at the faces they loved. A quiet hush fell over the group as the formal part of the evening began.\n\nWith a flick of the wrist, they tossed the [cap_style] cap into the twilight sky. Suddenly, a small, [box_description] box was presented by the youngest cousin as a surprise. Inside rested a treasure that had been hidden for years. It shimmered with an inner light that seemed to pulse with the rhythm of the universe.\n\nThis gift, a rare [family_heirloom], represented the wisdom of those who came before. As the stars emerged, the family shared a final [final_drink] to toast the bright future. The path ahead looked endless, but they knew they would never walk it alone.",
+    "blanks": [
+        {
+            "key": "horizon_adjective",
+            "hint": "adjective describing a sunset",
+            "suggestions": [
+                "cerulean",
+                "topaz",
+                "shimmering",
+                "everlasting",
+                "amber"
+            ]
+        },
+        {
+            "key": "lantern_glow",
+            "hint": "adjective for soft light",
+            "suggestions": [
+                "hypnotic",
+                "luminescent",
+                "mellow",
+                "spectral",
+                "gentle"
+            ]
+        },
+        {
+            "key": "grandma_secret",
+            "hint": "intriguing adjective",
+            "suggestions": [
+                "scandalous",
+                "mystical",
+                "cryptic",
+                "hilarious",
+                "legendary"
+            ]
+        },
+        {
+            "key": "uncle_action",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "gallivanting",
+                "frolicking",
+                "waltzing",
+                "meandering",
+                "levitating"
+            ]
+        },
+        {
+            "key": "flower_type",
+            "hint": "type of fragrant flower",
+            "suggestions": [
+                "wisteria",
+                "honeysuckle",
+                "lavender",
+                "magnolia",
+                "marigold"
+            ]
+        },
+        {
+            "key": "wooden_platform",
+            "hint": "a raised stage or surface",
+            "suggestions": [
+                "dais",
+                "pedestal",
+                "platform",
+                "altar",
+                "pavilion"
+            ]
+        },
+        {
+            "key": "cap_style",
+            "hint": "adjective for clothing",
+            "suggestions": [
+                "velvet",
+                "ornate",
+                "vibrant",
+                "bejeweled",
+                "silken"
+            ]
+        },
+        {
+            "key": "box_description",
+            "hint": "adjective for an object",
+            "suggestions": [
+                "lacquered",
+                "intricate",
+                "fragile",
+                "opalescent",
+                "unassuming"
+            ]
+        },
+        {
+            "key": "family_heirloom",
+            "hint": "a significant noun/object",
+            "suggestions": [
+                "talisman",
+                "chronometer",
+                "heirloom",
+                "sextant",
+                "medallion"
+            ]
+        },
+        {
+            "key": "final_drink",
+            "hint": "a fancy or liquid noun",
+            "suggestions": [
+                "nectar",
+                "concoction",
+                "infusion",
+                "libation",
+                "elixir"
+            ]
+        }
+    ]
+}

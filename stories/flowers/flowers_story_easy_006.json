@@ -1,0 +1,63 @@
+{
+    "id": "flowers_story_easy_006",
+    "title": "Flowers: The Crystal Greenhouse",
+    "difficulty": "easy",
+    "template": "Stepping into the glass dome felt like entering a secret paradise. The air was thick with the sweet scent of [fragrant_adjective] petals. Thousands of colors danced under the golden sunlight filtering through the roof.\n\nIn the center of the garden, a giant [mystical_plant] reached toward the crystal ceiling. It began to [gentle_action] softly whenever a warm breeze passed by. Small butterflies fluttered around the vines, creating a scene of pure magic.\n\nBefore leaving, I noticed that even the [vibrant_color] leaves seemed to glow. The sound of dripping water from the fountain was incredibly soothing. I felt a deep sense of [positive_feeling] as I walked back into the outside world.",
+    "blanks": [
+        {
+            "key": "fragrant_adjective",
+            "hint": "descriptive word",
+            "suggestions": [
+                "shimmering",
+                "honeyed",
+                "velvety",
+                "exotic",
+                "blooming"
+            ]
+        },
+        {
+            "key": "mystical_plant",
+            "hint": "type of flower or plant",
+            "suggestions": [
+                "sunflower",
+                "fern",
+                "orchid",
+                "lily",
+                "cactus"
+            ]
+        },
+        {
+            "key": "gentle_action",
+            "hint": "verb (action)",
+            "suggestions": [
+                "hum",
+                "glow",
+                "sway",
+                "sparkle",
+                "whisper"
+            ]
+        },
+        {
+            "key": "vibrant_color",
+            "hint": "a bright color",
+            "suggestions": [
+                "turquoise",
+                "neon pink",
+                "emerald",
+                "golden",
+                "violet"
+            ]
+        },
+        {
+            "key": "positive_feeling",
+            "hint": "an emotion",
+            "suggestions": [
+                "peace",
+                "wonder",
+                "joy",
+                "serenity",
+                "magic"
+            ]
+        }
+    ]
+}

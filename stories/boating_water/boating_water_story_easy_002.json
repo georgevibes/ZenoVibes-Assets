@@ -1,0 +1,63 @@
+{
+    "id": "boating_water_story_easy_002",
+    "title": "Boating water: The Shimmering Beacon",
+    "difficulty": "easy",
+    "template": "The old lighthouse stood tall against the shimmering [vibrant_color] waves. Captain Barnaby steered his small rowboat toward the rocky shore. He had heard rumors of a hidden treasure buried beneath the stone stairs.\n\nAs he stepped inside, the air smelled like [sweet_treat] and sea salt. He pulled a heavy [shiny_object] from his pocket to light the way. A glowing door appeared suddenly in the corner of the tower.\n\nHe pushed it open and found a [size_adjective] collection of ancient sea shells. Among them sat a magical [musical_instrument] that hummed a soft tune. The secret of the lighthouse was finally revealed to the world. It was a moment of pure magic.",
+    "blanks": [
+        {
+            "key": "vibrant_color",
+            "hint": "a bright color",
+            "suggestions": [
+                "Indigo",
+                "Turquoise",
+                "Amber",
+                "Emerald",
+                "Violet"
+            ]
+        },
+        {
+            "key": "sweet_treat",
+            "hint": "a sugary food",
+            "suggestions": [
+                "Cotton candy",
+                "Glazed donuts",
+                "Melted honey",
+                "Caramel fudge",
+                "Peppermint"
+            ]
+        },
+        {
+            "key": "shiny_object",
+            "hint": "something that reflects light",
+            "suggestions": [
+                "Brass compass",
+                "Silver coin",
+                "Polished mirror",
+                "Golden key",
+                "Crystal orb"
+            ]
+        },
+        {
+            "key": "size_adjective",
+            "hint": "a word describing size",
+            "suggestions": [
+                "Gigantic",
+                "Tiny",
+                "Vast",
+                "Immense",
+                "Colossal"
+            ]
+        },
+        {
+            "key": "musical_instrument",
+            "hint": "something that makes music",
+            "suggestions": [
+                "Harp",
+                "Flute",
+                "Music-box",
+                "Ocarina",
+                "Bell"
+            ]
+        }
+    ]
+}

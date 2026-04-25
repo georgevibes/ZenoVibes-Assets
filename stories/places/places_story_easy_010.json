@@ -1,0 +1,63 @@
+{
+    "id": "places_story_easy_010",
+    "title": "Places: The Hidden Platform",
+    "difficulty": "easy",
+    "template": "Deep in the heart of the misty mountains lies a station with no name. Travelers arrive here by riding a glowing [vehicle_type] that glides silently over the rails. The station walls are built from blocks of solid [material] that hum with energy.\n\nUpon the platform, a friendly [creature] greets every passenger with a warm smile. They hand out tickets that allow access to the most mysterious corners of the map. Everyone waits patiently for the next departure to a land of dreams.\n\nThe clock on the wall has no numbers, only colorful [shape] symbols that pulse with light. When the whistle blows, the platform begins to [action_verb] softly as if it were alive. It is a place where every journey begins with a sense of wonder.",
+    "blanks": [
+        {
+            "key": "vehicle_type",
+            "hint": "a mode of transport",
+            "suggestions": [
+                "locomotive",
+                "cloud",
+                "bicycle",
+                "chariot",
+                "skateboard"
+            ]
+        },
+        {
+            "key": "material",
+            "hint": "a physical substance",
+            "suggestions": [
+                "amethyst",
+                "obsidian",
+                "marble",
+                "ice",
+                "sugar"
+            ]
+        },
+        {
+            "key": "creature",
+            "hint": "a helpful being",
+            "suggestions": [
+                "dragon",
+                "robot",
+                "owl",
+                "wizard",
+                "squirrel"
+            ]
+        },
+        {
+            "key": "shape",
+            "hint": "a geometric form",
+            "suggestions": [
+                "star",
+                "spiral",
+                "diamond",
+                "crescent",
+                "heart"
+            ]
+        },
+        {
+            "key": "action_verb",
+            "hint": "a gentle movement",
+            "suggestions": [
+                "hum",
+                "glow",
+                "dance",
+                "whisper",
+                "float"
+            ]
+        }
+    ]
+}

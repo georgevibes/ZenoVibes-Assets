@@ -1,0 +1,63 @@
+{
+    "id": "family_story_easy_010",
+    "title": "Family: The Great State Crossing",
+    "difficulty": "easy",
+    "template": "Our whole family piled into the [transport_vehicle] with snacks and maps ready. We were finally starting our grand adventure across the rolling hills and bright highways. My little brother insisted on bringing his favorite [small_item], which sat proudly on the dashboard.\n\nAs we crossed into a new state, we saw a giant [scenic_landmark] that looked like it was touching the clouds. The wind whistled through the windows as we sang songs together. It was the most magical part of the long drive so far.\n\nFinally, we reached our destination and started [fun_action] under the stars. The air felt fresh, and the campfire glowed with a warm, cozy light. I will always treasure this [keepsake] from our wonderful family journey.",
+    "blanks": [
+        {
+            "key": "transport_vehicle",
+            "hint": "a type of vehicle",
+            "suggestions": [
+                "Mini-van",
+                "Flying saucer",
+                "Station wagon",
+                "Magic bus",
+                "Convertible"
+            ]
+        },
+        {
+            "key": "small_item",
+            "hint": "a toy or small object",
+            "suggestions": [
+                "Rubber duck",
+                "Lucky coin",
+                "Stuffed bear",
+                "Crystal",
+                "Action figure"
+            ]
+        },
+        {
+            "key": "scenic_landmark",
+            "hint": "a large landmark or object",
+            "suggestions": [
+                "Golden statue",
+                "Snowy peak",
+                "Giant cactus",
+                "Lighthouse",
+                "Windmill"
+            ]
+        },
+        {
+            "key": "fun_action",
+            "hint": "an action ending in -ing",
+            "suggestions": [
+                "Dancing",
+                "Stargazing",
+                "Laughing",
+                "Toasting marshmallows",
+                "Singing"
+            ]
+        },
+        {
+            "key": "keepsake",
+            "hint": "a special souvenir or memory",
+            "suggestions": [
+                "Smooth stone",
+                "Polaroid photo",
+                "Sea shell",
+                "Crayon drawing",
+                "Wildflower"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "nature_story_medium_011",
+    "title": "Nature: The Shifting Sands",
+    "difficulty": "medium",
+    "template": "The vast dunes of the [adjective_1] desert stretched toward the horizon. Beneath the golden sun, the sands shifted like a restless ocean. A lone [animal] watched as the wind sculpted temporary cathedrals of dust.\n\nEvery gust of wind carried a secret [sound] across the empty plains. As the dunes drifted, they occasionally revealed [plural_noun] buried for centuries. Travelers often paused to marvel at the [color] light reflecting off the quartz crystals.\n\nWhen evening arrived, the desert began to [verb] with a strange, magical energy. The temperature dropped, turning the scorching heat into a cool embrace. Stars twinkled above, mirroring the tiny grains of sand that danced below.\n\nTo walk through these shifting sands is to witness the [abstract_noun] of time itself. Nothing stays the same, yet the beauty of the landscape remains eternal. One leaves the desert feeling refreshed and deeply connected to the earth.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "whispering",
+                "infinite",
+                "shimmering",
+                "mystical",
+                "velvet"
+            ]
+        },
+        {
+            "key": "animal",
+            "hint": "a desert creature",
+            "suggestions": [
+                "fennec fox",
+                "golden beetle",
+                "sand dragon",
+                "nomadic hawk",
+                "stargazing camel"
+            ]
+        },
+        {
+            "key": "sound",
+            "hint": "a type of noise",
+            "suggestions": [
+                "melody",
+                "hum",
+                "whisper",
+                "echo",
+                "lullaby"
+            ]
+        },
+        {
+            "key": "plural_noun",
+            "hint": "plural objects",
+            "suggestions": [
+                "glass statues",
+                "ancient compasses",
+                "forgotten maps",
+                "fossilized flowers",
+                "silver coins"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "amber",
+                "violet",
+                "indigo",
+                "copper",
+                "iridescent"
+            ]
+        },
+        {
+            "key": "verb",
+            "hint": "action word",
+            "suggestions": [
+                "glow",
+                "hum",
+                "shimmer",
+                "breathe",
+                "sparkle"
+            ]
+        },
+        {
+            "key": "abstract_noun",
+            "hint": "a concept or feeling",
+            "suggestions": [
+                "fluidity",
+                "rhythm",
+                "patience",
+                "grandeur",
+                "mystery"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "hobbies_story_medium_012",
+    "title": "Hobbies: The Enchanted Shuffle",
+    "difficulty": "medium",
+    "template": "Deep within a sunlit attic, a dusty deck of cards lay upon a velvet [noun_object]. The magician approached with a [adjective] smile, ready to practice their craft. Every card seemed to hum with a secret energy.\n\nWith a flick of the wrist, the cards began to [verb_action] through the air like autumn leaves. It wasn't just a simple shuffle; it was a rhythmic dance of paper and ink. The [color] edges shimmered as they caught the afternoon light.\n\nSuddenly, the Ace of Spades transformed into a small [noun_creature], surprising even the practitioner. This was the beauty of the hobby, where logic and magic intertwined. Practice made perfect, but a little bit of [noun_abstract] always helped.\n\nAs the deck returned to its box, a sense of [feeling] filled the quiet room. The magician knew that tomorrow would bring even more spectacular discoveries. The cards whispered their secrets until the next performance.",
+    "blanks": [
+        {
+            "key": "noun_object",
+            "hint": "a piece of furniture or an item",
+            "suggestions": [
+                "pedestal",
+                "cushion",
+                "trunk",
+                "tabletop",
+                "mantelpiece"
+            ]
+        },
+        {
+            "key": "adjective",
+            "hint": "a descriptive word",
+            "suggestions": [
+                "mischievous",
+                "serene",
+                "whimsical",
+                "focused",
+                "enigmatic"
+            ]
+        },
+        {
+            "key": "verb_action",
+            "hint": "a movement verb ending in -ate, -e, or -r",
+            "suggestions": [
+                "cascade",
+                "pirouette",
+                "levitate",
+                "flutter",
+                "tumble"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a shade or hue",
+            "suggestions": [
+                "iridescent",
+                "emerald",
+                "indigo",
+                "copper",
+                "lavender"
+            ]
+        },
+        {
+            "key": "noun_creature",
+            "hint": "a small animal or mystical being",
+            "suggestions": [
+                "butterfly",
+                "dragonfly",
+                "phoenix",
+                "hummingbird",
+                "salamander"
+            ]
+        },
+        {
+            "key": "noun_abstract",
+            "hint": "a concept or intangible quality",
+            "suggestions": [
+                "stardust",
+                "intuition",
+                "serendipity",
+                "charisma",
+                "patience"
+            ]
+        },
+        {
+            "key": "feeling",
+            "hint": "a positive emotion",
+            "suggestions": [
+                "tranquility",
+                "jubilation",
+                "fulfillment",
+                "wonderment",
+                "harmony"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "household_story_medium_011",
+    "title": "Household: The Hidden Attic Sanctuary",
+    "difficulty": "medium",
+    "template": "While sorting through dusty boxes in the attic, I noticed a [texture_adjective] latch hidden behind an old wardrobe. It creaked open, revealing a narrow passage that seemed to be guarded by a small stone [small_statue_creature]. My heart skipped a beat as I realized this part of the house wasn't on any blueprints.\n\nStepping inside, the air was filled with a [ethereal_color] light that pulsed like a quiet heartbeat. In the center of the room sat a vintage [ancient_instrument] that seemed to play itself softly. The walls were covered in maps of places that do not exist on any modern globe.\n\nOn a velvet table, I found tools for [mystical_hobby] that looked centuries old yet perfectly preserved. A faint aroma of [soothing_scent] wafted through the still air, making me feel incredibly relaxed. It was a sanctuary hidden away from the noisy world outside. I knew immediately that I would spend many afternoons here.\n\nI spent hours exploring every corner of this secret, peaceful haven. When I finally climbed back down, I carried a sense of [calm_emotion] that stayed with me all evening. This attic room remains my favorite quiet secret in the whole house.",
+    "blanks": [
+        {
+            "key": "texture_adjective",
+            "hint": "a texture or material",
+            "suggestions": [
+                "velvet",
+                "metallic",
+                "mossy",
+                "crystalline",
+                "bronzed"
+            ]
+        },
+        {
+            "key": "small_statue_creature",
+            "hint": "a small animal or creature",
+            "suggestions": [
+                "toad",
+                "fox",
+                "salamander",
+                "owl",
+                "dragonling"
+            ]
+        },
+        {
+            "key": "ethereal_color",
+            "hint": "a glowing or unique color",
+            "suggestions": [
+                "amber",
+                "opaline",
+                "silver",
+                "neon-blue",
+                "magenta"
+            ]
+        },
+        {
+            "key": "ancient_instrument",
+            "hint": "a musical instrument",
+            "suggestions": [
+                "lute",
+                "lyre",
+                "ocarina",
+                "chime",
+                "zither"
+            ]
+        },
+        {
+            "key": "mystical_hobby",
+            "hint": "a strange or magical activity",
+            "suggestions": [
+                "star-mapping",
+                "cloud-bottling",
+                "feather-weaving",
+                "potion-brewing",
+                "dream-catching"
+            ]
+        },
+        {
+            "key": "soothing_scent",
+            "hint": "a pleasant smell",
+            "suggestions": [
+                "sandalwood",
+                "rain-on-stone",
+                "dried lavender",
+                "peppermint",
+                "old parchment"
+            ]
+        },
+        {
+            "key": "calm_emotion",
+            "hint": "a positive or peaceful feeling",
+            "suggestions": [
+                "serenity",
+                "wonder",
+                "enchantment",
+                "gratitude",
+                "tranquility"
+            ]
+        }
+    ]
+}

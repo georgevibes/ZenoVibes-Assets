@@ -1,0 +1,118 @@
+{
+    "id": "nature_story_hard_026",
+    "title": "Nature: The Amber Grove",
+    "difficulty": "hard",
+    "template": "The morning mist clings to the [vibrant_adjective] canopy, painting every branch in shades of copper and gold. Ancient [majestic_trees] stand like silent sentinels watching over the mossy floor. A soft breeze carries the promise of change through the valley.\n\nSomewhere deep within the thicket, a fox moves [stealthy_adverb] across the crunching leaves. The local birds [harmonic_verb] in a rhythmic pattern that echoes off the canyon walls. It is a symphony written by the seasons themselves.\n\nSuddenly, a hidden [enchanted_entity] emerges from behind a curtain of weeping willows. It glimmers with a [sensory_adjective] light that seems to defy the cooling air. Time feels suspended in this golden hour.\n\nSwirls of [natural_elements] dance upward as if caught in an invisible updraft. You decide to [playful_verb] through the deepest piles of foliage, feeling the crisp texture underfoot. Every step unearths a new scent of damp earth and cedar.\n\nThe atmosphere remains [ethereal_adjective] as the sun begins its slow descent toward the horizon. A lone [celestial_symbol] appears early in the darkening sky, marking the end of a perfect day. Nature bows its head in quiet, autumnal grace.",
+    "blanks": [
+        {
+            "key": "vibrant_adjective",
+            "hint": "descriptive adjective (visual)",
+            "suggestions": [
+                "iridescent",
+                "amber-hued",
+                "resplendent",
+                "mottled",
+                "fiery"
+            ]
+        },
+        {
+            "key": "majestic_trees",
+            "hint": "plural type of tree",
+            "suggestions": [
+                "Ironwoods",
+                "Aspens",
+                "Silver Birches",
+                "Ginkgos",
+                "Redwoods"
+            ]
+        },
+        {
+            "key": "stealthy_adverb",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "ethereally",
+                "precariously",
+                "methodically",
+                "languidly",
+                "mercurially"
+            ]
+        },
+        {
+            "key": "harmonic_verb",
+            "hint": "verb (nature sound)",
+            "suggestions": [
+                "ululate",
+                "carol",
+                "trill",
+                "reverberate",
+                "warble"
+            ]
+        },
+        {
+            "key": "enchanted_entity",
+            "hint": "noun (magical being or object)",
+            "suggestions": [
+                "sylph",
+                "will-o'-the-wisp",
+                "dryad",
+                "fox-spirit",
+                "automaton"
+            ]
+        },
+        {
+            "key": "sensory_adjective",
+            "hint": "descriptive adjective (texture or light)",
+            "suggestions": [
+                "petrichor-scented",
+                "velveteen",
+                "luminescent",
+                "crystalline",
+                "prismatic"
+            ]
+        },
+        {
+            "key": "natural_elements",
+            "hint": "plural noun (small particles/things)",
+            "suggestions": [
+                "gossamer threads",
+                "spores",
+                "willow-wreaths",
+                "fireflies",
+                "maple-samaras"
+            ]
+        },
+        {
+            "key": "playful_verb",
+            "hint": "verb (movement)",
+            "suggestions": [
+                "pirouette",
+                "frolic",
+                "meander",
+                "galumph",
+                "stroll"
+            ]
+        },
+        {
+            "key": "ethereal_adjective",
+            "hint": "adjective (mood/atmosphere)",
+            "suggestions": [
+                "transcendental",
+                "hallowed",
+                "halcyon",
+                "melancholy",
+                "enchanting"
+            ]
+        },
+        {
+            "key": "celestial_symbol",
+            "hint": "noun (something in the sky)",
+            "suggestions": [
+                "crescent moon",
+                "evening star",
+                "nebula",
+                "constellation",
+                "solar flare"
+            ]
+        }
+    ]
+}

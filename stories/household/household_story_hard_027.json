@@ -1,0 +1,118 @@
+{
+    "id": "household_story_hard_027",
+    "title": "Household: The Evening Sway",
+    "difficulty": "hard",
+    "template": "The wooden slats of the porch swing hummed a [melodic_adjective] tune as the evening breeze arrived. Sunlight filtered through the [lush_botanicals], casting long shadows across the floorboards. It felt like the perfect moment to embrace the quiet neighborhood. \n\nNearby, a jar of [refreshing_beverage] sat sweating on the side table, its surface shimmering under the amber light. A [peculiar_creature] perched on the railing, watching the rhythmic motion of the heavy seat. The chain links creaked with a soft, metallic rhythm that anchored the soul to the ground. \n\nSuddenly, a [vivid_color] spark appeared near the garden, dancing toward the porch steps. It moved with a [graceful_adverb] grace, weaving through the air like a tiny, magical firefly. The world seemed to slow down, fully embracing the stillness of the late afternoon. \n\nI reached out to touch the [tactile_texture] cushion, feeling the history of many summers etched into the fabric. Each sway of the swing felt like a [metaphorical_noun] toward total relaxation. Far off, the sound of a distant bell echoed through the valley, signaling the end of the day. \n\nAs the stars began to [cosmic_verb], the porch transformed into a sanctuary of absolute peace. My heart felt [expansive_emotion], grateful for this simple, magical corner of the world. The porch swing continued its gentle arc, cradling the night in its wooden arms.",
+    "blanks": [
+        {
+            "key": "melodic_adjective",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "haunting",
+                "resonant",
+                "ethereal",
+                "clattering",
+                "symphonic"
+            ]
+        },
+        {
+            "key": "lush_botanicals",
+            "hint": "plural plants",
+            "suggestions": [
+                "wisterias",
+                "ferns",
+                "hydrangeas",
+                "bougainvilleas",
+                "ivies"
+            ]
+        },
+        {
+            "key": "refreshing_beverage",
+            "hint": "type of drink",
+            "suggestions": [
+                "nectar",
+                "elderberry-wine",
+                "chamomile",
+                "kombucha",
+                "ambrosia"
+            ]
+        },
+        {
+            "key": "peculiar_creature",
+            "hint": "an animal",
+            "suggestions": [
+                "hummingbird",
+                "salamander",
+                "dragonfly",
+                "barn-owl",
+                "mantis"
+            ]
+        },
+        {
+            "key": "vivid_color",
+            "hint": "a bright color",
+            "suggestions": [
+                "iridescent",
+                "cerulean",
+                "amethyst",
+                "chartreuse",
+                "vermilion"
+            ]
+        },
+        {
+            "key": "graceful_adverb",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "etherealally",
+                "rhythmically",
+                "nonchalantly",
+                "sprightly",
+                "serpentine"
+            ]
+        },
+        {
+            "key": "tactile_texture",
+            "hint": "descriptive texture",
+            "suggestions": [
+                "sun-bleached",
+                "velveteen",
+                "weathered",
+                "coarse",
+                "satiny"
+            ]
+        },
+        {
+            "key": "metaphorical_noun",
+            "hint": "abstract noun",
+            "suggestions": [
+                "portal",
+                "pilgrimage",
+                "lullaby",
+                "threshold",
+                "manifesto"
+            ]
+        },
+        {
+            "key": "cosmic_verb",
+            "hint": "action verb",
+            "suggestions": [
+                "ignite",
+                "coruscate",
+                "pulsate",
+                "blossom",
+                "whisper"
+            ]
+        },
+        {
+            "key": "expansive_emotion",
+            "hint": "a feeling",
+            "suggestions": [
+                "weightless",
+                "luminous",
+                "transcendent",
+                "nostalgic",
+                "radiant"
+            ]
+        }
+    ]
+}

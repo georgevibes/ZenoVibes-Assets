@@ -1,0 +1,63 @@
+{
+    "id": "nature_story_easy_008",
+    "title": "Nature: The Celestial Rain",
+    "difficulty": "easy",
+    "template": "The velvet sky above the meadow was unusually quiet tonight. Everyone gathered their softest blankets to watch the horizon for a [shimmering_adjective] glow. A gentle breeze carried the scent of pine and anticipation through the [quiet_place].\n\nSuddenly, hundreds of tiny lights began to [movement_verb] across the atmosphere. They looked like glowing raindrops falling into a deep, dark pool of ink. The air felt charged with a [sensory_adjective] energy.\n\nA stray star landed gently near a patch of [nature_object], illuminating the grass with a soft pulse. Everyone watched in silence as the light slowly faded into the morning dew. It was the most magical night the valley had ever seen.",
+    "blanks": [
+        {
+            "key": "shimmering_adjective",
+            "hint": "adjective (describing light)",
+            "suggestions": [
+                "radiant",
+                "neon",
+                "silver",
+                "golden",
+                "pearlescent"
+            ]
+        },
+        {
+            "key": "quiet_place",
+            "hint": "a place in nature",
+            "suggestions": [
+                "canyon",
+                "treetops",
+                "riverbank",
+                "orchard",
+                "hillside"
+            ]
+        },
+        {
+            "key": "movement_verb",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "dance",
+                "tumble",
+                "glide",
+                "race",
+                "cascade"
+            ]
+        },
+        {
+            "key": "sensory_adjective",
+            "hint": "adjective (feeling or smell)",
+            "suggestions": [
+                "electric",
+                "sweet",
+                "cool",
+                "vibrant",
+                "velvety"
+            ]
+        },
+        {
+            "key": "nature_object",
+            "hint": "plural noun (plants)",
+            "suggestions": [
+                "wildflowers",
+                "moss",
+                "ferns",
+                "clover",
+                "mushrooms"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "places_story_easy_008",
+    "title": "Places: The Shimmering Bazaar",
+    "difficulty": "easy",
+    "template": "Deep within the heart of the Floating Isles, there exists a bazaar unlike any other. Stalls are draped in shimmering fabrics that change color with the wind. Here, travelers come to find a [magical_object] that glows with a soft, steady light.\n\nThe air smells faintly of [sweet_scent] and ancient parchment. Merchants trade memories for [shiny_item] while music floats through the air. Friendly spirits guide visitors through the narrow, winding alleys. It is a place where time seems to slow down.\n\nYou might encounter a [friendly_creature] juggling bubbles of pure starlight. They offer you a cup of tea that tastes like a [pleasant_memory]. Leaving the marketplace feels like waking from a beautiful dream. You carry the peace of the strange bazaar with you forever.",
+    "blanks": [
+        {
+            "key": "magical_object",
+            "hint": "a mythical item",
+            "suggestions": [
+                "crystal lantern",
+                "enchanted compass",
+                "glowing orb",
+                "singing stone",
+                "silver bell"
+            ]
+        },
+        {
+            "key": "sweet_scent",
+            "hint": "a pleasant smell",
+            "suggestions": [
+                "wild lavender",
+                "fresh cinnamon",
+                "clover honey",
+                "star jasmine",
+                "morning mist"
+            ]
+        },
+        {
+            "key": "shiny_item",
+            "hint": "small shiny objects",
+            "suggestions": [
+                "stardust petals",
+                "polished pebbles",
+                "glass marbles",
+                "golden feathers",
+                "brass gears"
+            ]
+        },
+        {
+            "key": "friendly_creature",
+            "hint": "a gentle animal or spirit",
+            "suggestions": [
+                "glowing fox",
+                "miniature dragon",
+                "floating jellyfish",
+                "mossy turtle",
+                "cloud kitten"
+            ]
+        },
+        {
+            "key": "pleasant_memory",
+            "hint": "a happy thought or event",
+            "suggestions": [
+                "summer vacation",
+                "cozy fireplace",
+                "birthday cake",
+                "hidden garden",
+                "quiet forest"
+            ]
+        }
+    ]
+}

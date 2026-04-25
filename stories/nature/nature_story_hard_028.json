@@ -1,0 +1,118 @@
+{
+    "id": "nature_story_hard_028",
+    "title": "Nature: The Whispering Pines",
+    "difficulty": "hard",
+    "template": "High atop the [adjective_1] ridge, the ancient pines stand as silent guardians. Their [noun_2] reach toward the clouds, weaving a tapestry of shadows upon the needle-strewn floor. Each trunk tells a story of centuries spent weathering the mountain storms.\n\nSuddenly, a current of air begins to move [adverb_3] through the valley. It causes the heavy boughs to [verb_4] in a rhythmic dance that defies gravity. The silence of the woods is replaced by a living, breathing pulse.\n\nA flash of [color_5] catches the eye as a curious [animal_6] pauses on a mossy log. The creature tilts its head, sensing the change in the atmosphere. Nature seems to hold its collective breath for a fleeting second.\n\nFrom the canopy above, a low [sound_7] echoes, sounding like a choir of forgotten spirits. The air turns [scent_8] with the essence of sap and damp earth. Every inhalation feels like a tonic for the weary soul.\n\nA profound sense of [emotion_9] washes over the landscape as the wind eventually subsides. Above the jagged peaks, the [celestial_10] begins its slow descent into the horizon. The pines remain, waiting patiently for the next whisper of the wild.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "crystalline",
+                "obsidian",
+                "emerald",
+                "jagged",
+                "ethereal"
+            ]
+        },
+        {
+            "key": "noun_2",
+            "hint": "plural object or body part",
+            "suggestions": [
+                "fingertips",
+                "crown-jewels",
+                "wooden-limbs",
+                "needles",
+                "velvet-branches"
+            ]
+        },
+        {
+            "key": "adverb_3",
+            "hint": "manner of movement",
+            "suggestions": [
+                "languidly",
+                "tempestuously",
+                "rhythmically",
+                "gingerly",
+                "invisibly"
+            ]
+        },
+        {
+            "key": "verb_4",
+            "hint": "action verb",
+            "suggestions": [
+                "undulate",
+                "gyrate",
+                "shimmer",
+                "resonate",
+                "pirouette"
+            ]
+        },
+        {
+            "key": "color_5",
+            "hint": "vibrant color",
+            "suggestions": [
+                "ultramarine",
+                "vermillion",
+                "chartreuse",
+                "iridescent-gold",
+                "amethyst"
+            ]
+        },
+        {
+            "key": "animal_6",
+            "hint": "forest creature",
+            "suggestions": [
+                "lynx",
+                "hummingbird",
+                "salamander",
+                "elk",
+                "marten"
+            ]
+        },
+        {
+            "key": "sound_7",
+            "hint": "musical sound",
+            "suggestions": [
+                "hum",
+                "sonata",
+                "thrum",
+                "whisper",
+                "crescendo"
+            ]
+        },
+        {
+            "key": "scent_8",
+            "hint": "sensory adjective",
+            "suggestions": [
+                "heady",
+                "resinous",
+                "ambrosial",
+                "petrichor-rich",
+                "balsamic"
+            ]
+        },
+        {
+            "key": "emotion_9",
+            "hint": "deep feeling",
+            "suggestions": [
+                "serenity",
+                "euphoria",
+                "nostalgia",
+                "tranquility",
+                "awe"
+            ]
+        },
+        {
+            "key": "celestial_10",
+            "hint": "cosmic object",
+            "suggestions": [
+                "supernova",
+                "crescent-moon",
+                "evening-star",
+                "solar-disc",
+                "nebula"
+            ]
+        }
+    ]
+}

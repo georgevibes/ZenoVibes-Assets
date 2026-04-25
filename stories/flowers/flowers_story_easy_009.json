@@ -1,0 +1,63 @@
+{
+    "id": "flowers_story_easy_009",
+    "title": "Flowers: The Skyward Stem",
+    "difficulty": "easy",
+    "template": "In the heart of a sun-drenched meadow, a single sunflower sprout began to [growth_action] toward the clouds. It felt the warm breeze tickling its soft, green leaves. Every morning, it drank the sparkling dew like a sweet [refreshment_noun].\n\nWeeks passed, and the stalk became [size_adjective] enough to reach the garden fence. The bees buzzed with excitement as they watched it climb higher than the apple trees. Even the old garden gnome looked up in total [reaction_noun] as the plant kept rising.\n\nFinally, the sunflower opened its golden petals to face the bright sun. It was so tall that it could almost touch the passing clouds at night. The whole garden felt a sense of [peaceful_feeling] under its giant, nodding head.",
+    "blanks": [
+        {
+            "key": "growth_action",
+            "hint": "an action verb",
+            "suggestions": [
+                "stretch",
+                "dance",
+                "climb",
+                "wiggle",
+                "reach"
+            ]
+        },
+        {
+            "key": "refreshment_noun",
+            "hint": "a type of drink or liquid",
+            "suggestions": [
+                "nectar",
+                "potion",
+                "milkshake",
+                "elixir",
+                "juice"
+            ]
+        },
+        {
+            "key": "size_adjective",
+            "hint": "word describing something big",
+            "suggestions": [
+                "massive",
+                "gargantuan",
+                "stretchy",
+                "spindly",
+                "majestic"
+            ]
+        },
+        {
+            "key": "reaction_noun",
+            "hint": "an emotion or state of mind",
+            "suggestions": [
+                "disbelief",
+                "wonder",
+                "shock",
+                "amazement",
+                "awe"
+            ]
+        },
+        {
+            "key": "peaceful_feeling",
+            "hint": "a positive, quiet emotion",
+            "suggestions": [
+                "serenity",
+                "magic",
+                "calm",
+                "coziness",
+                "harmony"
+            ]
+        }
+    ]
+}

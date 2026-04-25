@@ -1,0 +1,118 @@
+{
+    "id": "places_story_hard_025",
+    "title": "Places: The Echoing Basin",
+    "difficulty": "hard",
+    "template": "Beyond the craggy peaks lies the [resplendent_adjective] gorge where silence is forbidden. Here, every whisper transforms into a [harmonic_noise] that bounces off the granite walls. Visitors often pause to admire the view before descending.\n\nMany find themselves [drifting_action] through the thick mist to hear their own thoughts return. Clusters of [shimmering_flora] grow along the riverbanks, vibrating in rhythm with the ambient sounds. The wind sighs through the narrow crevasses, creating a natural symphony.\n\nWithin a hidden alcove, the breeze whistles [melodiously_adverb] around a polished [ancient_artifact] resting on a pedestal. This object captures the essence of the surrounding valley perfectly. One must handle it with care to avoid waking the sleeping spirits.\n\nUnder the [luminescent_color] sky, a wanderer [echoed_action] a secret into the void. A curious creature emerged from the brush, drawn by the peculiar frequency of the call. They shared a moment of connection that defied logical explanation.\n\nSoon, a [mythical_beast] appeared to guide the traveler back to the mountain pass. The entire landscape was suddenly filled with a sense of [serene_emotion]. Leaving this valley feels like waking from a dream that refuses to end.",
+    "blanks": [
+        {
+            "key": "resplendent_adjective",
+            "hint": "adjective (majestic/vibrant)",
+            "suggestions": [
+                "iridescent",
+                "labyrinthine",
+                "ethereal",
+                "kaleidoscopic",
+                "majestic"
+            ]
+        },
+        {
+            "key": "harmonic_noise",
+            "hint": "noun (a type of sound)",
+            "suggestions": [
+                "reverberation",
+                "crescendo",
+                "soliloquy",
+                "hum",
+                "chime"
+            ]
+        },
+        {
+            "key": "drifting_action",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "meandering",
+                "oscillating",
+                "gliding",
+                "sauntering",
+                "pirouetting"
+            ]
+        },
+        {
+            "key": "shimmering_flora",
+            "hint": "plural noun (plants)",
+            "suggestions": [
+                "willow-wisps",
+                "crystal-ferns",
+                "velvet-mosses",
+                "star-orchids",
+                "silver-reeds"
+            ]
+        },
+        {
+            "key": "melodiously_adverb",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "sonorously",
+                "rhythmically",
+                "enigmatically",
+                "vibrantly",
+                "gracefully"
+            ]
+        },
+        {
+            "key": "ancient_artifact",
+            "hint": "noun (an object)",
+            "suggestions": [
+                "relic",
+                "talisman",
+                "monolith",
+                "sextant",
+                "obelisk"
+            ]
+        },
+        {
+            "key": "luminescent_color",
+            "hint": "adjective (descriptive color)",
+            "suggestions": [
+                "cerulean",
+                "obsidian",
+                "opalescent",
+                "saffron",
+                "emerald"
+            ]
+        },
+        {
+            "key": "echoed_action",
+            "hint": "verb (past tense)",
+            "suggestions": [
+                "bellowed",
+                "murmured",
+                "proclaimed",
+                "chanted",
+                "intoned"
+            ]
+        },
+        {
+            "key": "mythical_beast",
+            "hint": "noun (creature)",
+            "suggestions": [
+                "griffin",
+                "salamander",
+                "wisp",
+                "sprite",
+                "phoenix"
+            ]
+        },
+        {
+            "key": "serene_emotion",
+            "hint": "abstract noun (a feeling)",
+            "suggestions": [
+                "tranquility",
+                "euphoria",
+                "reverence",
+                "nostalgia",
+                "wonderment"
+            ]
+        }
+    ]
+}

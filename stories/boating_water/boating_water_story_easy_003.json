@@ -1,0 +1,63 @@
+{
+    "id": "boating_water_story_easy_003",
+    "title": "Boating water: The Great Blue Adventure",
+    "difficulty": "easy",
+    "template": "The sun shines brightly over the crystal blue ocean as we prepare our [vessel_type]. Everyone is wearing their life jackets and feeling very [emotion_one]. We can hear the seagulls calling to us from the distant shore.\n\nSuddenly, a giant wave rises up and looks like a [large_object]! We steer our boat straight through the middle of the crashing foam. The spray of the water feels incredibly [adjective_one] on our faces.\n\nAfter the big splash, we find ourselves floating in a quiet, secret cove. We decide to celebrate our adventure by eating a delicious [snack_item]. The day on the water was truly magical.",
+    "blanks": [
+        {
+            "key": "vessel_type",
+            "hint": "a type of boat",
+            "suggestions": [
+                "Sailboat",
+                "Canoe",
+                "Speedboat",
+                "Raft",
+                "Yacht"
+            ]
+        },
+        {
+            "key": "emotion_one",
+            "hint": "a positive feeling",
+            "suggestions": [
+                "Excited",
+                "Brave",
+                "Giddy",
+                "Hopeful",
+                "Joyful"
+            ]
+        },
+        {
+            "key": "large_object",
+            "hint": "something very big",
+            "suggestions": [
+                "Mountain",
+                "Skyscraper",
+                "Elephant",
+                "Iceberg",
+                "Castle"
+            ]
+        },
+        {
+            "key": "adjective_one",
+            "hint": "a descriptive word",
+            "suggestions": [
+                "Refreshing",
+                "Sparkly",
+                "Tingly",
+                "Electric",
+                "Chilly"
+            ]
+        },
+        {
+            "key": "snack_item",
+            "hint": "something you eat",
+            "suggestions": [
+                "Watermelon",
+                "Cupcake",
+                "Pizza",
+                "Pineapple",
+                "Sandwich"
+            ]
+        }
+    ]
+}

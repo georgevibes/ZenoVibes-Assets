@@ -1,0 +1,85 @@
+{
+    "id": "instruments_story_medium_014",
+    "title": "Instruments: The Twilight Serenade",
+    "difficulty": "medium",
+    "template": "The sun began to set over the velvet meadows, casting a warm glow on the wooden stage. A lone musician lifted their instrument, a sleek clarinet that shimmered under the [adjective_lighting] sky. As the first notes escaped, the air grew thick with a [noun_atmosphere] that felt like pure silk.\n\nThe melody drifted across the pond, causing the [plural_noun_creatures] to stop their chatter and listen. It wasn't just music; it was a conversation between the wind and the wood. Every trill sounded like a [verb_ending_in_ing] stream flowing through a secret canyon.\n\nA small child reached out to touch the sound, imagining it was a [noun_physical_object] floating just out of reach. The clarinet's voice climbed higher, reaching for the stars with [adjective_precision] control. Even the ancient oaks seemed to lean in, their leaves trembling in silent appreciation.\n\nFinally, the last note lingered in the cool evening air like a fading memory. The audience remained silent, unwilling to break the [adjective_feeling] spell. Somewhere in the distance, an owl hooted a soft goodbye to the smooth, wooden song.",
+    "blanks": [
+        {
+            "key": "adjective_lighting",
+            "hint": "vibrant adjective for light",
+            "suggestions": [
+                "Amber",
+                "Indigo",
+                "Iridescent",
+                "Pearlescent",
+                "Honeyed"
+            ]
+        },
+        {
+            "key": "noun_atmosphere",
+            "hint": "a feeling or state of the air",
+            "suggestions": [
+                "Tranquility",
+                "Resonance",
+                "Sparkle",
+                "Mystique",
+                "Warmth"
+            ]
+        },
+        {
+            "key": "plural_noun_creatures",
+            "hint": "group of small animals or beings",
+            "suggestions": [
+                "Fireflies",
+                "Dragonflies",
+                "Fawns",
+                "Swans",
+                "Pixies"
+            ]
+        },
+        {
+            "key": "verb_ending_in_ing",
+            "hint": "action word ending in -ing",
+            "suggestions": [
+                "Bubbling",
+                "Whispering",
+                "Cascading",
+                "Glittering",
+                "Dancing"
+            ]
+        },
+        {
+            "key": "noun_physical_object",
+            "hint": "a delicate thing you can hold",
+            "suggestions": [
+                "Ribbon",
+                "Bubble",
+                "Feather",
+                "Crystal",
+                "Petal"
+            ]
+        },
+        {
+            "key": "adjective_precision",
+            "hint": "adjective describing how something is done",
+            "suggestions": [
+                "Breathless",
+                "Haunting",
+                "Ethereal",
+                "Mathematical",
+                "Serene"
+            ]
+        },
+        {
+            "key": "adjective_feeling",
+            "hint": "an adjective for an emotion or state",
+            "suggestions": [
+                "Enchanted",
+                "Velvet",
+                "Fragile",
+                "Sacred",
+                "Luminous"
+            ]
+        }
+    ]
+}

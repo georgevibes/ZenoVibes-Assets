@@ -1,0 +1,63 @@
+{
+    "id": "household_story_easy_001",
+    "title": "Household: The Backward Pendulum",
+    "difficulty": "easy",
+    "template": "In the heart of the cozy living room sat a [clock_adjective] clock. One afternoon, its golden hands began to spin in reverse with a gentle chime. Suddenly, the [household_object] near the window started to float an inch off the floor.\n\nA soft, [glow_color] light filled the room as time rippled backward. The old armchairs began [movement_verb] to the rhythm of the backward ticks. Everything in the kitchen felt light and airy, like a dream.\n\nInstead of getting older, the dust bunnies turned back into tiny sparkles. The house felt full of [atmosphere_noun] as the afternoon sun lingered. It was a magical moment where every second felt brand new.",
+    "blanks": [
+        {
+            "key": "clock_adjective",
+            "hint": "an adjective describing the clock",
+            "suggestions": [
+                "shimmering",
+                "antique",
+                "wobbly",
+                "mystical",
+                "grandfather"
+            ]
+        },
+        {
+            "key": "household_object",
+            "hint": "a common item in a house",
+            "suggestions": [
+                "teacup",
+                "lampshade",
+                "toaster",
+                "bookshelf",
+                "armchair"
+            ]
+        },
+        {
+            "key": "glow_color",
+            "hint": "a color",
+            "suggestions": [
+                "lavender",
+                "emerald",
+                "pearlescent",
+                "golden",
+                "indigo"
+            ]
+        },
+        {
+            "key": "movement_verb",
+            "hint": "a verb ending in -ing",
+            "suggestions": [
+                "waltzing",
+                "humming",
+                "glowing",
+                "stretching",
+                "drifting"
+            ]
+        },
+        {
+            "key": "atmosphere_noun",
+            "hint": "a noun describing a feeling",
+            "suggestions": [
+                "wonder",
+                "tranquility",
+                "mischief",
+                "serenity",
+                "magic"
+            ]
+        }
+    ]
+}

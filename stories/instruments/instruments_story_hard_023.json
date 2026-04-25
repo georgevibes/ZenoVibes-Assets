@@ -1,0 +1,118 @@
+{
+    "id": "instruments_story_hard_023",
+    "title": "Instruments: The Midnight Pulse",
+    "difficulty": "hard",
+    "template": "Deep within the [moody_adjective] jazz club, the air hummed with a secret energy. The heavy spruce body of the double bass stood tall, waiting for its master's touch. Every [listening_noun] in the room felt the anticipation rising like steam.\n\nSuddenly, the strings began to vibrate with a [descriptive_adverb] deep resonance. The musician pulled a thick note from the shadows, initiating a rhythmic march. The bass [movement_verb] through the scales, anchoring the melody with effortless grace.\n\nAs the walk intensified, the floorboards seemed to [action_verb] in sympathy. The sound waves moved like [majestic_plural_noun] across a dark, invisible ocean. High above, the brass section chirped, but the bass remained the soul's firm foundation.\n\nThe player’s fingers danced across the [exotic_material] neck, creating a bridge between silence and song. Each pluck felt like a [physical_noun] dropping into a perfectly still pond. The low-frequency magic filled every corner of the room.\n\nSlowly, the tempo began to [fade_verb] as the lights dimmed to a soft, glowing amber. The final note lingered like a ghost in the rafters. The audience remained in a state of [complex_emotion] long after the music stopped.",
+    "blanks": [
+        {
+            "key": "moody_adjective",
+            "hint": "evocative adjective",
+            "suggestions": [
+                "velvety",
+                "cavernous",
+                "electric",
+                "subterranean",
+                "incandescent"
+            ]
+        },
+        {
+            "key": "listening_noun",
+            "hint": "noun (person or object)",
+            "suggestions": [
+                "spectator",
+                "shadow",
+                "dust_mote",
+                "vibration",
+                "soul"
+            ]
+        },
+        {
+            "key": "descriptive_adverb",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "thunderously",
+                "mellifluously",
+                "hauntingly",
+                "patiently",
+                "sonorously"
+            ]
+        },
+        {
+            "key": "movement_verb",
+            "hint": "verb (past tense)",
+            "suggestions": [
+                "strutted",
+                "meandered",
+                "pulsated",
+                "galloped",
+                "glided"
+            ]
+        },
+        {
+            "key": "action_verb",
+            "hint": "verb (present tense)",
+            "suggestions": [
+                "shiver",
+                "reverberate",
+                "bloom",
+                "undulate",
+                "thrum"
+            ]
+        },
+        {
+            "key": "majestic_plural_noun",
+            "hint": "plural noun",
+            "suggestions": [
+                "leviathans",
+                "smoke_rings",
+                "nebulae",
+                "pendulums",
+                "glaciers"
+            ]
+        },
+        {
+            "key": "exotic_material",
+            "hint": "type of material",
+            "suggestions": [
+                "ebony",
+                "mahogany",
+                "obsidian",
+                "polished_maple",
+                "ancient_oak"
+            ]
+        },
+        {
+            "key": "physical_noun",
+            "hint": "concrete noun",
+            "suggestions": [
+                "meteorite",
+                "velvet_drop",
+                "silver_coin",
+                "heartbeat",
+                "heavy_raindrop"
+            ]
+        },
+        {
+            "key": "fade_verb",
+            "hint": "verb (infinitive)",
+            "suggestions": [
+                "dissolve",
+                "evaporate",
+                "wither",
+                "recede",
+                "ebb"
+            ]
+        },
+        {
+            "key": "complex_emotion",
+            "hint": "abstract noun",
+            "suggestions": [
+                "euphoria",
+                "reverie",
+                "tranquility",
+                "wonderment",
+                "equilibrium"
+            ]
+        }
+    ]
+}

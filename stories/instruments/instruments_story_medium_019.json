@@ -1,0 +1,85 @@
+{
+    "id": "instruments_story_medium_019",
+    "title": "Instruments: The Resonant Valley",
+    "difficulty": "medium",
+    "template": "High atop the [sacred_place], the Great Gong sat suspended by silver chains. The mountain breeze carried the faint scent of [aromatic_item] across the stone courtyard. Monks dressed in vibrant robes waited for the signal.\n\nA young apprentice lifted a heavy mallet padded with [soft_texture]. With a [graceful_adjective] motion, they struck the very heart of the metal disc. The bronze surface vibrated, sending out a visible pulse of energy.\n\nThe sound hit the audience like a [physical_sensation], grounding everyone to the earth. It wasn't just a noise; it felt like the voice of a [celestial_object] singing to the world. The vibration lingered, stretching far beyond the horizon.\n\nWhen the silence finally returned, it felt heavier and more [state_of_being] than before. Nature itself seemed to hold its breath in respect for the instrument. The sun dipped below the peak, ending the day on a perfect note.",
+    "blanks": [
+        {
+            "key": "sacred_place",
+            "hint": "a spiritual or majestic location",
+            "suggestions": [
+                "Hidden Valley",
+                "Crystal Peak",
+                "Floating Pagoda",
+                "Emerald Grove",
+                "Silent Monastery"
+            ]
+        },
+        {
+            "key": "aromatic_item",
+            "hint": "something with a strong smell",
+            "suggestions": [
+                "sandalwood",
+                "blooming jasmine",
+                "fresh rain",
+                "cinnamon sticks",
+                "wild lavender"
+            ]
+        },
+        {
+            "key": "soft_texture",
+            "hint": "a soft or luxurious material",
+            "suggestions": [
+                "velvet moss",
+                "spun silk",
+                "fluffy wool",
+                "quilted clouds",
+                "brushed suede"
+            ]
+        },
+        {
+            "key": "graceful_adjective",
+            "hint": "adjective describing movement",
+            "suggestions": [
+                "fluid",
+                "majestic",
+                "deliberate",
+                "sweeping",
+                "rhythmic"
+            ]
+        },
+        {
+            "key": "physical_sensation",
+            "hint": "a feeling in the body",
+            "suggestions": [
+                "warm embrace",
+                "electric spark",
+                "deep shiver",
+                "gentle tide",
+                "heart-thump"
+            ]
+        },
+        {
+            "key": "celestial_object",
+            "hint": "an object in outer space",
+            "suggestions": [
+                "supernova",
+                "falling star",
+                "silver moon",
+                "radiant nebula",
+                "solar flare"
+            ]
+        },
+        {
+            "key": "state_of_being",
+            "hint": "an adjective for an atmosphere or mood",
+            "suggestions": [
+                "luminous",
+                "tranquil",
+                "enchanted",
+                "harmonious",
+                "profound"
+            ]
+        }
+    ]
+}

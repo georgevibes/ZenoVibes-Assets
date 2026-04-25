@@ -1,0 +1,63 @@
+{
+    "id": "zen_story_easy_005",
+    "title": "Zen: The Silent Echo",
+    "difficulty": "easy",
+    "template": "High atop a misty peak, a wise student sat beside a giant [scenery_feature]. The morning dew sparkled like tiny diamonds on the lotus leaves. Everyone waited for the teacher to reveal the secret of the silent strike.\n\nThe teacher stepped forward to [action_verb] the quiet morning air. A [feeling_adjective] energy filled the entire garden as the lesson began. The student closed their eyes to listen for the sound that isn't heard.\n\nWithout warning, the student started to [motion_verb] in total enlightenment. The truth of the one hand clapping was as clear as a polished [pure_object]. Harmony finally settled over the mountain temple.",
+    "blanks": [
+        {
+            "key": "scenery_feature",
+            "hint": "a natural feature or object",
+            "suggestions": [
+                "waterfall",
+                "bonsai tree",
+                "crystal rock",
+                "golden bell",
+                "bamboo grove"
+            ]
+        },
+        {
+            "key": "action_verb",
+            "hint": "a gentle action verb",
+            "suggestions": [
+                "tickle",
+                "embrace",
+                "shush",
+                "paint",
+                "whisper"
+            ]
+        },
+        {
+            "key": "feeling_adjective",
+            "hint": "an adjective describing a vibe",
+            "suggestions": [
+                "shimmering",
+                "velvety",
+                "cosmic",
+                "bubbly",
+                "radiant"
+            ]
+        },
+        {
+            "key": "motion_verb",
+            "hint": "a verb showing movement",
+            "suggestions": [
+                "dance",
+                "float",
+                "giggle",
+                "twirl",
+                "glow"
+            ]
+        },
+        {
+            "key": "pure_object",
+            "hint": "a small, clear object",
+            "suggestions": [
+                "mirror",
+                "raindrop",
+                "pearl",
+                "snowflake",
+                "bubble"
+            ]
+        }
+    ]
+}

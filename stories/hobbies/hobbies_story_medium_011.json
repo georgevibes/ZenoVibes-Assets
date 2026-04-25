@@ -1,0 +1,85 @@
+{
+    "id": "hobbies_story_medium_011",
+    "title": "Hobbies: The Emerald Awakening",
+    "difficulty": "medium",
+    "template": "The sun rose over the [adjective_1] garden, casting a warm glow on the fresh dirt. After weeks of patient waiting, a tiny green speck finally broke through the surface. The gardener leaned in close, their heart [verb_ing_1] with excitement at the sight.\n\nCarefully, they fetched a [noun_1] filled with crystal-clear spring water. They hummed a [adjective_2] melody to encourage the little plant to grow taller. The air felt still and magical as if the earth itself was holding its breath.\n\nSuddenly, the sprout began to shimmer with a [color_1] light. It wasn't just any ordinary vegetable; it was a [mythical_creature_1] sprout. Small leaves unfurled like delicate wings, reaching for the sky. The gardener realized their hobby had turned into something truly extraordinary.\n\nAs evening fell, the garden felt more [adjective_3] than ever before. The little sprout stood strong, a testament to patience and care. The gardener sat on the bench, knowing this was only the beginning of their journey.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "an adjective describing a place",
+            "suggestions": [
+                "Whimsical",
+                "Slumbering",
+                "Golden",
+                "Misty",
+                "Vibrant"
+            ]
+        },
+        {
+            "key": "verb_ing_1",
+            "hint": "a verb ending in -ing",
+            "suggestions": [
+                "Thumping",
+                "Glowing",
+                "Dancing",
+                "Fluttering",
+                "Radiating"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "a container or object",
+            "suggestions": [
+                "Vintage Teapot",
+                "Wooden Bucket",
+                "Glass Pitcher",
+                "Crystal Chalice",
+                "Earthen Jar"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "an adjective describing a sound",
+            "suggestions": [
+                "Lullaby-like",
+                "Enchanted",
+                "Rhythmic",
+                "Ethereal",
+                "Soothing"
+            ]
+        },
+        {
+            "key": "color_1",
+            "hint": "a vivid color",
+            "suggestions": [
+                "Lavender",
+                "Neon Turquoise",
+                "Iridescent Gold",
+                "Celestial Blue",
+                "Deep Amethyst"
+            ]
+        },
+        {
+            "key": "mythical_creature_1",
+            "hint": "a legendary creature",
+            "suggestions": [
+                "Phoenix",
+                "Stardust Dragon",
+                "Forest Sprite",
+                "Moon Rabbit",
+                "Silver Unicorn"
+            ]
+        },
+        {
+            "key": "adjective_3",
+            "hint": "an adjective for an atmosphere",
+            "suggestions": [
+                "Sacred",
+                "Electric",
+                "Serene",
+                "Harmonious",
+                "Luminous"
+            ]
+        }
+    ]
+}

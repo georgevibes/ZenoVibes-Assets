@@ -1,0 +1,85 @@
+{
+    "id": "zen_story_medium_013",
+    "title": "Zen: The Celestial Summit",
+    "difficulty": "medium",
+    "template": "High atop the [desc_adj] summit, the air hums with ancient energy. Every [sacred_item] seems to vibrate in sync with the mountain's heart. Visitors often find themselves losing track of time in this vast, quiet space.\n\nA traveler begins [zen_action] slowly along the narrow stone ridge. Suddenly, a majestic [spirit_guide] appears from the mist, bowing its head in a silent greeting. Its presence brings a sense of profound stillness to the freezing wind.\n\nThe sky turns a deep shade of [twilight_hue] as the sun dips below the horizon. A distant [mountain_echo] echoes through the valley, signaling the start of the evening meditation. This is where the world finally stops its endless spinning.\n\nTo reach this peak is to understand the true meaning of [inner_state]. One does not simply climb the mountain to see the view. They climb it to find the silence waiting inside themselves.",
+    "blanks": [
+        {
+            "key": "desc_adj",
+            "hint": "a descriptive adjective",
+            "suggestions": [
+                "Luminescent",
+                "Timeless",
+                "Frosted",
+                "Iridescent",
+                "Transcendent"
+            ]
+        },
+        {
+            "key": "sacred_item",
+            "hint": "a small physical object",
+            "suggestions": [
+                "Singing bowl",
+                "Jade amulet",
+                "Lotus petal",
+                "Bamboo staff",
+                "Starlight pebble"
+            ]
+        },
+        {
+            "key": "zen_action",
+            "hint": "a verb ending in -ing",
+            "suggestions": [
+                "Levitating",
+                "Drifting",
+                "Meditating",
+                "Spiral-walking",
+                "Soul-searching"
+            ]
+        },
+        {
+            "key": "spirit_guide",
+            "hint": "a mystical creature",
+            "suggestions": [
+                "Moon-fox",
+                "Silver phoenix",
+                "Stone turtle",
+                "Cloud-dragon",
+                "Mist-owl"
+            ]
+        },
+        {
+            "key": "twilight_hue",
+            "hint": "a vivid color",
+            "suggestions": [
+                "Violet-haze",
+                "Obsidian-blue",
+                "Burnt-sienna",
+                "Pearly-white",
+                "Deep-malachite"
+            ]
+        },
+        {
+            "key": "mountain_echo",
+            "hint": "a gentle sound",
+            "suggestions": [
+                "Crystal bell",
+                "Thunder-hum",
+                "Forest-sigh",
+                "Zen-chant",
+                "Wind-whisper"
+            ]
+        },
+        {
+            "key": "inner_state",
+            "hint": "a state of being or concept",
+            "suggestions": [
+                "Enlightenment",
+                "Tranquility",
+                "Cosmic-balance",
+                "Deep-belonging",
+                "Pure-joy"
+            ]
+        }
+    ]
+}

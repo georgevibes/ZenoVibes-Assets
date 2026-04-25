@@ -1,0 +1,63 @@
+{
+    "id": "household_story_easy_005",
+    "title": "Household: The Golden Kitchen",
+    "difficulty": "easy",
+    "template": "The afternoon sun spills through the window, turning the countertop into a sea of [glowing_color]. A steam whistle from the kettle signals that it is time for a quiet break. The air smells faintly of cinnamon and old cookbooks.\n\nYou pick up a [kitchen_item] and start to hum a soft melody. The shadows dance against the walls as you move [action_style] through the space. Even the refrigerator hums a steady, rhythmic bassline to your song. Everything feels perfectly in its place.\n\nResting on the stool, you watch a tiny [small_visitor] sit on the windowsill. It seems to enjoy the warmth of the light as much as you do. You take a deep breath and feel a sense of [feeling] wash over you. The kitchen light is a golden hug for the soul.",
+    "blanks": [
+        {
+            "key": "glowing_color",
+            "hint": "a bright color",
+            "suggestions": [
+                "Gold",
+                "Amber",
+                "Honey",
+                "Lavender",
+                "Silver"
+            ]
+        },
+        {
+            "key": "kitchen_item",
+            "hint": "an object found in a kitchen",
+            "suggestions": [
+                "wooden spoon",
+                "ceramic mug",
+                "silver fork",
+                "patterned napkin",
+                "glass jar"
+            ]
+        },
+        {
+            "key": "action_style",
+            "hint": "an adverb ending in -ly",
+            "suggestions": [
+                "gracefully",
+                "slowly",
+                "happily",
+                "playfully",
+                "serenely"
+            ]
+        },
+        {
+            "key": "small_visitor",
+            "hint": "a small animal or insect",
+            "suggestions": [
+                "sparrow",
+                "ladybug",
+                "kitten",
+                "butterfly",
+                "cricket"
+            ]
+        },
+        {
+            "key": "feeling",
+            "hint": "a positive emotion",
+            "suggestions": [
+                "peace",
+                "joy",
+                "wonder",
+                "contentment",
+                "calm"
+            ]
+        }
+    ]
+}

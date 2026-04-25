@@ -1,0 +1,85 @@
+{
+    "id": "boating_water_story_medium_014",
+    "title": "Boating water: The Misty River Voyage",
+    "difficulty": "medium",
+    "template": "We pushed our small boat away from the wooden dock and entered the current. The water felt [texture_adjective] against the polished hull as we drifted downstream. The river made a [sound_adjective] noise as we neared the legendary falls.\n\nA cool spray began to [sensory_verb] our faces and dampen our hair. Suddenly, a massive rainbow appeared through the thick mist. It looked like a shimmering bridge made of [whimsical_material]. The sight took our breath away as we sat in awe.\n\nThe light shimmered with a [magical_color_pattern] glow that danced on the waves. Everyone on the boat started to [joyful_action] in pure amazement at the view. We felt a sense of peace that only the water can provide.\n\nWe eventually turned the boat back toward the quiet shore as evening approached. The setting sun painted the sky in deep shades of gold and violet. Our hearts felt [emotional_adjective] as we tied the ropes to the dock. It was a day of magic we would treasure forever.",
+    "blanks": [
+        {
+            "key": "texture_adjective",
+            "hint": "adjective for texture",
+            "suggestions": [
+                "silky",
+                "bubbly",
+                "glassy",
+                "velvety",
+                "crisp"
+            ]
+        },
+        {
+            "key": "sound_adjective",
+            "hint": "adjective for sound",
+            "suggestions": [
+                "melodic",
+                "rhythmic",
+                "booming",
+                "whispering",
+                "harmonic"
+            ]
+        },
+        {
+            "key": "sensory_verb",
+            "hint": "verb (action)",
+            "suggestions": [
+                "tickle",
+                "drench",
+                "caress",
+                "sprinkle",
+                "mist"
+            ]
+        },
+        {
+            "key": "whimsical_material",
+            "hint": "unusual material",
+            "suggestions": [
+                "spun sugar",
+                "liquid neon",
+                "stardust",
+                "dragon scales",
+                "frosted glass"
+            ]
+        },
+        {
+            "key": "magical_color_pattern",
+            "hint": "color or pattern",
+            "suggestions": [
+                "iridescent",
+                "polka-dotted",
+                "kaleidoscopic",
+                "opalescent",
+                "neon-streaked"
+            ]
+        },
+        {
+            "key": "joyful_action",
+            "hint": "verb (action)",
+            "suggestions": [
+                "celebrate",
+                "yodel",
+                "giggle",
+                "applaud",
+                "hum"
+            ]
+        },
+        {
+            "key": "emotional_adjective",
+            "hint": "emotion adjective",
+            "suggestions": [
+                "radiant",
+                "serene",
+                "overflowing",
+                "content",
+                "transformed"
+            ]
+        }
+    ]
+}

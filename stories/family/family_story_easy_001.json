@@ -1,0 +1,63 @@
+{
+    "id": "family_story_easy_001",
+    "title": "Family: The Sunny Reunion",
+    "difficulty": "easy",
+    "template": "The sun was shining brightly as the family gathered under a large [tree_type]. Cousin Leo brought a basket full of [snack_item] to share with everyone. It was the perfect day for a picnic on the soft grass.\n\nUncle Dave started a game of tag while Grandma showed off her [adjective] dance moves. Everyone cheered when a small [animal] joined the circle to play along. The laughter echoed through the entire park.\n\nAs the sun began to set, the family sat together to watch the [color] clouds. They promised to meet again next year for another wonderful day. This reunion was truly a memory to treasure forever.",
+    "blanks": [
+        {
+            "key": "tree_type",
+            "hint": "type of tree",
+            "suggestions": [
+                "Oak Tree",
+                "Willow",
+                "Cherry Blossom",
+                "Palm Tree",
+                "Maple"
+            ]
+        },
+        {
+            "key": "snack_item",
+            "hint": "a type of food",
+            "suggestions": [
+                "Sandwiches",
+                "Watermelons",
+                "Cookies",
+                "Pineapples",
+                "Tacos"
+            ]
+        },
+        {
+            "key": "adjective",
+            "hint": "describing word",
+            "suggestions": [
+                "Silly",
+                "Graceful",
+                "Wiggly",
+                "Energetic",
+                "Funky"
+            ]
+        },
+        {
+            "key": "animal",
+            "hint": "an animal",
+            "suggestions": [
+                "Squirrel",
+                "Puppy",
+                "Rabbit",
+                "Butterfly",
+                "Duck"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a color",
+            "suggestions": [
+                "Golden",
+                "Purple",
+                "Pink",
+                "Orange",
+                "Crimson"
+            ]
+        }
+    ]
+}

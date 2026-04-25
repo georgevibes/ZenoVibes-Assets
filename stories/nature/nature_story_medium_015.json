@@ -1,0 +1,85 @@
+{
+    "id": "nature_story_medium_015",
+    "title": "Nature: The Path of Whispering Stones",
+    "difficulty": "medium",
+    "template": "Deep within the valley lies a route covered in [texture_adjective] moss. This ancient trail winds between towering oaks that whisper secrets to the wind. No one remembers who first laid the stones, but they remain remarkably cool underfoot.\n\nA curious [mystical_creature] watches from the ferns as you step forward. It spent the morning [rhythmic_action] near the crystal stream. You offer a polite nod, acknowledging the silent guardian of the woods.\n\nThe air suddenly changes, smelling [sensory_adverb] of pine needles and damp earth. You soon reach the legendary [ancient_landmark], which glows with a soft, inner light. This place marks the boundary between the known world and the wild.\n\nThe atmosphere here feels incredibly [vibrant_adjective], recharging your weary spirit. You sit for a moment, listening to the symphony of the forest. When you finally leave, you carry the memory of the [nature_gifts] forever in your heart.",
+    "blanks": [
+        {
+            "key": "texture_adjective",
+            "hint": "adjective describing a surface",
+            "suggestions": [
+                "velvet",
+                "luminous",
+                "spongy",
+                "emerald",
+                "ancient"
+            ]
+        },
+        {
+            "key": "mystical_creature",
+            "hint": "a magical or rare animal",
+            "suggestions": [
+                "wood-nymph",
+                "silver-fox",
+                "pebble-gnome",
+                "leaf-dragon",
+                "sky-owl"
+            ]
+        },
+        {
+            "key": "rhythmic_action",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "humming",
+                "meditating",
+                "dancing",
+                "sculpting",
+                "daydreaming"
+            ]
+        },
+        {
+            "key": "sensory_adverb",
+            "hint": "adverb describing a scent",
+            "suggestions": [
+                "fragrantly",
+                "intensely",
+                "sweetly",
+                "mysteriously",
+                "sharply"
+            ]
+        },
+        {
+            "key": "ancient_landmark",
+            "hint": "a noun describing a structure",
+            "suggestions": [
+                "stone-archway",
+                "hollow-tree",
+                "silver-fountain",
+                "crystal-boulder",
+                "flower-shrine"
+            ]
+        },
+        {
+            "key": "vibrant_adjective",
+            "hint": "adjective describing energy",
+            "suggestions": [
+                "electric",
+                "ethereal",
+                "restorative",
+                "kaleidoscopic",
+                "tranquil"
+            ]
+        },
+        {
+            "key": "nature_gifts",
+            "hint": "plural noun",
+            "suggestions": [
+                "forest-whispers",
+                "mountain-echoes",
+                "starlight-seeds",
+                "mossy-secrets",
+                "sun-shadows"
+            ]
+        }
+    ]
+}

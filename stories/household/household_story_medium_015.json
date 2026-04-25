@@ -1,0 +1,85 @@
+{
+    "id": "household_story_medium_015",
+    "title": "Household: The Everlasting Glow",
+    "difficulty": "medium",
+    "template": "Deep in the corner of the attic sat a lantern made of [material]. Unlike other objects, this one shimmered with a soft, internal glow. The family often wondered why it never seemed to go out.\n\nOne evening, a curious child decided to [action] near the lantern's base. As they did, the light pulsed with a [color] hue that filled the room. It felt like the house was giving the whole family a warm, silent hug.\n\nThe lantern was actually a vessel for [abstract_noun] collected over many years. Every laugh and shared meal powered its [adjective] flame. It watched over the household like a silent, luminous guardian. Even the dust bunnies seemed to dance in its presence.\n\nWhenever the wind howled outside, the lantern stayed [adverb] steady. It reminded everyone that the heart of the home is always bright. They kept it on the [furniture] as a symbol of their eternal peace.",
+    "blanks": [
+        {
+            "key": "material",
+            "hint": "a type of building material",
+            "suggestions": [
+                "frosted glass",
+                "polished copper",
+                "woven bamboo",
+                "translucent porcelain",
+                "reclaimed driftwood"
+            ]
+        },
+        {
+            "key": "action",
+            "hint": "a peaceful activity (verb)",
+            "suggestions": [
+                "meditate",
+                "whisper secrets",
+                "read fairytales",
+                "hum a lullaby",
+                "sketch dreams"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "lavender",
+                "amber",
+                "emerald",
+                "celestial blue",
+                "apricot"
+            ]
+        },
+        {
+            "key": "abstract_noun",
+            "hint": "a positive feeling or concept",
+            "suggestions": [
+                "tranquility",
+                "gratitude",
+                "whispered wishes",
+                "stored sunlight",
+                "cozy memories"
+            ]
+        },
+        {
+            "key": "adjective",
+            "hint": "a descriptive word",
+            "suggestions": [
+                "flickering",
+                "everlasting",
+                "rhythmic",
+                "velvety",
+                "luminous"
+            ]
+        },
+        {
+            "key": "adverb",
+            "hint": "a word ending in -ly",
+            "suggestions": [
+                "magically",
+                "defiantly",
+                "serenely",
+                "perfectly",
+                "gracefully"
+            ]
+        },
+        {
+            "key": "furniture",
+            "hint": "a piece of household furniture",
+            "suggestions": [
+                "mantelpiece",
+                "bookshelf",
+                "bedside table",
+                "oak sideboard",
+                "window sill"
+            ]
+        }
+    ]
+}

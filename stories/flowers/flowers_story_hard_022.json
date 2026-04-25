@@ -1,0 +1,118 @@
+{
+    "id": "flowers_story_hard_022",
+    "title": "Flowers: The Pollen Quest",
+    "difficulty": "hard",
+    "template": "Barnaby the bee shook his fuzzy wings, ready to leave the [vibrant_adjective] hive. He drifted over the golden [landscape_noun], searching for a scent that whispered of ancient secrets. The morning sun cast long shadows over the dew-kissed grass.\n\nSuddenly, a burst of color caught his multifaceted eyes as he flew [movement_adverb] through a patch of thorns. He ignored the common daisies, seeking instead a [rare_adjective] blossom hidden deep within the garden. This was no ordinary forage; it was a quest for the ultimate prize.\n\nHe finally hovered before a majestic [shrine_noun], its petals [motion_verb] in the gentle breeze. The air around the plant was heavy with a scent that smelled like honey and starlight. It was the legendary bloom he had dreamed of since he was a larva.\n\nGently landing on the [texture_adjective] surface, he felt the cool moisture against his legs. He reached deep into the center to gather the [liquid_noun] that tasted of summer dreams. The flower seemed to hum [music_adverb] as if acknowledging his presence.\n\nWith his saddlebags heavy, Barnaby took flight once more, feeling [emotion_adjective] and content. He navigated the cooling air, guided by the setting sun's orange glow. The garden fell silent as the little hero returned to his queen with the golden treasure.",
+    "blanks": [
+        {
+            "key": "vibrant_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "buzzing",
+                "architectural",
+                "citrus-scented",
+                "effervescent",
+                "stately"
+            ]
+        },
+        {
+            "key": "landscape_noun",
+            "hint": "noun",
+            "suggestions": [
+                "tapestry",
+                "archipelago",
+                "expanse",
+                "labyrinth",
+                "frontier"
+            ]
+        },
+        {
+            "key": "movement_adverb",
+            "hint": "adverb",
+            "suggestions": [
+                "majestically",
+                "erratically",
+                "deliberately",
+                "effortlessly",
+                "buoyantly"
+            ]
+        },
+        {
+            "key": "rare_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "luminous",
+                "elusive",
+                "magnificent",
+                "enigmatic",
+                "spectacular"
+            ]
+        },
+        {
+            "key": "shrine_noun",
+            "hint": "noun (a place or structure)",
+            "suggestions": [
+                "monolith",
+                "cathedral",
+                "masterpiece",
+                "sanctuary",
+                "altar"
+            ]
+        },
+        {
+            "key": "motion_verb",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "undulating",
+                "quivering",
+                "pulsating",
+                "cascading",
+                "pirouetting"
+            ]
+        },
+        {
+            "key": "texture_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "crystalline",
+                "opalescent",
+                "gossamer",
+                "sumptuous",
+                "velvety"
+            ]
+        },
+        {
+            "key": "liquid_noun",
+            "hint": "noun (a substance)",
+            "suggestions": [
+                "ambrosia",
+                "essence",
+                "elixir",
+                "syrup",
+                "bounty"
+            ]
+        },
+        {
+            "key": "music_adverb",
+            "hint": "adverb",
+            "suggestions": [
+                "melodically",
+                "harmoniously",
+                "reverently",
+                "rhythmically",
+                "softly"
+            ]
+        },
+        {
+            "key": "emotion_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "exhilarated",
+                "replenished",
+                "transcendental",
+                "triumphant",
+                "serene"
+            ]
+        }
+    ]
+}

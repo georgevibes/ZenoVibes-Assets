@@ -1,0 +1,85 @@
+{
+    "id": "boating_water_story_medium_018",
+    "title": "Boating water: The Whispering Dock",
+    "difficulty": "medium",
+    "template": "The old wooden pier stretched out into the bay like a long, tired arm. Moss grew thick on the [adjective_texture] pilings that stood deep in the salt water. Seagulls often gathered here to [verb_animal_action] as the morning mist rolled across the waves.\n\nSmall fish darted between the shadows, appearing like silver flashes in the light. A [adjective_mood] breeze carried the scent of brine and adventure through the air. Near the end of the dock, a weathered [noun_nautical_item] swayed gently on a rusted hook. It seemed to tell stories of the many sailors who had stood on these very planks.\n\nAs you walk toward the edge, the wood [verb_sound] beneath your careful footsteps. Far off in the distance, a [adjective_color] sailboat glides silently toward the horizon. The water below ripples with a mysterious energy that feels almost magical.\n\nSitting on the edge, you let your feet dangle just above the [noun_liquid_surface]. Time feels like it has slowed down to the rhythm of the tides. You close your eyes and feel completely at peace. The old pier remains a sanctuary for those seeking a bit of wonder.",
+    "blanks": [
+        {
+            "key": "adjective_texture",
+            "hint": "a texture or physical quality",
+            "suggestions": [
+                "weathered",
+                "barnacle-covered",
+                "slippery",
+                "rugged",
+                "mossy"
+            ]
+        },
+        {
+            "key": "verb_animal_action",
+            "hint": "what an animal might do",
+            "suggestions": [
+                "squawk loudly",
+                "preen their feathers",
+                "scavenge for crumbs",
+                "dance in circles",
+                "watch the boats"
+            ]
+        },
+        {
+            "key": "adjective_mood",
+            "hint": "an emotion or feeling",
+            "suggestions": [
+                "whimsical",
+                "salty",
+                "mysterious",
+                "refreshing",
+                "serene"
+            ]
+        },
+        {
+            "key": "noun_nautical_item",
+            "hint": "a maritime or sailor's object",
+            "suggestions": [
+                "lantern",
+                "compass",
+                "telescope",
+                "anchor",
+                "bell"
+            ]
+        },
+        {
+            "key": "verb_sound",
+            "hint": "a sound a material makes",
+            "suggestions": [
+                "creaks",
+                "groans",
+                "sighs",
+                "hollowly echoes",
+                "thrums"
+            ]
+        },
+        {
+            "key": "adjective_color",
+            "hint": "a vibrant or unique color",
+            "suggestions": [
+                "shimmering indigo",
+                "sunset orange",
+                "pearlescent white",
+                "emerald green",
+                "deep sapphire"
+            ]
+        },
+        {
+            "key": "noun_liquid_surface",
+            "hint": "the top layer of water",
+            "suggestions": [
+                "frothy waves",
+                "cool ripples",
+                "glassy mirror",
+                "dark currents",
+                "sparkling tides"
+            ]
+        }
+    ]
+}

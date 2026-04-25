@@ -1,0 +1,63 @@
+{
+    "id": "zen_story_easy_003",
+    "title": "Zen: The Whispering Fog",
+    "difficulty": "easy",
+    "template": "The sun rises slowly over the silver valley. A [adjective_1] mist rolls across the quiet meadow like a soft blanket. Every blade of grass bows down to touch the morning dew.\n\nYou sit on a [object_1] and close your eyes. The air smells like [scent_1] and fresh pine needles. The world is silent except for the distant, rhythmic song of a hidden bird.\n\nDeep inside, you feel a sense of [emotion_1] washing over your soul. As you breathe in, the mist begins to [verb_1] around your feet in tiny circles. Your thoughts drift away like white clouds in the endless sky.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive word",
+            "suggestions": [
+                "shimmering",
+                "velvety",
+                "glowing",
+                "ethereal",
+                "gentle"
+            ]
+        },
+        {
+            "key": "object_1",
+            "hint": "something to sit on",
+            "suggestions": [
+                "mossy stone",
+                "carved bench",
+                "wooden pier",
+                "soft cushion",
+                "fallen log"
+            ]
+        },
+        {
+            "key": "scent_1",
+            "hint": "a pleasant smell",
+            "suggestions": [
+                "jasmine tea",
+                "wild lavender",
+                "rain-soaked earth",
+                "sweet honey",
+                "peppermint"
+            ]
+        },
+        {
+            "key": "emotion_1",
+            "hint": "a positive feeling",
+            "suggestions": [
+                "serenity",
+                "stardust",
+                "gratitude",
+                "stillness",
+                "magic"
+            ]
+        },
+        {
+            "key": "verb_1",
+            "hint": "action word",
+            "suggestions": [
+                "dance",
+                "swirl",
+                "sparkle",
+                "float",
+                "whisper"
+            ]
+        }
+    ]
+}

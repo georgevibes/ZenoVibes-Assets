@@ -1,0 +1,85 @@
+{
+    "id": "places_story_medium_012",
+    "title": "Places: The Resonant Grotto",
+    "difficulty": "medium",
+    "template": "Deep within the mountains lies the entrance to the cave. The walls are covered in [glowing_adjective] moss that glows in the dark. Every step creates a sound that bounces off the jagged ceilings. It is a place of ancient secrets and quiet beauty.\n\nWhen you whisper a secret, the cave answers with a [echo_sound]. The air feels like [tactile_feeling], swirling around your shoulders. You can see the light reflecting off the subterranean pools.\n\nNear the back of the cavern, a [ancient_creature] carved from crystal sits waiting. Its eyes seem to follow you as you move through the shadows. Below its feet, a [sparkling_item] rests on a stone pedestal. The silence here is deeper than anywhere else in the world.\n\nAs you prepare to leave, you leave behind a [wardrobe_item] as an offering. The cave rewards you with a vision of a [dream_destination]. You walk back into the sunlight feeling renewed and calm.",
+    "blanks": [
+        {
+            "key": "glowing_adjective",
+            "hint": "a word for light",
+            "suggestions": [
+                "luminescent",
+                "nebula-tinted",
+                "electric",
+                "iridescent",
+                "phosphorescent"
+            ]
+        },
+        {
+            "key": "echo_sound",
+            "hint": "a type of noise",
+            "suggestions": [
+                "melodic chime",
+                "gentle thrum",
+                "liquid ripple",
+                "distant lullaby",
+                "soft hum"
+            ]
+        },
+        {
+            "key": "tactile_feeling",
+            "hint": "a texture or sensation",
+            "suggestions": [
+                "cool silk",
+                "velvet curtains",
+                "weighted blankets",
+                "morning mist",
+                "thick honey"
+            ]
+        },
+        {
+            "key": "ancient_creature",
+            "hint": "a mythical animal",
+            "suggestions": [
+                "slumbering dragon",
+                "majestic phoenix",
+                "timeless sphinx",
+                "starlit griffin",
+                "celestial wolf"
+            ]
+        },
+        {
+            "key": "sparkling_item",
+            "hint": "a valuable object",
+            "suggestions": [
+                "shimmering locket",
+                "prismatic orb",
+                "golden quill",
+                "frozen teardrop",
+                "ancient compass"
+            ]
+        },
+        {
+            "key": "wardrobe_item",
+            "hint": "something you wear",
+            "suggestions": [
+                "silk handkerchief",
+                "knitted beanie",
+                "silver brooch",
+                "feathered cloak",
+                "braided bracelet"
+            ]
+        },
+        {
+            "key": "dream_destination",
+            "hint": "a peaceful place",
+            "suggestions": [
+                "serene mountaintop",
+                "lunar oasis",
+                "sun-drenched orchard",
+                "tide-pool sanctuary",
+                "forgotten library"
+            ]
+        }
+    ]
+}

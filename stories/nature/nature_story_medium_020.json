@@ -1,0 +1,85 @@
+{
+    "id": "nature_story_medium_020",
+    "title": "Nature: The River of Radiance",
+    "difficulty": "medium",
+    "template": "Deep within the crystal valley, a river of pure light flows silently. Its waters do not ripple with liquid, but instead shimmer with [radiant_quality]. The surrounding trees lean in close to catch a glimpse of the glow.\n\nA small [forest_creature] pauses by the bank to take a sip of the radiance. As it drinks, its fur begins to [magical_action] softly in the twilight. The air smells like fresh [pleasant_aroma] and ancient stardust. It is a place where time seems to stand perfectly still.\n\nLooking into the depths, one can see schools of [shimmering_entities] darting between the beams. They move with a grace that is almost [ethereal_description] to the human eye. Every splash sends a shower of sparks onto the mossy rocks.\n\nTo follow this stream is to discover the [mystical_concept] hidden at the world's edge. Few travelers ever find this path, but those who do are forever changed. They return home with a heart that pulses with a gentle, eternal warmth.",
+    "blanks": [
+        {
+            "key": "radiant_quality",
+            "hint": "a noun describing a type of glow or material",
+            "suggestions": [
+                "liquid diamonds",
+                "solar whispers",
+                "aurora silk",
+                "nebula dust",
+                "luminescent echoes"
+            ]
+        },
+        {
+            "key": "forest_creature",
+            "hint": "a type of animal",
+            "suggestions": [
+                "silver fox",
+                "obsidian owl",
+                "glass butterfly",
+                "velvet stag",
+                "emerald turtle"
+            ]
+        },
+        {
+            "key": "magical_action",
+            "hint": "a verb ending in -ing",
+            "suggestions": [
+                "phosphorescing",
+                "glimmering",
+                "vibrating",
+                "transfiguring",
+                "pulsating"
+            ]
+        },
+        {
+            "key": "pleasant_aroma",
+            "hint": "a noun representing a scent",
+            "suggestions": [
+                "honeysuckle",
+                "petrichor",
+                "wild lavender",
+                "crushed mint",
+                "roasted chestnuts"
+            ]
+        },
+        {
+            "key": "shimmering_entities",
+            "hint": "plural noun for small things",
+            "suggestions": [
+                "will-o'-the-wisps",
+                "floating embers",
+                "spectral minnows",
+                "starlight shards",
+                "gossamer ribbons"
+            ]
+        },
+        {
+            "key": "ethereal_description",
+            "hint": "an adjective describing beauty or mystery",
+            "suggestions": [
+                "hypnotic",
+                "celestial",
+                "otherworldly",
+                "transcendent",
+                "rhythmic"
+            ]
+        },
+        {
+            "key": "mystical_concept",
+            "hint": "an abstract noun",
+            "suggestions": [
+                "serenity",
+                "enlightenment",
+                "equilibrium",
+                "infinity",
+                "harmony"
+            ]
+        }
+    ]
+}

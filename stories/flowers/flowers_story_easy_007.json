@@ -1,0 +1,63 @@
+{
+    "id": "flowers_story_easy_007",
+    "title": "Flowers: The Meadow Secret",
+    "difficulty": "easy",
+    "template": "The sun shone brightly over the golden meadow where a small rabbit began a quest. It was searching for the most [adjective_1] daisy to start a magical chain. The wind whispered through the grass, guiding the way toward the secret grove.\n\nAlong the path, a friendly [animal_1] offered to help gather the blossoms. Together, they looped the stems into a circle that glowed with a [color_1] light. Every petal felt as soft as velvet against their paws. They worked carefully to ensure the chain would never break.\n\nFinally, they placed the completed garland onto a [object_1] in the center of the field. The entire meadow began to [verb_1] with joy as the magic took hold. It was a beautiful day for a daisy chain adventure.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "a descriptive word",
+            "suggestions": [
+                "glittering",
+                "luminous",
+                "gigantic",
+                "graceful",
+                "enchanted"
+            ]
+        },
+        {
+            "key": "animal_1",
+            "hint": "a small creature",
+            "suggestions": [
+                "bumblebee",
+                "dragonfly",
+                "squirrel",
+                "hedgehog",
+                "fawn"
+            ]
+        },
+        {
+            "key": "color_1",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "periwinkle",
+                "goldenrod",
+                "iridescent",
+                "sunset-orange",
+                "minty-green"
+            ]
+        },
+        {
+            "key": "object_1",
+            "hint": "a garden item",
+            "suggestions": [
+                "mossy-stone",
+                "hollow-log",
+                "crystal-pond",
+                "gnome-hat",
+                "toadstool"
+            ]
+        },
+        {
+            "key": "verb_1",
+            "hint": "an action word",
+            "suggestions": [
+                "shimmer",
+                "twirl",
+                "rejoice",
+                "radiate",
+                "celebrate"
+            ]
+        }
+    ]
+}

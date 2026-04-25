@@ -1,0 +1,118 @@
+{
+    "id": "hobbies_story_hard_022",
+    "title": "Hobbies: The Golden Crust Awakening",
+    "difficulty": "hard",
+    "template": "The kitchen air was [atmospheric_adjective] as the dawn light filtered through the flour-dusted windows. Every morning began with the careful measurement of [exotic_ingredient] to ensure the crumb would be light as a cloud. The sourdough starter sat bubbling in its ceramic jar, whispering secrets of ancient yeasts.\n\nThe baker began [rhythmic_action] the dough with a rhythm that matched the ticking of a grandfather clock. Suddenly, a small [mythical_assistant] appeared on the counter to sprinkle a pinch of stardust into the mixing bowl. This was the hidden step that transformed a simple loaf into a masterpiece of culinary art.\n\nCovered with a damp linen cloth, the bowl was placed in a warm corner to rest and expand [unusual_adverb]. Within the silence of the pantry, the dough seemed to pulse with a sense of [abstract_quality]. Time slowed down while the microscopic magic worked its invisible wonders.\n\nWhen the timer chimed, the oven door opened with a [distinctive_sound] that echoed through the quiet house. The heat transformed the pale mass into a loaf with a crust the color of [luminescent_hue]. The aroma that wafted out was enough to wake the sleeping neighborhood in a state of pure hunger.\n\nSlicing into the warm bread revealed a crumb that was [tactile_texture] and perfectly aerated. Each bite carried a hint of [enchanted_effect] that lingered on the tongue long after the meal had finished. The baker smiled, knowing that this was truly the perfect rise.",
+    "blanks": [
+        {
+            "key": "atmospheric_adjective",
+            "hint": "adjective describing an atmosphere",
+            "suggestions": [
+                "ethereal",
+                "gossamer",
+                "luminous",
+                "crystalline",
+                "velvet"
+            ]
+        },
+        {
+            "key": "exotic_ingredient",
+            "hint": "unusual or fancy ingredient",
+            "suggestions": [
+                "pulverized moonstones",
+                "dried lavender dreams",
+                "silvered rye husks",
+                "mountain-mist salt",
+                "dragon-fruit pollen"
+            ]
+        },
+        {
+            "key": "rhythmic_action",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "massaging",
+                "kneading",
+                "sculpting",
+                "harmonizing",
+                "folding"
+            ]
+        },
+        {
+            "key": "mythical_assistant",
+            "hint": "a small creature or being",
+            "suggestions": [
+                "clockwork pixie",
+                "transparent gnome",
+                "tiny salamander",
+                "silk-winged moth",
+                "glowing sprite"
+            ]
+        },
+        {
+            "key": "unusual_adverb",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "exponentially",
+                "rhythmically",
+                "ethereally",
+                "defiantly",
+                "harmoniously"
+            ]
+        },
+        {
+            "key": "abstract_quality",
+            "hint": "a noun for a concept or feeling",
+            "suggestions": [
+                "serenity",
+                "timelessness",
+                "euphoria",
+                "equilibrium",
+                "cosmic energy"
+            ]
+        },
+        {
+            "key": "distinctive_sound",
+            "hint": "noun for a sound",
+            "suggestions": [
+                "melodic hum",
+                "metallic sigh",
+                "resonant thrum",
+                "soft trill",
+                "hollow whistle"
+            ]
+        },
+        {
+            "key": "luminescent_hue",
+            "hint": "a descriptive color or shade",
+            "suggestions": [
+                "burnished bronze",
+                "obsidian gold",
+                "sunset amber",
+                "toasted pearl",
+                "copper twilight"
+            ]
+        },
+        {
+            "key": "tactile_texture",
+            "hint": "adjective for how something feels",
+            "suggestions": [
+                "pillowy",
+                "iridescent",
+                "spongy",
+                "gossamer",
+                "feather-light"
+            ]
+        },
+        {
+            "key": "enchanted_effect",
+            "hint": "a magical sensation or memory",
+            "suggestions": [
+                "nostalgic warmth",
+                "liquid starlight",
+                "forest whispers",
+                "blooming joy",
+                "summer memories"
+            ]
+        }
+    ]
+}

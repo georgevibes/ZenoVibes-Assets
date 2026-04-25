@@ -1,0 +1,63 @@
+{
+    "id": "boating_water_story_easy_001",
+    "title": "Boating water: The Morning Mist",
+    "difficulty": "easy",
+    "template": "The sun rises over the lake, casting a [golden_color] glow across the water. A small wooden boat sits quietly at the dock. The surface of the lake is as smooth as glass.\n\nYou step onto the deck and grab a [boating_tool] to help you push off. The ripples spread slowly, disturbing the [calm_adjective] reflection of the trees. A lone bird chirps from a distance. It feels like the whole world is still sleeping.\n\nDeep in the middle of the lake, you spot a [floating_object] floating nearby. You reach out to touch it, feeling the [water_feeling] water on your skin. This is the perfect start to a beautiful day.",
+    "blanks": [
+        {
+            "key": "golden_color",
+            "hint": "a color or type of light (adjective)",
+            "suggestions": [
+                "shimmering",
+                "amber",
+                "honey-colored",
+                "radiant",
+                "soft"
+            ]
+        },
+        {
+            "key": "boating_tool",
+            "hint": "an object used on a boat (noun)",
+            "suggestions": [
+                "oar",
+                "paddle",
+                "fishing rod",
+                "net",
+                "telescope"
+            ]
+        },
+        {
+            "key": "calm_adjective",
+            "hint": "a peaceful word (adjective)",
+            "suggestions": [
+                "peaceful",
+                "dreamy",
+                "still",
+                "emerald",
+                "perfect"
+            ]
+        },
+        {
+            "key": "floating_object",
+            "hint": "something you might find in water (noun)",
+            "suggestions": [
+                "lily pad",
+                "feather",
+                "message in a bottle",
+                "toy sailboat",
+                "lotus flower"
+            ]
+        },
+        {
+            "key": "water_feeling",
+            "hint": "a sensation or texture (adjective)",
+            "suggestions": [
+                "cool",
+                "refreshing",
+                "silky",
+                "tepid",
+                "sparkling"
+            ]
+        }
+    ]
+}

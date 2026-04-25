@@ -1,0 +1,118 @@
+{
+    "id": "household_story_hard_029",
+    "title": "Household: The Welcoming Ring",
+    "difficulty": "hard",
+    "template": "The afternoon sun filtered through the [translucent_adjective] curtains, casting long shadows across the hallway. Suddenly, a [melodic_adjective] sound echoed through the house, signaling a visitor at the front door. The chime was not a harsh buzz but a melodic sequence that felt like home.\n\nI hurried toward the entrance, my slippers clicking against the [floor_material] floor. Beside the door, the ceramic umbrella stand was [container_action] with the weight of heavy coats and secrets. I paused to straighten my collar before reaching for the handle.\n\nI checked the peephole, seeing only a collection of [porch_objects] dancing in the porch light. There was a faint scent of [vivid_color] flowers drifting through the cracks of the door frame. My heart raced with a pleasant, curious anticipation.\n\nWith a deep breath, I turned the brass handle and felt the [atmospheric_adjective] air from outside rush into the foyer. There stood a traveler holding a box wrapped in [ribbon_material] ribbon. Their smile was infectious, radiating a sense of peace that settled in my chest.\n\n\"I believe this belongs to you,\" they whispered, handing over the package with [graceful_adverb] grace. I took the gift and watched as they began [exit_action] down the garden path into the sunset. The doorbell's friendly echo lingered, making the household feel truly alive.",
+    "blanks": [
+        {
+            "key": "translucent_adjective",
+            "hint": "adjective describing light passing through",
+            "suggestions": [
+                "diaphanous",
+                "iridescent",
+                "opalescent",
+                "filigreed",
+                "luminescent"
+            ]
+        },
+        {
+            "key": "melodic_adjective",
+            "hint": "adjective describing a pleasant sound",
+            "suggestions": [
+                "mellifluous",
+                "euphonic",
+                "stentorian",
+                "lilting",
+                "symphonic"
+            ]
+        },
+        {
+            "key": "floor_material",
+            "hint": "a high-end or unusual flooring material",
+            "suggestions": [
+                "travertine",
+                "alabaster",
+                "parquetry",
+                "soapstone",
+                "quartzite"
+            ]
+        },
+        {
+            "key": "container_action",
+            "hint": "a verb ending in -ing describing movement or state",
+            "suggestions": [
+                "undulating",
+                "reverberating",
+                "effervescing",
+                "teeming",
+                "congealing"
+            ]
+        },
+        {
+            "key": "porch_objects",
+            "hint": "plural noun for small or ethereal things",
+            "suggestions": [
+                "apparitions",
+                "sprites",
+                "kaleidoscopes",
+                "hummingbirds",
+                "holograms"
+            ]
+        },
+        {
+            "key": "vivid_color",
+            "hint": "a specific or sophisticated color name",
+            "suggestions": [
+                "ultramarine",
+                "amaranthine",
+                "celadon",
+                "eburnean",
+                "viridian"
+            ]
+        },
+        {
+            "key": "atmospheric_adjective",
+            "hint": "adjective describing weather or air",
+            "suggestions": [
+                "cimmerian",
+                "halcyon",
+                "pluviose",
+                "brumal",
+                "zephyrian"
+            ]
+        },
+        {
+            "key": "ribbon_material",
+            "hint": "a type of fine fabric or material",
+            "suggestions": [
+                "organza",
+                "damask",
+                "tulle",
+                "taffeta",
+                "cellophane"
+            ]
+        },
+        {
+            "key": "graceful_adverb",
+            "hint": "adverb describing elegant movement",
+            "suggestions": [
+                "languidly",
+                "unobtrusively",
+                "precisely",
+                "magisterially",
+                "seraphically"
+            ]
+        },
+        {
+            "key": "exit_action",
+            "hint": "a verb ending in -ing for leaving",
+            "suggestions": [
+                "evanescing",
+                "meandering",
+                "skipping",
+                "gliding",
+                "traversing"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "nature_story_medium_019",
+    "title": "Nature: The Wandering Oasis",
+    "difficulty": "medium",
+    "template": "Above the emerald sea, a mysterious island drifted through the clouds. It wasn't held by rock or root, but by a giant [glowing_adjective] balloon made of petals. The local [colorful_birds] often visited to rest their wings.\n\nOn this floating sanctuary, the trees grew [growing_adverb] toward the sun. Flowers here didn't just bloom; they sang a [musical_style] melody every dawn. A rare species of creatures watched the world from the edge.\n\nWhen the wind picked up, the island would [movement_verb] gracefully over the mountains. Explorers below looked up in awe at the drifting shadow. They wondered if the island was searching for a secret destination.\n\nLegend says that if you whisper a wish to a [small_nature_item], the island moves closer. Only those with a [noble_trait] heart can ever hope to board it. It remains a wandering jewel in the endless blue sky.",
+    "blanks": [
+        {
+            "key": "glowing_adjective",
+            "hint": "adjective (describing light)",
+            "suggestions": [
+                "shimmering",
+                "iridescent",
+                "translucent",
+                "luminous",
+                "vibrant"
+            ]
+        },
+        {
+            "key": "colorful_birds",
+            "hint": "plural bird name",
+            "suggestions": [
+                "macaws",
+                "kingfishers",
+                "phoenixes",
+                "hummingbirds",
+                "parrots"
+            ]
+        },
+        {
+            "key": "growing_adverb",
+            "hint": "adverb (describing growth)",
+            "suggestions": [
+                "spirally",
+                "rhythmically",
+                "elegantly",
+                "hungrily",
+                "crookedly"
+            ]
+        },
+        {
+            "key": "musical_style",
+            "hint": "adjective (musical style)",
+            "suggestions": [
+                "symphonic",
+                "operatic",
+                "rhythmic",
+                "melancholic",
+                "upbeat"
+            ]
+        },
+        {
+            "key": "movement_verb",
+            "hint": "verb (action)",
+            "suggestions": [
+                "pirouette",
+                "waltz",
+                "gallop",
+                "stumble",
+                "glide"
+            ]
+        },
+        {
+            "key": "small_nature_item",
+            "hint": "small natural object",
+            "suggestions": [
+                "dandelion",
+                "smooth pebble",
+                "fallen leaf",
+                "pinecone",
+                "seashell"
+            ]
+        },
+        {
+            "key": "noble_trait",
+            "hint": "personality trait",
+            "suggestions": [
+                "courageous",
+                "whimsical",
+                "patient",
+                "harmonious",
+                "selfless"
+            ]
+        }
+    ]
+}

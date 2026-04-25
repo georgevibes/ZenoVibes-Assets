@@ -1,0 +1,85 @@
+{
+    "id": "places_story_medium_019",
+    "title": "Places: The Hidden Sanctuary",
+    "difficulty": "medium",
+    "template": "Hidden deep within the [scenic_adjective] mountains lies a secret courtyard. The air smells like fresh rain and blooming jasmine. In the center of this space sits a fountain carved from a single piece of [precious_material].\n\nThe water bubbles forth with a [sound_adjective] sound that echoes against the stone walls. Tiny schools of glowing fish dart through the ripples. Legend says that drinking from this source grants the traveler a sudden burst of [abstract_quality].\n\nYou reach out your hand and feel the [mist_temperature] mist cooling your skin. Suddenly, a [mystical_creature] emerges from the shadows to take a sip. The creature nods at you before disappearing back into the thick foliage.\n\nAs the sun begins to set, the fountain glows with a soft [ethereal_color] light. You feel a sense of profound peace washing over your heart. Walking away, you promise to return to this magical sanctuary very soon.",
+    "blanks": [
+        {
+            "key": "scenic_adjective",
+            "hint": "an adjective describing a landscape",
+            "suggestions": [
+                "obsidian",
+                "shimmering",
+                "evergreen",
+                "mist-covered",
+                "forgotten"
+            ]
+        },
+        {
+            "key": "precious_material",
+            "hint": "a type of stone or rare material",
+            "suggestions": [
+                "moonstone",
+                "lapis lazuli",
+                "white marble",
+                "petrified wood",
+                "iridescent glass"
+            ]
+        },
+        {
+            "key": "sound_adjective",
+            "hint": "an adjective describing a noise",
+            "suggestions": [
+                "melodic",
+                "rhythmic",
+                "whispering",
+                "tinkling",
+                "hypnotic"
+            ]
+        },
+        {
+            "key": "abstract_quality",
+            "hint": "an intangible trait or feeling",
+            "suggestions": [
+                "creativity",
+                "courage",
+                "inner peace",
+                "ancient wisdom",
+                "boundless joy"
+            ]
+        },
+        {
+            "key": "mist_temperature",
+            "hint": "an adjective describing feeling or temperature",
+            "suggestions": [
+                "frosty",
+                "tepid",
+                "refreshing",
+                "silky",
+                "invigorating"
+            ]
+        },
+        {
+            "key": "mystical_creature",
+            "hint": "a rare or magical animal",
+            "suggestions": [
+                "golden fox",
+                "silver-winged owl",
+                "transparent deer",
+                "miniature dragon",
+                "glowing salamander"
+            ]
+        },
+        {
+            "key": "ethereal_color",
+            "hint": "a vivid or magical color",
+            "suggestions": [
+                "violet",
+                "amber",
+                "neon turquoise",
+                "pearly white",
+                "twilight indigo"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "flowers_story_medium_018",
+    "title": "Flowers: The Midnight Bloom",
+    "difficulty": "medium",
+    "template": "Tiny the tulip closed its petals as the sun dipped below the horizon. It drifted into a [dreamy_adjective] slumber, feeling the soft evening breeze. In its mind, the quiet garden transformed into a place of pure [magical_essence].\n\nInstead of green grass, the ground was now covered in soft [strange_objects]. Tiny felt its roots lift, and it began to [graceful_action] through the air, light as a floating feather. The sky above turned a brilliant, swirling shade of neon purple.\n\nSuddenly, a giant [enchanted_creature] flew down from the clouds to greet the dreaming flower. It spoke in a rhythmic voice that sounded exactly like a [soothing_instrument]. Together, they shared a secret about the hidden magic of the coming spring.\n\nAs the first light of dawn touched the garden, the vivid dream began to fade. Tiny opened its petals to the sun, feeling more [positive_feeling] than ever before. The morning dew sparkled on its leaves like tiny diamonds. It was going to be a truly beautiful day in the meadow.",
+    "blanks": [
+        {
+            "key": "dreamy_adjective",
+            "hint": "adjective",
+            "suggestions": [
+                "shimmering",
+                "velvet",
+                "starlit",
+                "hazy",
+                "luminous"
+            ]
+        },
+        {
+            "key": "magical_essence",
+            "hint": "noun",
+            "suggestions": [
+                "stardust",
+                "whispers",
+                "glitter",
+                "nectar",
+                "radiance"
+            ]
+        },
+        {
+            "key": "strange_objects",
+            "hint": "plural noun",
+            "suggestions": [
+                "marshmallows",
+                "silk ribbons",
+                "glowing pebbles",
+                "bubbles",
+                "feathers"
+            ]
+        },
+        {
+            "key": "graceful_action",
+            "hint": "verb",
+            "suggestions": [
+                "waltz",
+                "pirouette",
+                "glide",
+                "tumble",
+                "soar"
+            ]
+        },
+        {
+            "key": "enchanted_creature",
+            "hint": "animal",
+            "suggestions": [
+                "dragonfly",
+                "bumblebee",
+                "hummingbird",
+                "butterfly",
+                "owl"
+            ]
+        },
+        {
+            "key": "soothing_instrument",
+            "hint": "musical instrument",
+            "suggestions": [
+                "crystal harp",
+                "silver flute",
+                "wooden chime",
+                "golden bell",
+                "cello"
+            ]
+        },
+        {
+            "key": "positive_feeling",
+            "hint": "emotion",
+            "suggestions": [
+                "vibrant",
+                "inspired",
+                "peaceful",
+                "energetic",
+                "harmonious"
+            ]
+        }
+    ]
+}

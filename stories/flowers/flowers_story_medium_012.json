@@ -1,0 +1,85 @@
+{
+    "id": "flowers_story_medium_012",
+    "title": "Flowers: The Pink Petal Celebration",
+    "difficulty": "medium",
+    "template": "The annual festival began under a sky of [color_adjective] clouds. Crowds gathered along the riverbank to witness the first [botanical_noun] of the season. It was a time for reflection and celebration under the delicate canopy.\n\nSoft petals drifted through the air like [adjective_plural_noun]. A young traveler sat on a wooden bench, sipping a cup of [flavorful_drink]. The scent of spring was everywhere, filling the heart with joy.\n\nNearby, a group of dancers performed a [adverb] choreographed routine. Their silk ribbons mimicked the swaying branches of the trees. Children chased after falling blossoms, hoping to catch a [small_object] for good luck.\n\nAs the sun dipped below the horizon, lanterns began to [action_verb] among the groves. The evening felt like a dream captured in pink and white. Everyone left the garden feeling more at peace with the world.",
+    "blanks": [
+        {
+            "key": "color_adjective",
+            "hint": "a descriptive color or light",
+            "suggestions": [
+                "iridescent",
+                "pearly",
+                "rose-tinted",
+                "luminous",
+                "lavender"
+            ]
+        },
+        {
+            "key": "botanical_noun",
+            "hint": "a word for a plant's growth or state",
+            "suggestions": [
+                "unfurling",
+                "masterpiece",
+                "explosion",
+                "awakening",
+                "symphony"
+            ]
+        },
+        {
+            "key": "adjective_plural_noun",
+            "hint": "an adjective describing a group of items",
+            "suggestions": [
+                "shimmering snowflakes",
+                "tiny butterflies",
+                "silken whispers",
+                "dancing spirits",
+                "frosted confetti"
+            ]
+        },
+        {
+            "key": "flavorful_drink",
+            "hint": "a type of pleasant beverage",
+            "suggestions": [
+                "matcha tea",
+                "jasmine nectar",
+                "sparkling cider",
+                "honeysuckle syrup",
+                "elderberry infusion"
+            ]
+        },
+        {
+            "key": "adverb",
+            "hint": "a word ending in -ly",
+            "suggestions": [
+                "gracefully",
+                "ethereally",
+                "energetically",
+                "serenely",
+                "elegantly"
+            ]
+        },
+        {
+            "key": "small_object",
+            "hint": "something small you could hold",
+            "suggestions": [
+                "magic charm",
+                "golden key",
+                "wandering breeze",
+                "lucky penny",
+                "moonbeam"
+            ]
+        },
+        {
+            "key": "action_verb",
+            "hint": "a verb showing movement or light",
+            "suggestions": [
+                "glimmer",
+                "waltz",
+                "ignite",
+                "hum",
+                "sparkle"
+            ]
+        }
+    ]
+}

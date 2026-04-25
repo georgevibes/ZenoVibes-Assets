@@ -1,0 +1,63 @@
+{
+    "id": "instruments_story_easy_004",
+    "title": "Instruments: The Golden Echo",
+    "difficulty": "easy",
+    "template": "The sun rose over the golden valley as a musician lifted a shining trumpet. With a deep breath, they played a note that was incredibly [adjective_1]. The sound echoed off the hills, waking up the sleepy morning.\n\nThis melody floated through the air like a [noun_1]. It danced over the river and made the flowers [verb_1] in rhythm. Every creature in the meadow stopped to listen to the bright music.\n\nA small bird joined in, chirping a [adjective_2] tune to match the brass. Soon, the entire valley was filled with a sense of [noun_2]. The sun climbed higher, warmed by the beautiful performance.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "a descriptive word",
+            "suggestions": [
+                "sparkly",
+                "radiant",
+                "energetic",
+                "bold",
+                "shimmering"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "a light or floating object",
+            "suggestions": [
+                "bubble",
+                "butterfly",
+                "feather",
+                "ribbon",
+                "cloud"
+            ]
+        },
+        {
+            "key": "verb_1",
+            "hint": "an action word",
+            "suggestions": [
+                "sway",
+                "wiggle",
+                "glow",
+                "bounce",
+                "spin"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "a feeling or sound description",
+            "suggestions": [
+                "silly",
+                "sweet",
+                "tiny",
+                "joyful",
+                "golden"
+            ]
+        },
+        {
+            "key": "noun_2",
+            "hint": "a feeling or concept",
+            "suggestions": [
+                "magic",
+                "harmony",
+                "wonder",
+                "peace",
+                "sunshine"
+            ]
+        }
+    ]
+}

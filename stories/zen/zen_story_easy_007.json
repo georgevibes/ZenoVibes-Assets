@@ -1,0 +1,63 @@
+{
+    "id": "zen_story_easy_007",
+    "title": "Zen: The Drift of Stillness",
+    "difficulty": "easy",
+    "template": "A single leaf falls from a [adjective_1] tree, landing softly on the silver stream. It spins in slow circles as the water carries it toward the unknown. The air smells like [scent] and old mountain secrets.\n\nThe leaf brushes against a smooth stone, dancing with the [nature_element]. It flows past a sleeping turtle who doesn't even blink. Every ripple in the water tells a story of patience and grace.\n\nFinally, the leaf settles into a [color] pool of light. A small [animal] watches it from the mossy bank. The world feels quiet and perfectly still in this moment.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "describing a tree",
+            "suggestions": [
+                "shimmering",
+                "ancient",
+                "glowing",
+                "whispering",
+                "gigantic"
+            ]
+        },
+        {
+            "key": "scent",
+            "hint": "a pleasant smell",
+            "suggestions": [
+                "lavender",
+                "fresh rain",
+                "cinnamon",
+                "morning dew",
+                "sweet honey"
+            ]
+        },
+        {
+            "key": "nature_element",
+            "hint": "a part of nature",
+            "suggestions": [
+                "sunlight",
+                "breeze",
+                "mist",
+                "echoes",
+                "stardust"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "golden",
+                "emerald",
+                "violet",
+                "azure",
+                "ruby"
+            ]
+        },
+        {
+            "key": "animal",
+            "hint": "a small creature",
+            "suggestions": [
+                "dragonfly",
+                "fox",
+                "koi fish",
+                "toad",
+                "salamander"
+            ]
+        }
+    ]
+}

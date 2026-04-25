@@ -1,0 +1,118 @@
+{
+    "id": "household_story_hard_021",
+    "title": "Household: The Rear Threshold",
+    "difficulty": "hard",
+    "template": "The morning light filtered through the [gossamer_adjective] curtains of the kitchen window. Outside, the back porch waited in silent [peaceful_state], covered in a thin layer of dew. A single pot of lavender sat by the threshold, smelling faintly of summer.\n\nHidden deep within the [hiding_crevice] of a ceramic frog, the key lay dormant. Its surface was [weathered_texture] from years of contact with the garden air. I reached down, my fingers brushing against the cold metal with a sense of purpose.\n\nInserting the key into the lock felt like solving a(n) [mysterious_adjective] puzzle. The mechanism made a distinct [mechanical_sound] that echoed through the quiet hallway. Slowly, the heavy wood yielded to the pressure of the morning air.\n\nA gust of [magical_breeze] wind greeted me as I stepped onto the cobblestones. The garden seemed to [synchronous_action] in rhythm with my own heartbeat. Everything here felt familiar yet strangely magical under the rising sun.\n\nI sat on the wooden bench, watching a(n) [serene_creature] move across the lawn. The [abstract_quality] of the morning brought a profound sense of clarity. Finally, the back door was open, and the house felt connected to the earth.",
+    "blanks": [
+        {
+            "key": "gossamer_adjective",
+            "hint": "adjective describing light/thin texture",
+            "suggestions": [
+                "iridescent",
+                "diaphanous",
+                "velvety",
+                "translucent",
+                "embroidered"
+            ]
+        },
+        {
+            "key": "peaceful_state",
+            "hint": "a noun representing a state of being",
+            "suggestions": [
+                "stillness",
+                "reverie",
+                "tranquility",
+                "anticipation",
+                "solitude"
+            ]
+        },
+        {
+            "key": "hiding_crevice",
+            "hint": "part of an object where something fits",
+            "suggestions": [
+                "hollow",
+                "underbelly",
+                "recess",
+                "shadow",
+                "mouth"
+            ]
+        },
+        {
+            "key": "weathered_texture",
+            "hint": "adjective describing old metal",
+            "suggestions": [
+                "oxidized",
+                "burnished",
+                "pitted",
+                "silky",
+                "tarnished"
+            ]
+        },
+        {
+            "key": "mysterious_adjective",
+            "hint": "adjective for something old or secret",
+            "suggestions": [
+                "arcane",
+                "intricate",
+                "forgotten",
+                "enchanted",
+                "ancient"
+            ]
+        },
+        {
+            "key": "mechanical_sound",
+            "hint": "a noun for a short noise",
+            "suggestions": [
+                "click",
+                "thrum",
+                "clink",
+                "resonance",
+                "snap"
+            ]
+        },
+        {
+            "key": "magical_breeze",
+            "hint": "adjective for a type of wind",
+            "suggestions": [
+                "jasmine-scented",
+                "ethereal",
+                "bracing",
+                "whispering",
+                "balmy"
+            ]
+        },
+        {
+            "key": "synchronous_action",
+            "hint": "verb describing a subtle movement",
+            "suggestions": [
+                "shimmer",
+                "pulsate",
+                "exhale",
+                "bloom",
+                "vibrate"
+            ]
+        },
+        {
+            "key": "serene_creature",
+            "hint": "a small animal or insect",
+            "suggestions": [
+                "dragonfly",
+                "squirrel",
+                "robin",
+                "toad",
+                "bumblebee"
+            ]
+        },
+        {
+            "key": "abstract_quality",
+            "hint": "a positive abstract noun",
+            "suggestions": [
+                "harmony",
+                "stillness",
+                "radiance",
+                "softness",
+                "resonance"
+            ]
+        }
+    ]
+}

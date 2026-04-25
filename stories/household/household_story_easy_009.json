@@ -1,0 +1,63 @@
+{
+    "id": "household_story_easy_009",
+    "title": "Household: The Harmonious Kettle",
+    "difficulty": "easy",
+    "template": "In the sunlit corner of the kitchen sat a most unusual teapot. It didn't just boil water; it hummed a [musical_style] melody that echoed off the tiles. Every morning, the steam would rise in soft, [steam_color] swirls that danced toward the ceiling.\n\nWhen the water finally reached a rolling boil, the pot began to [vocal_action] with perfect pitch. It sounded like a tiny orchestra playing a symphony for the spoons and saucers. The [kitchen_item] on the shelf even tapped along to the magical rhythm.\n\nPouring the tea into a favorite mug released a cozy scent of [fragrance]. One sip made the whole house feel incredibly warm and bright. This singing kettle was truly the magical heart of the quiet home.",
+    "blanks": [
+        {
+            "key": "musical_style",
+            "hint": "a style of music (adjective)",
+            "suggestions": [
+                "jazzy",
+                "operatic",
+                "lullaby-like",
+                "whimsical",
+                "disco"
+            ]
+        },
+        {
+            "key": "steam_color",
+            "hint": "a color",
+            "suggestions": [
+                "golden",
+                "lavender",
+                "emerald",
+                "sparkling",
+                "sunset-pink"
+            ]
+        },
+        {
+            "key": "vocal_action",
+            "hint": "verb (action of a singer)",
+            "suggestions": [
+                "yodel",
+                "serenade",
+                "whistle",
+                "chant",
+                "croon"
+            ]
+        },
+        {
+            "key": "kitchen_item",
+            "hint": "a kitchen object",
+            "suggestions": [
+                "toaster",
+                "spatula",
+                "cookie jar",
+                "salt shaker",
+                "rolling pin"
+            ]
+        },
+        {
+            "key": "fragrance",
+            "hint": "a pleasant scent",
+            "suggestions": [
+                "cinnamon",
+                "wildflowers",
+                "baked apples",
+                "starry night",
+                "honeyed ginger"
+            ]
+        }
+    ]
+}

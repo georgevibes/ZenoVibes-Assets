@@ -1,0 +1,63 @@
+{
+    "id": "nature_story_easy_003",
+    "title": "Nature: The Enchanted Undergrowth",
+    "difficulty": "easy",
+    "template": "The golden sun dips below the horizon, casting a soft glow on the mossy ground. Under the ancient oak trees, a group of [color_or_adjective] mushrooms begins to sway in the breeze. Every twig and leaf seems to be waiting for the music to start.\n\nSuddenly, a chorus of crickets starts a [style_of_sound] rhythm that echoes through the trees. Small fireflies zip around, acting like tiny spotlights for the [descriptive_word] dancers below. The pine needles crunch softly as the forest floor truly comes to life.\n\nA gentle wind carries the scent of [natural_object] through the cool evening air. The woodland creatures watch from the shadows, mesmerized by the rhythmic [action_ending_in_ing] of the shadows. As the stars appear, the forest finally settles into a quiet, peaceful slumber.",
+    "blanks": [
+        {
+            "key": "color_or_adjective",
+            "hint": "a color or descriptive word",
+            "suggestions": [
+                "shimmering",
+                "neon",
+                "polka-dotted",
+                "fuzzy",
+                "golden"
+            ]
+        },
+        {
+            "key": "style_of_sound",
+            "hint": "an adjective describing a beat",
+            "suggestions": [
+                "jazzy",
+                "thumping",
+                "gentle",
+                "mystical",
+                "upbeat"
+            ]
+        },
+        {
+            "key": "descriptive_word",
+            "hint": "an adjective for a performer",
+            "suggestions": [
+                "graceful",
+                "tiny",
+                "sparkly",
+                "clumsy",
+                "invisible"
+            ]
+        },
+        {
+            "key": "natural_object",
+            "hint": "something found in nature",
+            "suggestions": [
+                "wildflowers",
+                "pinecones",
+                "damp earth",
+                "stardust",
+                "clover"
+            ]
+        },
+        {
+            "key": "action_ending_in_ing",
+            "hint": "an action ending in -ing",
+            "suggestions": [
+                "twirling",
+                "swaying",
+                "gliding",
+                "wobbling",
+                "drifting"
+            ]
+        }
+    ]
+}

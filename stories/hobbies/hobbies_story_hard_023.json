@@ -1,0 +1,118 @@
+{
+    "id": "hobbies_story_hard_023",
+    "title": "Hobbies: The Path to Radiance",
+    "difficulty": "hard",
+    "template": "The marathon began [adverb_1] as the sun peeked over the horizon. Every athlete moved with purpose through the [unusual_landscape], their rhythmic breathing creating a collective hum. The path ahead promised both physical exhaustion and spiritual renewal.\n\nAbove, the [celestial_body] seemed to pulse in time with the runners' heartbeats. One participant imagined they were being chased by a friendly [mythical_creature] to keep their pace steady. The wind whispered secrets of ancient trails yet to be conquered.\n\nAs the final stretch approached, the atmosphere began to [sensory_verb] with anticipation. The finish line was draped in a [luminescent_color] ribbon that appeared to float mid-air. Spectators cheered not with shouts, but with a harmonious melody.\n\nWithout hesitation, the lead runner surged forward, [action_verb_ing] past the final markers. They reached out to touch the [arcane_object] placed on the pedestal of victory. In that instant, the boundaries between the ground and the sky seemed to blur.\n\nA profound sense of [abstract_emotion] washed over the crowd as the race concluded. The runner looked back at the trail, seeing it not as a road, but as a [nature_metaphor] of their own journey. Every stride had been a testament to the joy of movement.",
+    "blanks": [
+        {
+            "key": "adverb_1",
+            "hint": "adverb ending in -ly",
+            "suggestions": [
+                "ethereally",
+                "spontaneously",
+                "harmoniously",
+                "vibrantly",
+                "serenely"
+            ]
+        },
+        {
+            "key": "unusual_landscape",
+            "hint": "fanciful or descriptive place",
+            "suggestions": [
+                "crystalized meadow",
+                "floating archipelago",
+                "velvet canyon",
+                "emerald nebula",
+                "whispering grove"
+            ]
+        },
+        {
+            "key": "celestial_body",
+            "hint": "an object in space",
+            "suggestions": [
+                "pulsing pulsar",
+                "silver crescent",
+                "obsidian sun",
+                "shimmering comet",
+                "indigo moon"
+            ]
+        },
+        {
+            "key": "mythical_creature",
+            "hint": "creature from folklore",
+            "suggestions": [
+                "phoenix",
+                "star-gazelle",
+                "cloud-dragon",
+                "will-o'-the-wisp",
+                "clockwork griffin"
+            ]
+        },
+        {
+            "key": "sensory_verb",
+            "hint": "verb describing a sensation",
+            "suggestions": [
+                "shimmer",
+                "reverberate",
+                "glisten",
+                "thrum",
+                "oscillate"
+            ]
+        },
+        {
+            "key": "luminescent_color",
+            "hint": "vivid or glowing color",
+            "suggestions": [
+                "bioluminescent violet",
+                "iridescent gold",
+                "electric sapphire",
+                "neon peach",
+                "prismatic teal"
+            ]
+        },
+        {
+            "key": "action_verb_ing",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "gliding",
+                "teleporting",
+                "vaulting",
+                "spiraling",
+                "descending"
+            ]
+        },
+        {
+            "key": "arcane_object",
+            "hint": "a mysterious or magical item",
+            "suggestions": [
+                "crystal prism",
+                "everlasting flame",
+                "enchanted laurel",
+                "golden compass",
+                "celestial mirror"
+            ]
+        },
+        {
+            "key": "abstract_emotion",
+            "hint": "a complex feeling",
+            "suggestions": [
+                "transcendence",
+                "euphoria",
+                "serenity",
+                "exultation",
+                "whimsy"
+            ]
+        },
+        {
+            "key": "nature_metaphor",
+            "hint": "poetic natural feature",
+            "suggestions": [
+                "river of stars",
+                "blooming garden",
+                "cascading waterfall",
+                "dormant volcano",
+                "unfolding petal"
+            ]
+        }
+    ]
+}

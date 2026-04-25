@@ -1,0 +1,118 @@
+{
+    "id": "flowers_story_hard_029",
+    "title": "Flowers: The Aerial Dance of Petals",
+    "difficulty": "hard",
+    "template": "High atop the [adjective_1] hills, a cluster of rare [noun_plural_flower] bloomed under the silver moon. Their stems were as sturdy as ancient iron, anchoring them against the coming gale. A sudden whisper of air tickled their delicate edges.\n\nWithout warning, the [noun_weather_event] intensified, lifting a thousand vibrant flakes into the sky. They didn't just fall; they [verb_past_tense_motion] with a rhythm only the stars understood. Each piece of silk-like flora began its long trek southward.\n\nThey drifted over a [adjective_sensory] stream, casting shadows that looked like tiny boats. One particularly bright petal snagged on a [noun_object], twirling like a miniature ballerina. The surrounding air hummed with a quiet, natural energy.\n\nAs the sun began to [verb_present_action], the sky turned a deep shade of indigo. The petals glowed with a [adjective_visual] light, illuminating the path for wandering fireflies. It was a spectacle of nature that felt entirely surreal and wonderful.\n\nEventually, the wind sighed and lowered its [noun_part] to let the travelers rest. They settled softly upon the [noun_surface], forming a mosaic of forgotten dreams. The world was silent once more, waiting for the next breeze.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "descriptive adjective",
+            "suggestions": [
+                "crystalline",
+                "verdant",
+                "obsidian",
+                "ethereal",
+                "jagged"
+            ]
+        },
+        {
+            "key": "noun_plural_flower",
+            "hint": "type of flowers (plural)",
+            "suggestions": [
+                "foxgloves",
+                "asphodels",
+                "chrysanthemums",
+                "orchids",
+                "peonies"
+            ]
+        },
+        {
+            "key": "noun_weather_event",
+            "hint": "type of wind or weather",
+            "suggestions": [
+                "zephyr",
+                "maelstrom",
+                "draft",
+                "tempest",
+                "gust"
+            ]
+        },
+        {
+            "key": "verb_past_tense_motion",
+            "hint": "verb ending in -ed",
+            "suggestions": [
+                "pirouetted",
+                "meandered",
+                "careened",
+                "oscillated",
+                "vaulted"
+            ]
+        },
+        {
+            "key": "adjective_sensory",
+            "hint": "sensory adjective",
+            "suggestions": [
+                "phosphorescent",
+                "murmuring",
+                "biting",
+                "velvety",
+                "effervescent"
+            ]
+        },
+        {
+            "key": "noun_object",
+            "hint": "a physical object",
+            "suggestions": [
+                "cobweb",
+                "driftwood",
+                "sundial",
+                "monolith",
+                "thimble"
+            ]
+        },
+        {
+            "key": "verb_present_action",
+            "hint": "action verb (base form)",
+            "suggestions": [
+                "descend",
+                "recede",
+                "smolder",
+                "ignite",
+                "dissolve"
+            ]
+        },
+        {
+            "key": "adjective_visual",
+            "hint": "visual description",
+            "suggestions": [
+                "bioluminescent",
+                "prismatic",
+                "iridescent",
+                "nebulous",
+                "opalescent"
+            ]
+        },
+        {
+            "key": "noun_part",
+            "hint": "a part of something (metaphorical)",
+            "suggestions": [
+                "canopy",
+                "rafters",
+                "bellows",
+                "wings",
+                "fingers"
+            ]
+        },
+        {
+            "key": "noun_surface",
+            "hint": "a place to land",
+            "suggestions": [
+                "tapestry",
+                "quagmire",
+                "reflecting pool",
+                "terrace",
+                "meadow"
+            ]
+        }
+    ]
+}

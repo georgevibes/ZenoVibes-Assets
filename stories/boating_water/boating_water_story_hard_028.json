@@ -1,0 +1,118 @@
+{
+    "id": "boating_water_story_hard_028",
+    "title": "Boating water: The Mirror of the Deep",
+    "difficulty": "hard",
+    "template": "The wooden [vessel_type] glided across the glassy surface of the lake, leaving barely a ripple behind. Above, the sky glowed with a [color_adjective] hue that seemed to vibrate against the stillness. You could hear the distant call of a heron as it navigated the reeds.\n\nPeering over the side, the water transformed into a flawless mirror, capturing every detail of the world. The mountains in the distance looked like [complex_shape] cutouts pasted onto a silver backdrop. It was impossible to tell where the real horizon ended and the liquid [substance_noun] began.\n\nSuddenly, a [mystical_creature] seemed to drift past deep within the reflection, though the sky above remained empty. This underwater world shimmered with a [texture_adjective] light that felt almost tangible. The oars felt heavy as you paused to contemplate the surreal sight.\n\nYou reached out a hand, your fingers hovering just millimeters above the [temperature_adjective] surface. As your touch broke the tension, you tried to [sensory_verb] the strange energy radiating from the deep. A series of ripples spiraled outward, distorting the image below.\n\nThe distorted reflection began to [motion_verb] in a way that defied the laws of physics. As the ripples subsided, the lake returned to its state of [abstract_noun] once more. You realized that this moment was a beautiful memory trapped in time.",
+    "blanks": [
+        {
+            "key": "vessel_type",
+            "hint": "a specific type of small boat",
+            "suggestions": [
+                "Coracle",
+                "Skiff",
+                "Punt",
+                "Gondola",
+                "Catamaran"
+            ]
+        },
+        {
+            "key": "color_adjective",
+            "hint": "a rare or vivid color",
+            "suggestions": [
+                "Obsidian",
+                "Iridescent",
+                "Vermillion",
+                "Chartreuse",
+                "Ultramarine"
+            ]
+        },
+        {
+            "key": "complex_shape",
+            "hint": "an intricate or geometric shape",
+            "suggestions": [
+                "Fractal",
+                "Dodecahedron",
+                "Octagonal",
+                "Mandala",
+                "Polygonal"
+            ]
+        },
+        {
+            "key": "substance_noun",
+            "hint": "a liquid or ethereal material",
+            "suggestions": [
+                "Mercury",
+                "Amethyst",
+                "Ether",
+                "Nectar",
+                "Plasma"
+            ]
+        },
+        {
+            "key": "mystical_creature",
+            "hint": "a legendary or mythological being",
+            "suggestions": [
+                "Leviathan",
+                "Kelpie",
+                "Phoenix",
+                "Sylph",
+                "Nereid"
+            ]
+        },
+        {
+            "key": "texture_adjective",
+            "hint": "a word describing surface feel",
+            "suggestions": [
+                "Gossamer",
+                "Crystalline",
+                "Velveteen",
+                "Viscous",
+                "Ethereal"
+            ]
+        },
+        {
+            "key": "temperature_adjective",
+            "hint": "a specific sensation of heat or cold",
+            "suggestions": [
+                "Gelid",
+                "Tepid",
+                "Searing",
+                "Frost-bitten",
+                "Brisk"
+            ]
+        },
+        {
+            "key": "sensory_verb",
+            "hint": "an action involving the senses",
+            "suggestions": [
+                "Inhale",
+                "Capture",
+                "Absorb",
+                "Channel",
+                "Manifest"
+            ]
+        },
+        {
+            "key": "motion_verb",
+            "hint": "a rhythmic or chaotic movement",
+            "suggestions": [
+                "Undulate",
+                "Gyrate",
+                "Oscillate",
+                "Shimmer",
+                "Fluctuate"
+            ]
+        },
+        {
+            "key": "abstract_noun",
+            "hint": "a state of being or concept",
+            "suggestions": [
+                "Serenity",
+                "Tranquility",
+                "Infinity",
+                "Equilibrium",
+                "Luminescence"
+            ]
+        }
+    ]
+}

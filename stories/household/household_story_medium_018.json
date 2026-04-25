@@ -1,0 +1,85 @@
+{
+    "id": "household_story_medium_018",
+    "title": "Household: The Gallery of Moments",
+    "difficulty": "medium",
+    "template": "Walking down the long hallway, the air feels still and filled with memories. The [frame_style] frames hang perfectly aligned against the wallpaper. Each image tells a story of a time long passed.\n\nIn the center, a large portrait shows the family standing by a [centerpiece_object]. Everyone is wearing [fashion_style] outfits that were once very trendy. You can almost hear the laughter echoing from the glass.\n\nSometimes, if you [interaction_verb] closely, the figures in the pictures seem to move. A distant uncle might wave a [small_item] or wink at a passing pet. It creates a sense of warmth that fills the entire home.\n\nThe hallway is more than just a passage between [home_locations]. It is a living timeline of love and [feeling_type]. Every step taken here feels like a journey through history.",
+    "blanks": [
+        {
+            "key": "frame_style",
+            "hint": "adjective describing a look",
+            "suggestions": [
+                "ornate",
+                "shimmering",
+                "dusty",
+                "gilded",
+                "mahogany"
+            ]
+        },
+        {
+            "key": "centerpiece_object",
+            "hint": "a large noun",
+            "suggestions": [
+                "fountain",
+                "willow tree",
+                "vintage car",
+                "giant cake",
+                "spaceship"
+            ]
+        },
+        {
+            "key": "fashion_style",
+            "hint": "adjective for clothes",
+            "suggestions": [
+                "neon",
+                "velvet",
+                "oversized",
+                "polka-dot",
+                "holographic"
+            ]
+        },
+        {
+            "key": "interaction_verb",
+            "hint": "a verb for a sense",
+            "suggestions": [
+                "squint",
+                "listen",
+                "whisper",
+                "dance",
+                "breathe"
+            ]
+        },
+        {
+            "key": "small_item",
+            "hint": "a small handheld noun",
+            "suggestions": [
+                "handkerchief",
+                "magic wand",
+                "rubber duck",
+                "telescope",
+                "silver spoon"
+            ]
+        },
+        {
+            "key": "home_locations",
+            "hint": "plural noun (places)",
+            "suggestions": [
+                "bedrooms",
+                "dimensions",
+                "closets",
+                "shadows",
+                "secret gardens"
+            ]
+        },
+        {
+            "key": "feeling_type",
+            "hint": "an abstract noun",
+            "suggestions": [
+                "adventure",
+                "friendship",
+                "sunshine",
+                "mystery",
+                "harmony"
+            ]
+        }
+    ]
+}

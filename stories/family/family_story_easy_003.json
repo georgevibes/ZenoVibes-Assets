@@ -1,0 +1,63 @@
+{
+    "id": "family_story_easy_003",
+    "title": "Family: The Hearthside Legend",
+    "difficulty": "easy",
+    "template": "Every Sunday afternoon, Grandma settles into her velvet chair to tell the story of the [adjective_1] visitor. We gather around the fireplace, listening to the crackle of logs and her soft voice. She says that many years ago, a tiny creature arrived at our family's doorstep.\n\nThe visitor carried a magical [noun_1] that shimmered with a golden light. Instead of asking for food, it offered to help the family [verb_1] the entire garden. By sunset, the backyard was transformed into a glowing wonderland of colors. Everyone laughed together and celebrated this unexpected miracle.\n\nGrandma always ends the tale by pulling a [noun_2] out of her apron pocket. She tells us that as long as we stay [adjective_2], the magic of that night will never fade. We smile, knowing that our family history is full of wonderful secrets.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "adjective",
+            "suggestions": [
+                "glittering",
+                "polite",
+                "tiny",
+                "invisible",
+                "singing"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "an object",
+            "suggestions": [
+                "umbrella",
+                "marble",
+                "map",
+                "seed",
+                "bell"
+            ]
+        },
+        {
+            "key": "verb_1",
+            "hint": "action verb",
+            "suggestions": [
+                "rebuild",
+                "harvest",
+                "serenade",
+                "bless",
+                "enchant"
+            ]
+        },
+        {
+            "key": "noun_2",
+            "hint": "small object",
+            "suggestions": [
+                "button",
+                "stone",
+                "key",
+                "petal",
+                "coin"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "personality trait",
+            "suggestions": [
+                "curious",
+                "brave",
+                "honest",
+                "patient",
+                "thankful"
+            ]
+        }
+    ]
+}

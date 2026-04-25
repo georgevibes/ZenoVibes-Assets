@@ -1,0 +1,85 @@
+{
+    "id": "places_story_medium_016",
+    "title": "Places: The Melodic Sanctuary",
+    "difficulty": "medium",
+    "template": "Deep in the heart of the city lies a [mystical_adjective] garden where the statues do not just stand still. Visitors often gather around the marble figures to hear their [musical_adjective] melodies. The air smells of fresh rain and ancient, sun-warmed stone.\n\nOne particular sculpture, shaped like a [fanciful_creature], is known for its high-pitched operatic solos. Every time the sun hits its [sculpture_part], a chorus of bells seems to ring out from the granite. Children dance around its base, trying to catch the invisible notes floating in the air.\n\nLocal legends say that if you [peaceful_action] near the central fountain, the statues will harmonize with you. The water sparkles with a/an [shimmering_color] glow as the music swells into a crescendo. It is a moment of pure magic that makes every visitor forget their earthly worries.\n\nAs the moon rises, the park becomes [dreamy_adjective] and the songs turn into soft, rhythmic lullabies. The stone performers slowly settle back into their silent, nightly slumber. Tomorrow, the concert will begin all over again for anyone who stops to listen.",
+    "blanks": [
+        {
+            "key": "mystical_adjective",
+            "hint": "adjective describing something magical",
+            "suggestions": [
+                "Whimsical",
+                "Luminous",
+                "Secret",
+                "Enchanted",
+                "Serene"
+            ]
+        },
+        {
+            "key": "musical_adjective",
+            "hint": "adjective describing a sound",
+            "suggestions": [
+                "Haunting",
+                "Rhythmic",
+                "Glistening",
+                "Ethereal",
+                "Velvety"
+            ]
+        },
+        {
+            "key": "fanciful_creature",
+            "hint": "a noun representing a creature or object",
+            "suggestions": [
+                "Griffin",
+                "Gazelle",
+                "Cello",
+                "Astronaut",
+                "Sphinx"
+            ]
+        },
+        {
+            "key": "sculpture_part",
+            "hint": "a part of a statue",
+            "suggestions": [
+                "Plinth",
+                "Crown",
+                "Instrument",
+                "Wings",
+                "Shoulders"
+            ]
+        },
+        {
+            "key": "peaceful_action",
+            "hint": "a verb (present tense)",
+            "suggestions": [
+                "Hum",
+                "Whisper",
+                "Twirl",
+                "Meditate",
+                "Snap"
+            ]
+        },
+        {
+            "key": "shimmering_color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "Azure",
+                "Amber",
+                "Iridescent",
+                "Lavender",
+                "Silver"
+            ]
+        },
+        {
+            "key": "dreamy_adjective",
+            "hint": "adjective for a quiet atmosphere",
+            "suggestions": [
+                "Breathtaking",
+                "Tranquil",
+                "Electric",
+                "Dreamlike",
+                "Resonant"
+            ]
+        }
+    ]
+}

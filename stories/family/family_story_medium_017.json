@@ -1,0 +1,85 @@
+{
+    "id": "family_story_medium_017",
+    "title": "Family: The Ancestral Tapestry",
+    "difficulty": "medium",
+    "template": "Long ago, our great-great-grandfather was known for his ability to [action_verb] with the wind. He carried a [treasured_relic] that shimmered like the morning star whenever he hummed. The old stories say he once traveled across the whispering mountains just to catch a single dream.\n\nThen there was our legendary aunt, who could brew a pot of [mystical_drink] so sweet it made the local bluebirds sing in harmony. She kept her most precious secrets hidden inside a [small_vessel] made of ancient, fragrant cedar. Every summer, the family gathered to hear her tales of the golden valley and the friendly giants who lived there. We would sit by the crackling hearth and feel the warmth of history.\n\nMy favorite ancestor was the one who wore a [style_of_garment] embroidered with shimmering silver stars. They taught us that family is like a [symbolic_comparison] that grows stronger and more beautiful with every passing year. Even when the winter winds howl, our collective roots remain deep and firm in the earth.\n\nToday, we continue these lovely traditions by gathering under the [gathering_spot] to tell our own stories. We share loud laughter and remember the quiet wisdom passed down through the ages. Our family history is a living, breathing song that never truly ends.",
+    "blanks": [
+        {
+            "key": "action_verb",
+            "hint": "a verb (action)",
+            "suggestions": [
+                "whisper",
+                "dance",
+                "converse",
+                "navigate",
+                "paint"
+            ]
+        },
+        {
+            "key": "treasured_relic",
+            "hint": "a small object",
+            "suggestions": [
+                "lute",
+                "compass",
+                "feather",
+                "lantern",
+                "telescope"
+            ]
+        },
+        {
+            "key": "mystical_drink",
+            "hint": "a type of liquid or tea",
+            "suggestions": [
+                "starlight nectar",
+                "clover tea",
+                "honeyed dew",
+                "moonlight cider",
+                "lavender lemonade"
+            ]
+        },
+        {
+            "key": "small_vessel",
+            "hint": "a container",
+            "suggestions": [
+                "locket",
+                "trunk",
+                "thimble",
+                "music box",
+                "satchel"
+            ]
+        },
+        {
+            "key": "style_of_garment",
+            "hint": "an item of clothing",
+            "suggestions": [
+                "cloak",
+                "turban",
+                "waistcoat",
+                "poncho",
+                "scarf"
+            ]
+        },
+        {
+            "key": "symbolic_comparison",
+            "hint": "a metaphor (noun phrase)",
+            "suggestions": [
+                "mighty oak",
+                "braided river",
+                "woven quilt",
+                "unending constellation",
+                "hidden garden"
+            ]
+        },
+        {
+            "key": "gathering_spot",
+            "hint": "a specific place",
+            "suggestions": [
+                "silver willow",
+                "creaking porch",
+                "echoing canyon",
+                "blooming orchard",
+                "velvet hillside"
+            ]
+        }
+    ]
+}

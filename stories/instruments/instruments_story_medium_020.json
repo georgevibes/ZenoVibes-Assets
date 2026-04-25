@@ -1,0 +1,85 @@
+{
+    "id": "instruments_story_medium_020",
+    "title": "Instruments: The Song of the High Tower",
+    "difficulty": "medium",
+    "template": "High atop the mountain, the silver tower stood against a [adjective_sky] sky. As the sun began to rise, the first [type_of_metal] bell trembled in the morning breeze. The townspeople below waited in silence for the celestial sound.\n\nSuddenly, the giant hammer struck the rim, releasing a [sound_description] note that drifted over the valley. It wasn't just a ring, but a rhythmic [rhythmic_action] that seemed to wake the very trees. Every leaf shimmered as the resonance washed over the landscape.\n\nBirds took flight, circling the spire in a [movement_style] pattern. The melody felt like a warm hug, reminding everyone of the [positive_concept] they shared. Music has a way of turning a simple morning into a legendary celebration.\n\nAs the final echo faded, the air remained charged with a [vibration_quality] energy. The metal cooled, resting until the next grand occasion. Peace returned, though the rhythm lived on in every heart.",
+    "blanks": [
+        {
+            "key": "adjective_sky",
+            "hint": "adjective describing the sky",
+            "suggestions": [
+                "iridescent",
+                "cobalt",
+                "hazeless",
+                "velvet",
+                "amber"
+            ]
+        },
+        {
+            "key": "type_of_metal",
+            "hint": "a type of metal or material",
+            "suggestions": [
+                "bronze",
+                "platinum",
+                "stardust-infused",
+                "copper",
+                "ancient brass"
+            ]
+        },
+        {
+            "key": "sound_description",
+            "hint": "adjective describing a sound",
+            "suggestions": [
+                "luminous",
+                "crystalline",
+                "thundering",
+                "ethereal",
+                "honeyed"
+            ]
+        },
+        {
+            "key": "rhythmic_action",
+            "hint": "verb ending in -ing",
+            "suggestions": [
+                "pulsating",
+                "cascading",
+                "shimmering",
+                "galloping",
+                "twirling"
+            ]
+        },
+        {
+            "key": "movement_style",
+            "hint": "adjective describing movement",
+            "suggestions": [
+                "kaleidoscopic",
+                "spiral",
+                "erratic",
+                "graceful",
+                "swirling"
+            ]
+        },
+        {
+            "key": "positive_concept",
+            "hint": "an abstract noun",
+            "suggestions": [
+                "serenity",
+                "harmony",
+                "fellowship",
+                "wonder",
+                "gratitude"
+            ]
+        },
+        {
+            "key": "vibration_quality",
+            "hint": "adjective describing energy or feeling",
+            "suggestions": [
+                "sparkling",
+                "tranquil",
+                "electric",
+                "mellow",
+                "radiant"
+            ]
+        }
+    ]
+}

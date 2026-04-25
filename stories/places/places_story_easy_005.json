@@ -1,0 +1,63 @@
+{
+    "id": "places_story_easy_005",
+    "title": "Places: The Sky Kingdom",
+    "difficulty": "easy",
+    "template": "High above the mountains sits a village made of fluffy [texture]. The residents spend their mornings jumping from one house to another. It is a very [adjective] place to live.\n\nIn the center of town, a fountain sprays sparkling [liquid] into the sky. Children play games with hoops made of [color] light. Everyone feels light as a feather here.\n\nAs the sun sets, the entire village begins to [verb] softly. This peaceful home in the sky is truly a dream come true. You can see the stars better from up here than anywhere else.",
+    "blanks": [
+        {
+            "key": "texture",
+            "hint": "a soft material",
+            "suggestions": [
+                "marshmallows",
+                "cotton candy",
+                "silk",
+                "velvet",
+                "sea foam"
+            ]
+        },
+        {
+            "key": "adjective",
+            "hint": "a descriptive word",
+            "suggestions": [
+                "peaceful",
+                "magical",
+                "joyful",
+                "cozy",
+                "wonderful"
+            ]
+        },
+        {
+            "key": "liquid",
+            "hint": "a type of liquid",
+            "suggestions": [
+                "nectar",
+                "lemonade",
+                "starlight",
+                "syrup",
+                "dew"
+            ]
+        },
+        {
+            "key": "color",
+            "hint": "a bright color",
+            "suggestions": [
+                "golden",
+                "indigo",
+                "violet",
+                "emerald",
+                "crimson"
+            ]
+        },
+        {
+            "key": "verb",
+            "hint": "an action word",
+            "suggestions": [
+                "glow",
+                "shimmer",
+                "float",
+                "hum",
+                "vibrate"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "boating_water_story_easy_004",
+    "title": "Boating water: The Secret Lagoon",
+    "difficulty": "easy",
+    "template": "We steered our small boat through a narrow opening in the limestone cliffs. The water inside the hidden cove was a shimmering shade of [color]. Sunlight danced across the gentle waves as we slowly dropped our anchor.\n\nA curious [animal] swam right up to the side of our vessel to say hello. We decided to jump into the water to explore the nearby shore together. The sand on the beach felt like soft [material] beneath our toes.\n\nIn the center of the cove, we found a mysterious [object] half-buried in the rocks. It glowed with a soft light as the orange sun began to set. We left the secret paradise feeling very [emotion] about our afternoon adventure.",
+    "blanks": [
+        {
+            "key": "color",
+            "hint": "a vibrant color",
+            "suggestions": [
+                "emerald",
+                "turquoise",
+                "sapphire",
+                "indigo",
+                "violet"
+            ]
+        },
+        {
+            "key": "animal",
+            "hint": "a sea creature",
+            "suggestions": [
+                "dolphin",
+                "sea turtle",
+                "otter",
+                "mermaid",
+                "pelican"
+            ]
+        },
+        {
+            "key": "material",
+            "hint": "a soft texture or substance",
+            "suggestions": [
+                "velvet",
+                "sugar",
+                "silk",
+                "marshmallows",
+                "clouds"
+            ]
+        },
+        {
+            "key": "object",
+            "hint": "an interesting item",
+            "suggestions": [
+                "crystal",
+                "treasure chest",
+                "seashell",
+                "statue",
+                "lantern"
+            ]
+        },
+        {
+            "key": "emotion",
+            "hint": "a positive feeling",
+            "suggestions": [
+                "joyful",
+                "peaceful",
+                "inspired",
+                "excited",
+                "sleepy"
+            ]
+        }
+    ]
+}

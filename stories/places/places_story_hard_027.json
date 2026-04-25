@@ -1,0 +1,118 @@
+{
+    "id": "places_story_hard_027",
+    "title": "Places: The Sleeping Harbor",
+    "difficulty": "hard",
+    "template": "The moon casts a [adjective_luminous] glow over the obsidian water, where a dozen vessels sit perfectly still. These boats are not mere wood and iron, but [noun_vessels] of ancient dreams waiting for the tide to turn. High above, the stars shimmer in a rhythmic pattern that only the sailors understand.\n\nAmong the fleet, one particularly [adjective_physical] sailboat bobbed rhythmically against the weathered wooden dock. Its mast looked like a giant [noun_object] pointing toward the constellations. The air here smells of salt, aged cedar, and the coming rain.\n\nDeep beneath the hulls, secret [plural_noun_creatures] drift through the kelp forests in complete silence. They watch the shadows of the keels, which appear like [adjective_visual] shapes in the murky depths. Every splash of a distant fish creates ripples across the mirror-like surface.\n\nA lone lantern hangs from the pier, casting a [adjective_light] warmth onto the barnacle-crusted pillars. The sound of the ropes creaking sounds like a [noun_sound] shared between old friends. In this sanctuary, time feels suspended and the world feels small.\n\nAs the mist begins to [verb_transition] across the bay, the harbor prepares for the coming dawn. Soon the sun will break the horizon, but for now, the quiet remains [adjective_state]. Travelers come here not to move, but to find the peace that only a still ocean can provide.",
+    "blanks": [
+        {
+            "key": "adjective_luminous",
+            "hint": "descriptive adjective for light",
+            "suggestions": [
+                "iridescent",
+                "spectral",
+                "pearlescent",
+                "ethereal",
+                "phosphorescent"
+            ]
+        },
+        {
+            "key": "noun_vessels",
+            "hint": "plural noun for containers/places",
+            "suggestions": [
+                "reliquaries",
+                "sanctuaries",
+                "labyrinths",
+                "cradles",
+                "fortresses"
+            ]
+        },
+        {
+            "key": "adjective_physical",
+            "hint": "adjective describing appearance",
+            "suggestions": [
+                "barnacled",
+                "weather-beaten",
+                "skeletal",
+                "majestic",
+                "rickety"
+            ]
+        },
+        {
+            "key": "noun_object",
+            "hint": "singular noun (object)",
+            "suggestions": [
+                "lightning-rod",
+                "spindle",
+                "metronome",
+                "telescope",
+                "obelisk"
+            ]
+        },
+        {
+            "key": "plural_noun_creatures",
+            "hint": "plural living things",
+            "suggestions": [
+                "leviathans",
+                "sylphs",
+                "nautiluses",
+                "kelpie-spirits",
+                "manatees"
+            ]
+        },
+        {
+            "key": "adjective_visual",
+            "hint": "visual style adjective",
+            "suggestions": [
+                "holographic",
+                "fractured",
+                "distorted",
+                "gelatinous",
+                "monochromatic"
+            ]
+        },
+        {
+            "key": "adjective_light",
+            "hint": "adjective for color or glow",
+            "suggestions": [
+                "amber",
+                "flickering",
+                "honeyed",
+                "ghostly",
+                "radiant"
+            ]
+        },
+        {
+            "key": "noun_sound",
+            "hint": "a type of sound or musical term",
+            "suggestions": [
+                "confession",
+                "lullaby",
+                "sonata",
+                "whisper",
+                "vibration"
+            ]
+        },
+        {
+            "key": "verb_transition",
+            "hint": "verb (action of moving or changing)",
+            "suggestions": [
+                "pirouette",
+                "dissolve",
+                "cascade",
+                "oscillate",
+                "manifest"
+            ]
+        },
+        {
+            "key": "adjective_state",
+            "hint": "adjective describing a state of being",
+            "suggestions": [
+                "crystalline",
+                "eternal",
+                "fragile",
+                "sacred",
+                "unbreakable"
+            ]
+        }
+    ]
+}

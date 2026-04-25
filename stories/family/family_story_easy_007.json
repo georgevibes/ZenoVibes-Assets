@@ -1,0 +1,63 @@
+{
+    "id": "family_story_easy_007",
+    "title": "Family: The Tradition of Connection",
+    "difficulty": "easy",
+    "template": "Every Sunday, the whole family gathers in the [adjective_1] living room. We clear the furniture to make space for our ancient tradition. Before anyone can eat, we must perform the legendary secret handshake.\n\nIt starts with a soft clap and a [movement_1]. Then, we spin around three times while thinking of a [noun_1]. This sequence has been passed down for many generations through the family tree.\n\nFinally, we touch pinky fingers and shout a [adjective_2] word together. The room fills with [emotion_1] as the bond is sealed once again. Now, we are finally ready to share our meal and stories under the warm lights.",
+    "blanks": [
+        {
+            "key": "adjective_1",
+            "hint": "describing a room",
+            "suggestions": [
+                "sun-drenched",
+                "velvet",
+                "fragrant",
+                "twinkling",
+                "cozy"
+            ]
+        },
+        {
+            "key": "movement_1",
+            "hint": "a funny action",
+            "suggestions": [
+                "shimmy",
+                "high-five",
+                "moonwalk",
+                "wobble",
+                "gentle bow"
+            ]
+        },
+        {
+            "key": "noun_1",
+            "hint": "something wonderful",
+            "suggestions": [
+                "hummingbird",
+                "starflower",
+                "marshmallow",
+                "rainbow",
+                "crystal"
+            ]
+        },
+        {
+            "key": "adjective_2",
+            "hint": "describing a sound",
+            "suggestions": [
+                "majestic",
+                "sparkly",
+                "thunderous",
+                "joyful",
+                "shimmering"
+            ]
+        },
+        {
+            "key": "emotion_1",
+            "hint": "a feeling or energy",
+            "suggestions": [
+                "giggles",
+                "magic",
+                "warmth",
+                "starlight",
+                "harmony"
+            ]
+        }
+    ]
+}
