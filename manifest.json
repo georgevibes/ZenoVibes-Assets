@@ -5060,15 +5060,6 @@
       "title": "Places Puzzles"
     },
     {
-      "id": "dot_to_dot_shapes",
-      "type": "dot_to_dot",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Shapes.bin",
-      "fileName": "Shapes.bin",
-      "theme": "shapes",
-      "difficulty": "Multi",
-      "title": "Shapes Puzzles"
-    },
-    {
       "id": "dot_to_dot_zen",
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen.bin",
