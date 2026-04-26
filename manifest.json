@@ -1,12 +1,12 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "assets": [
     {
       "id": "coloring_cc2c66de",
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Animals.bin",
       "fileName": "Animals.bin",
-      "theme": "General",
+      "theme": "Animals",
       "difficulty": "Multi",
       "title": "Animals"
     },
@@ -15,7 +15,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Boating-Water.bin",
       "fileName": "Boating-Water.bin",
-      "theme": "General",
+      "theme": "Boating",
       "difficulty": "Multi",
       "title": "Boating Water"
     },
@@ -24,7 +24,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Family.bin",
       "fileName": "Family.bin",
-      "theme": "General",
+      "theme": "Family",
       "difficulty": "Multi",
       "title": "Family"
     },
@@ -33,7 +33,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Flowers.bin",
       "fileName": "Flowers.bin",
-      "theme": "General",
+      "theme": "Flowers",
       "difficulty": "Multi",
       "title": "Flowers"
     },
@@ -42,7 +42,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Food.bin",
       "fileName": "Food.bin",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Multi",
       "title": "Food"
     },
@@ -51,7 +51,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Hobbies.bin",
       "fileName": "Hobbies.bin",
-      "theme": "General",
+      "theme": "Hobbies",
       "difficulty": "Multi",
       "title": "Hobbies"
     },
@@ -60,7 +60,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Household.bin",
       "fileName": "Household.bin",
-      "theme": "General",
+      "theme": "Household",
       "difficulty": "Multi",
       "title": "Household"
     },
@@ -69,7 +69,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Instruments.bin",
       "fileName": "Instruments.bin",
-      "theme": "General",
+      "theme": "Instruments",
       "difficulty": "Multi",
       "title": "Instruments"
     },
@@ -78,7 +78,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Nature.bin",
       "fileName": "Nature.bin",
-      "theme": "General",
+      "theme": "Nature",
       "difficulty": "Multi",
       "title": "Nature"
     },
@@ -87,7 +87,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Places.bin",
       "fileName": "Places.bin",
-      "theme": "General",
+      "theme": "Places",
       "difficulty": "Multi",
       "title": "Places"
     },
@@ -96,7 +96,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Shapes.bin",
       "fileName": "Shapes.bin",
-      "theme": "General",
+      "theme": "Zen",
       "difficulty": "Multi",
       "title": "Shapes"
     },
@@ -105,7 +105,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_afternoon_tea.webp",
       "fileName": "food_afternoon_tea.webp",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Moderate",
       "title": "Food Afternoon Tea"
     },
@@ -114,7 +114,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_breakfast_(with_dog).webp",
       "fileName": "food_breakfast_(with_dog).webp",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Moderate",
       "title": "Food Breakfast (With Dog)"
     },
@@ -123,7 +123,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_cake.webp",
       "fileName": "food_cake.webp",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Moderate",
       "title": "Food Cake"
     },
@@ -132,7 +132,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_chef's_herb_garden.webp",
       "fileName": "food_chef's_herb_garden.webp",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Moderate",
       "title": "Food Chef'S Herb Garden"
     },
@@ -141,7 +141,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_decorative_cake.webp",
       "fileName": "food_decorative_cake.webp",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Moderate",
       "title": "Food Decorative Cake"
     },
@@ -150,7 +150,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_fruit_bowl.webp",
       "fileName": "food_fruit_bowl.webp",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Moderate",
       "title": "Food Fruit Bowl"
     },
@@ -159,7 +159,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_honey_&_toast.webp",
       "fileName": "food_honey_&_toast.webp",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Moderate",
       "title": "Food Honey & Toast"
     },
@@ -168,7 +168,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_ice_cream_parlor.webp",
       "fileName": "food_ice_cream_parlor.webp",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Moderate",
       "title": "Food Ice Cream Parlor"
     },
@@ -177,7 +177,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_sushi_platter.webp",
       "fileName": "food_sushi_platter.webp",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Moderate",
       "title": "Food Sushi Platter"
     },
@@ -186,7 +186,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_tea_time.webp",
       "fileName": "food_tea_time.webp",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Moderate",
       "title": "Food Tea Time"
     },
@@ -195,7 +195,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_vegetable_market.webp",
       "fileName": "food_vegetable_market.webp",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Moderate",
       "title": "Food Vegetable Market"
     },
@@ -204,7 +204,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_vineyard_grapes.webp",
       "fileName": "food_vineyard_grapes.webp",
-      "theme": "General",
+      "theme": "Food",
       "difficulty": "Moderate",
       "title": "Food Vineyard Grapes"
     },
@@ -213,7 +213,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/boating.bin",
       "fileName": "boating.bin",
-      "theme": "General",
+      "theme": "Boating",
       "difficulty": "Multi",
       "title": "Boating"
     },
@@ -222,7 +222,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family.bin",
       "fileName": "Family.bin",
-      "theme": "General",
+      "theme": "Family",
       "difficulty": "Multi",
       "title": "Family"
     },
@@ -231,7 +231,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers.bin",
       "fileName": "Flowers.bin",
-      "theme": "General",
+      "theme": "Flowers",
       "difficulty": "Multi",
       "title": "Flowers"
     },
@@ -240,7 +240,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies.bin",
       "fileName": "Hobbies.bin",
-      "theme": "General",
+      "theme": "Hobbies",
       "difficulty": "Multi",
       "title": "Hobbies"
     },
@@ -249,7 +249,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household.bin",
       "fileName": "Household.bin",
-      "theme": "General",
+      "theme": "Household",
       "difficulty": "Multi",
       "title": "Household"
     },
@@ -258,7 +258,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments.bin",
       "fileName": "Instruments.bin",
-      "theme": "General",
+      "theme": "Instruments",
       "difficulty": "Multi",
       "title": "Instruments"
     },
@@ -267,7 +267,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature.bin",
       "fileName": "Nature.bin",
-      "theme": "General",
+      "theme": "Nature",
       "difficulty": "Multi",
       "title": "Nature"
     },
@@ -276,7 +276,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places.bin",
       "fileName": "Places.bin",
-      "theme": "General",
+      "theme": "Places",
       "difficulty": "Multi",
       "title": "Places"
     },
@@ -285,7 +285,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen.bin",
       "fileName": "Zen.bin",
-      "theme": "General",
+      "theme": "Zen",
       "difficulty": "Multi",
       "title": "Zen"
     },
