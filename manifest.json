@@ -4781,15 +4781,6 @@
       "title": "Places: Whimsical magic lighthouse"
     },
     {
-      "id": "jigsaw_shapes_shapes_golden_spiral",
-      "type": "jigsaw",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/shapes/shapes_golden_spiral.webp",
-      "fileName": "shapes_golden_spiral.webp",
-      "theme": "shapes",
-      "difficulty": "Multi",
-      "title": "Shapes: Shapes golden spiral"
-    },
-    {
       "id": "jigsaw_zen_shapes_abstract_ocean",
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/zen/shapes_abstract_ocean.webp",
