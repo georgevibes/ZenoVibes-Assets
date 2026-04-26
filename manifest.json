@@ -13041,6 +13041,87 @@
           }
         ]
       }
+    },
+    {
+      "id": "theme_bg_boating",
+      "type": "theme_bg",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/theme_bg/boating.webp",
+      "fileName": "theme_bg_boating.webp",
+      "theme": "boating",
+      "difficulty": "Multi",
+      "title": "Boating Background"
+    },
+    {
+      "id": "theme_bg_family",
+      "type": "theme_bg",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/theme_bg/family.webp",
+      "fileName": "theme_bg_family.webp",
+      "theme": "family",
+      "difficulty": "Multi",
+      "title": "Family Background"
+    },
+    {
+      "id": "theme_bg_flowers",
+      "type": "theme_bg",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/theme_bg/flowers.webp",
+      "fileName": "theme_bg_flowers.webp",
+      "theme": "flowers",
+      "difficulty": "Multi",
+      "title": "Flowers Background"
+    },
+    {
+      "id": "theme_bg_hobbies",
+      "type": "theme_bg",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/theme_bg/hobbies.webp",
+      "fileName": "theme_bg_hobbies.webp",
+      "theme": "hobbies",
+      "difficulty": "Multi",
+      "title": "Hobbies Background"
+    },
+    {
+      "id": "theme_bg_household",
+      "type": "theme_bg",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/theme_bg/household.webp",
+      "fileName": "theme_bg_household.webp",
+      "theme": "household",
+      "difficulty": "Multi",
+      "title": "Household Background"
+    },
+    {
+      "id": "theme_bg_instruments",
+      "type": "theme_bg",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/theme_bg/instruments.webp",
+      "fileName": "theme_bg_instruments.webp",
+      "theme": "instruments",
+      "difficulty": "Multi",
+      "title": "Instruments Background"
+    },
+    {
+      "id": "theme_bg_nature",
+      "type": "theme_bg",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/theme_bg/nature.webp",
+      "fileName": "theme_bg_nature.webp",
+      "theme": "nature",
+      "difficulty": "Multi",
+      "title": "Nature Background"
+    },
+    {
+      "id": "theme_bg_places",
+      "type": "theme_bg",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/theme_bg/places.webp",
+      "fileName": "theme_bg_places.webp",
+      "theme": "places",
+      "difficulty": "Multi",
+      "title": "Places Background"
+    },
+    {
+      "id": "theme_bg_zen",
+      "type": "theme_bg",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/theme_bg/zen.webp",
+      "fileName": "theme_bg_zen.webp",
+      "theme": "zen",
+      "difficulty": "Multi",
+      "title": "Zen Background"
     }
   ]
 }
