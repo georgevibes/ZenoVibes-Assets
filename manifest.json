@@ -1,12 +1,12 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "assets": [
     {
       "id": "coloring_cc2c66de",
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Animals.bin",
       "fileName": "Animals.bin",
-      "theme": "Animals",
+      "theme": "animals",
       "difficulty": "Multi",
       "title": "Animals"
     },
@@ -15,7 +15,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Boating-Water.bin",
       "fileName": "Boating-Water.bin",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Multi",
       "title": "Boating Water"
     },
@@ -24,7 +24,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Family.bin",
       "fileName": "Family.bin",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Multi",
       "title": "Family"
     },
@@ -33,7 +33,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Flowers.bin",
       "fileName": "Flowers.bin",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Multi",
       "title": "Flowers"
     },
@@ -42,7 +42,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Food.bin",
       "fileName": "Food.bin",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Multi",
       "title": "Food"
     },
@@ -51,7 +51,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Hobbies.bin",
       "fileName": "Hobbies.bin",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Multi",
       "title": "Hobbies"
     },
@@ -60,7 +60,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Household.bin",
       "fileName": "Household.bin",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Multi",
       "title": "Household"
     },
@@ -69,7 +69,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Instruments.bin",
       "fileName": "Instruments.bin",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Multi",
       "title": "Instruments"
     },
@@ -78,7 +78,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Nature.bin",
       "fileName": "Nature.bin",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Multi",
       "title": "Nature"
     },
@@ -87,7 +87,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Places.bin",
       "fileName": "Places.bin",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Multi",
       "title": "Places"
     },
@@ -96,7 +96,7 @@
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Shapes.bin",
       "fileName": "Shapes.bin",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Multi",
       "title": "Shapes"
     },
@@ -105,7 +105,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_afternoon_tea.webp",
       "fileName": "food_afternoon_tea.webp",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Moderate",
       "title": "Food Afternoon Tea"
     },
@@ -114,7 +114,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_breakfast_(with_dog).webp",
       "fileName": "food_breakfast_(with_dog).webp",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Moderate",
       "title": "Food Breakfast (With Dog)"
     },
@@ -123,7 +123,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_cake.webp",
       "fileName": "food_cake.webp",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Moderate",
       "title": "Food Cake"
     },
@@ -132,7 +132,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_chef's_herb_garden.webp",
       "fileName": "food_chef's_herb_garden.webp",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Moderate",
       "title": "Food Chef'S Herb Garden"
     },
@@ -141,7 +141,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_decorative_cake.webp",
       "fileName": "food_decorative_cake.webp",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Moderate",
       "title": "Food Decorative Cake"
     },
@@ -150,7 +150,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_fruit_bowl.webp",
       "fileName": "food_fruit_bowl.webp",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Moderate",
       "title": "Food Fruit Bowl"
     },
@@ -159,7 +159,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_honey_&_toast.webp",
       "fileName": "food_honey_&_toast.webp",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Moderate",
       "title": "Food Honey & Toast"
     },
@@ -168,7 +168,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_ice_cream_parlor.webp",
       "fileName": "food_ice_cream_parlor.webp",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Moderate",
       "title": "Food Ice Cream Parlor"
     },
@@ -177,7 +177,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_sushi_platter.webp",
       "fileName": "food_sushi_platter.webp",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Moderate",
       "title": "Food Sushi Platter"
     },
@@ -186,7 +186,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_tea_time.webp",
       "fileName": "food_tea_time.webp",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Moderate",
       "title": "Food Tea Time"
     },
@@ -195,7 +195,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_vegetable_market.webp",
       "fileName": "food_vegetable_market.webp",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Moderate",
       "title": "Food Vegetable Market"
     },
@@ -204,7 +204,7 @@
       "type": "jigsaw",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/food_vineyard_grapes.webp",
       "fileName": "food_vineyard_grapes.webp",
-      "theme": "Food",
+      "theme": "food",
       "difficulty": "Moderate",
       "title": "Food Vineyard Grapes"
     },
@@ -213,7 +213,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/boating.bin",
       "fileName": "boating.bin",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Multi",
       "title": "Boating"
     },
@@ -222,7 +222,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family.bin",
       "fileName": "Family.bin",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Multi",
       "title": "Family"
     },
@@ -231,7 +231,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers.bin",
       "fileName": "Flowers.bin",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Multi",
       "title": "Flowers"
     },
@@ -240,7 +240,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies.bin",
       "fileName": "Hobbies.bin",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Multi",
       "title": "Hobbies"
     },
@@ -249,7 +249,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household.bin",
       "fileName": "Household.bin",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Multi",
       "title": "Household"
     },
@@ -258,7 +258,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments.bin",
       "fileName": "Instruments.bin",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Multi",
       "title": "Instruments"
     },
@@ -267,7 +267,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature.bin",
       "fileName": "Nature.bin",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Multi",
       "title": "Nature"
     },
@@ -276,7 +276,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places.bin",
       "fileName": "Places.bin",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Multi",
       "title": "Places"
     },
@@ -285,7 +285,7 @@
       "type": "dot_to_dot",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen.bin",
       "fileName": "Zen.bin",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Multi",
       "title": "Zen"
     },
@@ -294,7 +294,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Anchor.webp",
       "fileName": "Boating/Anchor.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Anchor"
     },
@@ -303,7 +303,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Canoe.webp",
       "fileName": "Boating/Canoe.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Canoe"
     },
@@ -312,7 +312,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Fishing_Boat.webp",
       "fileName": "Boating/Fishing_Boat.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Fishing Boat"
     },
@@ -321,7 +321,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Fishing_Dock.webp",
       "fileName": "Boating/Fishing_Dock.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Fishing Dock"
     },
@@ -330,7 +330,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Fishing_Pole.webp",
       "fileName": "Boating/Fishing_Pole.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Fishing Pole"
     },
@@ -339,7 +339,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Gondola.webp",
       "fileName": "Boating/Gondola.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Gondola"
     },
@@ -348,7 +348,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Jet_Ski.webp",
       "fileName": "Boating/Jet_Ski.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Jet Ski"
     },
@@ -357,7 +357,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Kayaker.webp",
       "fileName": "Boating/Kayaker.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Kayaker"
     },
@@ -366,7 +366,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Lifebuoy.webp",
       "fileName": "Boating/Lifebuoy.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Lifebuoy"
     },
@@ -375,7 +375,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Lighthouse.webp",
       "fileName": "Boating/Lighthouse.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Lighthouse"
     },
@@ -384,7 +384,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Red_Rowboat.webp",
       "fileName": "Boating/Red_Rowboat.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Red Rowboat"
     },
@@ -393,7 +393,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Rowboat.webp",
       "fileName": "Boating/Rowboat.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Rowboat"
     },
@@ -402,7 +402,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Sailboat.webp",
       "fileName": "Boating/Sailboat.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Sailboat"
     },
@@ -411,7 +411,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Sailing_Ship.webp",
       "fileName": "Boating/Sailing_Ship.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Sailing Ship"
     },
@@ -420,7 +420,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Speedboat.webp",
       "fileName": "Boating/Speedboat.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Speedboat"
     },
@@ -429,7 +429,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Boating/Yacht.webp",
       "fileName": "Boating/Yacht.webp",
-      "theme": "Boating",
+      "theme": "boating",
       "difficulty": "Moderate",
       "title": "Boating: Yacht"
     },
@@ -438,7 +438,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Baby_and_Teddy.webp",
       "fileName": "Family/Baby_and_Teddy.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Baby And Teddy"
     },
@@ -447,7 +447,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Baby_Shoes.webp",
       "fileName": "Family/Baby_Shoes.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Baby Shoes"
     },
@@ -456,7 +456,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Baby_Stroller.webp",
       "fileName": "Family/Baby_Stroller.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Baby Stroller"
     },
@@ -465,7 +465,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Baking_Bowl.webp",
       "fileName": "Family/Baking_Bowl.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Baking Bowl"
     },
@@ -474,7 +474,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Birthday_Cake.webp",
       "fileName": "Family/Birthday_Cake.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Birthday Cake"
     },
@@ -483,7 +483,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Dollhouse.webp",
       "fileName": "Family/Dollhouse.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Dollhouse"
     },
@@ -492,7 +492,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Gardening_Tools.webp",
       "fileName": "Family/Gardening_Tools.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Gardening Tools"
     },
@@ -501,7 +501,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Garden_Basket.webp",
       "fileName": "Family/Garden_Basket.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Garden Basket"
     },
@@ -510,7 +510,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Garden_Hat.webp",
       "fileName": "Family/Garden_Hat.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Garden Hat"
     },
@@ -519,7 +519,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Grandma_with_Tea.webp",
       "fileName": "Family/Grandma_with_Tea.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Grandma With Tea"
     },
@@ -528,7 +528,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Grandparent_and_Child.webp",
       "fileName": "Family/Grandparent_and_Child.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Grandparent And Child"
     },
@@ -537,7 +537,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Kite.webp",
       "fileName": "Family/Kite.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Kite"
     },
@@ -546,7 +546,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Picnic_Basket.webp",
       "fileName": "Family/Picnic_Basket.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Picnic Basket"
     },
@@ -555,7 +555,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Rocking_Horse.webp",
       "fileName": "Family/Rocking_Horse.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Rocking Horse"
     },
@@ -564,7 +564,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Sewing_Machine.webp",
       "fileName": "Family/Sewing_Machine.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Sewing Machine"
     },
@@ -573,7 +573,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Teacup.webp",
       "fileName": "Family/Teacup.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Teacup"
     },
@@ -582,7 +582,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Teddy_Bear.webp",
       "fileName": "Family/Teddy_Bear.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Teddy Bear"
     },
@@ -591,7 +591,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Family/Treehouse.webp",
       "fileName": "Family/Treehouse.webp",
-      "theme": "Family",
+      "theme": "family",
       "difficulty": "Moderate",
       "title": "Family: Treehouse"
     },
@@ -600,7 +600,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Cherry_Blossom.webp",
       "fileName": "Flowers/Cherry_Blossom.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Cherry Blossom"
     },
@@ -609,7 +609,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Daisy.webp",
       "fileName": "Flowers/Daisy.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Daisy"
     },
@@ -618,7 +618,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Flower_Vase.webp",
       "fileName": "Flowers/Flower_Vase.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Flower Vase"
     },
@@ -627,7 +627,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Hibiscus.webp",
       "fileName": "Flowers/Hibiscus.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Hibiscus"
     },
@@ -636,7 +636,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Iris.webp",
       "fileName": "Flowers/Iris.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Iris"
     },
@@ -645,7 +645,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Lavender.webp",
       "fileName": "Flowers/Lavender.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Lavender"
     },
@@ -654,7 +654,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Magnolia.webp",
       "fileName": "Flowers/Magnolia.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Magnolia"
     },
@@ -663,7 +663,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Orchid.webp",
       "fileName": "Flowers/Orchid.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Orchid"
     },
@@ -672,7 +672,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Poppy.webp",
       "fileName": "Flowers/Poppy.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Poppy"
     },
@@ -681,7 +681,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Red_Rose.webp",
       "fileName": "Flowers/Red_Rose.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Red Rose"
     },
@@ -690,7 +690,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Sunflower.webp",
       "fileName": "Flowers/Sunflower.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Sunflower"
     },
@@ -699,7 +699,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Sunflower_Bundle.webp",
       "fileName": "Flowers/Sunflower_Bundle.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Sunflower Bundle"
     },
@@ -708,7 +708,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Tulip.webp",
       "fileName": "Flowers/Tulip.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Tulip"
     },
@@ -717,7 +717,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Water_Lily.webp",
       "fileName": "Flowers/Water_Lily.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Water Lily"
     },
@@ -726,7 +726,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Flowers/Window_Box.webp",
       "fileName": "Flowers/Window_Box.webp",
-      "theme": "Flowers",
+      "theme": "flowers",
       "difficulty": "Moderate",
       "title": "Flowers: Window Box"
     },
@@ -735,7 +735,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Binoculars.webp",
       "fileName": "Hobbies/Binoculars.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Binoculars"
     },
@@ -744,7 +744,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Birdhouse.webp",
       "fileName": "Hobbies/Birdhouse.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Birdhouse"
     },
@@ -753,7 +753,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Camera.webp",
       "fileName": "Hobbies/Camera.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Camera"
     },
@@ -762,7 +762,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Chess_Set.webp",
       "fileName": "Hobbies/Chess_Set.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Chess Set"
     },
@@ -771,7 +771,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Easel.webp",
       "fileName": "Hobbies/Easel.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Easel"
     },
@@ -780,7 +780,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Gramophone.webp",
       "fileName": "Hobbies/Gramophone.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Gramophone"
     },
@@ -789,7 +789,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Guitar.webp",
       "fileName": "Hobbies/Guitar.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Guitar"
     },
@@ -798,7 +798,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Knitting_Ball.webp",
       "fileName": "Hobbies/Knitting_Ball.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Knitting Ball"
     },
@@ -807,7 +807,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Paint_Palette.webp",
       "fileName": "Hobbies/Paint_Palette.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Paint Palette"
     },
@@ -816,7 +816,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Piano_Accordion.webp",
       "fileName": "Hobbies/Piano_Accordion.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Piano Accordion"
     },
@@ -825,7 +825,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Potters_Wheel.webp",
       "fileName": "Hobbies/Potters_Wheel.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Potters Wheel"
     },
@@ -834,7 +834,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Reading_Glasses.webp",
       "fileName": "Hobbies/Reading_Glasses.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Reading Glasses"
     },
@@ -843,7 +843,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Stamps.webp",
       "fileName": "Hobbies/Stamps.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Stamps"
     },
@@ -852,7 +852,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Telescope.webp",
       "fileName": "Hobbies/Telescope.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Telescope"
     },
@@ -861,7 +861,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Hobbies/Vintage_Radio.webp",
       "fileName": "Hobbies/Vintage_Radio.webp",
-      "theme": "Hobbies",
+      "theme": "hobbies",
       "difficulty": "Moderate",
       "title": "Hobbies: Vintage Radio"
     },
@@ -870,7 +870,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Antique_Mirror.webp",
       "fileName": "Household/Antique_Mirror.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Antique Mirror"
     },
@@ -879,7 +879,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Armchair.webp",
       "fileName": "Household/Armchair.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Armchair"
     },
@@ -888,7 +888,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Baking_Kitchen.webp",
       "fileName": "Household/Baking_Kitchen.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Baking Kitchen"
     },
@@ -897,7 +897,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Clock.webp",
       "fileName": "Household/Clock.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Clock"
     },
@@ -906,7 +906,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Cozy_Corner.webp",
       "fileName": "Household/Cozy_Corner.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Cozy Corner"
     },
@@ -915,7 +915,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Crystal_Vase.webp",
       "fileName": "Household/Crystal_Vase.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Crystal Vase"
     },
@@ -924,7 +924,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Cuckoo_Clock.webp",
       "fileName": "Household/Cuckoo_Clock.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Cuckoo Clock"
     },
@@ -933,7 +933,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Fireplace_Mantle.webp",
       "fileName": "Household/Fireplace_Mantle.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Fireplace Mantle"
     },
@@ -942,7 +942,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Grandfather_Clock.webp",
       "fileName": "Household/Grandfather_Clock.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Grandfather Clock"
     },
@@ -951,7 +951,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Old_Key.webp",
       "fileName": "Household/Old_Key.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Old Key"
     },
@@ -960,7 +960,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Silverware_Set.webp",
       "fileName": "Household/Silverware_Set.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Silverware Set"
     },
@@ -969,7 +969,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Table_Lamp.webp",
       "fileName": "Household/Table_Lamp.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Table Lamp"
     },
@@ -978,7 +978,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Table_Setting.webp",
       "fileName": "Household/Table_Setting.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Table Setting"
     },
@@ -987,7 +987,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Teapot.webp",
       "fileName": "Household/Teapot.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Teapot"
     },
@@ -996,7 +996,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Household/Window_Curtain.webp",
       "fileName": "Household/Window_Curtain.webp",
-      "theme": "Household",
+      "theme": "household",
       "difficulty": "Moderate",
       "title": "Household: Window Curtain"
     },
@@ -1005,7 +1005,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Banjo.webp",
       "fileName": "Instruments/Banjo.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Banjo"
     },
@@ -1014,7 +1014,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Cello.webp",
       "fileName": "Instruments/Cello.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Cello"
     },
@@ -1023,7 +1023,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Clarinet.webp",
       "fileName": "Instruments/Clarinet.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Clarinet"
     },
@@ -1032,7 +1032,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Drum.webp",
       "fileName": "Instruments/Drum.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Drum"
     },
@@ -1041,7 +1041,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Electric_Guitar.webp",
       "fileName": "Instruments/Electric_Guitar.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Electric Guitar"
     },
@@ -1050,7 +1050,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Grand_Piano.webp",
       "fileName": "Instruments/Grand_Piano.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Grand Piano"
     },
@@ -1059,7 +1059,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Hand_Accordion.webp",
       "fileName": "Instruments/Hand_Accordion.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Hand Accordion"
     },
@@ -1068,7 +1068,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Harp.webp",
       "fileName": "Instruments/Harp.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Harp"
     },
@@ -1077,7 +1077,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Orchestra_Set.webp",
       "fileName": "Instruments/Orchestra_Set.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Orchestra Set"
     },
@@ -1086,7 +1086,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Piano_Keys.webp",
       "fileName": "Instruments/Piano_Keys.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Piano Keys"
     },
@@ -1095,7 +1095,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Pipe_Organ.webp",
       "fileName": "Instruments/Pipe_Organ.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Pipe Organ"
     },
@@ -1104,7 +1104,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Saxophone.webp",
       "fileName": "Instruments/Saxophone.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Saxophone"
     },
@@ -1113,7 +1113,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Tambourine.webp",
       "fileName": "Instruments/Tambourine.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Tambourine"
     },
@@ -1122,7 +1122,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Trumpet.webp",
       "fileName": "Instruments/Trumpet.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Trumpet"
     },
@@ -1131,7 +1131,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Instruments/Violin.webp",
       "fileName": "Instruments/Violin.webp",
-      "theme": "Instruments",
+      "theme": "instruments",
       "difficulty": "Moderate",
       "title": "Instruments: Violin"
     },
@@ -1140,7 +1140,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Autumn_Tree.webp",
       "fileName": "Nature/Autumn_Tree.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Autumn Tree"
     },
@@ -1149,7 +1149,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Cactus.webp",
       "fileName": "Nature/Cactus.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Cactus"
     },
@@ -1158,7 +1158,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Desert_Mesa.webp",
       "fileName": "Nature/Desert_Mesa.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Desert Mesa"
     },
@@ -1167,7 +1167,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Forest_Path.webp",
       "fileName": "Nature/Forest_Path.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Forest Path"
     },
@@ -1176,7 +1176,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Garden_Gate.webp",
       "fileName": "Nature/Garden_Gate.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Garden Gate"
     },
@@ -1185,7 +1185,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Mountain_Peak.webp",
       "fileName": "Nature/Mountain_Peak.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Mountain Peak"
     },
@@ -1194,7 +1194,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Mushroom_Cluster.webp",
       "fileName": "Nature/Mushroom_Cluster.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Mushroom Cluster"
     },
@@ -1203,7 +1203,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Oak_Leaf.webp",
       "fileName": "Nature/Oak_Leaf.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Oak Leaf"
     },
@@ -1212,7 +1212,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Pinecone.webp",
       "fileName": "Nature/Pinecone.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Pinecone"
     },
@@ -1221,7 +1221,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Rainbow.webp",
       "fileName": "Nature/Rainbow.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Rainbow"
     },
@@ -1230,7 +1230,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Rocky_Coast.webp",
       "fileName": "Nature/Rocky_Coast.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Rocky Coast"
     },
@@ -1239,7 +1239,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Shell.webp",
       "fileName": "Nature/Shell.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Shell"
     },
@@ -1248,7 +1248,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Star.webp",
       "fileName": "Nature/Star.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Star"
     },
@@ -1257,7 +1257,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Tropical_Island.webp",
       "fileName": "Nature/Tropical_Island.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Tropical Island"
     },
@@ -1266,7 +1266,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Nature/Waterfall.webp",
       "fileName": "Nature/Waterfall.webp",
-      "theme": "Nature",
+      "theme": "nature",
       "difficulty": "Moderate",
       "title": "Nature: Waterfall"
     },
@@ -1275,7 +1275,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Castle_Tower.webp",
       "fileName": "Places/Castle_Tower.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Castle Tower"
     },
@@ -1284,7 +1284,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/City_Skyline.webp",
       "fileName": "Places/City_Skyline.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: City Skyline"
     },
@@ -1293,7 +1293,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Dutch_Windmill.webp",
       "fileName": "Places/Dutch_Windmill.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Dutch Windmill"
     },
@@ -1302,7 +1302,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Eiffel_Tower.webp",
       "fileName": "Places/Eiffel_Tower.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Eiffel Tower"
     },
@@ -1311,7 +1311,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Golden_Gate.webp",
       "fileName": "Places/Golden_Gate.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Golden Gate"
     },
@@ -1320,7 +1320,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Leaning_Tower.webp",
       "fileName": "Places/Leaning_Tower.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Leaning Tower"
     },
@@ -1329,7 +1329,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Lighthouse_Island.webp",
       "fileName": "Places/Lighthouse_Island.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Lighthouse Island"
     },
@@ -1338,7 +1338,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Opera_House.webp",
       "fileName": "Places/Opera_House.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Opera House"
     },
@@ -1347,7 +1347,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Pagoda.webp",
       "fileName": "Places/Pagoda.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Pagoda"
     },
@@ -1356,7 +1356,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Pyramid.webp",
       "fileName": "Places/Pyramid.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Pyramid"
     },
@@ -1365,7 +1365,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Red_Barn.webp",
       "fileName": "Places/Red_Barn.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Red Barn"
     },
@@ -1374,7 +1374,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Stone_Bridge.webp",
       "fileName": "Places/Stone_Bridge.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Stone Bridge"
     },
@@ -1383,7 +1383,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Swiss_Chalet.webp",
       "fileName": "Places/Swiss_Chalet.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Swiss Chalet"
     },
@@ -1392,7 +1392,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Venice_Canal.webp",
       "fileName": "Places/Venice_Canal.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Venice Canal"
     },
@@ -1401,7 +1401,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Places/Village_House.webp",
       "fileName": "Places/Village_House.webp",
-      "theme": "Places",
+      "theme": "places",
       "difficulty": "Moderate",
       "title": "Places: Village House"
     },
@@ -1410,7 +1410,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Bamboo_Sprig.webp",
       "fileName": "Zen/Bamboo_Sprig.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Bamboo Sprig"
     },
@@ -1419,7 +1419,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Blue_Diamond.webp",
       "fileName": "Zen/Blue_Diamond.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Blue Diamond"
     },
@@ -1428,7 +1428,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Bonsai_Tree.webp",
       "fileName": "Zen/Bonsai_Tree.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Bonsai Tree"
     },
@@ -1437,7 +1437,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Celtic_Knot.webp",
       "fileName": "Zen/Celtic_Knot.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Celtic Knot"
     },
@@ -1446,7 +1446,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Compass_Rose.webp",
       "fileName": "Zen/Compass_Rose.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Compass Rose"
     },
@@ -1455,7 +1455,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Dreamcatcher.webp",
       "fileName": "Zen/Dreamcatcher.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Dreamcatcher"
     },
@@ -1464,7 +1464,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Enso_Circle.webp",
       "fileName": "Zen/Enso_Circle.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Enso Circle"
     },
@@ -1473,7 +1473,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Geometric_Mandala.webp",
       "fileName": "Zen/Geometric_Mandala.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Geometric Mandala"
     },
@@ -1482,7 +1482,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Ginkgo_Branch.webp",
       "fileName": "Zen/Ginkgo_Branch.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Ginkgo Branch"
     },
@@ -1491,7 +1491,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Golden_Heart.webp",
       "fileName": "Zen/Golden_Heart.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Golden Heart"
     },
@@ -1500,7 +1500,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Hourglass.webp",
       "fileName": "Zen/Hourglass.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Hourglass"
     },
@@ -1509,7 +1509,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Incense_Burner.webp",
       "fileName": "Zen/Incense_Burner.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Incense Burner"
     },
@@ -1518,7 +1518,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Kaleidoscope_Pattern.webp",
       "fileName": "Zen/Kaleidoscope_Pattern.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Kaleidoscope Pattern"
     },
@@ -1527,7 +1527,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Koi_Pair.webp",
       "fileName": "Zen/Koi_Pair.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Koi Pair"
     },
@@ -1536,7 +1536,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Lotus_Flower.webp",
       "fileName": "Zen/Lotus_Flower.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Lotus Flower"
     },
@@ -1545,7 +1545,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Meditation_Bell.webp",
       "fileName": "Zen/Meditation_Bell.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Meditation Bell"
     },
@@ -1554,7 +1554,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Misty_Pagoda.webp",
       "fileName": "Zen/Misty_Pagoda.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Misty Pagoda"
     },
@@ -1563,7 +1563,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Ornate_Keyhole.webp",
       "fileName": "Zen/Ornate_Keyhole.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Ornate Keyhole"
     },
@@ -1572,7 +1572,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Prism.webp",
       "fileName": "Zen/Prism.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Prism"
     },
@@ -1581,7 +1581,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Rubiks_Cube.webp",
       "fileName": "Zen/Rubiks_Cube.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Rubiks Cube"
     },
@@ -1590,7 +1590,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Serene_Buddha.webp",
       "fileName": "Zen/Serene_Buddha.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Serene Buddha"
     },
@@ -1599,7 +1599,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Snowflake.webp",
       "fileName": "Zen/Snowflake.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Snowflake"
     },
@@ -1608,7 +1608,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Stained_Glass_Star.webp",
       "fileName": "Zen/Stained_Glass_Star.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Stained Glass Star"
     },
@@ -1617,7 +1617,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Stone_Lantern.webp",
       "fileName": "Zen/Stone_Lantern.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Stone Lantern"
     },
@@ -1626,7 +1626,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Sun_and_Moon.webp",
       "fileName": "Zen/Sun_and_Moon.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Sun And Moon"
     },
@@ -1635,7 +1635,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Torii_Gate.webp",
       "fileName": "Zen/Torii_Gate.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Torii Gate"
     },
@@ -1644,7 +1644,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Wind_Chime.webp",
       "fileName": "Zen/Wind_Chime.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Wind Chime"
     },
@@ -1653,7 +1653,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Yin_Yang.webp",
       "fileName": "Zen/Yin_Yang.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Yin Yang"
     },
@@ -1662,7 +1662,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Zen_Garden.webp",
       "fileName": "Zen/Zen_Garden.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Zen Garden"
     },
@@ -1671,7 +1671,7 @@
       "type": "dot_to_dot_image",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/dot_to_dot/Zen/Zen_Stones.webp",
       "fileName": "Zen/Zen_Stones.webp",
-      "theme": "Zen",
+      "theme": "zen",
       "difficulty": "Moderate",
       "title": "Zen: Zen Stones"
     },
