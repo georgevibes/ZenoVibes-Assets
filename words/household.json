@@ -1,0 +1,11 @@
+{
+  "id": "household",
+  "name": "Household",
+  "words": [
+    "CHAIR", "TABLE", "LAMP", "BED", "SOFA", "RUG", "DOOR", "STAIR",
+    "SINK", "OVEN", "PAN", "FORK", "CUP", "MUG", "KEY", "CLOCK",
+    "BOOK", "VASE", "IRON", "SOAP", "COMB", "TOWEL", "HOME", "ROOM",
+    "ROOF", "WALL", "STEP", "MAT", "TAP", "BIN", "TUB", "SHOWER", "BATH",
+    "LIVING", "HALL", "FRONT", "BACK", "WINDOW", "FLOOR", "LIGHT"
+  ]
+}

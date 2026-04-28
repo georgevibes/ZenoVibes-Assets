@@ -1,5 +1,5 @@
 {
-    "version":  "2.1",
+    "version":  "2.2",
     "assets":  [
                    {
                        "id":  "coloring_cc2c66de",
@@ -17,7 +17,7 @@
                        "fileName":  "Boating-Water.bin",
                        "theme":  "boating",
                        "difficulty":  "Multi",
-                       "title":  "Boating Water"
+                       "title":  "Boating"
                    },
                    {
                        "id":  "coloring_be6db398",
@@ -13122,6 +13122,105 @@
                        "theme":  "zen",
                        "difficulty":  "Multi",
                        "title":  "Zen Background"
-                   }
+                    },
+                    {
+                        "id":  "words_animals",
+                        "type":  "words",
+                        "remoteUrl":  "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/animals.json",
+                        "fileName":  "animals.json",
+                        "theme":  "animals",
+                        "difficulty":  "Multi",
+                        "title":  "Animals Word List"
+                    },
+                    {
+                        "id":  "words_boating",
+                        "type":  "words",
+                        "remoteUrl":  "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/boating.json",
+                        "fileName":  "boating.json",
+                        "theme":  "boating",
+                        "difficulty":  "Multi",
+                        "title":  "Boating Word List"
+                    },
+                    {
+                        "id":  "words_family",
+                        "type":  "words",
+                        "remoteUrl":  "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/family.json",
+                        "fileName":  "family.json",
+                        "theme":  "family",
+                        "difficulty":  "Multi",
+                        "title":  "Family Word List"
+                    },
+                    {
+                        "id":  "words_flowers",
+                        "type":  "words",
+                        "remoteUrl":  "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/flowers.json",
+                        "fileName":  "flowers.json",
+                        "theme":  "flowers",
+                        "difficulty":  "Multi",
+                        "title":  "Flowers Word List"
+                    },
+                    {
+                        "id":  "words_food",
+                        "type":  "words",
+                        "remoteUrl":  "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/food.json",
+                        "fileName":  "food.json",
+                        "theme":  "food",
+                        "difficulty":  "Multi",
+                        "title":  "Food Word List"
+                    },
+                    {
+                        "id":  "words_hobbies",
+                        "type":  "words",
+                        "remoteUrl":  "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/hobbies.json",
+                        "fileName":  "hobbies.json",
+                        "theme":  "hobbies",
+                        "difficulty":  "Multi",
+                        "title":  "Hobbies Word List"
+                    },
+                    {
+                        "id":  "words_household",
+                        "type":  "words",
+                        "remoteUrl":  "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/household.json",
+                        "fileName":  "household.json",
+                        "theme":  "household",
+                        "difficulty":  "Multi",
+                        "title":  "Household Word List"
+                    },
+                    {
+                        "id":  "words_instruments",
+                        "type":  "words",
+                        "remoteUrl":  "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/instruments.json",
+                        "fileName":  "instruments.json",
+                        "theme":  "instruments",
+                        "difficulty":  "Multi",
+                        "title":  "Instruments Word List"
+                    },
+                    {
+                        "id":  "words_nature",
+                        "type":  "words",
+                        "remoteUrl":  "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/nature.json",
+                        "fileName":  "nature.json",
+                        "theme":  "nature",
+                        "difficulty":  "Multi",
+                        "title":  "Nature Word List"
+                    },
+                    {
+                        "id":  "words_places",
+                        "type":  "words",
+                        "remoteUrl":  "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/places.json",
+                        "fileName":  "places.json",
+                        "theme":  "places",
+                        "difficulty":  "Multi",
+                        "title":  "Places Word List"
+                    },
+                    {
+                        "id":  "words_zen",
+                        "type":  "words",
+                        "remoteUrl":  "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/zen.json",
+                        "fileName":  "zen.json",
+                        "theme":  "zen",
+                        "difficulty":  "Multi",
+                        "title":  "Zen Word List"
+                    }
                ]
 }

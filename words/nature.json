@@ -1,0 +1,12 @@
+{
+  "id": "nature",
+  "name": "Nature",
+  "words": [
+    "SUN", "MOON", "STAR", "SKY", "CLOUD", "RAIN", "SNOW", "WIND",
+    "STORM", "LAKE", "RIVER", "SEA", "OCEAN", "HILL", "MOUNT", "CAVE",
+    "ROCK", "SAND", "DUST", "FIRE", "ICE", "HEAT", "COLD", "EARTH",
+    "WORLD", "SPACE", "FOREST", "GLADE", "TREE", "DIRT", "MUD", "AIR",
+    "MIST", "FOG", "CLAY", "LIGHT", "DARK", "SHADE", "WOOD", "LEAF",
+    "PATH", "FIELD", "PARK", "VALLEY", "CLIFF", "SHORE", "COAST", "ISLAND"
+  ]
+}

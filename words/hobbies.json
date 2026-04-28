@@ -1,0 +1,11 @@
+{
+  "id": "hobbies",
+  "name": "Hobbies",
+  "words": [
+    "CRAFT", "PAINT", "KNIT", "SEW", "BAKE", "FISH", "HIKE", "CYCLE",
+    "SWIM", "DRAW", "READ", "SING", "DANCE", "COOK", "GOLF", "CHESS",
+    "YOGA", "PHOTO", "BLOG", "GAME", "RIDE", "RUN", "WALK", "PLAY",
+    "DREAM", "SPORT", "HOBBY", "SKILL", "ART", "WRITE", "FILM", "WOOD",
+    "COINS", "CARDS", "BIRD", "CLIMB", "CAMP", "SURF", "SAIL", "STAMP"
+  ]
+}

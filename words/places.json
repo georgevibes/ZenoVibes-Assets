@@ -1,0 +1,10 @@
+{
+  "id": "places",
+  "name": "Places",
+  "words": [
+    "PARIS", "ROME", "TOKYO", "CAIRO", "MIAMI", "CITY", "TOWN", "PARK",
+    "ROAD", "HILL", "VALE", "GLEN", "ISLE", "CAPE", "REEF", "BANK",
+    "MOOR", "BARN", "FARM", "PIER", "BRIDGE", "SQUARE", "LANE", "GATE",
+    "PLAZA", "TRAIL", "RIDGE", "STREET", "PORT", "CLUB", "HALL", "SHOP"
+  ]
+}

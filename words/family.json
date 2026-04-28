@@ -1,0 +1,13 @@
+{
+  "id": "family",
+  "name": "Family",
+  "words": [
+    "MUM", "DAD", "SON", "WIFE", "AUNT", "SISTER", "GRAND", "BABY",
+    "NIECE", "COUSIN", "UNCLE", "MOTHER", "FATHER", "BROTHER", "GRAN", "NAN",
+    "PAPA", "MAMA", "CHILD", "KID", "KIN", "FOLKS", "TWIN", "ELDER",
+    "GIRL", "BOY", "NEPHEW", "KIND", "HEIR", "USER", "HOME", "LOVE",
+    "FAMILY", "PARENT", "SPOUSE", "ADULT", "YOUTH", "INFANT", "NEIGHB",
+    "FRIEND", "GUEST", "HOST", "BRIDE", "GROOM", "WIDOW", "SIBLING",
+    "GRANDY", "NANNY", "POPPY", "PAPPY", "DADDY", "MUMMY", "KINFOLK"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "food",
+  "name": "Food",
+  "words": [
+    "APPLE", "BREAD", "CAKE", "PIZZA", "SOUP", "PASTA", "RICE", "FRUIT",
+    "PEAR", "PEACH", "PLUM", "BERRY", "GRAPE", "MELON", "LEMON", "LIME",
+    "NUT", "BEAN", "CORN", "PEA", "MEAT", "FISH", "EGG", "MILK",
+    "CHEESE", "PIE", "TART", "CHIP", "TACO", "STEAK", "HAM", "BACON",
+    "TOFU", "JAM", "HONEY", "SALT", "BUN", "ROLL", "MEAL", "DISH", "COOK",
+    "BUTTER", "CREAM", "YOGURT", "CANDY", "SWEET", "SUGAR", "SPICE", "PEPPER",
+    "ONION", "GARLIC", "TOMATO", "POTATO", "SALAD", "ROAST", "BAKED", "FRIED",
+    "JUICE", "COFFEE", "TEA", "WINE", "BEER", "SODA", "WATER", "SAUCE"
+  ]
+}

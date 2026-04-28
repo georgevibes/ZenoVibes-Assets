@@ -1,0 +1,10 @@
+{
+  "id": "instruments",
+  "name": "Instruments",
+  "words": [
+    "GUITAR", "PIANO", "DRUM", "FLUTE", "HARP", "CELLO", "VIOLA", "BASS",
+    "LUTE", "OBOE", "TUBA", "HORN", "BELL", "FIFE", "GONG", "LYRE",
+    "SITAR", "BANJO", "ORGAN", "CHOIR", "BEAT", "TUNE", "NOTE", "CHORD",
+    "KEYS", "BRASS", "REED", "WIND", "BOWED", "PLUCK", "PIPE", "VOX"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "flowers",
+  "name": "Flowers",
+  "words": [
+    "ROSE", "LILY", "DAHLIA", "DAISY", "POPPY", "TULIP", "IRIS", "ORCHID",
+    "ASTER", "AZALEA", "CROCUS", "PEONY", "PANSY", "PHLOX", "VIOLET", "ZINNIA",
+    "LOTUS", "LUPINE", "PROTEA", "LILAC", "COSMOS", "CHERRY", "CLOVER", "CANNA",
+    "HOLLY", "IVY", "FERN", "MOSS", "REED", "PALM", "PINE", "OAK", "MAPLE",
+    "BIRCH", "CEDAR", "ELM", "FIR", "BLOOM", "PETAL", "STEM", "LEAF", "BUD",
+    "JASMIN", "MYRTLE", "LAUREL", "BEGONIA", "YARROW", "SENNA",
+    "MALLOW", "SEDUM", "LAVEND", "GARDEN", "FLOWER", "FLORAL", "SCENT",
+    "POLLEN", "NECTAR", "BEAUTY"
+  ]
+}
