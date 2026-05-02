@@ -1,5 +1,5 @@
 {
-    "version": "2.3",
+    "version": "2.4",
     "assets": [
         {
             "id": "coloring_cc2c66de",
@@ -1691,7 +1691,7 @@
             "fileName": "boating-water_canal_houseboat (2).webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water canal houseboat (2)"
+            "title": "Boating:  canal houseboat (2)"
         },
         {
             "id": "jigsaw_boating_boating-water_canal_houseboat",
@@ -1700,7 +1700,7 @@
             "fileName": "boating-water_canal_houseboat.webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water canal houseboat"
+            "title": "Boating:  canal houseboat"
         },
         {
             "id": "jigsaw_boating_boating-water_fishing_trawler_(2)",
@@ -1709,7 +1709,7 @@
             "fileName": "boating-water_fishing_trawler (2).webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water fishing trawler (2)"
+            "title": "Boating:  fishing trawler (2)"
         },
         {
             "id": "jigsaw_boating_boating-water_fishing_trawler",
@@ -1718,7 +1718,7 @@
             "fileName": "boating-water_fishing_trawler.webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water fishing trawler"
+            "title": "Boating:  fishing trawler"
         },
         {
             "id": "jigsaw_boating_boating-water_kayaks_(2)",
@@ -1727,7 +1727,7 @@
             "fileName": "boating-water_kayaks (2).webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water kayaks (2)"
+            "title": "Boating:  kayaks (2)"
         },
         {
             "id": "jigsaw_boating_boating-water_kayaks",
@@ -1736,7 +1736,7 @@
             "fileName": "boating-water_kayaks.webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water kayaks"
+            "title": "Boating:  kayaks"
         },
         {
             "id": "jigsaw_boating_boating-water_koi_pond_(2)",
@@ -1745,7 +1745,7 @@
             "fileName": "boating-water_koi_pond (2).webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water koi pond (2)"
+            "title": "Boating:  koi pond (2)"
         },
         {
             "id": "jigsaw_boating_boating-water_koi_pond",
@@ -1754,7 +1754,7 @@
             "fileName": "boating-water_koi_pond.webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water koi pond"
+            "title": "Boating:  koi pond"
         },
         {
             "id": "jigsaw_boating_boating-water_lighthouse_path_(2)",
@@ -1763,7 +1763,7 @@
             "fileName": "boating-water_lighthouse_path (2).webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water lighthouse path (2)"
+            "title": "Boating:  lighthouse path (2)"
         },
         {
             "id": "jigsaw_boating_boating-water_lighthouse_path",
@@ -1772,7 +1772,7 @@
             "fileName": "boating-water_lighthouse_path.webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water lighthouse path"
+            "title": "Boating:  lighthouse path"
         },
         {
             "id": "jigsaw_boating_boating-water_ocean_liner_(2)",
@@ -1781,7 +1781,7 @@
             "fileName": "boating-water_ocean_liner (2).webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water ocean liner (2)"
+            "title": "Boating:  ocean liner (2)"
         },
         {
             "id": "jigsaw_boating_boating-water_ocean_liner",
@@ -1790,7 +1790,7 @@
             "fileName": "boating-water_ocean_liner.webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water ocean liner"
+            "title": "Boating:  ocean liner"
         },
         {
             "id": "jigsaw_boating_boating-water_river_raft_(2)",
@@ -1799,7 +1799,7 @@
             "fileName": "boating-water_river_raft (2).webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water river raft (2)"
+            "title": "Boating:  river raft (2)"
         },
         {
             "id": "jigsaw_boating_boating-water_river_raft",
@@ -1808,7 +1808,7 @@
             "fileName": "boating-water_river_raft.webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water river raft"
+            "title": "Boating:  river raft"
         },
         {
             "id": "jigsaw_boating_boating-water_rowboat_(2)",
@@ -1817,7 +1817,7 @@
             "fileName": "boating-water_rowboat (2).webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water rowboat (2)"
+            "title": "Boating:  rowboat (2)"
         },
         {
             "id": "jigsaw_boating_boating-water_rowboat",
@@ -1826,7 +1826,7 @@
             "fileName": "boating-water_rowboat.webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water rowboat"
+            "title": "Boating:  rowboat"
         },
         {
             "id": "jigsaw_boating_boating-water_surfboard_at_dusk_(2)",
@@ -1835,7 +1835,7 @@
             "fileName": "boating-water_surfboard_at_dusk (2).webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water surfboard at dusk (2)"
+            "title": "Boating:  surfboard at dusk (2)"
         },
         {
             "id": "jigsaw_boating_boating-water_surfboard_at_dusk",
@@ -1844,7 +1844,7 @@
             "fileName": "boating-water_surfboard_at_dusk.webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water surfboard at dusk"
+            "title": "Boating:  surfboard at dusk"
         },
         {
             "id": "jigsaw_boating_boating-water_tropical_lagoon_(2)",
@@ -1853,7 +1853,7 @@
             "fileName": "boating-water_tropical_lagoon (2).webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water tropical lagoon (2)"
+            "title": "Boating:  tropical lagoon (2)"
         },
         {
             "id": "jigsaw_boating_boating-water_tropical_lagoon",
@@ -1862,7 +1862,7 @@
             "fileName": "boating-water_tropical_lagoon.webp",
             "theme": "boating",
             "difficulty": "Multi",
-            "title": "Boating: Boating water tropical lagoon"
+            "title": "Boating:  tropical lagoon"
         },
         {
             "id": "jigsaw_boating_boating_rowboat",
@@ -1973,7 +1973,7 @@
             "title": "Boating: Tropical Lagoon"
         },
         {
-            "id": "jigsaw_boating_Waterfall_Pool",
+            "id": "jigsaw_boatingfall_Pool",
             "type": "jigsaw",
             "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/jigsaw/boating/Waterfall_Pool.webp",
             "fileName": "Waterfall_Pool.webp",
@@ -3458,183 +3458,183 @@
             "title": "Zen Puzzles"
         },
         {
-            "id": "spot_diff_boating_water_easy_duck_pond",
+            "id": "spot_diff_boating_easy_duck_pond",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/easy/duck_pond/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/easy/duck_pond/b.webp",
-            "fileName": "boating_water_easy_duck_pond_a.webp",
-            "fileNameB": "boating_water_easy_duck_pond_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/duck_pond/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/duck_pond/b.webp",
+            "fileName": "boating_easy_duck_pond_a.webp",
+            "fileNameB": "boating_easy_duck_pond_b.webp",
+            "theme": "boating",
             "difficulty": "easy",
-            "title": "Boating water: Duck pond",
+            "title": "Boating: Duck pond",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_easy_harbor_lighthouse",
+            "id": "spot_diff_boating_easy_harbor_lighthouse",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/easy/harbor_lighthouse/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/easy/harbor_lighthouse/b.webp",
-            "fileName": "boating_water_easy_harbor_lighthouse_a.webp",
-            "fileNameB": "boating_water_easy_harbor_lighthouse_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/harbor_lighthouse/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/harbor_lighthouse/b.webp",
+            "fileName": "boating_easy_harbor_lighthouse_a.webp",
+            "fileNameB": "boating_easy_harbor_lighthouse_b.webp",
+            "theme": "boating",
             "difficulty": "easy",
-            "title": "Boating water: Harbor lighthouse",
+            "title": "Boating: Harbor lighthouse",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_easy_river_canoe",
+            "id": "spot_diff_boating_easy_river_canoe",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/easy/river_canoe/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/easy/river_canoe/b.webp",
-            "fileName": "boating_water_easy_river_canoe_a.webp",
-            "fileNameB": "boating_water_easy_river_canoe_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/river_canoe/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/river_canoe/b.webp",
+            "fileName": "boating_easy_river_canoe_a.webp",
+            "fileNameB": "boating_easy_river_canoe_b.webp",
+            "theme": "boating",
             "difficulty": "easy",
-            "title": "Boating water: River canoe",
+            "title": "Boating: River canoe",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_easy_simple_sailboat",
+            "id": "spot_diff_boating_easy_simple_sailboat",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/easy/simple_sailboat/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/easy/simple_sailboat/b.webp",
-            "fileName": "boating_water_easy_simple_sailboat_a.webp",
-            "fileNameB": "boating_water_easy_simple_sailboat_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/simple_sailboat/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/simple_sailboat/b.webp",
+            "fileName": "boating_easy_simple_sailboat_a.webp",
+            "fileNameB": "boating_easy_simple_sailboat_b.webp",
+            "theme": "boating",
             "difficulty": "easy",
-            "title": "Boating water: Simple sailboat",
+            "title": "Boating: Simple sailboat",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_easy_toy_boat",
+            "id": "spot_diff_boating_easy_toy_boat",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/easy/toy_boat/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/easy/toy_boat/b.webp",
-            "fileName": "boating_water_easy_toy_boat_a.webp",
-            "fileNameB": "boating_water_easy_toy_boat_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/toy_boat/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/toy_boat/b.webp",
+            "fileName": "boating_easy_toy_boat_a.webp",
+            "fileNameB": "boating_easy_toy_boat_b.webp",
+            "theme": "boating",
             "difficulty": "easy",
-            "title": "Boating water: Toy boat",
+            "title": "Boating: Toy boat",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_hard_canal_locks",
+            "id": "spot_diff_boating_hard_canal_locks",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/hard/canal_locks/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/hard/canal_locks/b.webp",
-            "fileName": "boating_water_hard_canal_locks_a.webp",
-            "fileNameB": "boating_water_hard_canal_locks_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/hard/canal_locks/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/hard/canal_locks/b.webp",
+            "fileName": "boating_hard_canal_locks_a.webp",
+            "fileNameB": "boating_hard_canal_locks_b.webp",
+            "theme": "boating",
             "difficulty": "hard",
-            "title": "Boating water: Canal locks",
+            "title": "Boating: Canal locks",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_hard_historic_galleon",
+            "id": "spot_diff_boating_hard_historic_galleon",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/hard/historic_galleon/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/hard/historic_galleon/b.webp",
-            "fileName": "boating_water_hard_historic_galleon_a.webp",
-            "fileNameB": "boating_water_hard_historic_galleon_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/hard/historic_galleon/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/hard/historic_galleon/b.webp",
+            "fileName": "boating_hard_historic_galleon_a.webp",
+            "fileNameB": "boating_hard_historic_galleon_b.webp",
+            "theme": "boating",
             "difficulty": "hard",
-            "title": "Boating water: Historic galleon",
+            "title": "Boating: Historic galleon",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_hard_hydroplane_race",
+            "id": "spot_diff_boating_hard_hydroplane_race",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/hard/hydroplane_race/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/hard/hydroplane_race/b.webp",
-            "fileName": "boating_water_hard_hydroplane_race_a.webp",
-            "fileNameB": "boating_water_hard_hydroplane_race_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/hard/hydroplane_race/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/hard/hydroplane_race/b.webp",
+            "fileName": "boating_hard_hydroplane_race_a.webp",
+            "fileNameB": "boating_hard_hydroplane_race_b.webp",
+            "theme": "boating",
             "difficulty": "hard",
-            "title": "Boating water: Hydroplane race",
+            "title": "Boating: Hydroplane race",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_hard_icebreaker",
+            "id": "spot_diff_boating_hard_icebreaker",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/hard/icebreaker/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/hard/icebreaker/b.webp",
-            "fileName": "boating_water_hard_icebreaker_a.webp",
-            "fileNameB": "boating_water_hard_icebreaker_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/hard/icebreaker/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/hard/icebreaker/b.webp",
+            "fileName": "boating_hard_icebreaker_a.webp",
+            "fileNameB": "boating_hard_icebreaker_b.webp",
+            "theme": "boating",
             "difficulty": "hard",
-            "title": "Boating water: Icebreaker",
+            "title": "Boating: Icebreaker",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_hard_lighthouse",
+            "id": "spot_diff_boating_hard_lighthouse",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/hard/lighthouse/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/hard/lighthouse/b.webp",
-            "fileName": "boating_water_hard_lighthouse_a.webp",
-            "fileNameB": "boating_water_hard_lighthouse_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/hard/lighthouse/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/hard/lighthouse/b.webp",
+            "fileName": "boating_hard_lighthouse_a.webp",
+            "fileNameB": "boating_hard_lighthouse_b.webp",
+            "theme": "boating",
             "difficulty": "hard",
-            "title": "Boating water: Lighthouse",
+            "title": "Boating: Lighthouse",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_hard_sunken_shipwreck",
+            "id": "spot_diff_boating_hard_sunken_shipwreck",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/hard/sunken_shipwreck/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/hard/sunken_shipwreck/b.webp",
-            "fileName": "boating_water_hard_sunken_shipwreck_a.webp",
-            "fileNameB": "boating_water_hard_sunken_shipwreck_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/hard/sunken_shipwreck/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/hard/sunken_shipwreck/b.webp",
+            "fileName": "boating_hard_sunken_shipwreck_a.webp",
+            "fileNameB": "boating_hard_sunken_shipwreck_b.webp",
+            "theme": "boating",
             "difficulty": "hard",
-            "title": "Boating water: Sunken shipwreck",
+            "title": "Boating: Sunken shipwreck",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_medium_grand_canal",
+            "id": "spot_diff_boating_medium_grand_canal",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/medium/grand_canal/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/medium/grand_canal/b.webp",
-            "fileName": "boating_water_medium_grand_canal_a.webp",
-            "fileNameB": "boating_water_medium_grand_canal_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/medium/grand_canal/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/medium/grand_canal/b.webp",
+            "fileName": "boating_medium_grand_canal_a.webp",
+            "fileNameB": "boating_medium_grand_canal_b.webp",
+            "theme": "boating",
             "difficulty": "medium",
-            "title": "Boating water: Grand canal",
+            "title": "Boating: Grand canal",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_medium_river_cruise",
+            "id": "spot_diff_boating_medium_river_cruise",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/medium/river_cruise/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/medium/river_cruise/b.webp",
-            "fileName": "boating_water_medium_river_cruise_a.webp",
-            "fileNameB": "boating_water_medium_river_cruise_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/medium/river_cruise/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/medium/river_cruise/b.webp",
+            "fileName": "boating_medium_river_cruise_a.webp",
+            "fileNameB": "boating_medium_river_cruise_b.webp",
+            "theme": "boating",
             "difficulty": "medium",
-            "title": "Boating water: River cruise",
+            "title": "Boating: River cruise",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_medium_speedboat",
+            "id": "spot_diff_boating_medium_speedboat",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/medium/speedboat/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/medium/speedboat/b.webp",
-            "fileName": "boating_water_medium_speedboat_a.webp",
-            "fileNameB": "boating_water_medium_speedboat_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/medium/speedboat/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/medium/speedboat/b.webp",
+            "fileName": "boating_medium_speedboat_a.webp",
+            "fileNameB": "boating_medium_speedboat_b.webp",
+            "theme": "boating",
             "difficulty": "medium",
-            "title": "Boating water: Speedboat",
+            "title": "Boating: Speedboat",
             "metadata": null
         },
         {
-            "id": "spot_diff_boating_water_medium_yacht_marina",
+            "id": "spot_diff_boating_medium_yacht_marina",
             "type": "spot_difference",
-            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/medium/yacht_marina/a.webp",
-            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating_water/medium/yacht_marina/b.webp",
-            "fileName": "boating_water_medium_yacht_marina_a.webp",
-            "fileNameB": "boating_water_medium_yacht_marina_b.webp",
-            "theme": "boating_water",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/medium/yacht_marina/a.webp",
+            "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/medium/yacht_marina/b.webp",
+            "fileName": "boating_medium_yacht_marina_a.webp",
+            "fileNameB": "boating_medium_yacht_marina_b.webp",
+            "theme": "boating",
             "difficulty": "medium",
-            "title": "Boating water: Yacht marina",
+            "title": "Boating: Yacht marina",
             "metadata": null
         },
         {
@@ -13140,6 +13140,2436 @@
             "theme": "zen",
             "difficulty": "Multi",
             "title": "Zen Word List"
+        },
+        {
+            "id": "boating_water_story_easy_001",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_easy_001.json",
+            "fileName": "boating/boating_story_easy_001.json",
+            "theme": "boating",
+            "difficulty": "Easy",
+            "title": "Boating water: The Morning Mist"
+        },
+        {
+            "id": "boating_water_story_easy_002",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_easy_002.json",
+            "fileName": "boating/boating_story_easy_002.json",
+            "theme": "boating",
+            "difficulty": "Easy",
+            "title": "Boating water: The Shimmering Beacon"
+        },
+        {
+            "id": "boating_water_story_easy_003",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_easy_003.json",
+            "fileName": "boating/boating_story_easy_003.json",
+            "theme": "boating",
+            "difficulty": "Easy",
+            "title": "Boating water: The Great Blue Adventure"
+        },
+        {
+            "id": "boating_water_story_easy_004",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_easy_004.json",
+            "fileName": "boating/boating_story_easy_004.json",
+            "theme": "boating",
+            "difficulty": "Easy",
+            "title": "Boating water: The Secret Lagoon"
+        },
+        {
+            "id": "boating_water_story_easy_005",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_easy_005.json",
+            "fileName": "boating/boating_story_easy_005.json",
+            "theme": "boating",
+            "difficulty": "Easy",
+            "title": "Boating water: The Miniature Voyage"
+        },
+        {
+            "id": "boating_water_story_easy_006",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_easy_006.json",
+            "fileName": "boating/boating_story_easy_006.json",
+            "theme": "boating",
+            "difficulty": "Easy",
+            "title": "Boating water: The River Rush"
+        },
+        {
+            "id": "boating_water_story_easy_007",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_easy_007.json",
+            "fileName": "boating/boating_story_easy_007.json",
+            "theme": "boating",
+            "difficulty": "Easy",
+            "title": "Boating water: The Floating Secret"
+        },
+        {
+            "id": "boating_water_story_easy_008",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_easy_008.json",
+            "fileName": "boating/boating_story_easy_008.json",
+            "theme": "boating",
+            "difficulty": "Easy",
+            "title": "Boating water: The Midnight Voyage"
+        },
+        {
+            "id": "boating_water_story_easy_009",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_easy_009.json",
+            "fileName": "boating/boating_story_easy_009.json",
+            "theme": "boating",
+            "difficulty": "Easy",
+            "title": "Boating water: The Secret Lagoon Map"
+        },
+        {
+            "id": "boating_water_story_easy_010",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_easy_010.json",
+            "fileName": "boating/boating_story_easy_010.json",
+            "theme": "boating",
+            "difficulty": "Easy",
+            "title": "Boating water: The Great Deep Melody"
+        },
+        {
+            "id": "boating_water_story_hard_021",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_hard_021.json",
+            "fileName": "boating/boating_story_hard_021.json",
+            "theme": "boating",
+            "difficulty": "Hard",
+            "title": "Boating water: The Saltwater Debut"
+        },
+        {
+            "id": "boating_water_story_hard_022",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_hard_022.json",
+            "fileName": "boating/boating_story_hard_022.json",
+            "theme": "boating",
+            "difficulty": "Hard",
+            "title": "Boating water: Chronicles of the Azure Wake"
+        },
+        {
+            "id": "boating_water_story_hard_023",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_hard_023.json",
+            "fileName": "boating/boating_story_hard_023.json",
+            "theme": "boating",
+            "difficulty": "Hard",
+            "title": "Boating water: The Sunken Sanctuary"
+        },
+        {
+            "id": "boating_water_story_hard_024",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_hard_024.json",
+            "fileName": "boating/boating_story_hard_024.json",
+            "theme": "boating",
+            "difficulty": "Hard",
+            "title": "Boating water: The Silent Horizon"
+        },
+        {
+            "id": "boating_water_story_hard_025",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_hard_025.json",
+            "fileName": "boating/boating_story_hard_025.json",
+            "theme": "boating",
+            "difficulty": "Hard",
+            "title": "Boating water: The Beacon at the Edge"
+        },
+        {
+            "id": "boating_water_story_hard_026",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_hard_026.json",
+            "fileName": "boating/boating_story_hard_026.json",
+            "theme": "boating",
+            "difficulty": "Hard",
+            "title": "Boating water: The Celestial Voyage"
+        },
+        {
+            "id": "boating_water_story_hard_027",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_hard_027.json",
+            "fileName": "boating/boating_story_hard_027.json",
+            "theme": "boating",
+            "difficulty": "Hard",
+            "title": "Boating water: The Shimmering Horizon"
+        },
+        {
+            "id": "boating_water_story_hard_028",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_hard_028.json",
+            "fileName": "boating/boating_story_hard_028.json",
+            "theme": "boating",
+            "difficulty": "Hard",
+            "title": "Boating water: The Mirror of the Deep"
+        },
+        {
+            "id": "boating_water_story_hard_029",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_hard_029.json",
+            "fileName": "boating/boating_story_hard_029.json",
+            "theme": "boating",
+            "difficulty": "Hard",
+            "title": "Boating water: The Floating Sanctuary"
+        },
+        {
+            "id": "boating_water_story_hard_030",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_hard_030.json",
+            "fileName": "boating/boating_story_hard_030.json",
+            "theme": "boating",
+            "difficulty": "Hard",
+            "title": "Boating water: The Weight of the Deep"
+        },
+        {
+            "id": "boating_water_story_medium_011",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_medium_011.json",
+            "fileName": "boating/boating_story_medium_011.json",
+            "theme": "boating",
+            "difficulty": "Medium",
+            "title": "Boating water: The Silent Glide"
+        },
+        {
+            "id": "boating_water_story_medium_012",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_medium_012.json",
+            "fileName": "boating/boating_story_medium_012.json",
+            "theme": "boating",
+            "difficulty": "Medium",
+            "title": "Boating water: The Frozen Passage"
+        },
+        {
+            "id": "boating_water_story_medium_013",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_medium_013.json",
+            "fileName": "boating/boating_story_medium_013.json",
+            "theme": "boating",
+            "difficulty": "Medium",
+            "title": "Boating water: The Floating Market"
+        },
+        {
+            "id": "boating_water_story_medium_014",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_medium_014.json",
+            "fileName": "boating/boating_story_medium_014.json",
+            "theme": "boating",
+            "difficulty": "Medium",
+            "title": "Boating water: The Misty River Voyage"
+        },
+        {
+            "id": "boating_water_story_medium_015",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_medium_015.json",
+            "fileName": "boating/boating_story_medium_015.json",
+            "theme": "boating",
+            "difficulty": "Medium",
+            "title": "Boating water: The Silent Abyss"
+        },
+        {
+            "id": "boating_water_story_medium_016",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_medium_016.json",
+            "fileName": "boating/boating_story_medium_016.json",
+            "theme": "boating",
+            "difficulty": "Medium",
+            "title": "Boating water: The Great Regatta"
+        },
+        {
+            "id": "boating_water_story_medium_017",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_medium_017.json",
+            "fileName": "boating/boating_story_medium_017.json",
+            "theme": "boating",
+            "difficulty": "Medium",
+            "title": "Boating water: The Gentle Current"
+        },
+        {
+            "id": "boating_water_story_medium_018",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_medium_018.json",
+            "fileName": "boating/boating_story_medium_018.json",
+            "theme": "boating",
+            "difficulty": "Medium",
+            "title": "Boating water: The Whispering Dock"
+        },
+        {
+            "id": "boating_water_story_medium_019",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_medium_019.json",
+            "fileName": "boating/boating_story_medium_019.json",
+            "theme": "boating",
+            "difficulty": "Medium",
+            "title": "Boating water: The Misty Harbor Passage"
+        },
+        {
+            "id": "boating_water_story_medium_020",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/boating/boating_story_medium_020.json",
+            "fileName": "boating/boating_story_medium_020.json",
+            "theme": "boating",
+            "difficulty": "Medium",
+            "title": "Boating water: Voyage to the Gilded Shores"
+        },
+        {
+            "id": "family_story_easy_001",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_easy_001.json",
+            "fileName": "family/family_story_easy_001.json",
+            "theme": "family",
+            "difficulty": "Easy",
+            "title": "Family: The Sunny Reunion"
+        },
+        {
+            "id": "family_story_easy_002",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_easy_002.json",
+            "fileName": "family/family_story_easy_002.json",
+            "theme": "family",
+            "difficulty": "Easy",
+            "title": "Family: The Golden Memory Book"
+        },
+        {
+            "id": "family_story_easy_003",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_easy_003.json",
+            "fileName": "family/family_story_easy_003.json",
+            "theme": "family",
+            "difficulty": "Easy",
+            "title": "Family: The Hearthside Legend"
+        },
+        {
+            "id": "family_story_easy_004",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_easy_004.json",
+            "fileName": "family/family_story_easy_004.json",
+            "theme": "family",
+            "difficulty": "Easy",
+            "title": "Family: The Starlit Backyard"
+        },
+        {
+            "id": "family_story_easy_005",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_easy_005.json",
+            "fileName": "family/family_story_easy_005.json",
+            "theme": "family",
+            "difficulty": "Easy",
+            "title": "Family: The Roots of Tomorrow"
+        },
+        {
+            "id": "family_story_easy_006",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_easy_006.json",
+            "fileName": "family/family_story_easy_006.json",
+            "theme": "family",
+            "difficulty": "Easy",
+            "title": "Family: The Glowing Holiday Feast"
+        },
+        {
+            "id": "family_story_easy_007",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_easy_007.json",
+            "fileName": "family/family_story_easy_007.json",
+            "theme": "family",
+            "difficulty": "Easy",
+            "title": "Family: The Tradition of Connection"
+        },
+        {
+            "id": "family_story_easy_008",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_easy_008.json",
+            "fileName": "family/family_story_easy_008.json",
+            "theme": "family",
+            "difficulty": "Easy",
+            "title": "Family: The First Little Journey"
+        },
+        {
+            "id": "family_story_easy_009",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_easy_009.json",
+            "fileName": "family/family_story_easy_009.json",
+            "theme": "family",
+            "difficulty": "Easy",
+            "title": "Family: The Growing Patch"
+        },
+        {
+            "id": "family_story_easy_010",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_easy_010.json",
+            "fileName": "family/family_story_easy_010.json",
+            "theme": "family",
+            "difficulty": "Easy",
+            "title": "Family: The Great State Crossing"
+        },
+        {
+            "id": "family_story_hard_021",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_hard_021.json",
+            "fileName": "family/family_story_hard_021.json",
+            "theme": "family",
+            "difficulty": "Hard",
+            "title": "Family: The Ancient Tabletop Quest"
+        },
+        {
+            "id": "family_story_hard_022",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_hard_022.json",
+            "fileName": "family/family_story_hard_022.json",
+            "theme": "family",
+            "difficulty": "Hard",
+            "title": "Family: Echoes of the Old Lane"
+        },
+        {
+            "id": "family_story_hard_023",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_hard_023.json",
+            "fileName": "family/family_story_hard_023.json",
+            "theme": "family",
+            "difficulty": "Hard",
+            "title": "Family: The Heirloom Feast"
+        },
+        {
+            "id": "family_story_hard_024",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_hard_024.json",
+            "fileName": "family/family_story_hard_024.json",
+            "theme": "family",
+            "difficulty": "Hard",
+            "title": "Family: The Threshold of Tomorrow"
+        },
+        {
+            "id": "family_story_hard_025",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_hard_025.json",
+            "fileName": "family/family_story_hard_025.json",
+            "theme": "family",
+            "difficulty": "Hard",
+            "title": "Family: The Great Domestic Expedition"
+        },
+        {
+            "id": "family_story_hard_026",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_hard_026.json",
+            "fileName": "family/family_story_hard_026.json",
+            "theme": "family",
+            "difficulty": "Hard",
+            "title": "Family: The Morning Gathering"
+        },
+        {
+            "id": "family_story_hard_027",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_hard_027.json",
+            "fileName": "family/family_story_hard_027.json",
+            "theme": "family",
+            "difficulty": "Hard",
+            "title": "Family: The Whispering Archive"
+        },
+        {
+            "id": "family_story_hard_028",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_hard_028.json",
+            "fileName": "family/family_story_hard_028.json",
+            "theme": "family",
+            "difficulty": "Hard",
+            "title": "Family: The Botanical Union"
+        },
+        {
+            "id": "family_story_hard_029",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_hard_029.json",
+            "fileName": "family/family_story_hard_029.json",
+            "theme": "family",
+            "difficulty": "Hard",
+            "title": "Family: The Summit of Remembrance"
+        },
+        {
+            "id": "family_story_hard_030",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_hard_030.json",
+            "fileName": "family/family_story_hard_030.json",
+            "theme": "family",
+            "difficulty": "Hard",
+            "title": "Family: The Anchored Afternoon"
+        },
+        {
+            "id": "family_story_medium_011",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_medium_011.json",
+            "fileName": "family/family_story_medium_011.json",
+            "theme": "family",
+            "difficulty": "Medium",
+            "title": "Family: The Secret Upstairs"
+        },
+        {
+            "id": "family_story_medium_012",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_medium_012.json",
+            "fileName": "family/family_story_medium_012.json",
+            "theme": "family",
+            "difficulty": "Medium",
+            "title": "Family: The Unplanned Celebration"
+        },
+        {
+            "id": "family_story_medium_013",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_medium_013.json",
+            "fileName": "family/family_story_medium_013.json",
+            "theme": "family",
+            "difficulty": "Medium",
+            "title": "Family: The Stitched Heritage"
+        },
+        {
+            "id": "family_story_medium_014",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_medium_014.json",
+            "fileName": "family/family_story_medium_014.json",
+            "theme": "family",
+            "difficulty": "Medium",
+            "title": "Family: The Long-Distance Reunion"
+        },
+        {
+            "id": "family_story_medium_015",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_medium_015.json",
+            "fileName": "family/family_story_medium_015.json",
+            "theme": "family",
+            "difficulty": "Medium",
+            "title": "Family: The Heart of the Home"
+        },
+        {
+            "id": "family_story_medium_016",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_medium_016.json",
+            "fileName": "family/family_story_medium_016.json",
+            "theme": "family",
+            "difficulty": "Medium",
+            "title": "Family: The Sunset Frame"
+        },
+        {
+            "id": "family_story_medium_017",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_medium_017.json",
+            "fileName": "family/family_story_medium_017.json",
+            "theme": "family",
+            "difficulty": "Medium",
+            "title": "Family: The Ancestral Tapestry"
+        },
+        {
+            "id": "family_story_medium_018",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_medium_018.json",
+            "fileName": "family/family_story_medium_018.json",
+            "theme": "family",
+            "difficulty": "Medium",
+            "title": "Family: The Lakeside Retreat"
+        },
+        {
+            "id": "family_story_medium_019",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_medium_019.json",
+            "fileName": "family/family_story_medium_019.json",
+            "theme": "family",
+            "difficulty": "Medium",
+            "title": "Family: The Living Room Stage"
+        },
+        {
+            "id": "family_story_medium_020",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/family/family_story_medium_020.json",
+            "fileName": "family/family_story_medium_020.json",
+            "theme": "family",
+            "difficulty": "Medium",
+            "title": "Family: The Sanctuary in the Sky"
+        },
+        {
+            "id": "flowers_story_easy_001",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_easy_001.json",
+            "fileName": "flowers/flowers_story_easy_001.json",
+            "theme": "flowers",
+            "difficulty": "Easy",
+            "title": "Flowers: The Awakening Meadow"
+        },
+        {
+            "id": "flowers_story_easy_002",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_easy_002.json",
+            "fileName": "flowers/flowers_story_easy_002.json",
+            "theme": "flowers",
+            "difficulty": "Easy",
+            "title": "Flowers: The Lavender Sea"
+        },
+        {
+            "id": "flowers_story_easy_003",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_easy_003.json",
+            "fileName": "flowers/flowers_story_easy_003.json",
+            "theme": "flowers",
+            "difficulty": "Easy",
+            "title": "Flowers: The Midnight Bloom"
+        },
+        {
+            "id": "flowers_story_easy_004",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_easy_004.json",
+            "fileName": "flowers/flowers_story_easy_004.json",
+            "theme": "flowers",
+            "difficulty": "Easy",
+            "title": "Flowers: The Enchanted Entrance"
+        },
+        {
+            "id": "flowers_story_easy_005",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_easy_005.json",
+            "fileName": "flowers/flowers_story_easy_005.json",
+            "theme": "flowers",
+            "difficulty": "Easy",
+            "title": "Flowers: The Petal Trail"
+        },
+        {
+            "id": "flowers_story_easy_006",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_easy_006.json",
+            "fileName": "flowers/flowers_story_easy_006.json",
+            "theme": "flowers",
+            "difficulty": "Easy",
+            "title": "Flowers: The Crystal Greenhouse"
+        },
+        {
+            "id": "flowers_story_easy_007",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_easy_007.json",
+            "fileName": "flowers/flowers_story_easy_007.json",
+            "theme": "flowers",
+            "difficulty": "Easy",
+            "title": "Flowers: The Meadow Secret"
+        },
+        {
+            "id": "flowers_story_easy_008",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_easy_008.json",
+            "fileName": "flowers/flowers_story_easy_008.json",
+            "theme": "flowers",
+            "difficulty": "Easy",
+            "title": "Flowers: The Gentle Garden Bloom"
+        },
+        {
+            "id": "flowers_story_easy_009",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_easy_009.json",
+            "fileName": "flowers/flowers_story_easy_009.json",
+            "theme": "flowers",
+            "difficulty": "Easy",
+            "title": "Flowers: The Skyward Stem"
+        },
+        {
+            "id": "flowers_story_easy_010",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_easy_010.json",
+            "fileName": "flowers/flowers_story_easy_010.json",
+            "theme": "flowers",
+            "difficulty": "Easy",
+            "title": "Flowers: The Garden of Giving"
+        },
+        {
+            "id": "flowers_story_hard_021",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_hard_021.json",
+            "fileName": "flowers/flowers_story_hard_021.json",
+            "theme": "flowers",
+            "difficulty": "Hard",
+            "title": "Flowers: The Grand Floral Procession"
+        },
+        {
+            "id": "flowers_story_hard_022",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_hard_022.json",
+            "fileName": "flowers/flowers_story_hard_022.json",
+            "theme": "flowers",
+            "difficulty": "Hard",
+            "title": "Flowers: The Pollen Quest"
+        },
+        {
+            "id": "flowers_story_hard_023",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_hard_023.json",
+            "fileName": "flowers/flowers_story_hard_023.json",
+            "theme": "flowers",
+            "difficulty": "Hard",
+            "title": "Flowers: The Awakening Pond"
+        },
+        {
+            "id": "flowers_story_hard_024",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_hard_024.json",
+            "fileName": "flowers/flowers_story_hard_024.json",
+            "theme": "flowers",
+            "difficulty": "Hard",
+            "title": "Flowers: The Sovereign Bloom"
+        },
+        {
+            "id": "flowers_story_hard_025",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_hard_025.json",
+            "fileName": "flowers/flowers_story_hard_025.json",
+            "theme": "flowers",
+            "difficulty": "Hard",
+            "title": "Flowers: The Crimson Sentinel"
+        },
+        {
+            "id": "flowers_story_hard_026",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_hard_026.json",
+            "fileName": "flowers/flowers_story_hard_026.json",
+            "theme": "flowers",
+            "difficulty": "Hard",
+            "title": "Flowers: The Sanctuary of Stones"
+        },
+        {
+            "id": "flowers_story_hard_027",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_hard_027.json",
+            "fileName": "flowers/flowers_story_hard_027.json",
+            "theme": "flowers",
+            "difficulty": "Hard",
+            "title": "Flowers: The Botanist's Keepsake"
+        },
+        {
+            "id": "flowers_story_hard_028",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_hard_028.json",
+            "fileName": "flowers/flowers_story_hard_028.json",
+            "theme": "flowers",
+            "difficulty": "Hard",
+            "title": "Flowers: The Sunlit Sill"
+        },
+        {
+            "id": "flowers_story_hard_029",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_hard_029.json",
+            "fileName": "flowers/flowers_story_hard_029.json",
+            "theme": "flowers",
+            "difficulty": "Hard",
+            "title": "Flowers: The Aerial Dance of Petals"
+        },
+        {
+            "id": "flowers_story_hard_030",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_hard_030.json",
+            "fileName": "flowers/flowers_story_hard_030.json",
+            "theme": "flowers",
+            "difficulty": "Hard",
+            "title": "Flowers: The Great Dispersal"
+        },
+        {
+            "id": "flowers_story_medium_011",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_medium_011.json",
+            "fileName": "flowers/flowers_story_medium_011.json",
+            "theme": "flowers",
+            "difficulty": "Medium",
+            "title": "Flowers: The Whispering Petal Valley"
+        },
+        {
+            "id": "flowers_story_medium_012",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_medium_012.json",
+            "fileName": "flowers/flowers_story_medium_012.json",
+            "theme": "flowers",
+            "difficulty": "Medium",
+            "title": "Flowers: The Pink Petal Celebration"
+        },
+        {
+            "id": "flowers_story_medium_013",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_medium_013.json",
+            "fileName": "flowers/flowers_story_medium_013.json",
+            "theme": "flowers",
+            "difficulty": "Medium",
+            "title": "Flowers: The Shifting Bloom"
+        },
+        {
+            "id": "flowers_story_medium_014",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_medium_014.json",
+            "fileName": "flowers/flowers_story_medium_014.json",
+            "theme": "flowers",
+            "difficulty": "Medium",
+            "title": "Flowers: The Quest for the Radiant Bloom"
+        },
+        {
+            "id": "flowers_story_medium_015",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_medium_015.json",
+            "fileName": "flowers/flowers_story_medium_015.json",
+            "theme": "flowers",
+            "difficulty": "Medium",
+            "title": "Flowers: The Desert's Hidden Secret"
+        },
+        {
+            "id": "flowers_story_medium_016",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_medium_016.json",
+            "fileName": "flowers/flowers_story_medium_016.json",
+            "theme": "flowers",
+            "difficulty": "Medium",
+            "title": "Flowers: The Garden of Silken Light"
+        },
+        {
+            "id": "flowers_story_medium_017",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_medium_017.json",
+            "fileName": "flowers/flowers_story_medium_017.json",
+            "theme": "flowers",
+            "difficulty": "Medium",
+            "title": "Flowers: The Secret Garden Waltz"
+        },
+        {
+            "id": "flowers_story_medium_018",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_medium_018.json",
+            "fileName": "flowers/flowers_story_medium_018.json",
+            "theme": "flowers",
+            "difficulty": "Medium",
+            "title": "Flowers: The Midnight Bloom"
+        },
+        {
+            "id": "flowers_story_medium_019",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_medium_019.json",
+            "fileName": "flowers/flowers_story_medium_019.json",
+            "theme": "flowers",
+            "difficulty": "Medium",
+            "title": "Flowers: The Mirror of the Marsh"
+        },
+        {
+            "id": "flowers_story_medium_020",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/flowers/flowers_story_medium_020.json",
+            "fileName": "flowers/flowers_story_medium_020.json",
+            "theme": "flowers",
+            "difficulty": "Medium",
+            "title": "Flowers: The Hidden Azure Patch"
+        },
+        {
+            "id": "hobbies_story_easy_001",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_easy_001.json",
+            "fileName": "hobbies/hobbies_story_easy_001.json",
+            "theme": "hobbies",
+            "difficulty": "Easy",
+            "title": "Hobbies: The Canvas Awakening"
+        },
+        {
+            "id": "hobbies_story_easy_002",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_easy_002.json",
+            "fileName": "hobbies/hobbies_story_easy_002.json",
+            "theme": "hobbies",
+            "difficulty": "Easy",
+            "title": "Hobbies: The Traveler's Square"
+        },
+        {
+            "id": "hobbies_story_easy_003",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_easy_003.json",
+            "fileName": "hobbies/hobbies_story_easy_003.json",
+            "theme": "hobbies",
+            "difficulty": "Easy",
+            "title": "Hobbies: The Dancing Clay"
+        },
+        {
+            "id": "hobbies_story_easy_004",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_easy_004.json",
+            "fileName": "hobbies/hobbies_story_easy_004.json",
+            "theme": "hobbies",
+            "difficulty": "Easy",
+            "title": "Hobbies: The Melodic Attic"
+        },
+        {
+            "id": "hobbies_story_easy_005",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_easy_005.json",
+            "fileName": "hobbies/hobbies_story_easy_005.json",
+            "theme": "hobbies",
+            "difficulty": "Easy",
+            "title": "Hobbies: The Creative Kingdom"
+        },
+        {
+            "id": "hobbies_story_easy_006",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_easy_006.json",
+            "fileName": "hobbies/hobbies_story_easy_006.json",
+            "theme": "hobbies",
+            "difficulty": "Easy",
+            "title": "Hobbies: The Dancing Diamond"
+        },
+        {
+            "id": "hobbies_story_easy_007",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_easy_007.json",
+            "fileName": "hobbies/hobbies_story_easy_007.json",
+            "theme": "hobbies",
+            "difficulty": "Easy",
+            "title": "Hobbies: The Silver Trinket"
+        },
+        {
+            "id": "hobbies_story_easy_008",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_easy_008.json",
+            "fileName": "hobbies/hobbies_story_easy_008.json",
+            "theme": "hobbies",
+            "difficulty": "Easy",
+            "title": "Hobbies: The Iron Miniature"
+        },
+        {
+            "id": "hobbies_story_easy_009",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_easy_009.json",
+            "fileName": "hobbies/hobbies_story_easy_009.json",
+            "theme": "hobbies",
+            "difficulty": "Easy",
+            "title": "Hobbies: The Midnight Observer"
+        },
+        {
+            "id": "hobbies_story_easy_010",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_easy_010.json",
+            "fileName": "hobbies/hobbies_story_easy_010.json",
+            "theme": "hobbies",
+            "difficulty": "Easy",
+            "title": "Hobbies: The Rainbow Stitch"
+        },
+        {
+            "id": "hobbies_story_hard_021",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_hard_021.json",
+            "fileName": "hobbies/hobbies_story_hard_021.json",
+            "theme": "hobbies",
+            "difficulty": "Hard",
+            "title": "Hobbies: The Paper Wings of Dawn"
+        },
+        {
+            "id": "hobbies_story_hard_022",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_hard_022.json",
+            "fileName": "hobbies/hobbies_story_hard_022.json",
+            "theme": "hobbies",
+            "difficulty": "Hard",
+            "title": "Hobbies: The Golden Crust Awakening"
+        },
+        {
+            "id": "hobbies_story_hard_023",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_hard_023.json",
+            "fileName": "hobbies/hobbies_story_hard_023.json",
+            "theme": "hobbies",
+            "difficulty": "Hard",
+            "title": "Hobbies: The Path to Radiance"
+        },
+        {
+            "id": "hobbies_story_hard_024",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_hard_024.json",
+            "fileName": "hobbies/hobbies_story_hard_024.json",
+            "theme": "hobbies",
+            "difficulty": "Hard",
+            "title": "Hobbies: The Hidden Mountain Path"
+        },
+        {
+            "id": "hobbies_story_hard_025",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_hard_025.json",
+            "fileName": "hobbies/hobbies_story_hard_025.json",
+            "theme": "hobbies",
+            "difficulty": "Hard",
+            "title": "Hobbies: The Eternal Chronicle"
+        },
+        {
+            "id": "hobbies_story_hard_026",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_hard_026.json",
+            "fileName": "hobbies/hobbies_story_hard_026.json",
+            "theme": "hobbies",
+            "difficulty": "Hard",
+            "title": "Hobbies: The Luminous Lens"
+        },
+        {
+            "id": "hobbies_story_hard_027",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_hard_027.json",
+            "fileName": "hobbies/hobbies_story_hard_027.json",
+            "theme": "hobbies",
+            "difficulty": "Hard",
+            "title": "Hobbies: The Ink-Stained Portal"
+        },
+        {
+            "id": "hobbies_story_hard_028",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_hard_028.json",
+            "fileName": "hobbies/hobbies_story_hard_028.json",
+            "theme": "hobbies",
+            "difficulty": "Hard",
+            "title": "Hobbies: The Rare Discovery"
+        },
+        {
+            "id": "hobbies_story_hard_029",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_hard_029.json",
+            "fileName": "hobbies/hobbies_story_hard_029.json",
+            "theme": "hobbies",
+            "difficulty": "Hard",
+            "title": "Hobbies: The Great Skyward Journey"
+        },
+        {
+            "id": "hobbies_story_hard_030",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_hard_030.json",
+            "fileName": "hobbies/hobbies_story_hard_030.json",
+            "theme": "hobbies",
+            "difficulty": "Hard",
+            "title": "Hobbies: The Sculptor's Vision"
+        },
+        {
+            "id": "hobbies_story_medium_011",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_medium_011.json",
+            "fileName": "hobbies/hobbies_story_medium_011.json",
+            "theme": "hobbies",
+            "difficulty": "Medium",
+            "title": "Hobbies: The Emerald Awakening"
+        },
+        {
+            "id": "hobbies_story_medium_012",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_medium_012.json",
+            "fileName": "hobbies/hobbies_story_medium_012.json",
+            "theme": "hobbies",
+            "difficulty": "Medium",
+            "title": "Hobbies: The Enchanted Shuffle"
+        },
+        {
+            "id": "hobbies_story_medium_013",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_medium_013.json",
+            "fileName": "hobbies/hobbies_story_medium_013.json",
+            "theme": "hobbies",
+            "difficulty": "Medium",
+            "title": "Hobbies: The Lens of Moments"
+        },
+        {
+            "id": "hobbies_story_medium_014",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_medium_014.json",
+            "fileName": "hobbies/hobbies_story_medium_014.json",
+            "theme": "hobbies",
+            "difficulty": "Medium",
+            "title": "Hobbies: The Forgotten Prize"
+        },
+        {
+            "id": "hobbies_story_medium_015",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_medium_015.json",
+            "fileName": "hobbies/hobbies_story_medium_015.json",
+            "theme": "hobbies",
+            "difficulty": "Medium",
+            "title": "Hobbies: The Evening Melody"
+        },
+        {
+            "id": "hobbies_story_medium_016",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_medium_016.json",
+            "fileName": "hobbies/hobbies_story_medium_016.json",
+            "theme": "hobbies",
+            "difficulty": "Medium",
+            "title": "Hobbies: The Silent Artisan"
+        },
+        {
+            "id": "hobbies_story_medium_017",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_medium_017.json",
+            "fileName": "hobbies/hobbies_story_medium_017.json",
+            "theme": "hobbies",
+            "difficulty": "Medium",
+            "title": "Hobbies: The Stage of Dreams"
+        },
+        {
+            "id": "hobbies_story_medium_018",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_medium_018.json",
+            "fileName": "hobbies/hobbies_story_medium_018.json",
+            "theme": "hobbies",
+            "difficulty": "Medium",
+            "title": "Hobbies: The Weaver of Words"
+        },
+        {
+            "id": "hobbies_story_medium_019",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_medium_019.json",
+            "fileName": "hobbies/hobbies_story_medium_019.json",
+            "theme": "hobbies",
+            "difficulty": "Medium",
+            "title": "Hobbies: The Eternal Gambit"
+        },
+        {
+            "id": "hobbies_story_medium_020",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/hobbies/hobbies_story_medium_020.json",
+            "fileName": "hobbies/hobbies_story_medium_020.json",
+            "theme": "hobbies",
+            "difficulty": "Medium",
+            "title": "Hobbies: The Infinite Puzzle"
+        },
+        {
+            "id": "household_story_easy_001",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_easy_001.json",
+            "fileName": "household/household_story_easy_001.json",
+            "theme": "household",
+            "difficulty": "Easy",
+            "title": "Household: The Backward Pendulum"
+        },
+        {
+            "id": "household_story_easy_002",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_easy_002.json",
+            "fileName": "household/household_story_easy_002.json",
+            "theme": "household",
+            "difficulty": "Easy",
+            "title": "Household: The Silent Sanctuary"
+        },
+        {
+            "id": "household_story_easy_003",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_easy_003.json",
+            "fileName": "household/household_story_easy_003.json",
+            "theme": "household",
+            "difficulty": "Easy",
+            "title": "Household: The Silver Mirror"
+        },
+        {
+            "id": "household_story_easy_004",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_easy_004.json",
+            "fileName": "household/household_story_easy_004.json",
+            "theme": "household",
+            "difficulty": "Easy",
+            "title": "Household: The Hidden Attic Treasure"
+        },
+        {
+            "id": "household_story_easy_005",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_easy_005.json",
+            "fileName": "household/household_story_easy_005.json",
+            "theme": "household",
+            "difficulty": "Easy",
+            "title": "Household: The Golden Kitchen"
+        },
+        {
+            "id": "household_story_easy_006",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_easy_006.json",
+            "fileName": "household/household_story_easy_006.json",
+            "theme": "household",
+            "difficulty": "Easy",
+            "title": "Household: The Hearth's Secret Glow"
+        },
+        {
+            "id": "household_story_easy_007",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_easy_007.json",
+            "fileName": "household/household_story_easy_007.json",
+            "theme": "household",
+            "difficulty": "Easy",
+            "title": "Household: The Magic Steps"
+        },
+        {
+            "id": "household_story_easy_008",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_easy_008.json",
+            "fileName": "household/household_story_easy_008.json",
+            "theme": "household",
+            "difficulty": "Easy",
+            "title": "Household: The Sunlit Pane"
+        },
+        {
+            "id": "household_story_easy_009",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_easy_009.json",
+            "fileName": "household/household_story_easy_009.json",
+            "theme": "household",
+            "difficulty": "Easy",
+            "title": "Household: The Harmonious Kettle"
+        },
+        {
+            "id": "household_story_easy_010",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_easy_010.json",
+            "fileName": "household/household_story_easy_010.json",
+            "theme": "household",
+            "difficulty": "Easy",
+            "title": "Household: The Enchanted Carpet"
+        },
+        {
+            "id": "household_story_hard_021",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_hard_021.json",
+            "fileName": "household/household_story_hard_021.json",
+            "theme": "household",
+            "difficulty": "Hard",
+            "title": "Household: The Rear Threshold"
+        },
+        {
+            "id": "household_story_hard_022",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_hard_022.json",
+            "fileName": "household/household_story_hard_022.json",
+            "theme": "household",
+            "difficulty": "Hard",
+            "title": "Household: The Living Room Sanctuary"
+        },
+        {
+            "id": "household_story_hard_023",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_hard_023.json",
+            "fileName": "household/household_story_hard_023.json",
+            "theme": "household",
+            "difficulty": "Hard",
+            "title": "Household: The Writer's Sanctuary"
+        },
+        {
+            "id": "household_story_hard_024",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_hard_024.json",
+            "fileName": "household/household_story_hard_024.json",
+            "theme": "household",
+            "difficulty": "Hard",
+            "title": "Household: The Subterranean Workshop"
+        },
+        {
+            "id": "household_story_hard_025",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_hard_025.json",
+            "fileName": "household/household_story_hard_025.json",
+            "theme": "household",
+            "difficulty": "Hard",
+            "title": "Household: The Fabric of Memories"
+        },
+        {
+            "id": "household_story_hard_026",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_hard_026.json",
+            "fileName": "household/household_story_hard_026.json",
+            "theme": "household",
+            "difficulty": "Hard",
+            "title": "Household: The Culinary Alchemist's Kitchen"
+        },
+        {
+            "id": "household_story_hard_027",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_hard_027.json",
+            "fileName": "household/household_story_hard_027.json",
+            "theme": "household",
+            "difficulty": "Hard",
+            "title": "Household: The Evening Sway"
+        },
+        {
+            "id": "household_story_hard_028",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_hard_028.json",
+            "fileName": "household/household_story_hard_028.json",
+            "theme": "household",
+            "difficulty": "Hard",
+            "title": "Household: The Chamber of Dreams"
+        },
+        {
+            "id": "household_story_hard_029",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_hard_029.json",
+            "fileName": "household/household_story_hard_029.json",
+            "theme": "household",
+            "difficulty": "Hard",
+            "title": "Household: The Welcoming Ring"
+        },
+        {
+            "id": "household_story_hard_030",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_hard_030.json",
+            "fileName": "household/household_story_hard_030.json",
+            "theme": "household",
+            "difficulty": "Hard",
+            "title": "Household: The Symphony of Home"
+        },
+        {
+            "id": "household_story_medium_011",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_medium_011.json",
+            "fileName": "household/household_story_medium_011.json",
+            "theme": "household",
+            "difficulty": "Medium",
+            "title": "Household: The Hidden Attic Sanctuary"
+        },
+        {
+            "id": "household_story_medium_012",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_medium_012.json",
+            "fileName": "household/household_story_medium_012.json",
+            "theme": "household",
+            "difficulty": "Medium",
+            "title": "Household: The Sun-Drenched Clothesline"
+        },
+        {
+            "id": "household_story_medium_013",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_medium_013.json",
+            "fileName": "household/household_story_medium_013.json",
+            "theme": "household",
+            "difficulty": "Medium",
+            "title": "Household: The Deep Pantry Secret"
+        },
+        {
+            "id": "household_story_medium_014",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_medium_014.json",
+            "fileName": "household/household_story_medium_014.json",
+            "theme": "household",
+            "difficulty": "Medium",
+            "title": "Household: The Rhythmic Corner"
+        },
+        {
+            "id": "household_story_medium_015",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_medium_015.json",
+            "fileName": "household/household_story_medium_015.json",
+            "theme": "household",
+            "difficulty": "Medium",
+            "title": "Household: The Everlasting Glow"
+        },
+        {
+            "id": "household_story_medium_016",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_medium_016.json",
+            "fileName": "household/household_story_medium_016.json",
+            "theme": "household",
+            "difficulty": "Medium",
+            "title": "Household: The View From The Porch"
+        },
+        {
+            "id": "household_story_medium_017",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_medium_017.json",
+            "fileName": "household/household_story_medium_017.json",
+            "theme": "household",
+            "difficulty": "Medium",
+            "title": "Household: The Secret Sanctuary"
+        },
+        {
+            "id": "household_story_medium_018",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_medium_018.json",
+            "fileName": "household/household_story_medium_018.json",
+            "theme": "household",
+            "difficulty": "Medium",
+            "title": "Household: The Gallery of Moments"
+        },
+        {
+            "id": "household_story_medium_019",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_medium_019.json",
+            "fileName": "household/household_story_medium_019.json",
+            "theme": "household",
+            "difficulty": "Medium",
+            "title": "Household: The Cedar Sanctuary"
+        },
+        {
+            "id": "household_story_medium_020",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/household/household_story_medium_020.json",
+            "fileName": "household/household_story_medium_020.json",
+            "theme": "household",
+            "difficulty": "Medium",
+            "title": "Household: The Festive Banquet"
+        },
+        {
+            "id": "instruments_story_easy_001",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_easy_001.json",
+            "fileName": "instruments/instruments_story_easy_001.json",
+            "theme": "instruments",
+            "difficulty": "Easy",
+            "title": "Instruments: The Midnight Serenade"
+        },
+        {
+            "id": "instruments_story_easy_002",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_easy_002.json",
+            "fileName": "instruments/instruments_story_easy_002.json",
+            "theme": "instruments",
+            "difficulty": "Easy",
+            "title": "Instruments: The Echoing Rhythm"
+        },
+        {
+            "id": "instruments_story_easy_003",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_easy_003.json",
+            "fileName": "instruments/instruments_story_easy_003.json",
+            "theme": "instruments",
+            "difficulty": "Easy",
+            "title": "Instruments: The Melody of Light"
+        },
+        {
+            "id": "instruments_story_easy_004",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_easy_004.json",
+            "fileName": "instruments/instruments_story_easy_004.json",
+            "theme": "instruments",
+            "difficulty": "Easy",
+            "title": "Instruments: The Golden Echo"
+        },
+        {
+            "id": "instruments_story_easy_005",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_easy_005.json",
+            "fileName": "instruments/instruments_story_easy_005.json",
+            "theme": "instruments",
+            "difficulty": "Easy",
+            "title": "Instruments: The Dance of the Keys"
+        },
+        {
+            "id": "instruments_story_easy_006",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_easy_006.json",
+            "fileName": "instruments/instruments_story_easy_006.json",
+            "theme": "instruments",
+            "difficulty": "Easy",
+            "title": "Instruments: The Echoing Grove"
+        },
+        {
+            "id": "instruments_story_easy_007",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_easy_007.json",
+            "fileName": "instruments/instruments_story_easy_007.json",
+            "theme": "instruments",
+            "difficulty": "Easy",
+            "title": "Instruments: The Resonant Room"
+        },
+        {
+            "id": "instruments_story_easy_008",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_easy_008.json",
+            "fileName": "instruments/instruments_story_easy_008.json",
+            "theme": "instruments",
+            "difficulty": "Easy",
+            "title": "Instruments: The Midnight Melody"
+        },
+        {
+            "id": "instruments_story_easy_009",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_easy_009.json",
+            "fileName": "instruments/instruments_story_easy_009.json",
+            "theme": "instruments",
+            "difficulty": "Easy",
+            "title": "Instruments: The Echoing Pipes"
+        },
+        {
+            "id": "instruments_story_easy_010",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_easy_010.json",
+            "fileName": "instruments/instruments_story_easy_010.json",
+            "theme": "instruments",
+            "difficulty": "Easy",
+            "title": "Instruments: The Starlit Melody"
+        },
+        {
+            "id": "instruments_story_hard_021",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_hard_021.json",
+            "fileName": "instruments/instruments_story_hard_021.json",
+            "theme": "instruments",
+            "difficulty": "Hard",
+            "title": "Instruments: The Melodic Valley"
+        },
+        {
+            "id": "instruments_story_hard_022",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_hard_022.json",
+            "fileName": "instruments/instruments_story_hard_022.json",
+            "theme": "instruments",
+            "difficulty": "Hard",
+            "title": "Instruments: The Resonance of Silver"
+        },
+        {
+            "id": "instruments_story_hard_023",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_hard_023.json",
+            "fileName": "instruments/instruments_story_hard_023.json",
+            "theme": "instruments",
+            "difficulty": "Hard",
+            "title": "Instruments: The Midnight Pulse"
+        },
+        {
+            "id": "instruments_story_hard_024",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_hard_024.json",
+            "fileName": "instruments/instruments_story_hard_024.json",
+            "theme": "instruments",
+            "difficulty": "Hard",
+            "title": "Instruments: The Ancient Song of the Glade"
+        },
+        {
+            "id": "instruments_story_hard_025",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_hard_025.json",
+            "fileName": "instruments/instruments_story_hard_025.json",
+            "theme": "instruments",
+            "difficulty": "Hard",
+            "title": "Instruments: The Resonance of Ages"
+        },
+        {
+            "id": "instruments_story_hard_026",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_hard_026.json",
+            "fileName": "instruments/instruments_story_hard_026.json",
+            "theme": "instruments",
+            "difficulty": "Hard",
+            "title": "Instruments: The Resonance of the Stage"
+        },
+        {
+            "id": "instruments_story_hard_027",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_hard_027.json",
+            "fileName": "instruments/instruments_story_hard_027.json",
+            "theme": "instruments",
+            "difficulty": "Hard",
+            "title": "Instruments: The Midnight Frequency"
+        },
+        {
+            "id": "instruments_story_hard_028",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_hard_028.json",
+            "fileName": "instruments/instruments_story_hard_028.json",
+            "theme": "instruments",
+            "difficulty": "Hard",
+            "title": "Instruments: The Silent Symphony"
+        },
+        {
+            "id": "instruments_story_hard_029",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_hard_029.json",
+            "fileName": "instruments/instruments_story_hard_029.json",
+            "theme": "instruments",
+            "difficulty": "Hard",
+            "title": "Instruments: The Universal Resonance"
+        },
+        {
+            "id": "instruments_story_hard_030",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_hard_030.json",
+            "fileName": "instruments/instruments_story_hard_030.json",
+            "theme": "instruments",
+            "difficulty": "Hard",
+            "title": "Instruments: The Resonance of Origin"
+        },
+        {
+            "id": "instruments_story_medium_011",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_medium_011.json",
+            "fileName": "instruments/instruments_story_medium_011.json",
+            "theme": "instruments",
+            "difficulty": "Medium",
+            "title": "Instruments: The Midnight Melody"
+        },
+        {
+            "id": "instruments_story_medium_012",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_medium_012.json",
+            "fileName": "instruments/instruments_story_medium_012.json",
+            "theme": "instruments",
+            "difficulty": "Medium",
+            "title": "Instruments: The Rhythmic Transformation"
+        },
+        {
+            "id": "instruments_story_medium_013",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_medium_013.json",
+            "fileName": "instruments/instruments_story_medium_013.json",
+            "theme": "instruments",
+            "difficulty": "Medium",
+            "title": "Instruments: The Echoing Grove"
+        },
+        {
+            "id": "instruments_story_medium_014",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_medium_014.json",
+            "fileName": "instruments/instruments_story_medium_014.json",
+            "theme": "instruments",
+            "difficulty": "Medium",
+            "title": "Instruments: The Twilight Serenade"
+        },
+        {
+            "id": "instruments_story_medium_015",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_medium_015.json",
+            "fileName": "instruments/instruments_story_medium_015.json",
+            "theme": "instruments",
+            "difficulty": "Medium",
+            "title": "Instruments: The Melodic Summit"
+        },
+        {
+            "id": "instruments_story_medium_016",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_medium_016.json",
+            "fileName": "instruments/instruments_story_medium_016.json",
+            "theme": "instruments",
+            "difficulty": "Medium",
+            "title": "Instruments: The Midnight Melody"
+        },
+        {
+            "id": "instruments_story_medium_017",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_medium_017.json",
+            "fileName": "instruments/instruments_story_medium_017.json",
+            "theme": "instruments",
+            "difficulty": "Medium",
+            "title": "Instruments: The Resonance of Strings"
+        },
+        {
+            "id": "instruments_story_medium_018",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_medium_018.json",
+            "fileName": "instruments/instruments_story_medium_018.json",
+            "theme": "instruments",
+            "difficulty": "Medium",
+            "title": "Instruments: The Island Melody"
+        },
+        {
+            "id": "instruments_story_medium_019",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_medium_019.json",
+            "fileName": "instruments/instruments_story_medium_019.json",
+            "theme": "instruments",
+            "difficulty": "Medium",
+            "title": "Instruments: The Resonant Valley"
+        },
+        {
+            "id": "instruments_story_medium_020",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/instruments/instruments_story_medium_020.json",
+            "fileName": "instruments/instruments_story_medium_020.json",
+            "theme": "instruments",
+            "difficulty": "Medium",
+            "title": "Instruments: The Song of the High Tower"
+        },
+        {
+            "id": "nature_story_easy_001",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_easy_001.json",
+            "fileName": "nature/nature_story_easy_001.json",
+            "theme": "nature",
+            "difficulty": "Easy",
+            "title": "Nature: The Dancing Sky"
+        },
+        {
+            "id": "nature_story_easy_002",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_easy_002.json",
+            "fileName": "nature/nature_story_easy_002.json",
+            "theme": "nature",
+            "difficulty": "Easy",
+            "title": "Nature: The Dozing Mountain"
+        },
+        {
+            "id": "nature_story_easy_003",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_easy_003.json",
+            "fileName": "nature/nature_story_easy_003.json",
+            "theme": "nature",
+            "difficulty": "Easy",
+            "title": "Nature: The Enchanted Undergrowth"
+        },
+        {
+            "id": "nature_story_easy_004",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_easy_004.json",
+            "fileName": "nature/nature_story_easy_004.json",
+            "theme": "nature",
+            "difficulty": "Easy",
+            "title": "Nature: The Gravity-Defying Stream"
+        },
+        {
+            "id": "nature_story_easy_005",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_easy_005.json",
+            "fileName": "nature/nature_story_easy_005.json",
+            "theme": "nature",
+            "difficulty": "Easy",
+            "title": "Nature: The Silver Willow's Song"
+        },
+        {
+            "id": "nature_story_easy_006",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_easy_006.json",
+            "fileName": "nature/nature_story_easy_006.json",
+            "theme": "nature",
+            "difficulty": "Easy",
+            "title": "Nature: The Glistening Gorge"
+        },
+        {
+            "id": "nature_story_easy_007",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_easy_007.json",
+            "fileName": "nature/nature_story_easy_007.json",
+            "theme": "nature",
+            "difficulty": "Easy",
+            "title": "Nature: The Hidden Blue"
+        },
+        {
+            "id": "nature_story_easy_008",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_easy_008.json",
+            "fileName": "nature/nature_story_easy_008.json",
+            "theme": "nature",
+            "difficulty": "Easy",
+            "title": "Nature: The Celestial Rain"
+        },
+        {
+            "id": "nature_story_easy_009",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_easy_009.json",
+            "fileName": "nature/nature_story_easy_009.json",
+            "theme": "nature",
+            "difficulty": "Easy",
+            "title": "Nature: The First Meadow Bloom"
+        },
+        {
+            "id": "nature_story_easy_010",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_easy_010.json",
+            "fileName": "nature/nature_story_easy_010.json",
+            "theme": "nature",
+            "difficulty": "Easy",
+            "title": "Nature: The Crystal Peak"
+        },
+        {
+            "id": "nature_story_hard_021",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_hard_021.json",
+            "fileName": "nature/nature_story_hard_021.json",
+            "theme": "nature",
+            "difficulty": "Hard",
+            "title": "Nature: The Luminescent Trail"
+        },
+        {
+            "id": "nature_story_hard_022",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_hard_022.json",
+            "fileName": "nature/nature_story_hard_022.json",
+            "theme": "nature",
+            "difficulty": "Hard",
+            "title": "Nature: The Towering Vision"
+        },
+        {
+            "id": "nature_story_hard_023",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_hard_023.json",
+            "fileName": "nature/nature_story_hard_023.json",
+            "theme": "nature",
+            "difficulty": "Hard",
+            "title": "Nature: The Whispering Haze"
+        },
+        {
+            "id": "nature_story_hard_024",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_hard_024.json",
+            "fileName": "nature/nature_story_hard_024.json",
+            "theme": "nature",
+            "difficulty": "Hard",
+            "title": "Nature: The Horizon's Eternal Amber"
+        },
+        {
+            "id": "nature_story_hard_025",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_hard_025.json",
+            "fileName": "nature/nature_story_hard_025.json",
+            "theme": "nature",
+            "difficulty": "Hard",
+            "title": "Nature: The Valley's Hidden Breath"
+        },
+        {
+            "id": "nature_story_hard_026",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_hard_026.json",
+            "fileName": "nature/nature_story_hard_026.json",
+            "theme": "nature",
+            "difficulty": "Hard",
+            "title": "Nature: The Amber Grove"
+        },
+        {
+            "id": "nature_story_hard_027",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_hard_027.json",
+            "fileName": "nature/nature_story_hard_027.json",
+            "theme": "nature",
+            "difficulty": "Hard",
+            "title": "Nature: The Receding Horizon"
+        },
+        {
+            "id": "nature_story_hard_028",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_hard_028.json",
+            "fileName": "nature/nature_story_hard_028.json",
+            "theme": "nature",
+            "difficulty": "Hard",
+            "title": "Nature: The Whispering Pines"
+        },
+        {
+            "id": "nature_story_hard_029",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_hard_029.json",
+            "fileName": "nature/nature_story_hard_029.json",
+            "theme": "nature",
+            "difficulty": "Hard",
+            "title": "Nature: The Resonant Chasm"
+        },
+        {
+            "id": "nature_story_hard_030",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_hard_030.json",
+            "fileName": "nature/nature_story_hard_030.json",
+            "theme": "nature",
+            "difficulty": "Hard",
+            "title": "Nature: The Hidden Sanctuary"
+        },
+        {
+            "id": "nature_story_medium_011",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_medium_011.json",
+            "fileName": "nature/nature_story_medium_011.json",
+            "theme": "nature",
+            "difficulty": "Medium",
+            "title": "Nature: The Shifting Sands"
+        },
+        {
+            "id": "nature_story_medium_012",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_medium_012.json",
+            "fileName": "nature/nature_story_medium_012.json",
+            "theme": "nature",
+            "difficulty": "Medium",
+            "title": "Nature: The Persistent Prism"
+        },
+        {
+            "id": "nature_story_medium_013",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_medium_013.json",
+            "fileName": "nature/nature_story_medium_013.json",
+            "theme": "nature",
+            "difficulty": "Medium",
+            "title": "Nature: The Winter Resonance"
+        },
+        {
+            "id": "nature_story_medium_014",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_medium_014.json",
+            "fileName": "nature/nature_story_medium_014.json",
+            "theme": "nature",
+            "difficulty": "Medium",
+            "title": "Nature: The Evening Meadow"
+        },
+        {
+            "id": "nature_story_medium_015",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_medium_015.json",
+            "fileName": "nature/nature_story_medium_015.json",
+            "theme": "nature",
+            "difficulty": "Medium",
+            "title": "Nature: The Path of Whispering Stones"
+        },
+        {
+            "id": "nature_story_medium_016",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_medium_016.json",
+            "fileName": "nature/nature_story_medium_016.json",
+            "theme": "nature",
+            "difficulty": "Medium",
+            "title": "Nature: The Musical Meadow"
+        },
+        {
+            "id": "nature_story_medium_017",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_medium_017.json",
+            "fileName": "nature/nature_story_medium_017.json",
+            "theme": "nature",
+            "difficulty": "Medium",
+            "title": "Nature: The Whispering Sky"
+        },
+        {
+            "id": "nature_story_medium_018",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_medium_018.json",
+            "fileName": "nature/nature_story_medium_018.json",
+            "theme": "nature",
+            "difficulty": "Medium",
+            "title": "Nature: The Luminous Grotto"
+        },
+        {
+            "id": "nature_story_medium_019",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_medium_019.json",
+            "fileName": "nature/nature_story_medium_019.json",
+            "theme": "nature",
+            "difficulty": "Medium",
+            "title": "Nature: The Wandering Oasis"
+        },
+        {
+            "id": "nature_story_medium_020",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/nature/nature_story_medium_020.json",
+            "fileName": "nature/nature_story_medium_020.json",
+            "theme": "nature",
+            "difficulty": "Medium",
+            "title": "Nature: The River of Radiance"
+        },
+        {
+            "id": "places_story_easy_001",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_easy_001.json",
+            "fileName": "places/places_story_easy_001.json",
+            "theme": "places",
+            "difficulty": "Easy",
+            "title": "Places: The Whispering Dunes Library"
+        },
+        {
+            "id": "places_story_easy_002",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_easy_002.json",
+            "fileName": "places/places_story_easy_002.json",
+            "theme": "places",
+            "difficulty": "Easy",
+            "title": "Places: The Midnight Chime"
+        },
+        {
+            "id": "places_story_easy_003",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_easy_003.json",
+            "fileName": "places/places_story_easy_003.json",
+            "theme": "places",
+            "difficulty": "Easy",
+            "title": "Places: The Grand Plaza"
+        },
+        {
+            "id": "places_story_easy_004",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_easy_004.json",
+            "fileName": "places/places_story_easy_004.json",
+            "theme": "places",
+            "difficulty": "Easy",
+            "title": "Places: The Celestial Crossing"
+        },
+        {
+            "id": "places_story_easy_005",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_easy_005.json",
+            "fileName": "places/places_story_easy_005.json",
+            "theme": "places",
+            "difficulty": "Easy",
+            "title": "Places: The Sky Kingdom"
+        },
+        {
+            "id": "places_story_easy_006",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_easy_006.json",
+            "fileName": "places/places_story_easy_006.json",
+            "theme": "places",
+            "difficulty": "Easy",
+            "title": "Places: The Infinite Palace"
+        },
+        {
+            "id": "places_story_easy_007",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_easy_007.json",
+            "fileName": "places/places_story_easy_007.json",
+            "theme": "places",
+            "difficulty": "Easy",
+            "title": "Places: The Peak of Stillness"
+        },
+        {
+            "id": "places_story_easy_008",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_easy_008.json",
+            "fileName": "places/places_story_easy_008.json",
+            "theme": "places",
+            "difficulty": "Easy",
+            "title": "Places: The Shimmering Bazaar"
+        },
+        {
+            "id": "places_story_easy_009",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_easy_009.json",
+            "fileName": "places/places_story_easy_009.json",
+            "theme": "places",
+            "difficulty": "Easy",
+            "title": "Places: The Island in the Clouds"
+        },
+        {
+            "id": "places_story_easy_010",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_easy_010.json",
+            "fileName": "places/places_story_easy_010.json",
+            "theme": "places",
+            "difficulty": "Easy",
+            "title": "Places: The Hidden Platform"
+        },
+        {
+            "id": "places_story_hard_021",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_hard_021.json",
+            "fileName": "places/places_story_hard_021.json",
+            "theme": "places",
+            "difficulty": "Hard",
+            "title": "Places: The Arboreal Sanctuary"
+        },
+        {
+            "id": "places_story_hard_022",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_hard_022.json",
+            "fileName": "places/places_story_hard_022.json",
+            "theme": "places",
+            "difficulty": "Hard",
+            "title": "Places: The Harbor of Light"
+        },
+        {
+            "id": "places_story_hard_023",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_hard_023.json",
+            "fileName": "places/places_story_hard_023.json",
+            "theme": "places",
+            "difficulty": "Hard",
+            "title": "Places: The Azure Expanse"
+        },
+        {
+            "id": "places_story_hard_024",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_hard_024.json",
+            "fileName": "places/places_story_hard_024.json",
+            "theme": "places",
+            "difficulty": "Hard",
+            "title": "Places: The Solar Sanctuary"
+        },
+        {
+            "id": "places_story_hard_025",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_hard_025.json",
+            "fileName": "places/places_story_hard_025.json",
+            "theme": "places",
+            "difficulty": "Hard",
+            "title": "Places: The Echoing Basin"
+        },
+        {
+            "id": "places_story_hard_026",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_hard_026.json",
+            "fileName": "places/places_story_hard_026.json",
+            "theme": "places",
+            "difficulty": "Hard",
+            "title": "Places: The Luminescent Metropolis"
+        },
+        {
+            "id": "places_story_hard_027",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_hard_027.json",
+            "fileName": "places/places_story_hard_027.json",
+            "theme": "places",
+            "difficulty": "Hard",
+            "title": "Places: The Sleeping Harbor"
+        },
+        {
+            "id": "places_story_hard_028",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_hard_028.json",
+            "fileName": "places/places_story_hard_028.json",
+            "theme": "places",
+            "difficulty": "Hard",
+            "title": "Places: The Celestial Peak"
+        },
+        {
+            "id": "places_story_hard_029",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_hard_029.json",
+            "fileName": "places/places_story_hard_029.json",
+            "theme": "places",
+            "difficulty": "Hard",
+            "title": "Places: The Gilded Horizon"
+        },
+        {
+            "id": "places_story_hard_030",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_hard_030.json",
+            "fileName": "places/places_story_hard_030.json",
+            "theme": "places",
+            "difficulty": "Hard",
+            "title": "Places: The Silent Sanctuary"
+        },
+        {
+            "id": "places_story_medium_011",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_medium_011.json",
+            "fileName": "places/places_story_medium_011.json",
+            "theme": "places",
+            "difficulty": "Medium",
+            "title": "Places: The Crimson Corridor"
+        },
+        {
+            "id": "places_story_medium_012",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_medium_012.json",
+            "fileName": "places/places_story_medium_012.json",
+            "theme": "places",
+            "difficulty": "Medium",
+            "title": "Places: The Resonant Grotto"
+        },
+        {
+            "id": "places_story_medium_013",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_medium_013.json",
+            "fileName": "places/places_story_medium_013.json",
+            "theme": "places",
+            "difficulty": "Medium",
+            "title": "Places: The Crystal Conservatory"
+        },
+        {
+            "id": "places_story_medium_014",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_medium_014.json",
+            "fileName": "places/places_story_medium_014.json",
+            "theme": "places",
+            "difficulty": "Medium",
+            "title": "Places: The Archive of Forgotten Wonders"
+        },
+        {
+            "id": "places_story_medium_015",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_medium_015.json",
+            "fileName": "places/places_story_medium_015.json",
+            "theme": "places",
+            "difficulty": "Medium",
+            "title": "Places: The Timeless Corner"
+        },
+        {
+            "id": "places_story_medium_016",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_medium_016.json",
+            "fileName": "places/places_story_medium_016.json",
+            "theme": "places",
+            "difficulty": "Medium",
+            "title": "Places: The Melodic Sanctuary"
+        },
+        {
+            "id": "places_story_medium_017",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_medium_017.json",
+            "fileName": "places/places_story_medium_017.json",
+            "theme": "places",
+            "difficulty": "Medium",
+            "title": "Places: The Silhouetted Stage"
+        },
+        {
+            "id": "places_story_medium_018",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_medium_018.json",
+            "fileName": "places/places_story_medium_018.json",
+            "theme": "places",
+            "difficulty": "Medium",
+            "title": "Places: The Starlit Observatory"
+        },
+        {
+            "id": "places_story_medium_019",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_medium_019.json",
+            "fileName": "places/places_story_medium_019.json",
+            "theme": "places",
+            "difficulty": "Medium",
+            "title": "Places: The Hidden Sanctuary"
+        },
+        {
+            "id": "places_story_medium_020",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/places/places_story_medium_020.json",
+            "fileName": "places/places_story_medium_020.json",
+            "theme": "places",
+            "difficulty": "Medium",
+            "title": "Places: The Whispering Spire"
+        },
+        {
+            "id": "zen_story_easy_001",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_easy_001.json",
+            "fileName": "zen/zen_story_easy_001.json",
+            "theme": "zen",
+            "difficulty": "Easy",
+            "title": "Zen: The Whispering Zen Garden"
+        },
+        {
+            "id": "zen_story_easy_002",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_easy_002.json",
+            "fileName": "zen/zen_story_easy_002.json",
+            "theme": "zen",
+            "difficulty": "Easy",
+            "title": "Zen: The Rippling Surface"
+        },
+        {
+            "id": "zen_story_easy_003",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_easy_003.json",
+            "fileName": "zen/zen_story_easy_003.json",
+            "theme": "zen",
+            "difficulty": "Easy",
+            "title": "Zen: The Whispering Fog"
+        },
+        {
+            "id": "zen_story_easy_004",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_easy_004.json",
+            "fileName": "zen/zen_story_easy_004.json",
+            "theme": "zen",
+            "difficulty": "Easy",
+            "title": "Zen: The Path of Balance"
+        },
+        {
+            "id": "zen_story_easy_005",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_easy_005.json",
+            "fileName": "zen/zen_story_easy_005.json",
+            "theme": "zen",
+            "difficulty": "Easy",
+            "title": "Zen: The Silent Echo"
+        },
+        {
+            "id": "zen_story_easy_006",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_easy_006.json",
+            "fileName": "zen/zen_story_easy_006.json",
+            "theme": "zen",
+            "difficulty": "Easy",
+            "title": "Zen: The Silent Sentinel"
+        },
+        {
+            "id": "zen_story_easy_007",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_easy_007.json",
+            "fileName": "zen/zen_story_easy_007.json",
+            "theme": "zen",
+            "difficulty": "Easy",
+            "title": "Zen: The Drift of Stillness"
+        },
+        {
+            "id": "zen_story_easy_008",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_easy_008.json",
+            "fileName": "zen/zen_story_easy_008.json",
+            "theme": "zen",
+            "difficulty": "Easy",
+            "title": "Zen: The Still Reflection"
+        },
+        {
+            "id": "zen_story_easy_009",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_easy_009.json",
+            "fileName": "zen/zen_story_easy_009.json",
+            "theme": "zen",
+            "difficulty": "Easy",
+            "title": "Zen: The Midnight Glow"
+        },
+        {
+            "id": "zen_story_easy_010",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_easy_010.json",
+            "fileName": "zen/zen_story_easy_010.json",
+            "theme": "zen",
+            "difficulty": "Easy",
+            "title": "Zen: The Labyrinth of Radiance"
+        },
+        {
+            "id": "zen_story_hard_021",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_hard_021.json",
+            "fileName": "zen/zen_story_hard_021.json",
+            "theme": "zen",
+            "difficulty": "Hard",
+            "title": "Zen: The Whispering Summit"
+        },
+        {
+            "id": "zen_story_hard_022",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_hard_022.json",
+            "fileName": "zen/zen_story_hard_022.json",
+            "theme": "zen",
+            "difficulty": "Hard",
+            "title": "Zen: The Midnight Silhouette"
+        },
+        {
+            "id": "zen_story_hard_023",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_hard_023.json",
+            "fileName": "zen/zen_story_hard_023.json",
+            "theme": "zen",
+            "difficulty": "Hard",
+            "title": "Zen: The Infinite Ripple"
+        },
+        {
+            "id": "zen_story_hard_024",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_hard_024.json",
+            "fileName": "zen/zen_story_hard_024.json",
+            "theme": "zen",
+            "difficulty": "Hard",
+            "title": "Zen: The Paradox of the Stream"
+        },
+        {
+            "id": "zen_story_hard_025",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_hard_025.json",
+            "fileName": "zen/zen_story_hard_025.json",
+            "theme": "zen",
+            "difficulty": "Hard",
+            "title": "Zen: The Reflective Waters"
+        },
+        {
+            "id": "zen_story_hard_026",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_hard_026.json",
+            "fileName": "zen/zen_story_hard_026.json",
+            "theme": "zen",
+            "difficulty": "Hard",
+            "title": "Zen: The Path of the White Wing"
+        },
+        {
+            "id": "zen_story_hard_027",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_hard_027.json",
+            "fileName": "zen/zen_story_hard_027.json",
+            "theme": "zen",
+            "difficulty": "Hard",
+            "title": "Zen: The Resonance of Stillness"
+        },
+        {
+            "id": "zen_story_hard_028",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_hard_028.json",
+            "fileName": "zen/zen_story_hard_028.json",
+            "theme": "zen",
+            "difficulty": "Hard",
+            "title": "Zen: The Raked Path"
+        },
+        {
+            "id": "zen_story_hard_029",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_hard_029.json",
+            "fileName": "zen/zen_story_hard_029.json",
+            "theme": "zen",
+            "difficulty": "Hard",
+            "title": "Zen: The Illumination of Stillness"
+        },
+        {
+            "id": "zen_story_hard_030",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_hard_030.json",
+            "fileName": "zen/zen_story_hard_030.json",
+            "theme": "zen",
+            "difficulty": "Hard",
+            "title": "Zen: The Infinite Speck"
+        },
+        {
+            "id": "zen_story_medium_011",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_medium_011.json",
+            "fileName": "zen/zen_story_medium_011.json",
+            "theme": "zen",
+            "difficulty": "Medium",
+            "title": "Zen: The Whispering Bamboo Path"
+        },
+        {
+            "id": "zen_story_medium_012",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_medium_012.json",
+            "fileName": "zen/zen_story_medium_012.json",
+            "theme": "zen",
+            "difficulty": "Medium",
+            "title": "Zen: The Whispering Cup"
+        },
+        {
+            "id": "zen_story_medium_013",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_medium_013.json",
+            "fileName": "zen/zen_story_medium_013.json",
+            "theme": "zen",
+            "difficulty": "Medium",
+            "title": "Zen: The Celestial Summit"
+        },
+        {
+            "id": "zen_story_medium_014",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_medium_014.json",
+            "fileName": "zen/zen_story_medium_014.json",
+            "theme": "zen",
+            "difficulty": "Medium",
+            "title": "Zen: The Arch of Awareness"
+        },
+        {
+            "id": "zen_story_medium_015",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_medium_015.json",
+            "fileName": "zen/zen_story_medium_015.json",
+            "theme": "zen",
+            "difficulty": "Medium",
+            "title": "Zen: The Radiant Poem"
+        },
+        {
+            "id": "zen_story_medium_016",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_medium_016.json",
+            "fileName": "zen/zen_story_medium_016.json",
+            "theme": "zen",
+            "difficulty": "Medium",
+            "title": "Zen: The Passing Shadow"
+        },
+        {
+            "id": "zen_story_medium_017",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_medium_017.json",
+            "fileName": "zen/zen_story_medium_017.json",
+            "theme": "zen",
+            "difficulty": "Medium",
+            "title": "Zen: The Balanced Stone"
+        },
+        {
+            "id": "zen_story_medium_018",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_medium_018.json",
+            "fileName": "zen/zen_story_medium_018.json",
+            "theme": "zen",
+            "difficulty": "Medium",
+            "title": "Zen: The Radiant Awakening"
+        },
+        {
+            "id": "zen_story_medium_019",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_medium_019.json",
+            "fileName": "zen/zen_story_medium_019.json",
+            "theme": "zen",
+            "difficulty": "Medium",
+            "title": "Zen: The Resonance of Silence"
+        },
+        {
+            "id": "zen_story_medium_020",
+            "type": "stories",
+            "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/stories/zen/zen_story_medium_020.json",
+            "fileName": "zen/zen_story_medium_020.json",
+            "theme": "zen",
+            "difficulty": "Medium",
+            "title": "Zen: The Wayward Stream"
         }
     ]
 }
