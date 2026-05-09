@@ -1,5 +1,5 @@
 {
-  "version": "2.5",
+  "version": "2.6",
   "assets": [
     {
       "id": "coloring_cc2c66de",
@@ -13,8 +13,8 @@
     {
       "id": "coloring_f67ad5b5",
       "type": "coloring",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Boating-Water.bin",
-      "fileName": "Boating-Water.bin",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Boating.bin",
+      "fileName": "Boating.bin",
       "theme": "boating",
       "difficulty": "Multi",
       "title": "Boating"
@@ -90,15 +90,6 @@
       "theme": "places",
       "difficulty": "Multi",
       "title": "Places"
-    },
-    {
-      "id": "coloring_09d66336",
-      "type": "coloring",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Shapes.bin",
-      "fileName": "Shapes.bin",
-      "theme": "zen",
-      "difficulty": "Multi",
-      "title": "Shapes"
     },
     {
       "id": "jigsaw_e848922b",
@@ -16950,504 +16941,6 @@
       }
     },
     {
-      "id": "spot_family_easy_photo_wall",
-      "type": "spot_difference",
-      "theme": "family",
-      "title": "Photo wall",
-      "fileName": "family_easy_photo_wall_a.webp",
-      "fileNameB": "family_easy_photo_wall_b.webp",
-      "difficulty": "",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/family/easy/photo_wall/a.webp",
-      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/family/easy/photo_wall/b.webp",
-      "metadata": {
-        "differences": [
-          {
-            "id": "hit_1775271487204",
-            "x": 35,
-            "y": 63,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271488427",
-            "x": 63,
-            "y": 62,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271492747",
-            "x": 49,
-            "y": 82,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271493844",
-            "x": 36,
-            "y": 82,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271496380",
-            "x": 11,
-            "y": 78,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271497803",
-            "x": 3,
-            "y": 76,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271507493",
-            "x": 49,
-            "y": 50,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271513451",
-            "x": 86,
-            "y": 40,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271517210",
-            "x": 5,
-            "y": 39,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271522643",
-            "x": 66,
-            "y": 31,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271527116",
-            "x": 79,
-            "y": 17,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271528283",
-            "x": 67,
-            "y": 22,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271530339",
-            "x": 58,
-            "y": 16,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271543595",
-            "x": 23,
-            "y": 6,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271544684",
-            "x": 22,
-            "y": 14,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271545555",
-            "x": 11,
-            "y": 7,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271546811",
-            "x": 7,
-            "y": 15,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271558115",
-            "x": 50,
-            "y": 64,
-            "radius": 8
-          }
-        ]
-      }
-    },
-    {
-      "id": "spot_family_easy_moving_day",
-      "type": "spot_difference",
-      "theme": "family",
-      "title": "Moving day",
-      "fileName": "family_easy_moving_day_a.webp",
-      "fileNameB": "family_easy_moving_day_b.webp",
-      "difficulty": "",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/family/easy/moving_day/a.webp",
-      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/family/easy/moving_day/b.webp",
-      "metadata": {
-        "differences": [
-          {
-            "id": "hit_1775271415644",
-            "x": 50,
-            "y": 72,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271417788",
-            "x": 84,
-            "y": 88,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271418685",
-            "x": 16,
-            "y": 89,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271420428",
-            "x": 9,
-            "y": 61,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271423428",
-            "x": 11,
-            "y": 24,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271424284",
-            "x": 20,
-            "y": 28,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271426180",
-            "x": 38,
-            "y": 34,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271427436",
-            "x": 59,
-            "y": 54,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271428508",
-            "x": 58,
-            "y": 41,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271429844",
-            "x": 75,
-            "y": 49,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271431820",
-            "x": 78,
-            "y": 30,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271434308",
-            "x": 61,
-            "y": 32,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271436052",
-            "x": 89,
-            "y": 30,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271438620",
-            "x": 95,
-            "y": 53,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271440492",
-            "x": 97,
-            "y": 68,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271449004",
-            "x": 66,
-            "y": 29,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271451516",
-            "x": 27,
-            "y": 35,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271468180",
-            "x": 21,
-            "y": 73,
-            "radius": 8
-          }
-        ]
-      }
-    },
-    {
-      "id": "spot_family_easy_grand_wedding",
-      "type": "spot_difference",
-      "theme": "family",
-      "title": "Grand wedding",
-      "fileName": "family_easy_grand_wedding_a.webp",
-      "fileNameB": "family_easy_grand_wedding_b.webp",
-      "difficulty": "",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/family/easy/grand_wedding/a.webp",
-      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/family/easy/grand_wedding/b.webp",
-      "metadata": {
-        "differences": [
-          {
-            "id": "hit_1775271315949",
-            "x": 84,
-            "y": 11,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271320421",
-            "x": 4,
-            "y": 25,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271322165",
-            "x": 9,
-            "y": 24,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271324631",
-            "x": 5,
-            "y": 34,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271326557",
-            "x": 12,
-            "y": 33,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271329053",
-            "x": 26,
-            "y": 27,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271333677",
-            "x": 35,
-            "y": 26,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271337653",
-            "x": 68,
-            "y": 33,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271339900",
-            "x": 84,
-            "y": 40,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271341758",
-            "x": 92,
-            "y": 36,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271344357",
-            "x": 52,
-            "y": 40,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271346349",
-            "x": 37,
-            "y": 44,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271348245",
-            "x": 27,
-            "y": 52,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271349390",
-            "x": 22,
-            "y": 61,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271350764",
-            "x": 4,
-            "y": 59,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271352470",
-            "x": 10,
-            "y": 56,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271355805",
-            "x": 76,
-            "y": 58,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271358005",
-            "x": 69,
-            "y": 63,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271359853",
-            "x": 84,
-            "y": 63,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271367220",
-            "x": 61,
-            "y": 73,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271369950",
-            "x": 88,
-            "y": 93,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271374844",
-            "x": 26,
-            "y": 74,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271376693",
-            "x": 4,
-            "y": 86,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271378388",
-            "x": 13,
-            "y": 76,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271379932",
-            "x": 39,
-            "y": 76,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271388900",
-            "x": 71,
-            "y": 17,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775271403493",
-            "x": 56,
-            "y": 25,
-            "radius": 8
-          }
-        ]
-      }
-    },
-    {
-      "id": "spot_flowers_easy_pitcher_plant",
-      "type": "spot_difference",
-      "theme": "flowers",
-      "title": "Pitcher plant",
-      "fileName": "flowers_easy_pitcher_plant_a.webp",
-      "fileNameB": "flowers_easy_pitcher_plant_b.webp",
-      "difficulty": "",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/flowers/easy/pitcher_plant/a.webp",
-      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/flowers/easy/pitcher_plant/b.webp",
-      "metadata": {
-        "differences": [
-          {
-            "id": "hit_1775274448622",
-            "x": 64,
-            "y": 36,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775274451309",
-            "x": 36,
-            "y": 18,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775274460198",
-            "x": 85,
-            "y": 41,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775274464733",
-            "x": 7,
-            "y": 53,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775274470092",
-            "x": 22,
-            "y": 34,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775274482328",
-            "x": 59,
-            "y": 86,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775274494549",
-            "x": 92,
-            "y": 15,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775274506692",
-            "x": 54,
-            "y": 7,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775274521973",
-            "x": 11,
-            "y": 26,
-            "radius": 8
-          },
-          {
-            "id": "hit_1775274527845",
-            "x": 36,
-            "y": 42,
-            "radius": 8
-          }
-        ]
-      }
-    },
-    {
       "id": "spot_zen_medium_koi_pond",
       "type": "spot_difference",
       "theme": "zen",
@@ -17509,6 +17002,87 @@
           }
         ]
       }
+    },
+    {
+      "id": "words_boating",
+      "type": "words",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/boating.json",
+      "fileName": "words/boating.json",
+      "theme": "boating",
+      "difficulty": "Multi",
+      "title": "Boating Word List"
+    },
+    {
+      "id": "words_family",
+      "type": "words",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/family.json",
+      "fileName": "words/family.json",
+      "theme": "family",
+      "difficulty": "Multi",
+      "title": "Family Word List"
+    },
+    {
+      "id": "words_flowers",
+      "type": "words",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/flowers.json",
+      "fileName": "words/flowers.json",
+      "theme": "flowers",
+      "difficulty": "Multi",
+      "title": "Flowers Word List"
+    },
+    {
+      "id": "words_hobbies",
+      "type": "words",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/hobbies.json",
+      "fileName": "words/hobbies.json",
+      "theme": "hobbies",
+      "difficulty": "Multi",
+      "title": "Hobbies Word List"
+    },
+    {
+      "id": "words_household",
+      "type": "words",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/household.json",
+      "fileName": "words/household.json",
+      "theme": "household",
+      "difficulty": "Multi",
+      "title": "Household Word List"
+    },
+    {
+      "id": "words_instruments",
+      "type": "words",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/instruments.json",
+      "fileName": "words/instruments.json",
+      "theme": "instruments",
+      "difficulty": "Multi",
+      "title": "Instruments Word List"
+    },
+    {
+      "id": "words_nature",
+      "type": "words",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/nature.json",
+      "fileName": "words/nature.json",
+      "theme": "nature",
+      "difficulty": "Multi",
+      "title": "Nature Word List"
+    },
+    {
+      "id": "words_places",
+      "type": "words",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/places.json",
+      "fileName": "words/places.json",
+      "theme": "places",
+      "difficulty": "Multi",
+      "title": "Places Word List"
+    },
+    {
+      "id": "words_zen",
+      "type": "words",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/words/zen.json",
+      "fileName": "words/zen.json",
+      "theme": "zen",
+      "difficulty": "Multi",
+      "title": "Zen Word List"
     }
   ]
 }
