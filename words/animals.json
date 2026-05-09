@@ -2,16 +2,15 @@
   "id": "animals",
   "name": "Animals",
   "words": [
-    "CAT", "DOG", "HORSE", "BULL", "BIRD", "LION", "TIGER", "BEAR",
-    "WOLF", "DEER", "FISH", "FROG", "TOAD", "GOAT", "SHEEP", "PIG",
-    "COW", "DUCK", "SWAN", "GOOSE", "SEAL", "WHALE", "SHARK", "CRAB",
-    "ANT", "BEE", "FLY", "WASP", "MOTH", "OWL", "HAWK", "EAGLE",
-    "SNAKE", "FOX", "HARE", "MOLE", "ZEBRA", "PANDA", "OTTER",
-    "MOUSE", "RAT", "BAT", "APE", "LAMA", "CAMEL", "COLT", "FAWN",
-    "LAMB", "PONY", "MARE", "BUCK", "DOE", "CUB", "PUG", "EWE", "RAM",
-    "HEN", "CHICK", "STAG", "CALF", "FOAL", "BOAR", "SOW",
-    "MULE", "ELK", "MOOSE", "LYNX", "PUMA", "KEER", "WEASEL", "BADGER",
-    "SKUNK", "ROOK", "CROW", "DOVE", "LARK", "WREN", "FINCH", "JAY",
-    "HERON", "CRANE", "IBIS", "SWIFT", "ROBIN", "SNIPE", "TERN", "PUFFIN"
+    "DOG", "CAT", "BIRD", "FISH", "LION", "TIGER", "BEAR", "WOLF", "DEER", "HORSE",
+    "COW", "PIG", "GOAT", "SHEEP", "DUCK", "GOOSE", "SWAN", "EAGLE", "HAWK", "OWL",
+    "MOUSE", "RAT", "BAT", "APE", "LLAMA", "CAMEL", "COLT", "FAWN", "LAMB", "PONY",
+    "MARE", "BUCK", "DOE", "CUB", "PUG", "EWE", "RAM", "HEN", "CHICK", "STAG",
+    "CALF", "FOAL", "BOAR", "SOW", "MULE", "ELK", "MOOSE", "LYNX", "PUMA", "KOALA",
+    "WEASEL", "BADGER", "SKUNK", "ROOK", "CROW", "DOVE", "LARK", "WREN", "FINCH", "JAY",
+    "HERON", "CRANE", "IBIS", "SWIFT", "ROBIN", "SNIPE", "TERN", "PUFFIN", "ELEPHANT", "GIRAFFE",
+    "KANGAROO", "PENGUIN", "DOLPHIN", "WHALE", "SHARK", "TURTLE", "RABBIT", "HAMSTER", "LEOPARD", "CHEETAH",
+    "PANTHER", "GORILLA", "CHIMPANZEE", "ORANGUTAN", "BABOON", "MONKEY", "LEMUR", "SLOTH", "PLATYPUS", "ECHIDNA",
+    "WALLABY", "WOMBAT", "BANDICOOT", "QUOKKA", "DINGO", "BILBY", "JAGUAR", "HYENA", "ZEBRA", "RHINO"
   ]
 }
