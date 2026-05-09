@@ -2,10 +2,15 @@
   "id": "household",
   "name": "Household",
   "words": [
-    "CHAIR", "TABLE", "LAMP", "BED", "SOFA", "RUG", "DOOR", "STAIR",
-    "SINK", "OVEN", "PAN", "FORK", "CUP", "MUG", "KEY", "CLOCK",
-    "BOOK", "VASE", "IRON", "SOAP", "COMB", "TOWEL", "HOME", "ROOM",
-    "ROOF", "WALL", "STEP", "MAT", "TAP", "BIN", "TUB", "SHOWER", "BATH",
-    "LIVING", "HALL", "FRONT", "BACK", "WINDOW", "FLOOR", "LIGHT"
+    "HOUSE", "HOME", "ROOM", "WALL", "DOOR", "ROOF", "FLOOR", "STAIR", "HALL", "BATH",
+    "BED", "DESK", "CHAIR", "TABLE", "COUCH", "LAMP", "RUG", "MAT", "BOX", "BIN",
+    "CUP", "DISH", "BOWL", "FORK", "KNIFE", "SPOON", "POT", "PAN", "OVEN", "SINK",
+    "TUB", "SHOWER", "SOAP", "TOWEL", "COMB", "BRUSH", "MIRROR", "CLOCK", "KEY", "LOCK",
+    "BOOK", "PEN", "PAPER", "PHONE", "TOY", "CLOTH", "SHOE", "SOCK", "HAT", "BAG",
+    "KITCHEN", "PANTRY", "FRIDGE", "FREEZER", "TOASTER", "BLENDER", "MIXER", "KETTLE", "COFFEE", "TEA",
+    "BEDROOM", "PILLOW", "BLANKET", "SHEET", "CLOSET", "DRAWER", "HANGER", "CABINET", "SHELF", "FRAME",
+    "LAUNDRY", "WASHER", "DRYER", "IRON", "BASKET", "BROOM", "VACUUM", "MOP", "DUST", "TRASH",
+    "WINDOW", "BLIND", "CURTAIN", "SHUTTER", "PORCH", "PATIO", "GARAGE", "ATTIC", "CELLAR", "BASEMENT",
+    "GARDEN", "FENCE", "GATE", "LAWN", "YARD", "DRIVE", "CHIMNEY", "HEATER", "COOLER", "REMOTE"
   ]
 }

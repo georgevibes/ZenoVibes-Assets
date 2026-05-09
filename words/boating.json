@@ -2,14 +2,15 @@
   "id": "boating",
   "name": "Boating",
   "words": [
-    "BOAT", "SHIP", "SAIL", "MAST", "DECK", "HULL", "PORT", "BOW",
-    "RIVER", "LAKE", "OCEAN", "WAVE", "TIDE", "SURF", "FISH", "GULL",
-    "YACHT", "CANOE", "KAYAK", "RAFT", "DOCK", "PIER", "BUOY", "KNOT",
-    "ANCHOR", "CREW", "WATER", "BEACH", "SAND", "SHELL", "SHORE", "COAST",
-    "BAY", "SEA", "REEL", "HOOK", "NET", "BAIT", "OAR", "ROAM", "FLOW",
-    "CABIN", "PADDLE", "FERRY", "BARGE", "STREAM", "CREEK", "BROOK", "POND",
-    "CORAL", "REEF", "FLOAT", "DRIFT", "SPRAY",
-    "MIST", "DEEP", "BLUE", "SALT", "CARGO", "STERN",
-    "KEEL", "RIG", "ROPE", "LINE", "CHART", "NAVY", "MARIN", "VALVE", "PUMP"
+    "BOAT", "SHIP", "SAIL", "MAST", "DECK", "HULL", "PORT", "BOW", "RIVER", "LAKE",
+    "OCEAN", "WAVE", "TIDE", "SURF", "FISH", "GULL", "YACHT", "CANOE", "KAYAK", "RAFT",
+    "DOCK", "PIER", "BUOY", "KNOT", "ANCHOR", "CREW", "WATER", "BEACH", "SAND", "SHELL",
+    "SHORE", "COAST", "BAY", "SEA", "REEL", "HOOK", "NET", "BAIT", "OAR", "ROAM",
+    "FLOW", "CABIN", "PADDLE", "FERRY", "BARGE", "STREAM", "CREEK", "BROOK", "POND", "CORAL",
+    "REEF", "FLOAT", "DRIFT", "SPRAY", "MIST", "DEEP", "BLUE", "SALT", "CARGO", "STERN",
+    "KEEL", "RIG", "ROPE", "LINE", "CHART", "NAVY", "MARINE", "VALVE", "PUMP", "HARBOR",
+    "MARINA", "WHARF", "JETTY", "QUAY", "LOCK", "CANAL", "BASIN", "COVE", "INLET", "GULF",
+    "STRAIT", "SOUND", "CHANNEL", "FJORD", "MARSH", "SWAMP", "DELTA", "LAGOON", "ISLE", "SHOAL",
+    "BEACON", "LIGHTHOUSE", "RUDDER", "TILLER", "COMPASS", "SONAR", "RADAR", "GALLEY", "BUNK", "BILGE"
   ]
 }
