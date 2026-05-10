@@ -6061,71 +6061,256 @@
     {
       "id": "spot_boating_easy_duck_pond",
       "type": "spot_difference",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/duck_pond/a.webp",
-      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/duck_pond/b.webp",
+      "theme": "boating",
+      "title": "Duck pond",
       "fileName": "boating_easy_duck_pond_a.webp",
       "fileNameB": "boating_easy_duck_pond_b.webp",
-      "theme": "boating",
       "difficulty": "easy",
-      "title": "Duck pond",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/duck_pond/a.webp",
+      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/duck_pond/b.webp",
       "metadata": {
-        "differences": []
+        "differences": [
+          {
+            "id": "hit_1778415937504",
+            "x": 88,
+            "y": 81,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778415941991",
+            "x": 39,
+            "y": 59,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778415944424",
+            "x": 31,
+            "y": 59,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778415953103",
+            "x": 95,
+            "y": 45,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778415983535",
+            "x": 81,
+            "y": 55,
+            "radius": 8
+          }
+        ]
       }
     },
     {
       "id": "spot_boating_easy_harbor_lighthouse",
       "type": "spot_difference",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/harbor_lighthouse/a.webp",
-      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/harbor_lighthouse/b.webp",
+      "theme": "boating",
+      "title": "Harbor lighthouse",
       "fileName": "boating_easy_harbor_lighthouse_a.webp",
       "fileNameB": "boating_easy_harbor_lighthouse_b.webp",
-      "theme": "boating",
       "difficulty": "easy",
-      "title": "Harbor lighthouse",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/harbor_lighthouse/a.webp",
+      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/harbor_lighthouse/b.webp",
       "metadata": {
-        "differences": []
+        "differences": [
+          {
+            "id": "hit_1778416107183",
+            "x": 58,
+            "y": 87,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416108208",
+            "x": 71,
+            "y": 76,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416113135",
+            "x": 74,
+            "y": 8,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416116439",
+            "x": 82,
+            "y": 18,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416120023",
+            "x": 55,
+            "y": 36,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416124367",
+            "x": 86,
+            "y": 87,
+            "radius": 8
+          }
+        ]
       }
     },
     {
       "id": "spot_boating_easy_river_canoe",
       "type": "spot_difference",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/river_canoe/a.webp",
-      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/river_canoe/b.webp",
+      "theme": "boating",
+      "title": "River canoe",
       "fileName": "boating_easy_river_canoe_a.webp",
       "fileNameB": "boating_easy_river_canoe_b.webp",
-      "theme": "boating",
       "difficulty": "easy",
-      "title": "River canoe",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/river_canoe/a.webp",
+      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/river_canoe/b.webp",
       "metadata": {
-        "differences": []
+        "differences": [
+          {
+            "id": "hit_1778416070527",
+            "x": 69,
+            "y": 67,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416072663",
+            "x": 75,
+            "y": 68,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416075176",
+            "x": 89,
+            "y": 73,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416077975",
+            "x": 89,
+            "y": 59,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416079511",
+            "x": 91,
+            "y": 65,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416089160",
+            "x": 28,
+            "y": 65,
+            "radius": 8
+          }
+        ]
       }
     },
     {
       "id": "spot_boating_easy_simple_sailboat",
       "type": "spot_difference",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/simple_sailboat/a.webp",
-      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/simple_sailboat/b.webp",
+      "theme": "boating",
+      "title": "Simple sailboat",
       "fileName": "boating_easy_simple_sailboat_a.webp",
       "fileNameB": "boating_easy_simple_sailboat_b.webp",
-      "theme": "boating",
       "difficulty": "easy",
-      "title": "Simple sailboat",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/simple_sailboat/a.webp",
+      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/simple_sailboat/b.webp",
       "metadata": {
-        "differences": []
+        "differences": [
+          {
+            "id": "hit_1778415995058",
+            "x": 76,
+            "y": 70,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778415998159",
+            "x": 62,
+            "y": 65,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416000631",
+            "x": 30,
+            "y": 24,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416008736",
+            "x": 49,
+            "y": 30,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416056695",
+            "x": 95,
+            "y": 41,
+            "radius": 8
+          }
+        ]
       }
     },
     {
       "id": "spot_boating_easy_toy_boat",
       "type": "spot_difference",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/toy_boat/a.webp",
-      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/toy_boat/b.webp",
+      "theme": "boating",
+      "title": "Toy boat",
       "fileName": "boating_easy_toy_boat_a.webp",
       "fileNameB": "boating_easy_toy_boat_b.webp",
-      "theme": "boating",
       "difficulty": "easy",
-      "title": "Toy boat",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/toy_boat/a.webp",
+      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/easy/toy_boat/b.webp",
       "metadata": {
-        "differences": []
+        "differences": [
+          {
+            "id": "hit_1778387093462",
+            "x": 26,
+            "y": 72,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778387094806",
+            "x": 77,
+            "y": 74,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778387098589",
+            "x": 86,
+            "y": 33,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778387099566",
+            "x": 94,
+            "y": 12,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778387101062",
+            "x": 44,
+            "y": 7,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778387102734",
+            "x": 12,
+            "y": 23,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778387104973",
+            "x": 6,
+            "y": 82,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778387107606",
+            "x": 21,
+            "y": 84,
+            "radius": 8
+          }
+        ]
       }
     },
     {
@@ -6243,15 +6428,52 @@
     {
       "id": "spot_boating_medium_speedboat",
       "type": "spot_difference",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/medium/speedboat/a.webp",
-      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/medium/speedboat/b.webp",
+      "theme": "boating",
+      "title": "Speedboat",
       "fileName": "boating_medium_speedboat_a.webp",
       "fileNameB": "boating_medium_speedboat_b.webp",
-      "theme": "boating",
       "difficulty": "medium",
-      "title": "Speedboat",
+      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/medium/speedboat/a.webp",
+      "remoteUrlB": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/spot_difference/boating/medium/speedboat/b.webp",
       "metadata": {
-        "differences": []
+        "differences": [
+          {
+            "id": "hit_1778416474104",
+            "x": 90,
+            "y": 75,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416478288",
+            "x": 79,
+            "y": 15,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416482521",
+            "x": 9,
+            "y": 38,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416485344",
+            "x": 22,
+            "y": 55,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416495968",
+            "x": 44,
+            "y": 60,
+            "radius": 8
+          },
+          {
+            "id": "hit_1778416509354",
+            "x": 92,
+            "y": 87,
+            "radius": 8
+          }
+        ]
       }
     },
     {
