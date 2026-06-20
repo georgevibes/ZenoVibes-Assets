@@ -1,5 +1,5 @@
 {
-  "version": "2.7.5",
+  "version": "2.7.6",
   "assets": [
     {
       "id": "coloring_cc2c66de",
@@ -11,33 +11,6 @@
       "title": "Animals"
     },
     {
-      "id": "coloring_f67ad5b5",
-      "type": "coloring",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Boating.bin",
-      "fileName": "Boating.bin",
-      "theme": "boating",
-      "difficulty": "Multi",
-      "title": "Boating"
-    },
-    {
-      "id": "coloring_be6db398",
-      "type": "coloring",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Family.bin",
-      "fileName": "Family.bin",
-      "theme": "family",
-      "difficulty": "Multi",
-      "title": "Family"
-    },
-    {
-      "id": "coloring_c2defbb9",
-      "type": "coloring",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Flowers.bin",
-      "fileName": "Flowers.bin",
-      "theme": "flowers",
-      "difficulty": "Multi",
-      "title": "Flowers"
-    },
-    {
       "id": "coloring_8ef4d208",
       "type": "coloring",
       "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Food.bin",
@@ -45,51 +18,6 @@
       "theme": "food",
       "difficulty": "Multi",
       "title": "Food"
-    },
-    {
-      "id": "coloring_70994d9a",
-      "type": "coloring",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Hobbies.bin",
-      "fileName": "Hobbies.bin",
-      "theme": "hobbies",
-      "difficulty": "Multi",
-      "title": "Hobbies"
-    },
-    {
-      "id": "coloring_93760dee",
-      "type": "coloring",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Household.bin",
-      "fileName": "Household.bin",
-      "theme": "household",
-      "difficulty": "Multi",
-      "title": "Household"
-    },
-    {
-      "id": "coloring_bb29d602",
-      "type": "coloring",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Instruments.bin",
-      "fileName": "Instruments.bin",
-      "theme": "instruments",
-      "difficulty": "Multi",
-      "title": "Instruments"
-    },
-    {
-      "id": "coloring_3bc912b3",
-      "type": "coloring",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Nature.bin",
-      "fileName": "Nature.bin",
-      "theme": "nature",
-      "difficulty": "Multi",
-      "title": "Nature"
-    },
-    {
-      "id": "coloring_7487f510",
-      "type": "coloring",
-      "remoteUrl": "https://raw.githubusercontent.com/georgevibes/ZenoVibes-Assets/main/coloring/Places.bin",
-      "fileName": "Places.bin",
-      "theme": "places",
-      "difficulty": "Multi",
-      "title": "Places"
     },
     {
       "id": "jigsaw_e848922b",
