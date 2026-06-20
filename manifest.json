@@ -8,7 +8,7 @@
       "fileName": "Animals.bin",
       "theme": "animals",
       "difficulty": "Multi",
-      "title": "Animals"
+      "title": "Animals",
 	  "version": "1.1"
     },
     {
@@ -18,7 +18,7 @@
       "fileName": "Food.bin",
       "theme": "food",
       "difficulty": "Multi",
-      "title": "Food"
+      "title": "Food",
 	  "version": "1.1"
     },
     {
