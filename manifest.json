@@ -1,5 +1,5 @@
 {
-  "version": "2.7.9",
+  "version": "2.8.0",
   "assets": [
     {
       "id": "coloring_cc2c66de",
@@ -9,7 +9,7 @@
       "theme": "animals",
       "difficulty": "Multi",
       "title": "Animals",
-	  "version": "1.3"
+	  "version": "1.4"
     },
     {
       "id": "coloring_8ef4d208",
@@ -19,7 +19,7 @@
       "theme": "food",
       "difficulty": "Multi",
       "title": "Food",
-	  "version": "1.3"
+	  "version": "1.4"
     },
     {
       "id": "jigsaw_e848922b",
